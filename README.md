@@ -13,7 +13,6 @@
 
 * `Succes!`
 ---
-
 ## What does it download?
 * `git` `python` 
 * `wget` `curl`
@@ -23,9 +22,14 @@
 * `ruby` `ssl`
 * `w3m` `figlet`
 * `zip` `lolcat`
-
+---
 ## It still downloads the utility.
 
 * `Shark`
 * `DarkDump`
 * `DarkFly-Tool`
+
+#### It downloads packages and utilities and configures the utilities.
+
+###### Trank for downloading.
+###### By MishaKorzhik
