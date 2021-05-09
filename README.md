@@ -5,5 +5,6 @@
 ## Installing!
 
 * `pkg install git`
-* `git clone https://
-* `cd 
+* `git clone https://github.com/mishakorzik/Termux-Setting`
+* `cd Termux-Setting`
+* `bash Term-sett`
