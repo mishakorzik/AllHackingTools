@@ -15,4 +15,11 @@
 ---
 
 ## What does it download?
-
+* `git` `python` 
+* `wget` `curl`
+* `openssh` `php`
+* `toilet` `colorama`
+* `jq` `apache2`
+* `ruby` `ssl`
+* `w3m` `figlet`
+* `zip` `lolcat`
