@@ -23,3 +23,9 @@
 * `ruby` `ssl`
 * `w3m` `figlet`
 * `zip` `lolcat`
+
+## It still downloads the utility.
+
+* `Shark`
+* `DarkDump`
+* `DarkFly-Tool`
