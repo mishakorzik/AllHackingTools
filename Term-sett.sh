@@ -5,6 +5,7 @@ REDBG="$(printf '\033[41m')"  GREENBG="$(printf '\033[42m')"  ORANGEBG="$(printf
 MAGENTABG="$(printf '\033[45m')"  CYANBG="$(printf '\033[46m')"  WHITEBG="$(printf '\033[47m')" BLACKBG="$(printf '\033[40m')"
 RESETBG="$(printf '\e[0m\n')"
 ${ORANGE}
+${ORANGE}
 clear
 sleep 3
 echo "Installing..."
@@ -30,6 +31,7 @@ apt-get install pip
 apt-get install apache2 
 sleep 1
 echo Loading please wait. Installing tool.
+${BLACKBG}
 ${BLACKBG}
 sleep 1
 apt install jq 
@@ -74,6 +76,7 @@ sleep 1
 echo setting termux please wait...
 sleep 2
 toilet -F gay Done
+${RED}
 ${RED}
 echo author by mishakorzhik
 echo gmail misakorzhik528@gmail.com
