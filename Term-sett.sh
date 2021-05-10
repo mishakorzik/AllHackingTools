@@ -76,7 +76,8 @@ RED="$(printf '\033[31m')" ${RED}
 echo author by mishakorzhik
 echo gmail misakorzhik528@gmail.com
 echo github https://github.com/mishakorzik
-sleep 4
+sleep 3
 echo Run command: "DarkFly"
 echo Run command: "cd shark && shark"
 echo Run command: "cd darkdump && python darkdump.py"
+sleep 2
