@@ -22,6 +22,8 @@
 * `ruby` `ssl`
 * `w3m` `figlet`
 * `zip` `lolcat`
+* `pv` `neofetch`
+* `zsh`
 ---
 ## It still downloads the utility.
 
