@@ -5,14 +5,6 @@ REDBG="$(printf '\033[41m')"  GREENBG="$(printf '\033[42m')"  ORANGEBG="$(printf
 MAGENTABG="$(printf '\033[45m')"  CYANBG="$(printf '\033[46m')"  WHITEBG="$(printf '\033[47m')" BLACKBG="$(printf '\033[40m')"
 RESETBG="$(printf '\e[0m\n')"
 ${ORANGE}
-local pid=$!
-local delay=0.25
-local spinner=( '█■■■■' '■█■■■' '■■█■■' '■■■█■' '■■■■█' )
-
-while [ "$(ps a | awk '{print $1}' | grep $pid)" ]; do
-
-for i in "${spinner[@]}"
-do
 clear
 sleep 3
 echo "Installing..."
