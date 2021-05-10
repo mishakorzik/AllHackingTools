@@ -39,6 +39,9 @@ pkg install wget
 gem install lolcat
 apt install figlet 
 apt install ruby
+pkg install pv 
+pkg install neofetch  
+pkg install zsh 
 sleep 1
 echo SuccesFull. I use termux!
 sleep 1
