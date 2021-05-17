@@ -1,7 +1,7 @@
 clear
 echo By mishakorzhik
 sleep 2
-echo Loading please wait. Settings tool.
+python3 src/AnimationLoad.py
 sleep 1
 cd
 apt update
@@ -14,7 +14,20 @@ pkg install python2
 pkg install git
 pkg install python3
 pkg install python
+pkg install wget
+pkg install toilet
+pkg install php
+sleep 1
+echo "██████╗░░█████╗░░██████╗███████╗   ██╗███╗░░██╗░██████╗████████╗░█████╗░██╗░░░░░██╗░░░░░██╗███╗░░██╗░██████╗░" 
+echo "██╔══██╗██╔══██╗██╔════╝██╔════╝   ██║████╗░██║██╔════╝╚══██╔══╝██╔══██╗██║░░░░░██║░░░░░██║████╗░██║██╔════╝░"
+echo "██████╦╝███████║╚█████╗░█████╗░░   ██║██╔██╗██║╚█████╗░░░░██║░░░███████║██║░░░░░██║░░░░░██║██╔██╗██║██║░░██╗░"
+echo "██╔══██╗██╔══██║░╚═══██╗██╔══╝░░   ██║██║╚████║░╚═══██╗░░░██║░░░██╔══██║██║░░░░░██║░░░░░██║██║╚████║██║░░╚██╗"
+echo "██████╦╝██║░░██║██████╔╝███████╗   ██║██║░╚███║██████╔╝░░░██║░░░██║░░██║███████╗███████╗██║██║░╚███║╚██████╔╝"
+echo "╚═════╝░╚═╝░░╚═╝╚═════╝░╚══════╝   ╚═╝╚═╝░░╚══╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚══════╝╚═╝╚═╝░░╚══╝░╚═════╝░"
+sleep 2
 pkg install pip
+pkg install pip2
+pkg install pip3
 pkg install curl
 sleep 1
 echo Installing Impulse.
@@ -37,10 +50,18 @@ sleep 1
 git clone https://github.com/htr-tech/haxorbd.git
 cd
 sleep 1 
-echo Installing Mask-Phish
+echo Installing Mask-Phish.
 sleep 1
 git clone https://github.com/mishakorzik/Mask-Phish
 cd Mask-Phish
+cd
+sleep 1 
+echo Installing AdminHack.
+sleep 1
+cd
+git clone https://github.com/mishakorzik/AdminHack
+cd AdminHack
+bash setup.sh
 cd
 sleep 2
 echo Succesfull installed tools.
@@ -56,7 +77,8 @@ echo ██████╔╝╚█████╔╝██║░╚███║
 echo ╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝
 echo Developer: mishakorzhik
 echo Update on: 17 05 2021
-echo Run command: bash Mask-Phish.sh
-echo Run command: cd haxorbd && python2 haxor.py
-echo Run command: cd SocialBox-Termux && ./SocialBox.sh
-echo Run command: python3 impulse.py --method SMS --time 20 --threads 15 --target Номер
+echo "Run command: bash AdminHack.sh"
+echo "Run command: bash Mask-Phish.sh"
+echo "Run command: cd haxorbd && python2 haxor.py"
+echo "Run command: cd SocialBox-Termux && ./SocialBox.sh"
+echo "Run command: python3 impulse.py --method SMS --time 20 --threads 15 --target Номер"
