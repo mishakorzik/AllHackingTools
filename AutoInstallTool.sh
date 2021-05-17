@@ -1,5 +1,4 @@
 clear
-echo By mishakorzhik
 sleep 2
 python3 src/AnimationLoad.py
 sleep 1
@@ -75,10 +74,12 @@ echo ██║░░██║██║░░██║██╔██╗██║
 echo ██║░░██║██║░░██║██║╚████║██╔══╝░░
 echo ██████╔╝╚█████╔╝██║░╚███║███████╗
 echo ╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝
-echo Developer: mishakorzhik
-echo Update on: 17 05 2021
-echo "Run command: bash AdminHack.sh"
-echo "Run command: bash Mask-Phish.sh"
-echo "Run command: cd haxorbd && python2 haxor.py"
-echo "Run command: cd SocialBox-Termux && ./SocialBox.sh"
-echo "Run command: python3 impulse.py --method SMS --time 20 --threads 15 --target Номер"
+echo "Developer: mishakorzhik"
+echo "Update on: 17 05 2021"
+echo "+------------------------------------------------------------------------------------+"
+echo "|Run command: bash AdminHack.sh                                                      |"
+echo "|Run command: bash Mask-Phish.sh                                                     |"
+echo "|Run command: cd haxorbd && python2 haxor.py                                         |"
+echo "|Run command: cd SocialBox-Termux && ./SocialBox.sh                                  |"
+echo "|Run command: python3 impulse.py --method SMS --time 20 --threads 15 --target Номер  |"
+echo "+------------------------------------------------------------------------------------+"
