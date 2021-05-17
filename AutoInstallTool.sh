@@ -48,32 +48,15 @@ sleep 1
 echo Trank for downloading tools.
 echo By mishakorzhik.
 echo 3
-rand1=$( shuf -i 0-${#colors[@]} -n 1 )
-rand2=$( shuf -i 0-${#colors[@]} -n 1 )
-# Colors
-r='\e[91m'
-g='\e[92m'
-y='\e[93m'
-b='\e[94m'
-p='\e[95m'
-c='\e[96m'
-w='\e[97m'
-n='\e[0m'
-# effect colors
-bd='\e[1m'
-dm='\e[2m'
-it='\e[3m'
-ul='\e[4m'
-rv='\e[7m'
-echo -e "\t${colors[rand1]} ██████╗░░█████╗░███╗░░██╗███████╗
-echo -e "\t${colors[rand1]} ██╔══██╗██╔══██╗████╗░██║██╔════╝
-echo -e "\t${colors[rand1]} ██║░░██║██║░░██║██╔██╗██║█████╗░░
-echo -e "\t${colors[rand1]} ██║░░██║██║░░██║██║╚████║██╔══╝░░
-echo -e "\t${colors[rand1]} ██████╔╝╚█████╔╝██║░╚███║███████╗
-echo -e "\t${colors[rand1]} ╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝
-echo -e "\t${colors[rand1]} Developer: mishakorzhik 
-echo -e "\t${colors[rand2]} Update on: 17 05 2021
-echo -e "\t${colors[rand2]} Run command: bash Mask-Phish.sh
-echo -e "\t${colors[rand2]} Run command: cd haxorbd && python2 haxor.py
-echo -e "\t${colors[rand2]} Run command: cd SocialBox-Termux && ./SocialBox.sh
-echo -e "\t${colors[rand2]} Run command: python3 impulse.py --method SMS --time 20 --threads 15 --target Номер
+echo ██████╗░░█████╗░███╗░░██╗███████╗
+echo ██╔══██╗██╔══██╗████╗░██║██╔════╝
+echo ██║░░██║██║░░██║██╔██╗██║█████╗░░
+echo ██║░░██║██║░░██║██║╚████║██╔══╝░░
+echo ██████╔╝╚█████╔╝██║░╚███║███████╗
+echo ╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝
+echo Developer: mishakorzhik
+echo Update on: 17 05 2021
+echo Run command: bash Mask-Phish.sh
+echo Run command: cd haxorbd && python2 haxor.py
+echo Run command: cd SocialBox-Termux && ./SocialBox.sh
+echo Run command: python3 impulse.py --method SMS --time 20 --threads 15 --target Номер
