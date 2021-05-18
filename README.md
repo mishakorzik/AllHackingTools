@@ -27,9 +27,11 @@
 ---
 ## It still downloads the utility.
 
-* `Shark`
-* `DarkDump`
-* `DarkFly-Tool`
+* `Impulse`
+* `social-box`
+* `hadorbd`
+* `maskPhish`
+* `AdminHack`
 
 #### It downloads packages and utilities and configures the utilities.
 
