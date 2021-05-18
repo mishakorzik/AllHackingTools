@@ -9,13 +9,24 @@ apt upgraded
 sleep 1
 echo Installing tools.
 sleep 1
-pkg install python2
-pkg install git
-pkg install python3
+pkg install git 
 pkg install python
-pkg install wget
-pkg install toilet
+pkg install wget 
+pkg install openssh 
 pkg install php
+pkg install toilet 
+pkg install colorama
+pkg install jq 
+pkg install apache2
+pkg install ruby 
+pkg install ssl
+pkg install w3m 
+pkg install figlet
+pkg install zip 
+pkg install lolcat
+pkg install pv 
+pkg install neofetch
+pkg install zsh
 sleep 1
 echo "██████╗░░█████╗░░██████╗███████╗   ██╗███╗░░██╗░██████╗████████╗░█████╗░██╗░░░░░██╗░░░░░██╗███╗░░██╗░██████╗░" 
 echo "██╔══██╗██╔══██╗██╔════╝██╔════╝   ██║████╗░██║██╔════╝╚══██╔══╝██╔══██╗██║░░░░░██║░░░░░██║████╗░██║██╔════╝░"
@@ -62,6 +73,13 @@ git clone https://github.com/mishakorzik/AdminHack
 cd AdminHack
 bash setup.sh
 cd
+sleep 1
+echo Installing Free-Proxy.
+sleep 1
+git clone https://github.com/mishakorzik/Free-Proxy
+cd Free-Proxy
+bash setup.sh
+cd
 sleep 2
 echo Succesfull installed tools.
 sleep 1
@@ -75,10 +93,11 @@ echo ██║░░██║██║░░██║██║╚████║
 echo ██████╔╝╚█████╔╝██║░╚███║███████╗
 echo ╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝
 echo "Developer: mishakorzhik"
-echo "Update on: 17 05 2021"
+echo "Update on: 18 05 2021"
 echo "+------------------------------------------------------------------------------------+"
 echo "|Run command: bash AdminHack.sh                                                      |"
-echo "|Run command: bash Mask-Phish.sh                                                     |"
+echo "|Run command: bash Mask-Phish.sh                                                     |" 
+echo "|Run command: python2 Free-Proxy.py                                                  |"
 echo "|Run command: cd haxorbd && python2 haxor.py                                         |"
 echo "|Run command: cd SocialBox-Termux && ./SocialBox.sh                                  |"
 echo "|Run command: python3 impulse.py --method SMS --time 20 --threads 15 --target Номер  |"
