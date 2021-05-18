@@ -32,6 +32,7 @@
 * `hadorbd`
 * `maskPhish`
 * `AdminHack`
+* `Free-Proxy`
 
 #### It downloads packages and utilities and configures the utilities.
 
