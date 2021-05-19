@@ -107,7 +107,7 @@ sleep 2
 echo Succesfull installed tools.
 sleep 1
 echo Trank for downloading tools.
-echo 3
+echo 
 echo "██████╗░░█████╗░███╗░░██╗███████╗██╗██╗██╗"
 echo "██╔══██╗██╔══██╗████╗░██║██╔════╝██║██║██║"
 echo "██║░░██║██║░░██║██╔██╗██║█████╗░░██║██║██║"
