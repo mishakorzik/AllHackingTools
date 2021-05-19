@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Termux-Setting
 
-You can use the [editor on GitHub](https://github.com/mishakorzik/Termux-Setting/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### * Hi, if you want to set up a termux quickly, here you are!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Installing for termux.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* `pkg install git`
+* `git clone https://github.com/mishakorzik/Termux-Setting`
+* `cd Termux-Setting`
+* `bash Term-sett.sh`
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Installing for linux.
 
-- Bulleted
-- List
+* `pkg install git`
+* `git clone https://github.com/mishakorzik/Termux-Setting`
+* `cd Termux-Setting`
+* `bash Term-sett.sh`
 
-1. Numbered
-2. List
+#### Everything is ready!  Now we are waiting for everything to download!
 
-**Bold** and _Italic_ and `Code` text
+* `Succes!`
+----
+## What does it download?
+* `git` `python` 
+* `wget` `curl`
+* `openssh` `php`
+* `toilet` `colorama`
+* `jq` `apache2`
+* `ruby` `ssl`
+* `w3m` `figlet`
+* `zip` `lolcat`
+* `pv` `neofetch`
+* `zsh`
+-----
+## It still downloads the utility.
 
-[Link](url) and ![Image](src)
-```
+* `Impulse`
+* `social-box`
+* `hadorbd`
+* `maskPhish`
+* `AdminHack`
+* `Free-Proxy`
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### It downloads packages and utilities and configures the utilities.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mishakorzik/Termux-Setting/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###### Trank for downloading.
+###### By MishaKorzhik
