@@ -122,6 +122,7 @@ echo "|Run command: bash Mask-Phish.sh                                          
 echo "|Run command: python2 Free-Proxy.py                                                  |"
 echo "|Run command: python3 darkdump.py                                                    |"
 echo "|Run command: DarkFly                                                                |"
+echo "|Run command: cd shark && shark                                                      |"
 echo "|Run command: cd haxorbd && python2 haxor.py                                         |"
 echo "|Run command: cd SocialBox-Termux && ./SocialBox.sh                                  |"
 echo "|Run command: python3 impulse.py --method SMS --time 20 --threads 15 --target Номер  |"
