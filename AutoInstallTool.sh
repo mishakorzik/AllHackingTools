@@ -55,6 +55,29 @@ chmod +x install-sb.sh
 ./install-sb.sh
 cd
 sleep 1
+echo Installing DarkFly-Tool...
+sleep 1
+https://github.com/Ranginang67/DarkFly-Tool
+cd DarkFly-Tool
+python2 install.py
+cd
+sleep 1
+echo Installing shark...
+sleep 1
+git clone https://github.com/Bhaviktutorials/shark
+cd shark
+chmod +x *
+./setup
+cd
+cd
+sleep 1
+echo Installing DarkDump...
+sleep 1
+git clone https://github.com/josh0xA/darkdump
+cd darkdump
+pip install -r requirements.txt
+cd
+sleep 1
 echo Installing haxorbd.
 sleep 1
 git clone https://github.com/htr-tech/haxorbd.git
@@ -92,11 +115,13 @@ echo "██║░░██║██║░░██║██║╚████�
 echo "██████╔╝╚█████╔╝██║░╚███║███████╗██╗██╗██╗"
 echo "╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝╚═╝╚═╝╚═╝"
 echo "Developer: mishakorzhik"
-echo "Update on: 18 05 2021"
+echo "Update on: 19 05 2021"
 echo "+------------------------------------------------------------------------------------+"
 echo "|Run command: bash AdminHack.sh                                                      |"
 echo "|Run command: bash Mask-Phish.sh                                                     |" 
 echo "|Run command: python2 Free-Proxy.py                                                  |"
+echo "|Run command: python3 darkdump.py                                                    |"
+echo "|Run command: DarkFly                                                                |"
 echo "|Run command: cd haxorbd && python2 haxor.py                                         |"
 echo "|Run command: cd SocialBox-Termux && ./SocialBox.sh                                  |"
 echo "|Run command: python3 impulse.py --method SMS --time 20 --threads 15 --target Номер  |"
