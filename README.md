@@ -44,6 +44,9 @@
 * `maskPhish`
 * `AdminHack`
 * `Free-Proxy`
+* `shark`
+* `DarkFly`
+* `DarkDump`
 
 #### It downloads packages and utilities and configures the utilities.
 
