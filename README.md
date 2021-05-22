@@ -1,4 +1,4 @@
-# Termux-Setting
+# AllHackingTools
 
 #### * Hi, if you want to set up a termux quickly, here you are!
 
@@ -7,7 +7,7 @@
 ## Installing for termux.
 
 * `pkg install git`
-* `git clone https://github.com/mishakorzik/Termux-Setting`
+* `git clone https://github.com/mishakorzik/AllHackingTools`
 * `cd Termux-Setting`
 * `bash Term-sett.sh`
 
@@ -16,7 +16,7 @@
 ## Installing for linux.
 
 * `pkg install git`
-* `git clone https://github.com/mishakorzik/Termux-Setting`
+* `git clone https://github.com/mishakorzik/AllHackingTools`
 * `cd Termux-Setting`
 * `bash Term-sett.sh`
 
