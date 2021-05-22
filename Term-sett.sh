@@ -101,7 +101,7 @@ echo Installing Free-Proxy.
 sleep 1
 git clone https://github.com/mishakorzik/Free-Proxy
 cd Free-Proxy
-bash setup.sh
+bash Setup.sh
 cd
 sleep 2
 echo Succesfull installed tools.
@@ -119,7 +119,7 @@ echo "Update on: 19 05 2021"
 echo "+------------------------------------------------------------------------------------+"
 echo "|Run command: bash AdminHack.sh                                                      |"
 echo "|Run command: bash Mask-Phish.sh                                                     |" 
-echo "|Run command: python2 Free-Proxy.py                                                  |"
+echo "|Run command: bash FreeProxy.sh                                                      |"
 echo "|Run command: python3 darkdump.py                                                    |"
 echo "|Run command: DarkFly                                                                |"
 echo "|Run command: cd shark && shark                                                      |"
