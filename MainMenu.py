@@ -19,20 +19,18 @@ print("  # \033[1;34m[ 4 ] >> \033[1;36;40mWeb-DDOS")
 print("  # \033[1;34m[ 5 ] >> \033[1;36;40mWeb-AdminHack")
 print("  # \033[1;34m[ 6 ] >> \033[1;36;40mAndroid-Hack")
 print("  # \033[1;34m[ 7 ] >> \033[1;36;40mSQL injection-Tool")
-print("  # \033[1;34m[ 8 ] >> \033[1;36;40mSocialMedia-Finder")
-print("  # \033[1;34m[ 9 ] >> \033[1;36;40mSocialMedia-Attack")
+print("  # \033[1;34m[ 8 ] >> \033[1;36;40mSocialMedia-Hacking")
+print("  # \033[1;34m[ 9 ] >> \033[1;36;40mAnon-SMS_Tool")
 print("  # \033[1;34m[ 10 ] >> \033[1;36;40mDarkSearch-Tool")
 print("  # \033[1;34m[ 11 ] >> \033[1;36;40mMail-Hack")
-print("  # \033[1;34m[ 12 ] >> \033[1;36;40mMasking-url")
-print("  # \033[1;34m[ 13 ] >> \033[1;36;40mAnon-SMS_Tool")
-print("  # \033[1;34m[ 14 ] >> \033[1;36;40mUpdate Utility")
-print("  # \033[1;34m[ 15 ] >> \033[1;36;40mAbout Utility")
-print("  # \033[1;34m[ 16 ] >> \033[1;36;40mExit Utility")
+print("  # \033[1;34m[ 12 ] >> \033[1;36;40mUpdate Utility")
+print("  # \033[1;34m[ 13 ] >> \033[1;36;40mAbout Utility")
+print("  # \033[1;34m[ 14 ] >> \033[1;36;40mExit Utility")
 
 op=int(raw_input("Options: "))
 
 if(op==1):
- os.system("bash PhishingFiles.sh")
+ os.system("bash Files/PhishingFiles.sh")
 elif(op==2):
  os.system("Python2 SMSbomberMenu.py")
 elif(op==3):
@@ -46,22 +44,19 @@ elif(op==6):
 elif(op==7):
  os.system("python2 SQLinjectionMenu.py")
 elif(op==8):
- os.system("python2 SocialFinderMenu.py")
+ os.system("python2 SocialMenu.py")
 elif(op==9):
- os.system("python2 SocialAttackMenu.py")
+ os.system("bash files/AnonSMSMenu.sh")
 elif(op==10):
  os.system("python2 DarkSearchMenu.py")
 elif(op==11):
  os.system("python2 MailHackMenu.py")
 elif(op==12):
- os.system("python2 MaskingUrlMenu.py")
+ os.system("bash UpdateUtility.sh")
 elif(op==13):
- os.system("python2 AnonSMSMenu.py")
-elif(op==14):
+ os.system("bash src/About.sh")
 
-elif(op==15):
- os.system("bash About.sh")
-elif(op==16):
+elif(op==14):
  print("\033[1;31;40mQuiting utility...")
  time.sleep(1)
  sys.exit()
