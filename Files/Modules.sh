@@ -38,6 +38,15 @@ echo -e $b">"$w" installing modules: "$g"neofetch"$w
 apt-get install neofetch
 echo -e $b">"$w" installing modules: "$g"zsh"$w
 apt-get install zsh
+sleep 1
+echo ██████╗░░█████╗░███╗░░██╗███████╗
+echo ██╔══██╗██╔══██╗████╗░██║██╔════╝
+echo ██║░░██║██║░░██║██╔██╗██║█████╗░░
+echo ██║░░██║██║░░██║██║╚████║██╔══╝░░
+echo ██████╔╝╚█████╔╝██║░╚███║███████╗
+echo ╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝
+echo Developer : mishakorzhik
+echo created on: 23 05 2021
 
 
 
