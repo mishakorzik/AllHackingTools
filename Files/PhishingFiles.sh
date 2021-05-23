@@ -12,6 +12,11 @@ cd AllHackingTools
 git clone https://github.com/AbirHasan2005/ShellPhish
 cd ShellPhish 
 chmod +x * 
+cd 
+cd AllHackingTools 
+cd Files
 Python2 PhishingMenu.py
+cd 
+cd AllHackingTools
 
 
