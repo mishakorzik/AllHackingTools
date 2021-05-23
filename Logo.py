@@ -1,4 +1,5 @@
 #!/usr/bin/env python2
+# -*- coding: utf-8 
 
 Green="\033[1;33m"
 Blue="\033[1;34m"
