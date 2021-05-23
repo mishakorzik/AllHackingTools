@@ -32,7 +32,7 @@ print("  # \033[1;34m[ 16 ] >> \033[1;36;40mExit Utility")
 op=int(raw_input("Options: "))
 
 if(op==1):
- os.system("bash PhishingFiles.sh)
+ os.system("bash PhishingFiles.sh")
 elif(op==2):
  os.system("Python2 SMSbomberMenu.py")
 elif(op==3):
