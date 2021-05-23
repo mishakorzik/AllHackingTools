@@ -25,7 +25,7 @@ print("  # \033[1;34m[ 10 ] >> \033[1;36;40mDarkSearch-Tool")
 print("  # \033[1;34m[ 11 ] >> \033[1;36;40mMail-Hack")
 print("  # \033[1;34m[ 12 ] >> \033[1;36;40mMasking-url")
 print("  # \033[1;34m[ 13 ] >> \033[1;36;40mAnon-SMS_Tool")
-print("  # \033[1;34m[ 14 ] >> \033[1;36;40mUpdate Utility
+print("  # \033[1;34m[ 14 ] >> \033[1;36;40mUpdate Utility")
 print("  # \033[1;34m[ 15 ] >> \033[1;36;40mAbout Utility")
 print("  # \033[1;34m[ 16 ] >> \033[1;36;40mExit Utility")
 
