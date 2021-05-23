@@ -15,7 +15,7 @@ op=int(raw_input("Phishing: "))
 if(op==1):
  os.system("cd && cd AllHackingTools && cd shark && Shark")
 elif(op==2):
- os.system("cd && cd AllHackingTools && cd Zphisher && bash zphisher.sh")
+ os.system("cd && cd AllHackingTools && cd zphisher && bash zphisher.sh")
 elif(op==3):
  os.system("cd && cd AllHackingTools && cd ShellPhish && bash shellphish.sh")
 elif(op==4):
