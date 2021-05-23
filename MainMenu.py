@@ -36,27 +36,27 @@ if(op==1):
 elif(op==2):
  os.system("Python2 SMSbomberMenu.py")
 elif(op==3):
- os.system("WifiJummingMenu.py")
+ os.system("python2 WifiJummingMenu.py")
 elif(op==4):
- os.system("WebDDOSMenu.py")
+ os.system("python2 WebDDOSMenu.py")
 elif(op==5):
- os.system("WebAdminHackMenu.py")
+ os.system("python2 WebAdminHackMenu.py")
 elif(op==6):
- os.system("AndroidHackMenu.py")
+ os.system("python2 AndroidHackMenu.py")
 elif(op==7):
- os.system("SQLinjectionMenu.py")
+ os.system("python2 SQLinjectionMenu.py")
 elif(op==8):
- os.system("SocialFinderMenu.py")
+ os.system("python2 SocialFinderMenu.py")
 elif(op==9):
- os.system("SocialAttackMenu.py")
+ os.system("python2 SocialAttackMenu.py")
 elif(op==10):
- os.system("DarkSearchMenu.py")
+ os.system("python2 DarkSearchMenu.py")
 elif(op==11):
-  os.system("MailHackMenu.py")
-elif(op==12:
- os.system("MaskingUrlMenu.py")
+ os.system("python2 MailHackMenu.py")
+elif(op==12):
+ os.system("python2 MaskingUrlMenu.py")
 elif(op==13):
- os.system("AnonSMSMenu.py")
+ os.system("python2 AnonSMSMenu.py")
 elif(op==14):
 
 elif(op==15):
