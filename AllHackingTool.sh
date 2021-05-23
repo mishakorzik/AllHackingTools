@@ -27,6 +27,6 @@ echo -e $b">"$w" verify modules: "$g"openssh"$w
 apt-get install openssh
 echo "Succesfull verifined!"
 clear
-python2 Logo.py
+bash Logo.sh
 sleep 1
 python2 MainMenu.py
