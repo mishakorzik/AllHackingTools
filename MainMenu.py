@@ -60,7 +60,7 @@ elif(op==13):
 elif(op==14):
 
 elif(op==15):
- os.system("python2 About.py")
+ os.system("bash About.sh")
 elif(op==16):
  print("\033[1;31;40mQuiting utility...")
  time.sleep(1)
