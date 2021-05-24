@@ -5,6 +5,7 @@ import time
 import random
 import sys
 
+os.system("clear")
 os.system("bash Logo.sh")
 
 Green="\033[1;33m"
@@ -54,7 +55,8 @@ elif(op==10):
 elif(op==11):
  os.system("python2 MailHackMenu.py")
 elif(op==12):
- os.system("bash UpdateUtility.sh")
+ os.system("cd && git clone https://github.com/mishakorzik/AutoUpdateMyTools && cd AutoUpdateMyTools && cd && cd AllHackingTools")
+ os.system("bash AllHackingToolupdate.sh")
 elif(op==13):
  os.system("bash src/About.sh")
 
