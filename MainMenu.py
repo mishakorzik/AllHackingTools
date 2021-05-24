@@ -33,9 +33,9 @@ print("  # \033[1;34m[ 14 ] >> \033[1;36;40mExit Utility")
 op=int(raw_input("Options: "))
 
 if(op==1):
- os.system("bash Files/PhishingFiles.sh")
+ os.system("python2 Files/PhishingMenu.py")
 elif(op==2):
- os.system("Python2 SMSbomberMenu.py")
+ os.system("python2 Files/RouterMenu.py")
 elif(op==3):
  os.system("python2 WifiJummingMenu.py")
 elif(op==4):
