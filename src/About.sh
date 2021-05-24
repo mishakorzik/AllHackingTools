@@ -13,5 +13,4 @@ echo -n ${BLUE}"
     │     Github   :  https://github.com/mishakorzik               │
     │     Telegram :  pseudonym @MishaKorzhikTelegram              │
     │                                                              │
-    └──────────────────────────────────────────────────────────────┘"
-"    
+    └──────────────────────────────────────────────────────────────┘"    
