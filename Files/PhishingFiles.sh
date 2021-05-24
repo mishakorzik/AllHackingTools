@@ -16,6 +16,7 @@ chmod +x *
 cd 
 cd AllHackingTools 
 cd Files
+sleep 1
 Python2 PhishingMenu.py
 cd 
 cd AllHackingTools
