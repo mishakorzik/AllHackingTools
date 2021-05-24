@@ -18,14 +18,14 @@ cd commix
 bash setup.sh
 cd
 cd AllHackingTools
-git clone https://github.com/AbirHasan2005/ShellPhish
-cd ShellPhish 
-chmod +x * 
+git clone https://github.com/commixproject/commix.git commix     
+cd commix
+sudo python setup.py install
 cd 
 cd AllHackingTools 
 cd Files
 sleep 1
-python2 PhishingMenu.py
+python2 RouterMenu.py
 cd 
 cd AllHackingTools
 
