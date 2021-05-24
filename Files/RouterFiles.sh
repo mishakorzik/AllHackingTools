@@ -14,8 +14,6 @@ cd
 cd AllHackingTools
 git clone https://github.com/The404Hacking/websploit.git
 cd websploit/Setup && chmod +x install.sh && bash install.shcd
-cd commix 
-bash setup.sh
 cd
 cd AllHackingTools
 git clone https://github.com/commixproject/commix.git commix     
