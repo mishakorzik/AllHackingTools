@@ -5,6 +5,8 @@ import time
 import random
 import sys
 
+os.system("bash Logo.sh")
+
 Green="\033[1;33m"
 Blue="\033[1;34m"
 Grey="\033[1;30m"
