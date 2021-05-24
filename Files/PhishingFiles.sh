@@ -17,7 +17,7 @@ cd
 cd AllHackingTools 
 cd Files
 sleep 1
-Python2 PhishingMenu.py
+python2 PhishingMenu.py
 cd 
 cd AllHackingTools
 
