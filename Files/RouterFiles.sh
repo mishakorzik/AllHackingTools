@@ -22,8 +22,6 @@ sudo python setup.py install
 cd 
 cd AllHackingTools 
 cd Files
-sleep 1
-python2 RouterMenu.py
 cd 
 cd AllHackingTools
 
