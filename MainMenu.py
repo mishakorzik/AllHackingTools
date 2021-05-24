@@ -55,8 +55,7 @@ elif(op==10):
 elif(op==11):
  os.system("python2 MailHackMenu.py")
 elif(op==12):
- os.system("cd && rm -rf AutoUpdateMyTools && git clone https://github.com/mishakorzik/AutoUpdateMyTools")
- os.system("cd AutoUpdateMyTools")
+ os.system("cd && rm -rf AutoUpdateMyTools && cd && git clone https://github.com/mishakorzik/AutoUpdateMyTools && cd AutoUpdateMyTools")
  os.system("bash AllHackingToolupdate.sh")
 elif(op==13):
  os.system("bash src/About.sh")
