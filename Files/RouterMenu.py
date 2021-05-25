@@ -29,7 +29,7 @@ elif(op==4):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
  sys.exit()
-elif(op==4):
+elif(op==5):
  os.system("cd")
  os.system("cd AllHackingTool")
  os.system("python2 MainMenu.py")
