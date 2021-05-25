@@ -13,7 +13,7 @@ print("  # \033[1;34m[ 2 ] >> \033[1;36;40mGrabCam")
 print("  # \033[1;34m[ 3 ] >> \033[1;36;40mExit")
 print("  # \033[1;34m[ 4 ] >> \033[1;36;40mBack To MainMenu")
 
-op=int(raw_input("Phishing: "))
+op=int(raw_input("CamPh1sh: "))
 
 if(op==1):
  os.system("clear")
