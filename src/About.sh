@@ -14,4 +14,6 @@ echo -n ${BLUE}"
     │     Telegram :  pseudonym @MishaKorzhikTelegram              │
     │                                                              │
     └──────────────────────────────────────────────────────────────┘" 
-echo ""   
+echo ""
+cd && cd AllHackingTools  
+python2 src/aboutMenu.py   
