@@ -11,6 +11,7 @@ os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 print("  # \033[1;34m[ 1 ] >> \033[1;36;40mVirusInjection")
 print("  # \033[1;34m[ 2 ] >> \033[1;36;40mMailHack")
 print("  # \033[1;34m[ 3 ] >> \033[1;36;40mExit")
+print("  # \033[1;34m[ 4 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("Iject1onTo0l: "))
 
@@ -27,3 +28,7 @@ elif(op==3):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
  sys.exit()
+elif(op==4):
+ os.system("cd")
+ os.system("cd AllHackingTool")
+ os.system("python2 MainMenu.py")
