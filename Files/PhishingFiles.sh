@@ -16,7 +16,7 @@ cd ShellPhish
 chmod +x * 
 cd 
 cd AllHackingTools 
-git clone https://github.com/thelinuxchoice/saycheese
+git clone https://github.com/hangetzzu/saycheese
 cd saycheese
 cd
 cd
