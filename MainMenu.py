@@ -41,7 +41,10 @@ elif(op==3):
 elif(op==4):
  os.system("python2 Files/WebMenu.py")
 elif(op==5):
- os.system("python2 WebAdminHackMenu.py")
+ os.system("cd AdminHack")
+ os.system("bash AdminHack.sh")
+ os.system("cd")
+ os.system("cd AllHackingTools")
 elif(op==6):
  os.system("python2 AndroidHackMenu.py")
 elif(op==7):
