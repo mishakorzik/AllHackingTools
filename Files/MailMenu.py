@@ -12,7 +12,7 @@ print("  # \033[1;34m[ 1 ] >> \033[1;36;40mKnock")
 print("  # \033[1;34m[ 2 ] >> \033[1;36;40mMailHack")
 print("  # \033[1;34m[ 3 ] >> \033[1;36;40mExit")
 
-op=int(raw_input("Ma1lHacК: "))
+op=int(raw_input("Ma1lHacK: "))
 
 if(op==1):
  os.system("clear")
