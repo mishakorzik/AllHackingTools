@@ -39,7 +39,7 @@ elif(op==2):
 elif(op==3):
  os.system("python2 Files/MailMenu.py")
 elif(op==4):
- os.system("python2 WebDDOSMenu.py")
+ os.system("python2 Files/WebMenu.py")
 elif(op==5):
  os.system("python2 WebAdminHackMenu.py")
 elif(op==6):
