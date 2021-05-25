@@ -1,5 +1,6 @@
 apt-get install git
 apt-get install python
+apt-get install npm
 cd
 cd AllHackingTools
 git clone https://github.com/Bhaviktutorials/shark
@@ -17,6 +18,12 @@ cd
 cd AllHackingTools 
 git clone https://github.com/thelinuxchoice/saycheese
 cd saycheese
+cd
+cd
+cd AllHackingTools 
+git clone https://github.com/iinc0gnit0/BlackPhish
+cd BlackPhish
+./install.sh
 cd 
 cd 
 cd AllHackingTools
