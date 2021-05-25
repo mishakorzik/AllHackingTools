@@ -37,7 +37,7 @@ if(op==1):
 elif(op==2):
  os.system("python2 Files/RouterMenu.py")
 elif(op==3):
- os.system("python2 WifiJummingMenu.py")
+ os.system("python2 Files/MailMenu.py")
 elif(op==4):
  os.system("python2 WebDDOSMenu.py")
 elif(op==5):
