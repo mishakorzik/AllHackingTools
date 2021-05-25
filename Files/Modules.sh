@@ -63,6 +63,7 @@ bash Files/MailFiles.sh
 bash Files/WebFiles.sh
 bash Files/PhishingFiles.sh
 bash Files/RouterFiles.sh
+bash Files/SQLinjectionFiles.sh
 sleep 1
 echo ██████╗░░█████╗░███╗░░██╗███████╗
 echo ██╔══██╗██╔══██╗████╗░██║██╔════╝
