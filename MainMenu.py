@@ -19,7 +19,7 @@ print("  # \033[1;34m[ 01 ] >> \033[1;36;40mPhishing-Tool")
 print("  # \033[1;34m[ 02 ] >> \033[1;36;40mRouter-Hacking")
 print("  # \033[1;34m[ 03 ] >> \033[1;36;40mMail-Hack")
 print("  # \033[1;34m[ 04 ] >> \033[1;36;40mWeb-HACKING & DDOS")
-print("  # \033[1;34m[ 05 ] >> \033[1;36;40mWeb-AdminHack")
+print("  # \033[1;34m[ 05 ] >> \033[1;36;40mCam-Hacking")
 print("  # \033[1;34m[ 06 ] >> \033[1;36;40mAndroid-Hack")
 print("  # \033[1;34m[ 07 ] >> \033[1;36;40mSQL injection-Tool")
 print("  # \033[1;34m[ 08 ] >> \033[1;36;40mSocialMedia-Hacking")
@@ -41,14 +41,11 @@ elif(op==3):
 elif(op==4):
  os.system("python2 Files/WebMenu.py")
 elif(op==5):
- os.system("cd AdminHack")
- os.system("bash AdminHack.sh")
- os.system("cd")
- os.system("cd AllHackingTools")
+ os.system("python2 Files/CamHackMenu.py")
 elif(op==6):
  os.system("python2 Files/AndroidMenu.py")
 elif(op==7):
- os.system("python2 SQLinjectionMenu.py")
+ os.system("python2 Files/SQLinjectionMenu.py")
 elif(op==8):
  os.system("python2 SocialMenu.py")
 elif(op==9):
