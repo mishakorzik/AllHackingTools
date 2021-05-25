@@ -56,6 +56,10 @@ echo -e $b">"$w" installing modules: "$g"pip"$w
 apt-get install pip
 apt-get install pip2
 apt-get install pip3
+cd 
+cd AllHackingTools
+bash Files/PhishingFiles.sh
+bash Files/RouterFiles.sh
 sleep 1
 echo ██████╗░░█████╗░███╗░░██╗███████╗
 echo ██╔══██╗██╔══██╗████╗░██║██╔════╝
