@@ -59,6 +59,7 @@ apt-get install pip3
 cd 
 cd AllHackingTools
 bash Files/MailFiles.sh
+bash Files/WebFiles.sh
 bash Files/PhishingFiles.sh
 bash Files/RouterFiles.sh
 sleep 1
