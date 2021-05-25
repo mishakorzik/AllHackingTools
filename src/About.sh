@@ -16,4 +16,6 @@ echo -n ${BLUE}"
     └──────────────────────────────────────────────────────────────┘" 
 echo ""
 cd && cd AllHackingTools  
+python3 src/Timer.py
 python2 src/aboutMenu.py   
+
