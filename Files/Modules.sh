@@ -38,6 +38,24 @@ echo -e $b">"$w" installing modules: "$g"neofetch"$w
 apt-get install neofetch
 echo -e $b">"$w" installing modules: "$g"zsh"$w
 apt-get install zsh
+echo -e $b">"$w" installing modules: "$g"wget"$w
+apt-get install wget
+echo -e $b">"$w" installing modules: "$g"neofetch"$w
+apt-get install neofetch
+echo -e $b">"$w" installing modules: "$g"curl"$w
+apt-get install curl
+sleep 1
+echo "██████╗░░█████╗░░██████╗███████╗   ██╗███╗░░██╗░██████╗████████╗░█████╗░██╗░░░░░██╗░░░░░██╗███╗░░██╗░██████╗░" 
+echo "██╔══██╗██╔══██╗██╔════╝██╔════╝   ██║████╗░██║██╔════╝╚══██╔══╝██╔══██╗██║░░░░░██║░░░░░██║████╗░██║██╔════╝░"
+echo "██████╦╝███████║╚█████╗░█████╗░░   ██║██╔██╗██║╚█████╗░░░░██║░░░███████║██║░░░░░██║░░░░░██║██╔██╗██║██║░░██╗░"
+echo "██╔══██╗██╔══██║░╚═══██╗██╔══╝░░   ██║██║╚████║░╚═══██╗░░░██║░░░██╔══██║██║░░░░░██║░░░░░██║██║╚████║██║░░╚██╗"
+echo "██████╦╝██║░░██║██████╔╝███████╗   ██║██║░╚███║██████╔╝░░░██║░░░██║░░██║███████╗███████╗██║██║░╚███║╚██████╔╝"
+echo "╚═════╝░╚═╝░░╚═╝╚═════╝░╚══════╝   ╚═╝╚═╝░░╚══╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚══════╝╚═╝╚═╝░░╚══╝░╚═════╝░"
+sleep 2
+echo -e $b">"$w" installing modules: "$g"pip"$w
+apt-get install pip
+apt-get install pip2
+apt-get install pip3
 sleep 1
 echo ██████╗░░█████╗░███╗░░██╗███████╗
 echo ██╔══██╗██╔══██╗████╗░██║██╔════╝
