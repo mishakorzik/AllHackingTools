@@ -27,10 +27,10 @@ elif(op==2):
 elif(op==3):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd ShellPhish && bash shellphish.sh")
-efil(op==4):
+elif(op==4):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd saycheese && bash saycheese.sh")
-efil(op==5):
+elif(op==5):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd BlackPhish && python3 blackphish.py")
 elif(op==6):
