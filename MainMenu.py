@@ -47,7 +47,7 @@ elif(op==6):
 elif(op==7):
  os.system("python2 Files/SQLinjectionMenu.py")
 elif(op==8):
- os.system("python2 SocialMenu.py")
+ os.system("python2 Files/SocialMenu.py")
 elif(op==9):
  os.system("bash files/AnonSMSMenu.sh")
 elif(op==10):
