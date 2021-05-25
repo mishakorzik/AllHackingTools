@@ -11,8 +11,9 @@ os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 print("  # \033[1;34m[ 1 ] >> \033[1;36;40mShark")
 print("  # \033[1;34m[ 2 ] >> \033[1;36;40mZphisher")
 print("  # \033[1;34m[ 3 ] >> \033[1;36;40mShellphish")
-print("  # \033[1;34m[ 4 ] >> \033[1;36;40mExit")
-print("  # \033[1;34m[ 5 ] >> \033[1;36;40mBack To MainMenu")
+print("  # \033[1;34m[ 4 ] >> \033[1;36;40mSayCheese")
+print("  # \033[1;34m[ 5 ] >> \033[1;36;40mExit")
+print("  # \033[1;34m[ 6 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("Phishing: "))
 
@@ -25,11 +26,14 @@ elif(op==2):
 elif(op==3):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd ShellPhish && bash shellphish.sh")
-elif(op==4):
+efil(op==4):
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && cd saycheese && bash saycheese.sh")
+elif(op==5):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
  sys.exit()
-elif(op==5):
+elif(op==6):
  os.system("cd")
  os.system("cd AllHackingTool")
  os.system("python2 MainMenu.py")
