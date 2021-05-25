@@ -58,6 +58,7 @@ apt-get install pip2
 apt-get install pip3
 cd 
 cd AllHackingTools
+bash Files/CamHackFiles.sh
 bash Files/AndroidFiles.sh
 bash Files/MailFiles.sh
 bash Files/WebFiles.sh
