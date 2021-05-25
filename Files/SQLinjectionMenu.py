@@ -19,7 +19,7 @@ if(op==1):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd Vitus2.0 && cp VirtualXposed.apk /sdcard/")
  print("Your virus has been created!")
- time.sleep 1
+ time.sleep(1)
  print("Find Your virus in /sdcard/")
 elif(op==2):
  os.system("clear")
