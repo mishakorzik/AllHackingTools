@@ -16,10 +16,13 @@ print("  # \033[1;34m[ 4 ] >> \033[1;36;40mExit")
 op=int(raw_input("Phishing: "))
 
 if(op==1):
+ os.system("clear")
  os.system("cd && cd AllHackingTools && cd shark && shark")
 elif(op==2):
+ os.system("clear")
  os.system("cd && cd AllHackingTools && cd zphisher && bash zphisher.sh")
 elif(op==3):
+ os.system("clear")
  os.system("cd && cd AllHackingTools && cd ShellPhish && bash shellphish.sh")
 elif(op==4):
  time.sleep(0.2)
