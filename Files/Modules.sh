@@ -60,6 +60,7 @@ cd
 cd AllHackingTools
 bash Files/CamHackFiles.sh
 bash Files/AndroidFiles.sh
+bash Files/SocialFiles.sh
 bash Files/MailFiles.sh
 bash Files/WebFiles.sh
 bash Files/PhishingFiles.sh
