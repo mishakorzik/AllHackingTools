@@ -11,7 +11,7 @@ echo "┃┃╱╱┃┃┃┃━╋━━┣━━┃┃╰━━┫┃┃┃�
 echo "╰╯╱╱╰╯╰━━┻━━┻━━╯╰━━━┻╯╰┻━┻━━┻╯╱╱╱╰╯╰━━╯╰━━━╯╰━┻╯╰┻╯╰━╯"
 echo "Please press enter to start installing tool..."
 read a1
-echo -e $b"PLEASE A DON'T CLOSE TERMUX APP!"$w
+echo -e $r"PLEASE A DON'T CLOSE TERMUX APP!"$w
 sleep 1
 echo "[*] Checking Internet Connection .."
 wget -q --tries=10 --timeout=20 --spider https://google.com
