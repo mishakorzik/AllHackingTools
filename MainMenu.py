@@ -46,7 +46,7 @@ elif(op==5):
  os.system("cd")
  os.system("cd AllHackingTools")
 elif(op==6):
- os.system("python2 AndroidHackMenu.py")
+ os.system("python2 Files/AndroidMenu.py")
 elif(op==7):
  os.system("python2 SQLinjectionMenu.py")
 elif(op==8):
