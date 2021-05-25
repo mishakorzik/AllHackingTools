@@ -23,7 +23,7 @@ elif(op==2):
  os.system("cd && cd AllHackingTools && cd takeover && python2 SubDom.py")
 elif(op==3):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Blazy && python blazy.py)
+ os.system("cd && cd AllHackingTools && cd Blazy && python blazy.py")
 elif(op==4):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
