@@ -17,7 +17,7 @@ op=int(raw_input("CamPh1sh: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Cam-Hackers && python2 cam-hackers.py")
+ os.system("cd && cd AllHackingTools && cd Cam-Hackers && python3 cam-hackers.py")
 elif(op==2):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd grabcam && bash grabcam.sh")
