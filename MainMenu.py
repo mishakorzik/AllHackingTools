@@ -49,7 +49,7 @@ elif(op==7):
 elif(op==8):
  os.system("python2 Files/SocialMenu.py")
 elif(op==9):
- os.system("bash files/AnonSMSMenu.sh")
+ os.system("python2 Files/SpamMenu.py")
 elif(op==10):
  os.system("python2 DarkSearchMenu.py")
 elif(op==11):
