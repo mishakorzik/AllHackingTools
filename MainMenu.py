@@ -51,9 +51,9 @@ elif(op==8):
 elif(op==9):
  os.system("python2 Files/SpamMenu.py")
 elif(op==10):
- os.system("python2 DarkSearchMenu.py")
+ os.system("python2 Files/DarkSearchMenu.py")
 elif(op==11):
- os.system("python2 MailHackMenu.py")
+ os.system("python2 Files/Other")
 elif(op==12):
  time.sleep(1)
  os.system("bash Files/Updater.sh")
