@@ -1,6 +1,7 @@
 # AllHackingTools
 
-#### * Hi, if you want to set up a termux quickly, here you are!
+####  Hi, if you want to set up a termux quickly, here you are!
+####  More Hacking tools with one tool!
 
 ---
 
@@ -8,8 +9,8 @@
 
 * `pkg install git`
 * `git clone https://github.com/mishakorzik/AllHackingTools`
-* `cd Termux-Setting`
-* `bash Term-sett.sh`
+* `cd AllHackingTools`
+* `bash Files/Modules.sh`
 
 ---
 
@@ -17,8 +18,8 @@
 
 * `pkg install git`
 * `git clone https://github.com/mishakorzik/AllHackingTools`
-* `cd Termux-Setting`
-* `bash Term-sett.sh`
+* `cd AllHackingTools`
+* `bash Files/Modules.sh`
 
 #### Everything is ready!  Now we are waiting for everything to download!
 
@@ -34,19 +35,12 @@
 * `w3m` `figlet`
 * `zip` `lolcat`
 * `pv` `neofetch`
-* `zsh`
------
-## It still downloads the utility.
+* `zsh` 
 
-* `Impulse`
-* `social-box`
-* `hadorbd`
-* `maskPhish`
-* `AdminHack`
-* `Free-Proxy`
-* `shark`
-* `DarkFly`
-* `DarkDump`
+#### And More packages!
+
+-----
+## Download more utility for hacking!
 
 #### It downloads packages and utilities and configures the utilities.
 
