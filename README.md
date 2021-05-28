@@ -42,6 +42,10 @@
 -----
 ## Download more utility for hacking!
 
+------
+## Start utility for hacking!
+#### cd && cd AllHackingTools && bash AllHackingTool.sh 
+
 #### It downloads packages and utilities and configures the utilities.
 
 ###### Trank for downloading.
