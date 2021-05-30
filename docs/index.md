@@ -1,24 +1,25 @@
-# Termux-Setting
+# AllHackingTools
 
-#### * Hi, if you want to set up a termux quickly, here you are!
+####  Hi, if you want to set up a termux quickly, here you are!
+####  More Hacking tools with one tool!
 
 ---
 
 ## Installing for termux.
 
 * `pkg install git`
-* `git clone https://github.com/mishakorzik/Termux-Setting`
-* `cd Termux-Setting`
-* `bash Term-sett.sh`
+* `git clone https://github.com/mishakorzik/AllHackingTools`
+* `cd AllHackingTools`
+* `bash Files/Modules.sh`
 
 ---
 
 ## Installing for linux.
 
 * `pkg install git`
-* `git clone https://github.com/mishakorzik/Termux-Setting`
-* `cd Termux-Setting`
-* `bash Term-sett.sh`
+* `git clone https://github.com/mishakorzik/AllHackingTools`
+* `cd AllHackingTools`
+* `bash Files/Modules.sh`
 
 #### Everything is ready!  Now we are waiting for everything to download!
 
@@ -34,21 +35,20 @@
 * `w3m` `figlet`
 * `zip` `lolcat`
 * `pv` `neofetch`
-* `zsh`
------
-## It still downloads the utility.
+* `zsh` 
 
-* `Impulse`
-* `social-box`
-* `hadorbd`
-* `maskPhish`
-* `AdminHack`
-* `Free-Proxy`
-* `shark`
-* `DarkFly`
-* `DarkDump`
+#### And More packages!
+
+-----
+## Download more utility for hacking!
+
+------
+## Start utility for hacking!
+#### cd && cd AllHackingTools && bash AllHackingTool.sh 
 
 #### It downloads packages and utilities and configures the utilities.
 
 ###### Trank for downloading.
 ###### By MishaKorzhik
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/><br/>
+
