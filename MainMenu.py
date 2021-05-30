@@ -53,7 +53,7 @@ elif(op==9):
 elif(op==10):
  os.system("python2 Files/DarkSearchMenu.py")
 elif(op==11):
- os.system("python2 Files/Other")
+ os.system("bash Files/other.sh")
 elif(op==12):
  time.sleep(1)
  os.system("bash Files/Updater.sh")
