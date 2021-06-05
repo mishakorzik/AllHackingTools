@@ -6,6 +6,7 @@ w="\033[0m"
 o="\033[1;33m"
 printf "\e[1;92m"
 
+termux-toast loading please waita moment..!
 printf "\n▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒ Loading .\n"
 printf "\nPlease wait a moment ..!\n"
 sleep 0.9
