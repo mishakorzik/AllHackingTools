@@ -26,7 +26,7 @@ print("  # \033[1;34m[ 08 ] >> \033[1;36;40mSocialMedia-Hacking")
 print("  # \033[1;34m[ 09 ] >> \033[1;36;40mSMS-spaming Tools")
 print("  # \033[1;34m[ 10 ] >> \033[1;36;40mDarkSearch-Tool")
 print("  # \033[1;34m[ 11 ] >> \033[1;36;40mOther tools")
-print("  # \033[1;34m[ 12 ] >> \033[1;36;40mView MySystem")
+print("  # \033[1;34m[ 12 ] >> \033[1;36;40mTermux Panel")
 print("  # \033[1;34m[ 13 ] >> \033[1;36;40mUpdate Utility")
 print("  # \033[1;34m[ 14 ] >> \033[1;36;40mAbout Utility")
 print("  # \033[1;34m[ 15 ] >> \033[1;36;40mExit Utility")
@@ -56,7 +56,7 @@ elif(op==10):
 elif(op==11):
  os.system("bash Files/Other.sh")
 elif(op==12):
- os.system("bash Files/ViewS.sh")
+ os.system("python2 Files/TermuxS.py")
 elif(op==13):
  time.sleep(1)
  os.system("bash Files/Updater.sh")
