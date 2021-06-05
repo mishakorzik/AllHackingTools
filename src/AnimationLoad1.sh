@@ -10,6 +10,7 @@ printf "\n▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒ Loading .\n"
 printf "\nPlease wait a moment ..!\n"
 sleep 0.9
 clear
+termux-vibrate -d 100 -f
 printf "\n▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒ Loading ..\n"
 printf "\nPlease wait a moment ..!\n"
 sleep 0.09
@@ -17,12 +18,14 @@ clear
 printf "\n▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒ Loading ...\n"
 sleep 0.09
 clear
+termux-vibrate -d 100 -f
 printf "\n▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒ Loading .\n"
 sleep 0.09
 clear
 printf "\n▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒ Loading ..\n"
 sleep 0.09
 clear
+termux-vibrate -d 100 -f
 printf "\n▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒ Loading ...\n"
 sleep 0.09
 clear
@@ -94,6 +97,7 @@ printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒ Loading ..\n"
 printf "\nPlease wait a moment ..!\n"
 sleep 0.09
 clear
+termux-vibrate -d 200 -f
 help
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒ Loading ...\n"
 printf "\nPlease wait a moment ..!\n"
