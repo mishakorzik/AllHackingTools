@@ -60,7 +60,6 @@ printf "\n▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒ Loading ..\n"
 printf "\nPlease wait a moment ..!\n"
 sleep 0.09
 clear
-help
 printf "\n▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒ Loading ...\n"
 sleep 0.09
 clear
