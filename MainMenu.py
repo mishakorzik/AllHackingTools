@@ -26,9 +26,10 @@ print("  # \033[1;34m[ 08 ] >> \033[1;36;40mSocialMedia-Hacking")
 print("  # \033[1;34m[ 09 ] >> \033[1;36;40mSMS-spaming Tools")
 print("  # \033[1;34m[ 10 ] >> \033[1;36;40mDarkSearch-Tool")
 print("  # \033[1;34m[ 11 ] >> \033[1;36;40mOther tools")
-print("  # \033[1;34m[ 12 ] >> \033[1;36;40mUpdate System")
-print("  # \033[1;34m[ 13 ] >> \033[1;36;40mAbout Utility")
-print("  # \033[1;34m[ 14 ] >> \033[1;36;40mExit Utility")
+print("  # \033[1;34m[ 12 ] >> \033[1;36;40mView MySystem")
+print("  # \033[1;34m[ 13 ] >> \033[1;36;40mUpdate Utility")
+print("  # \033[1;34m[ 14 ] >> \033[1;36;40mAbout Utility")
+print("  # \033[1;34m[ 15 ] >> \033[1;36;40mExit Utility")
 
 op=int(raw_input("Options: "))
 
@@ -55,11 +56,13 @@ elif(op==10):
 elif(op==11):
  os.system("bash Files/Other.sh")
 elif(op==12):
+ os.system("bash Files/ViewS.sh")
+elif(op==13):
  time.sleep(1)
  os.system("bash Files/Updater.sh")
-elif(op==13):
- os.system("bash src/About.sh")
 elif(op==14):
+ os.system("bash src/About.sh")
+elif(op==15):
  print("\033[1;31;40mQuiting utility...")
  time.sleep(1)
  sys.exit()
