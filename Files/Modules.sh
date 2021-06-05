@@ -55,6 +55,7 @@ sleep 2
 echo -e $b">"$w" installing modules: "$g"pip"$w
 apt-get install pip
 apt-get install pip2
+apt-get install neofetch
 apt-get install pip3
 cd 
 cd AllHackingTools
