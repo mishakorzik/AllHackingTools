@@ -10,7 +10,7 @@
 * `pkg install git`
 * `git clone https://github.com/mishakorzik/AllHackingTools`
 * `cd AllHackingTools`
-* `bash Files/Modules.sh`
+* `bash Install.sh`
 
 ---
 
