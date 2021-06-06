@@ -17,6 +17,7 @@ cd Blazy
 pip install -r requirements.txt
 cd 
 cd AllHackingTools 
-cd Files
+git clone --depth 1 https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
+cd
 cd 
 cd AllHackingTools
