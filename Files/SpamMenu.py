@@ -8,11 +8,11 @@ import sys
 os.system("clear")
 os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 
-print("  # \033[1;34m[ 1 ] >> \033[1;36;40mSMS-Bomber-300")
-print("  # \033[1;34m[ 2 ] >> \033[1;36;40mXLR8_BOMBER")
-print("  # \033[1;34m[ 3 ] >> \033[1;36;40mAnon-SMS")
-print("  # \033[1;34m[ 4 ] >> \033[1;36;40mAres-Bomb")
-print("  # \033[1;34m[ 5 ] >> \033[1;36;40mExit")
+print("  # \033[1;34m[ 1 ] >> \033[1;36;40mSMS-Bomber-300 - ultra bomber for 300 services")
+print("  # \033[1;34m[ 2 ] >> \033[1;36;40mXLR8_BOMBER - hard bomber & cals")
+print("  # \033[1;34m[ 3 ] >> \033[1;36;40mAnon-SMS - Send Messages Anonymously")
+print("  # \033[1;34m[ 4 ] >> \033[1;36;40mAres-Bomb - medium bomber")
+print("  # \033[1;34m[ 5 ] >> \033[1;36;40mExit Utility")
 print("  # \033[1;34m[ 6 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("Phishing: "))
