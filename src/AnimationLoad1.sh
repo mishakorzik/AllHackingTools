@@ -114,8 +114,8 @@ leep 0.09
 clear
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ $gSuccesfull!\n"
 sleep 0.2
-echo -e $b"[ - ]"$o"verifining settings"$w
+echo -e $w"["$o"WARNING"$w"]"$b"verifining settings!"$w
 sleep 0.5
-echo -e $b"[ + ]"$g"succesfull verifined"$w
+echo -e $w"["$g"INFO"$w"]"$b"Succesfull verifined!"$w
 sleep 0.9
 clear
