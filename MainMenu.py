@@ -22,19 +22,20 @@ o="\033[1;33m"
 
 print("  # \033[1;34m[ 01 ] >> \033[1;36;40mPhishing-Tool")
 print("  # \033[1;34m[ 02 ] >> \033[1;36;40mExploitation-Tools")
-print("  # \033[1;34m[ 03 ] >> \033[1;36;40mMail-Hack")
-print("  # \033[1;34m[ 04 ] >> \033[1;36;40mWeb-HACKING & DDOS")
+print("  # \033[1;34m[ 03 ] >> \033[1;36;40mMail-Hacking")
+print("  # \033[1;34m[ 04 ] >> \033[1;36;40mWeb-Hacking & DDOS")
 print("  # \033[1;34m[ 05 ] >> \033[1;36;40mCam-Hacking")
 print("  # \033[1;34m[ 06 ] >> \033[1;36;40mAndroid-Hack")
 print("  # \033[1;34m[ 07 ] >> \033[1;36;40mSQL injection-Tool")
 print("  # \033[1;34m[ 08 ] >> \033[1;36;40mSocialMedia-Hacking")
 print("  # \033[1;34m[ 09 ] >> \033[1;36;40mSMS-spaming Tools")
 print("  # \033[1;34m[ 10 ] >> \033[1;36;40mDarkSearch-Tool")
-print("  # \033[1;34m[ 11 ] >> \033[1;36;40mOther tools")
-print("  # \033[1;34m[ 12 ] >> \033[1;36;40mTermux Panel")
-print("  # \033[1;34m[ 13 ] >> \033[1;36;40mUpdate Utility")
-print("  # \033[1;34m[ 14 ] >> \033[1;36;40mAbout Utility")
-print("  # \033[1;34m[ 15 ] >> \033[1;36;40mExit Utility")
+print("  # \033[1;34m[ 11 ] >> \033[1;36;40mIpAdress-Hacking")
+print("  # \033[1;34m[ 12 ] >> \033[1;36;40mOther tools")
+print("  # \033[1;34m[ 13 ] >> \033[1;36;40mTermux Panel")
+print("  # \033[1;34m[ 14 ] >> \033[1;36;40mUpdate Utility")
+print("  # \033[1;34m[ 15 ] >> \033[1;36;40mAbout Utility")
+print("  # \033[1;34m[ 16 ] >> \033[1;36;40mExit Utility")
 
 op=int(raw_input("Options: "))
 
@@ -59,15 +60,17 @@ elif(op==9):
 elif(op==10):
  os.system("python2 Files/DarkSearchMenu.py")
 elif(op==11):
- os.system("bash Files/Other.sh")
+ os.system("python2 Files/IpMenu.py")
 elif(op==12):
- os.system("python2 Files/TermuxS.py")
+ os.system("bash Files/Other.sh")
 elif(op==13):
+ os.system("python2 Files/TermuxS.py")
+elif(op==14):
  time.sleep(1)
  os.system("bash Files/Updater.sh")
-elif(op==14):
- os.system("bash src/About.sh")
 elif(op==15):
+ os.system("bash src/About.sh")
+elif(op==16):
  print("\033[1;31;40mQuiting utility...")
  time.sleep(1)
  sys.exit()
