@@ -1,10 +1,20 @@
-print("  # \033[1;34m[ 1 ] >> \033[1;36;40mBattareyStatus")
-print("  # \033[1;34m[ 2 ] >> \033[1;36;40mCalsLogs")
-print("  # \033[1;34m[ 3 ] >> \033[1;36;40mWifiScanInfo")
-print("  # \033[1;34m[ 4 ] >> \033[1;36;40mExit")
+import requests
+from bs4 import BeautifulSoup
+import os
+import time
+import random
+import sys
+
+os.system("clear")
+os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
+
+print("  # \033[1;34m[ 1 ] >> \033[1;36;40mBattareyStatus - View a battarey status")
+print("  # \033[1;34m[ 2 ] >> \033[1;36;40mCalsLogs - View a call log")
+print("  # \033[1;34m[ 3 ] >> \033[1;36;40mWifiScanInfo - View wifi scan info")
+print("  # \033[1;34m[ 4 ] >> \033[1;36;40mExit Utility")
 print("  # \033[1;34m[ 5 ] >> \033[1;36;40mBack To MainMenu")
 
-op=int(raw_input("Web-Hack1Ng: "))
+op=int(raw_input("Adm1nPAne1: "))
 
 if(op==1):
  os.system("clear")
