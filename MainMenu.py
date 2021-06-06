@@ -98,13 +98,15 @@ elif(op==14):
  time.sleep(1)
  os.system("bash Files/Updater.sh")
 elif(op==15):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.4)
  os.system("bash src/About.sh")
 elif(op==16):
  print("\033[1;31;40mQuiting utility...")
  time.sleep(1)
  sys.exit()
 else:
- print("\033[1;31;40mInvslid input. Reloading Tools") 
+ print("\033[1;31;40mInvalid input. Reloading Tools") 
  time.sleep(1.6)
  os.system("cd")
  os.system("cd AllHackingTool")
