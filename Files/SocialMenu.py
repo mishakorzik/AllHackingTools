@@ -8,8 +8,8 @@ import sys
 os.system("clear")
 os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 
-print("  # \033[1;34m[ 1 ] >> \033[1;36;40mUnderHanded")
-print("  # \033[1;34m[ 2 ] >> \033[1;36;40mExit")
+print("  # \033[1;34m[ 1 ] >> \033[1;36;40mUnderHanded - check if an app is installed on the target")
+print("  # \033[1;34m[ 2 ] >> \033[1;36;40mExit Utility")
 print("  # \033[1;34m[ 3 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("Soc1alF1sh: "))
