@@ -11,9 +11,6 @@ git clone https://www.github.com/threat9/routersploit
 cd routersploit
 python3 -m pip install -r requirements.txt
 cd
-cd AllHackingTools
-git clone https://github.com/The404Hacking/websploit.git
-cd websploit/Setup && chmod +x install.sh && bash install.shcd
 cd
 cd AllHackingTools
 git clone https://github.com/commixproject/commix.git commix     
