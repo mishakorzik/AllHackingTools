@@ -11,11 +11,11 @@ echo -e $w"["$o"INFO"$w"]"$b"Error code 53-73. Reloading AllHackingTools"$w
 sleep 1.4
 echo -e $w"["$g"ERROR"$w"]"$b"Error to reloading tool"$w
 echo -e $w"["$o"WARNING"$w"]"$b"All Reseting Tool"$w
-sleep 1.4
+sleep 2
 cd
 cd
 cd AllHackingTools 
-bash AllHackingTool.sh
+python2 MainMenu.py
 
 
 
