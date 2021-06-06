@@ -8,9 +8,9 @@ import sys
 os.system("clear")
 os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 
-print("  # \033[1;34m[ 1 ] >> \033[1;36;40mPyshell")
-print("  # \033[1;34m[ 2 ] >> \033[1;36;40mWishfish")
-print("  # \033[1;34m[ 3 ] >> \033[1;36;40mExit")
+print("  # \033[1;34m[ 1 ] >> \033[1;36;40mPyshell - Remote Access Trojan - RAT")
+print("  # \033[1;34m[ 2 ] >> \033[1;36;40mWishfish - Powerful Tool For Grab Front Camera Snap Using A Link")
+print("  # \033[1;34m[ 3 ] >> \033[1;36;40mExit Utility")
 print("  # \033[1;34m[ 4 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("Ma1lHacK: "))
