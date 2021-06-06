@@ -26,3 +26,7 @@ python setup.py install
 cd
 cd
 cd AllHackingTools
+https://github.com/LOoLzeC/SH33LL
+cd SH33LL
+cd
+cd AllHackingTools
