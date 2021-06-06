@@ -14,6 +14,9 @@ ls
 cd grabcam
 cd 
 cd AllHackingTools 
-cd Files
+git clone https://github.com/Devil-Tigers/CamHack.git
+cd CamHack
+chmod +x *
+cd 
 cd 
 cd AllHackingTools
