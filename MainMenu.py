@@ -21,7 +21,7 @@ w="\033[0m"
 o="\033[1;33m"
 
 print("  # \033[1;34m[ 01 ] >> \033[1;36;40mPhishing-Tool")
-print("  # \033[1;34m[ 02 ] >> \033[1;36;40mRouter-Hacking")
+print("  # \033[1;34m[ 02 ] >> \033[1;36;40mExploitation-Tools")
 print("  # \033[1;34m[ 03 ] >> \033[1;36;40mMail-Hack")
 print("  # \033[1;34m[ 04 ] >> \033[1;36;40mWeb-HACKING & DDOS")
 print("  # \033[1;34m[ 05 ] >> \033[1;36;40mCam-Hacking")
