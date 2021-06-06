@@ -14,6 +14,11 @@ Grey="\033[1;30m"
 Reset="\033[0m"
 Red="\033[1;31m"
 Purple="\033[0;35m"
+g="\033[1;32m"
+r="\033[1;31m"
+b="\033[1;34m"
+w="\033[0m"
+o="\033[1;33m"
 
 print("  # \033[1;34m[ 01 ] >> \033[1;36;40mPhishing-Tool")
 print("  # \033[1;34m[ 02 ] >> \033[1;36;40mRouter-Hacking")
@@ -67,7 +72,7 @@ elif(op==15):
  time.sleep(1)
  sys.exit()
 else:
- print("\033[1;31;40mInvalid input. Reloading tool...")
+ echo -e $w"["$r"ERROR"$w"]"$b"Invalid input. Reloading tools."$w
  time.sleep(2)
  os.system("cd")
  os.system("cd AllHackingTool")
