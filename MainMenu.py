@@ -72,8 +72,8 @@ elif(op==15):
  time.sleep(1)
  sys.exit()
 else:
- echo -e $w"["$r"ERROR"$w"]"$b"Invalid input. Reloading tools."$w
- time.sleep(2)
+ print("\033[1;31;40mInvslid input. Reloading Tools") 
+ time.sleep(1.6)
  os.system("cd")
  os.system("cd AllHackingTool")
  os.system("python2 MainMenu.py")
