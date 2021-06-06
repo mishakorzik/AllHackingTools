@@ -14,6 +14,7 @@ Grey="\033[1;30m"
 Reset="\033[0m"
 Red="\033[1;31m"
 Purple="\033[0;35m"
+
 g="\033[1;32m"
 r="\033[1;31m"
 b="\033[1;34m"
@@ -33,39 +34,67 @@ print("  # \033[1;34m[ 10 ] >> \033[1;36;40mDarkSearch-Tool")
 print("  # \033[1;34m[ 11 ] >> \033[1;36;40mIpAdress-Hacking")
 print("  # \033[1;34m[ 12 ] >> \033[1;36;40mOther tools")
 print("  # \033[1;34m[ 13 ] >> \033[1;36;40mTermux Panel")
-print("  # \033[1;34m[ 14 ] >> \033[1;36;40mUpdate Utility")
-print("  # \033[1;34m[ 15 ] >> \033[1;36;40mAbout Utility")
-print("  # \033[1;34m[ 16 ] >> \033[1;36;40mExit Utility")
+print("  # \033[1;34m[ 14 ] >> \033[1;36;40mUpdate System")
+print("  # \033[1;34m[ 15 ] >> \033[1;36;40mAbout System")
+print("  # \033[1;34m[ 16 ] >> \033[1;36;40mExit System")
 
 op=int(raw_input("Options: "))
 
 if(op==1):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.4)
  os.system("python2 Files/PhishingMenu.py")
 elif(op==2):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.4)
  os.system("python2 Files/RouterMenu.py")
 elif(op==3):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.4)
  os.system("python2 Files/MailMenu.py")
 elif(op==4):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.4)
  os.system("python2 Files/WebMenu.py")
 elif(op==5):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.4)
  os.system("python2 Files/CamHackMenu.py")
 elif(op==6):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.4)
  os.system("python2 Files/AndroidMenu.py")
 elif(op==7):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.4)
  os.system("python2 Files/SQLinjectionMenu.py")
 elif(op==8):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.4)
  os.system("python2 Files/SocialMenu.py")
 elif(op==9):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.4)
  os.system("python2 Files/SpamMenu.py")
 elif(op==10):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.4)
  os.system("python2 Files/DarkSearchMenu.py")
 elif(op==11):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.4)
  os.system("python2 Files/IpMenu.py")
 elif(op==12):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.4)
  os.system("bash Files/Other.sh")
 elif(op==13):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.4)
  os.system("python2 Files/TermuxS.py")
 elif(op==14):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.4)
  time.sleep(1)
  os.system("bash Files/Updater.sh")
 elif(op==15):
