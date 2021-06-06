@@ -19,5 +19,10 @@ cd
 cd AllHackingTools 
 git clone --depth 1 https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
 cd
-cd 
+cd AllHackingTools
+git clone https://github.com/websploit/websploit.git
+cd websploit
+python setup.py install
+cd
+cd
 cd AllHackingTools
