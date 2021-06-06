@@ -18,7 +18,10 @@ cd commix
 sudo python setup.py install
 cd 
 cd AllHackingTools 
-cd Files
+git clone https://github.com/kuburan/txtool.git  
+cd txtool   
+./install.py 
+cd 
 cd 
 cd AllHackingTools
 
