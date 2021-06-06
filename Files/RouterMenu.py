@@ -8,10 +8,10 @@ import sys
 os.system("clear")
 os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 
-print("  # \033[1;34m[ 1 ] >> \033[1;36;40mRouterSploit")
-print("  # \033[1;34m[ 2 ] >> \033[1;36;40mWebSploit")
-print("  # \033[1;34m[ 3 ] >> \033[1;36;40mCommix")
-print("  # \033[1;34m[ 4 ] >> \033[1;36;40mExit")
+print("  # \033[1;34m[ 1 ] >> \033[1;36;40mRouterSploit - universality instrument for hacking rounters")
+print("  # \033[1;34m[ 2 ] >> \033[1;36;40mWebSploit - hackin sites for routers")
+print("  # \033[1;34m[ 3 ] >> \033[1;36;40mCommix - OS Command Injection Exploitation Tool.")
+print("  # \033[1;34m[ 4 ] >> \033[1;36;40mExit Utility")
 print("  # \033[1;34m[ 5 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("RouterHack: "))
