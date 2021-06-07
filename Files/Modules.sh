@@ -69,6 +69,7 @@ bash Files/PhishingFiles.sh
 bash Files/RouterFiles.sh
 bash Files/SQLinjectionFiles.sh
 bash Files/SpamFiles.sh
+bash Files/AnalystickFiles.sh
 bash Files/IpFiles.sh
 sleep 1
 echo ██████╗░░█████╗░███╗░░██╗███████╗
