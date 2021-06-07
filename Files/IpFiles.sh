@@ -10,3 +10,7 @@ pip2 install -r requirements.txt
 cd
 cd
 cd AllHackingTools
+https://github.com/Cvar1984/Easymap
+cd
+cd
+cd AllHackingTools
