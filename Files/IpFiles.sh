@@ -20,3 +20,8 @@ https://github.com/Gameye98/AstraNmap
 cd
 cd 
 cd AllHackingTools
+https://github.com/evait-security/weeman
+cd
+cd
+cd AllHackingTools
+
