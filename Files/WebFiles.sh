@@ -27,7 +27,7 @@ pip2 install scapy
 cd
 cd
 cd AllHackingTools
-https://github.com/LOoLzeC/SH33LL
+git clone https://github.com/LOoLzeC/SH33LL
 cd SH33LL
 cd
 cd AllHackingTools
