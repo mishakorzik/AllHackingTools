@@ -23,6 +23,7 @@ cd AllHackingTools
 git clone https://github.com/websploit/websploit.git
 cd websploit
 python setup.py install
+pip2 install scapy
 cd
 cd
 cd AllHackingTools
