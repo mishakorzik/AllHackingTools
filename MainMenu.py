@@ -21,7 +21,7 @@ b="\033[1;34m"
 w="\033[0m"
 o="\033[1;33m"
 
-print("  # \033[1;34m[ 01 ] >> \033[1;36;40mPhishing-Tool")
+print("  # \033[1;34m[ 01 ] >> \033[1;36;40mInformation Gathering")
 print("  # \033[1;34m[ 02 ] >> \033[1;36;40mExploitation-Tools")
 print("  # \033[1;34m[ 03 ] >> \033[1;36;40mSniffing and Spoofing")
 print("  # \033[1;34m[ 04 ] >> \033[1;36;40mWeb Hacking")
@@ -31,7 +31,7 @@ print("  # \033[1;34m[ 07 ] >> \033[1;36;40mSQL injection-Tool")
 print("  # \033[1;34m[ 08 ] >> \033[1;36;40mSocialMedia-Hacking")
 print("  # \033[1;34m[ 09 ] >> \033[1;36;40mSMS-spaming Tools")
 print("  # \033[1;34m[ 10 ] >> \033[1;36;40mDarkSearch-Tool")
-print("  # \033[1;34m[ 11 ] >> \033[1;36;40mIpAdress-Hacking")
+print("  # \033[1;34m[ 11 ] >> \033[1;36;40mPhishing-Tool")
 print("  # \033[1;34m[ 12 ] >> \033[1;36;40mOther tools")
 print("  # \033[1;34m[ 13 ] >> \033[1;36;40mTermux Panel")
 print("  # \033[1;34m[ 14 ] >> \033[1;36;40mUpdate System")
@@ -43,7 +43,7 @@ op=int(raw_input("Options: "))
 if(op==1):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("python2 Files/PhishingMenu.py")
+ os.system("python2 Files/IpMenu.py")
 elif(op==2):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
@@ -83,7 +83,7 @@ elif(op==10):
 elif(op==11):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("python2 Files/IpMenu.py")
+ os.system("python2 Files/PhishingMenu.py")
 elif(op==12):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
