@@ -15,7 +15,7 @@ print("  # \033[1;34m[ 4 ] >> \033[1;36;40mEasymap - Nmap Shortcut")
 print("  # \033[1;34m[ 5 ] >> \033[1;36;40mExit Utility")
 print("  # \033[1;34m[ 6 ] >> \033[1;36;40mBack To MainMenu")
 
-op=int(raw_input(: "))
+op=int(raw_input("1nf0rmatI0n: "))
 
 if(op==1):
  os.system("clear")
