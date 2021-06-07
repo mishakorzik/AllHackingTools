@@ -24,4 +24,10 @@ cd txtool
 cd 
 cd 
 cd AllHackingTools
-
+git clone https://github.com/Moham3dRiahi/XAttacker.git
+cd XAttacker
+chmod +x termux-install.sh
+bash termux-install.sh
+cd
+cd 
+cd AllHackingTools
