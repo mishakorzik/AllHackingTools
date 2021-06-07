@@ -26,9 +26,6 @@ echo -e $b"[ ✔ ]"$g"succesfull verifined"$w
 echo -e $b">"$w" verify modules: "$g"php"$w
 apt-get install php
 echo -e $b"[ ✔ ]"$g"succesfull verifined"$w
-echo -e $b">"$w" verify modules: "$g"bs4"$w
-apt-get install bs4
-echo -e $b"[ ✔ ]"$g"succesfull verifined"$w
 echo -e $b">"$w" verify modules: "$g"wget"$w
 apt-get install wget
 echo -e $b"[ ✔ ]"$g"succesfull verifined"$w
