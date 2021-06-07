@@ -10,21 +10,21 @@ pip2 install -r requirements.txt
 cd
 cd
 cd AllHackingTools
-https://github.com/Cvar1984/Easymap
+git clone https://github.com/Cvar1984/Easymap
 cd Easymap
 bash install.sh
 cd
 cd
 cd AllHackingTools
-https://github.com/Gameye98/AstraNmap
+git clonehttps://github.com/Gameye98/AstraNmap
 cd
 cd 
 cd AllHackingTools
-https://github.com/evait-security/weeman
+git clone https://github.com/evait-security/weeman
 cd
 cd
 cd AllHackingTools
-https://github.com/exlinee/MaxSubdoFinder
+git clone https://github.com/exlinee/MaxSubdoFinder
 cd
 cd
 cd AllHackingTools
