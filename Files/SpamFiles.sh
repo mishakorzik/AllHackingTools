@@ -7,8 +7,8 @@ apt-get install pycrypto
 cd
 cd AllHackingTools
 pip install -r requirements.txt
-git clone https://github.com/Ivan-Hacker-700/SMS-Bomber-300-Free
-cd SMS-Bomber-300-Free
+pip install requests colorama
+git clone https://github.com/Ivan-Hacker-700/SMS-Bomber-300-Free6 cd SMS-Bomber-300-Free
 cd
 cd AllHackingTools
 git clone https://github.com/anubhavanonymous/XLR8_BOMBER
