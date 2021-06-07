@@ -32,7 +32,7 @@ cd SH33LL
 cd
 cd
 cd AllHackingTools
-https://github.com/s0md3v/sqlmate
+git clone https://github.com/s0md3v/sqlmate
 cd sqlmate
 pip install -r requirements.txt
 cd
