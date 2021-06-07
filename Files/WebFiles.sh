@@ -30,4 +30,11 @@ cd AllHackingTools
 git clone https://github.com/LOoLzeC/SH33LL
 cd SH33LL
 cd
+cd
+cd AllHackingTools
+https://github.com/s0md3v/sqlmate
+cd sqlmate
+pip install -r requirements.txt
+cd
+cd
 cd AllHackingTools
