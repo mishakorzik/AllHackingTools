@@ -24,4 +24,8 @@ https://github.com/evait-security/weeman
 cd
 cd
 cd AllHackingTools
+https://github.com/exlinee/MaxSubdoFinder
+cd
+cd
+cd AllHackingTools
 
