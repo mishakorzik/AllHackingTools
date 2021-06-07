@@ -14,7 +14,6 @@ echo "┃┃╱╱┃┃┃┃━╋━━┣━━┃┃╰━━┫┃┃┃�
 echo "╰╯╱╱╰╯╰━━┻━━┻━━╯╰━━━┻╯╰┻━┻━━┻╯╱╱╱╰╯╰━━╯╰━━━╯╰━┻╯╰┻╯╰━╯"
 echo "Please press enter to launch..."
 read a1
-termux-vibrate -d 200 -f
 echo -e $b">"$w" verify modules: "$g"python2"$w
 apt-get install python
 echo -e $b"[ ✔ ]"$g"succesfull verifined"$w
@@ -41,4 +40,4 @@ clear
 bash Logo.sh
 sleep 0.2
 python2 MainMenu.py
-termux-vibrate -d 200 -f
+termux-vibrate -d 120 -f
