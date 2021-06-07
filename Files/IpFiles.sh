@@ -11,6 +11,8 @@ cd
 cd
 cd AllHackingTools
 https://github.com/Cvar1984/Easymap
+cd Easymap
+bash install.sh
 cd
 cd
 cd AllHackingTools
