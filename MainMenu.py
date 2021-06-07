@@ -33,11 +33,12 @@ print("  # \033[1;34m[ 09 ] >> \033[1;36;40mSMS-spaming Tools")
 print("  # \033[1;34m[ 10 ] >> \033[1;36;40mVulnerability Analysis")
 print("  # \033[1;34m[ 11 ] >> \033[1;36;40mDarkSearch-Tool")
 print("  # \033[1;34m[ 12 ] >> \033[1;36;40mPhishing-Tool")
-print("  # \033[1;34m[ 13 ] >> \033[1;36;40mOther tools")
-print("  # \033[1;34m[ 14 ] >> \033[1;36;40mTermux Panel")
-print("  # \033[1;34m[ 15 ] >> \033[1;36;40mUpdate System")
-print("  # \033[1;34m[ 16 ] >> \033[1;36;40mAbout System")
-print("  # \033[1;34m[ 17 ] >> \033[1;36;40mExit System")
+print("  # \033[1;34m[ 13 ] >> \033[1;36;40mPassworld Attack")
+print("  # \033[1;34m[ 14 ] >> \033[1;36;40mOther tools")
+print("  # \033[1;34m[ 15 ] >> \033[1;36;40mTermux Panel")
+print("  # \033[1;34m[ 16 ] >> \033[1;36;40mUpdate System")
+print("  # \033[1;34m[ 17 ] >> \033[1;36;40mAbout System")
+print("  # \033[1;34m[ 18 ] >> \033[1;36;40mExit System")
 
 op=int(raw_input("Options: "))
 
@@ -92,21 +93,25 @@ elif(op==12):
 elif(op==13):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("bash src/InfErr.sh")
+ os.system("python2 Files/PassworldMenu.py")
 elif(op==14):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("python2 Files/TermuxS.py")
+ os.system("bash src/InfErr.sh")
 elif(op==15):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.3)
+ os.system("python2 Files/TermuxS.py")
+elif(op==16):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  time.sleep(1)
  os.system("bash Files/Updater.sh")
-elif(op==16):
+elif(op==17):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  os.system("bash src/About.sh")
-elif(op==17):
+elif(op==18):
  print("\033[1;31;40mQuiting utility...")
  time.sleep(1)
  sys.exit()
