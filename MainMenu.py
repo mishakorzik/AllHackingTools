@@ -87,7 +87,7 @@ elif(op==11):
 elif(op==12):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("bash Files/Other.sh")
+ os.system("bash src/InfErr.sh")
 elif(op==13):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
