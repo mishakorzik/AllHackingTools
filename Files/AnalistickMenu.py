@@ -10,7 +10,7 @@ os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 
 print("  # \033[1;34m[ 1 ] >> \033[1;36;40mAstraNmap - Security scanner used to find hosts and services on a computer network")
 print("  # \033[1;34m[ 2 ] >> \033[1;36;40mWeeman - HTTP server for phishing in python")
-print("  # \033[1;34m[ 3 ] >> \033[1;36;40mRang3r - Tool for Discovering Subdomain")
+print("  # \033[1;34m[ 3 ] >> \033[1;36;40mRang3r - Multi Thread IP + Port Scanner")
 print("  # \033[1;34m[ 4 ] >> \033[1;36;40mMaxSubdoFinder - Tool for Discovering Subdomain")
 print("  # \033[1;34m[ 5 ] >> \033[1;36;40mEasymap - Nmap Shortcut")
 print("  # \033[1;34m[ 6 ] >> \033[1;36;40mExit Utility")
