@@ -25,12 +25,16 @@ if(op==1):
  os.system("cd")
  os.system("cd AllHackingTool")
  os.system("python2 MainMenu.py")
-elif(op==3):
+elif(op==2):
  print("\033[1;31;40mRebooting...")
  time.sleep(1)
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("bash AllHackingTool.sh")
+elif(op==3):
+ print("\033[1;31;40mQuiting system...")
+ time.sleep(1)
+ sys.exit()
 else:
  print("\033[1;31;40mInvalid input. Back To MainMenu...")
  time.sleep(1)
