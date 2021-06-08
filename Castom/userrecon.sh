@@ -139,3 +139,4 @@ elif [[ $check1 == *'1'* ]]; then
 
 printf "\e[1;92m Found!\e[0m https://%s.wordpress.com\n" $username
 printf "https://%s.wordpress.com\n" $username >> $username.txt
+fi
