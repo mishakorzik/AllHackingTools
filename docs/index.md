@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# AllHackingTools
 
-You can use the [editor on GitHub](https://github.com/mishakorzik/AllHackingTools/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+####  Hi, if you want to set up a termux quickly, here you are!
+####  More Hacking tools with one tool!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Installing for termux.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* `pkg install git`
+* `git clone https://github.com/mishakorzik/AllHackingTools`
+* `cd AllHackingTools`
+* `bash Install.sh`
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Installing for linux.
 
-- Bulleted
-- List
+* `pkg install git`
+* `git clone https://github.com/mishakorzik/AllHackingTools`
+* `cd AllHackingTools`
+* `bash Files/Modules.sh`
 
-1. Numbered
-2. List
+#### Everything is ready!  Now we are waiting for everything to download!
 
-**Bold** and _Italic_ and `Code` text
+* `Succes!`
+----
+## What does it download?
+* `git` `python` 
+* `wget` `curl`
+* `openssh` `php`
+* `toilet` `colorama`
+* `jq` `apache2`
+* `ruby` `ssl`
+* `w3m` `figlet`
+* `zip` `lolcat`
+* `pv` `neofetch`
+* `zsh` 
 
-[Link](url) and ![Image](src)
-```
+#### And More packages!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+------
+## Screanshot
+#### view a screanshot for allHackingTool
+<br>
+<p align="center">
+<img width="99.0%" src="IMG_20210605_203052.jpg"/> 
+</p>
 
-### Jekyll Themes
+-----
+## Download more utility for hacking!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mishakorzik/AllHackingTools/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+------
+## Start utility for hacking!
+#### cd && cd AllHackingTools && bash AllHackingTool.sh 
 
-### Support or Contact
+#### It downloads packages and utilities and configures the utilities.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###### Trank for downloading.
+###### By MishaKorzhik
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/><br/>
+
