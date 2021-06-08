@@ -31,5 +31,10 @@ git clone https://github.com/mishakorzik/Mask-Phish.Termux
 cd
 cd
 cd AllHackingTools
+git clone https://github.com/thewhiteh4t/seeker.git
+cd seeker
+cd
+cd
+cd AllHackingTools
 
 
