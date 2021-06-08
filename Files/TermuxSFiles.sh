@@ -1,3 +1,5 @@
+apt install unstable-repo
+apt install telegram-cli
 cd
 cd
 cd AllHackingTools
