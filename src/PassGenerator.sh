@@ -53,7 +53,7 @@ echo hd19475eugFauj2783GyBAJAIEU3737
 echo dkey628DahwIo2628BTtfGb7252
 echo -e $w"["$g"INFO"$w"]"$b"Hard passworlds"$w
 echo 46hRRwn42eIuab7T3eue6383272BsiyOeishgIehd63B
-echo RYw52jEHvEwbUjsteInfoNqfe62852vw4&I8Ns8ifn97B2
+echo RYw52jEHvEwbUjsteInfoNqfe62852vw4I8Ns8ifn97B2
 echo uw28ywhIe42Bwo72Ujwnjsgfz538eUhwbKdbW72EqN
 echo 82DsycU43wbbUshbw63ca84jsT936sigTsgb5Gs23
 echo 82jsb287sjjsgsvTenkd263638odhbTa94Ishb94
