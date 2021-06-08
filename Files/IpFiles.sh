@@ -28,4 +28,11 @@ git clone https://github.com/exlinee/MaxSubdoFinder
 cd
 cd
 cd AllHackingTools
+git clone https://github.com/jofpin/trape.git
+cd trape
+python2 -m pip install -r requirements.txt
+cd
+cd
+cd AllHackingTools
+
 
