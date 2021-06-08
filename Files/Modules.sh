@@ -82,6 +82,7 @@ bash Files/SpamFiles.sh
 bash Files/AnalystickFiles.sh
 bash Files/PassworldFiles.sh
 bash Files/IpFiles.sh
+bash Files/TermuxSFiles.sh
 sleep 1
 echo ██████╗░░█████╗░███╗░░██╗███████╗
 echo ██╔══██╗██╔══██╗████╗░██║██╔════╝
@@ -91,6 +92,7 @@ echo ██████╔╝╚█████╔╝██║░╚███║
 echo ╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝
 echo Developer : mishakorzhik
 echo created on: 23 05 2021
+echo code      : python, bash
 
 
 
