@@ -21,7 +21,7 @@ if(op==1):
  os.system("cd && cd AllHackingTools && cd routersploit && python3 rsf.py")
 elif(op==2):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd websploit && websploit")
+ os.system("cd && cd AllHackingTools && cd websploit && sudo websploit")
 elif(op==3):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd Commix && python commix.py --wizard")
