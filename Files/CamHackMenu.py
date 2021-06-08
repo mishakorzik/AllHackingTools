@@ -7,11 +7,11 @@ import sys
 os.system("clear")
 os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 
-print("  # \033[1;34m[ 1 ] >> \033[1;36;40mCam-Hacker - Hack Cameras CCTV FREE")
-print("  # \033[1;34m[ 2 ] >> \033[1;36;40mGrabCam - A tool to hack camera from termux")
-print("  # \033[1;34m[ 3 ] >> \033[1;36;40mCamHack - hack Front Camera by sending a LINK")
-print("  # \033[1;34m[ 4 ] >> \033[1;36;40mExit Utility")
-print("  # \033[1;34m[ 5 ] >> \033[1;36;40mBack To MainMenu")
+print("  # \033[1;34m[ 01 ] >> \033[1;36;40mCam-Hacker - Hack Cameras CCTV FREE")
+print("  # \033[1;34m[ 02 ] >> \033[1;36;40mGrabCam - A tool to hack camera from termux")
+print("  # \033[1;34m[ 03 ] >> \033[1;36;40mCamHack - hack Front Camera by sending a LINK")
+print("  # \033[1;34m[ 04 ] >> \033[1;36;40mExit Utility")
+print("  # \033[1;34m[ 05 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("CamPh1sh: "))
 
