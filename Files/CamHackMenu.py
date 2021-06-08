@@ -23,7 +23,7 @@ elif(op==2):
  os.system("cd && cd AllHackingTools && cd grabcam && bash grabcam.sh")
 elif(op==3):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd CamHack && bash bash CamHack.sh")
+ os.system("cd && cd AllHackingTools && cd CamHack && bash CamHack.sh")
 elif(op==4):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
