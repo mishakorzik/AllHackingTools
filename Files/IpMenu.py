@@ -13,8 +13,9 @@ print("  # \033[1;34m[ 3 ] >> \033[1;36;40mOSIF - Open Source Information Facebo
 print("  # \033[1;34m[ 4 ] >> \033[1;36;40mWeeman - HTTP server for phishing in python")
 print("  # \033[1;34m[ 5 ] >> \033[1;36;40mMaxSubdoFinder - Tool for Discovering Subdomain")
 print("  # \033[1;34m[ 6 ] >> \033[1;36;40mEasymap - Nmap Shortcut")
-print("  # \033[1;34m[ 7 ] >> \033[1;36;40mExit Utility")
-print("  # \033[1;34m[ 8 ] >> \033[1;36;40mBack To MainMenu")
+print("  # \033[1;34m[ 7 ] >> \033[1;36;40mTrape - People tracker on the Internet OSINT")
+print("  # \033[1;34m[ 8 ] >> \033[1;36;40mExit Utility")
+print("  # \033[1;34m[ 9 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("1nf0rmatI0n: "))
 
@@ -37,10 +38,13 @@ elif(op==5):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd MaxSubdoFinder && python2 maxteroit.py")
 elif(op==7):
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && cd trape && python trape.py")
+elif(op==8):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
  sys.exit()
-elif(op==8):
+elif(op==9):
  os.system("cd")
  os.system("cd AllHackingTool")
  os.system("python2 MainMenu.py")
