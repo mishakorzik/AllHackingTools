@@ -6,6 +6,7 @@ cd AllHackingTools
 git clone https://github.com/adi1090x/termux-style
 cd termux-style
 ./install
+clear
 cd
 cd
 cd AllHackingTools
