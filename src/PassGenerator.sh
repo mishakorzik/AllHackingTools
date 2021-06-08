@@ -76,3 +76,10 @@ sleep 0.2
 echo 33nshsrrwsjkfodugssqg833542jqjGwboTvw
 echo dkey628DahwIo2628BTtfGb7252BsyragUso62I
 echo 926EwcTn2sjywfEavI9336oNsiTw1724NdiRbw
+cd
+cd
+cd AllHackingTools
+python3 src/Timer1.py
+python2 src/aboutMenu.py   
+cd
+cd AllHackingTools
