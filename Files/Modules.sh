@@ -102,11 +102,10 @@ echo ╚═════╝░░╚════╝░╚═╝░░╚══╝
 echo Developer : mishakorzhik
 echo created on: 23 05 2021
 echo code      : python, bash
-sleep 3
+echo ""
+echo "Run command to Start: ./msdconsole.sh"
 cd
 cd
-cd AllHackingTools
-bash AllHackingTool.sh
 
 
 
