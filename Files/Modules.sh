@@ -86,7 +86,7 @@ bash Files/TermuxSFiles.sh
 cd
 cd
 cd AllHackingTools
-cd Files
+cd Tool
 cp msdconsole.sh /data/data/com.termux/files/home/
 ls
 rm -rf msdconsole.sh
