@@ -13,8 +13,9 @@ print("  # \033[1;34m[ 03 ] >> \033[1;36;40mShellphish - Modded version of shell
 print("  # \033[1;34m[ 04 ] >> \033[1;36;40mSayCheese - Grab target's webcam shots by link")
 print("  # \033[1;34m[ 05 ] >> \033[1;36;40mBlackPhish - It's easy phishing tool")
 print("  # \033[1;34m[ 06 ] >> \033[1;36;40mUserRecon - find people from social")
-print("  # \033[1;34m[ 07 ] >> \033[1;36;40mExit Utility")
-print("  # \033[1;34m[ 08 ] >> \033[1;36;40mBack To MainMenu")
+print("  # \033[1;34m[ 07 ] >> \033[1;36;40mMask Phish - An masking phishing url")
+print("  # \033[1;34m[ 08 ] >> \033[1;36;40mExit Utility")
+print("  # \033[1;34m[ 09 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("Phishing: "))
 
@@ -37,10 +38,13 @@ elif(op==6):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd Castom && bash userrecon.sh")
 elif(op==7):
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && cd Mask-Phish.Termux && bash Mask-Phish.sh")
+elif(op==8):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
  sys.exit()
-elif(op==8):
+elif(op==9):
  os.system("cd")
  os.system("cd AllHackingTool")
  os.system("python2 MainMenu.py")
