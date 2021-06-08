@@ -1,6 +1,8 @@
 apt-get install git
 apt-get install python
 cd
+cd
+cd AllHackingTools
 git clone https://github.com/UndeadSec/Debinject.git
 cd Debinject
 cd
