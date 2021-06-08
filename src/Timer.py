@@ -6,7 +6,7 @@ import sys
 done = False
 
 def animate():
-    for c in itertools.cycle(['11', '10', '9', '8', '7', '6', '5', '4', '3', '2', '1']):
+    for c in itertools.cycle(['11', '10', '09', '08', '07', '06', '05', '04', '03', '02', '01']):
         if done:
             break
         sys.stdout.write('\rWindow has close in seconds. ' + c)
