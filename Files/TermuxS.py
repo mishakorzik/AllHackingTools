@@ -28,6 +28,7 @@ elif(op==2):
 elif(op==3):
  os.system("cd && cd AllHackingTools")
  os.system("termux-battery-status")
+ os.system("python3 src/Timer.py")
  os.system("python2 src/aboutMenu.py")
 elif(op==4):
  os.system("cd")
