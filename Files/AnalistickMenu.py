@@ -39,7 +39,7 @@ elif(op==5):
  os.system("cd && cd AllHackingTools && cd sqlmap-dev && python sqlmap.py -wizard")
 elif(op==4):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd rang3r && python rang3r.py --ip 192.168.0.1")
+ os.system("cd && cd AllHackingTools && cd rang3r && python2 rang3r.py --ip 192.168.0.1")
 elif(op==8):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
