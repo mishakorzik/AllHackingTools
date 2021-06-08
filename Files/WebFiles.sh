@@ -6,6 +6,7 @@ git clone https://github.com/mishakorzik/AdminHack
 cd AdminHack
 bash setup.sh
 cd
+cd
 cd AllHackingTools
 git clone https://github.com/m4ll0k/takeover.git
 cd takeover
