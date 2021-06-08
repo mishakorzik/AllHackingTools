@@ -24,3 +24,13 @@ cd AllHackingTools
 cd Files
 cd 
 cd AllHackingTools
+git clone https://github.com/FSystem88/spymer
+pkg install dos2unix
+pip install requests colorama proxyscrape
+cp ~/spymer/spammer.py $PREFIX/bin/spymer
+dos2unix $PREFIX/bin/spymer
+chmod -R 777 ~/spymer
+chmod 777 /bin/spymer
+cd
+cd
+cd AllHackingTools
