@@ -10,7 +10,7 @@
 * `pkg install git`
 * `git clone https://github.com/mishakorzik/AllHackingTools`
 * `cd AllHackingTools`
-* `bash Files/Modules.sh`
+* `bash Install.sh`
 
 ---
 
@@ -38,6 +38,14 @@
 * `zsh` 
 
 #### And More packages!
+
+------
+## Screanshot
+#### view a screanshot for allHackingTool
+<br>
+<p align="center">
+<img width="99.0%" src="https://raw.githubusercontent.com/mishakorzik/AllHackingTools/main/IMG_20210605_203052.jpg"/> 
+</p>
 
 -----
 ## Download more utility for hacking!
