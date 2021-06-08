@@ -83,6 +83,15 @@ bash Files/AnalystickFiles.sh
 bash Files/PassworldFiles.sh
 bash Files/IpFiles.sh
 bash Files/TermuxSFiles.sh
+cd
+cd
+cd AllHackingTools
+cd Files
+cp msdconsole.sh cd /data/data/com.termux/files/home/
+ls
+rm -rf msdconsole.sh
+cd 
+cd AllHackingTools
 sleep 1
 echo ██████╗░░█████╗░███╗░░██╗███████╗
 echo ██╔══██╗██╔══██╗████╗░██║██╔════╝
