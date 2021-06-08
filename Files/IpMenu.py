@@ -41,7 +41,7 @@ elif(op==5):
 elif(op==7):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd trape && python trape.py")
-elif(op==7):
+elif(op==8):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd RED_HAWK && php rhawk.php")
 elif(op==9):
