@@ -10,7 +10,7 @@ os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 print("  # \033[1;34m[ 1 ] >> \033[1;36;40mView MySystem")
 print("  # \033[1;34m[ 2 ] >> \033[1;36;40mGoogle Search")
 print("  # \033[1;34m[ 3 ] >> \033[1;36;40mPassGenerator")
-print("  # \033[1;34m[ 4 ] >> \033[1;36;40mExit")
+print("  # \033[1;34m[ 4 ] >> \033[1;36;40mExit system")
 print("  # \033[1;34m[ 5 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("TermUxPane1: "))
