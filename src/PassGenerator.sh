@@ -34,14 +34,14 @@ echo -e $w"["$g"INFO"$w"]"$b"Medium passworlds"$w
 echo 82DsycU4384jsT9365Gs282Vqr
 echo 83w4q24dQ3W9Gwt21JwboYwfc
 echo 2iegdjdi422GsjRw835NdoR
-echo I8725BdUq2644e72jIv41&5
+echo I8725BdUq2644e72jIv415
 echo uwT27529hTEbne538734bD7Bw
 echo he27Jey9262WrwH20212ejdO
 echo 73625dvshRge428Garq4280Hvs
 echo 73bsuR623nfoheb573Gr52H73bdhRajI
 echo uw638B62nfi6Vwojdv8VeU734bdhh
 echo hReI7T3eue6383272BsiyOehd63B
-echo RjEHvEwbUjstefe62852vw4&I8Ns897B2
+echo RjEHvEwbUjstefe62852vw4I8Ns897B2
 echo uw42Bwo72jsgfz538eKdbW72EqN
 echo w25vUsu264b564o54HuGsi4HSr72
 echo 82DsycU43wbbw63ca84jsT9365Gs2
