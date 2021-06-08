@@ -8,8 +8,7 @@ cd
 cd AllHackingTools
 pip install -r requirements.txt
 pip install requests colorama
-git clone https://github.com/Ivan-Hacker-700/SMS-Bomber-300-Free6 cd SMS-Bomber-300-Free
-cd
+git clone https://github.com/3UMOBKA/SMS-Bomber-300-Free
 cd AllHackingTools
 git clone https://github.com/anubhavanonymous/XLR8_BOMBER
 cd
@@ -34,3 +33,4 @@ chmod 777 /bin/spymer
 cd
 cd
 cd AllHackingTools
+
