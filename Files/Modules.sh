@@ -87,7 +87,7 @@ cd
 cd
 cd AllHackingTools
 cd Files
-cp msdconsole.sh cd /data/data/com.termux/files/home/
+cp msdconsole.sh /data/data/com.termux/files/home/
 ls
 rm -rf msdconsole.sh
 cd 
