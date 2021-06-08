@@ -50,6 +50,10 @@
 -----
 ## Download more utility for hacking!
 
+#### uninstall AllHackingTools
+
+* `bash Uninstall/Uninstall.sh`
+#### succesfull!
 ------
 ## Start utility for hacking!
 #### cd && cd AllHackingTools && bash AllHackingTool.sh 
