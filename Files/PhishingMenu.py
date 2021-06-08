@@ -12,8 +12,9 @@ print("  # \033[1;34m[ 2 ] >> \033[1;36;40mZphisher - An automated phishing tool
 print("  # \033[1;34m[ 3 ] >> \033[1;36;40mShellphish - Modded version of shellphish")
 print("  # \033[1;34m[ 4 ] >> \033[1;36;40mSayCheese - Grab target's webcam shots by link")
 print("  # \033[1;34m[ 5 ] >> \033[1;36;40mBlackPhish - It's easy phishing tool")
-print("  # \033[1;34m[ 6 ] >> \033[1;36;40mExit Utility")
-print("  # \033[1;34m[ 7 ] >> \033[1;36;40mBack To MainMenu")
+print("  # \033[1;34m[ 6 ] >> \033[1;36;40mUserRecon - find people from social")
+print("  # \033[1;34m[ 7 ] >> \033[1;36;40mExit Utility")
+print("  # \033[1;34m[ 8 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("Phishing: "))
 
@@ -33,10 +34,13 @@ elif(op==5):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd BlackPhish && sudo python3 blackphish.py")
 elif(op==6):
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && cd Castom && bash userrecon.sh")
+elif(op==7):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
  sys.exit()
-elif(op==7):
+elif(op==8):
  os.system("cd")
  os.system("cd AllHackingTool")
  os.system("python2 MainMenu.py")
