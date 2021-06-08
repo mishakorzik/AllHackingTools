@@ -27,7 +27,7 @@ echo 72abi539VsgiR82U
 echo Yni623nfooa42Gr52H
 echo Bso7ed62nfi6Vwo8VeU
 echo hReI7T372BsiywvJ2g
-echo jEwbU52vw4&I8Ns897B2
+echo jEwbU52vw4I8Ns897B2
 echo uw42Bwo72eKdbW72EqN
 echo wub564o54HuGsi4HSr72
 echo -e $w"["$g"INFO"$w"]"$b"Medium passworlds"$w
