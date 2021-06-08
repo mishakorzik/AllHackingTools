@@ -87,11 +87,12 @@ cd
 cd
 cd AllHackingTools
 cd Tool
-cp msdconsole.sh /data/data/com.termux/files/home/
+cp msdconsole /data/data/com.termux/files/home/
 ls
-rm -rf msdconsole.sh
+rm -rf msdconsole
 cd 
 cd AllHackingTools
+chmod +x msdconsole
 sleep 1
 echo ██████╗░░█████╗░███╗░░██╗███████╗
 echo ██╔══██╗██╔══██╗████╗░██║██╔════╝
@@ -103,7 +104,7 @@ echo Developer : mishakorzhik
 echo created on: 23 05 2021
 echo code      : python, bash
 echo ""
-echo "Run command to Start: ./msdconsole.sh"
+echo "Run command to Start: ./msdconsole"
 cd
 cd
 
