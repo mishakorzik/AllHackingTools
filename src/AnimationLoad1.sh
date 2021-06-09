@@ -111,7 +111,7 @@ clear
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ Loading ...\n"
 leep 0.05
 clear
-printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ $gSuccesfull!\n"
+printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ Succesfull!\n"
 sleep 0.2
 echo -e $w"["$o"WARNING"$w"]"$b"verifining settings!"$w
 sleep 0.5
