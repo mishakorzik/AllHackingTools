@@ -24,6 +24,7 @@
 #### Everything is ready!  Now we are waiting for everything to download!
 
 * `Succes!`
+#### Run command to start AllHackingTools: ./msdconsole
 ----
 ## Dependencies
 #### If all this is then you can download!
