@@ -16,7 +16,7 @@ op=int(raw_input("Ma1lHacK: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Pyshell && ./Pyshell")
+ os.system("cd && cd AllHackingTools && cd pyshell && ./Pyshell")
 elif(op==2):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd wishfish && ./wishfish.sh")
