@@ -25,7 +25,7 @@ print("  # \033[1;34m[ 02 ] >> \033[1;36;40mExploitation-Tools:  -  selection of
 print("  # \033[1;34m[ 03 ] >> \033[1;36;40mSniffing and Spoofing:  -  Tools for forgery of data and databases")
 print("  # \033[1;34m[ 04 ] >> \033[1;36;40mWeb Hacking:  -  Tools for hacking websites and servers")
 print("  # \033[1;34m[ 05 ] >> \033[1;36;40mCam Hacking:  -  Tools for hacking cams and front camera")
-print("  # \033[1;34m[ 06 ] >> \033[1;36;40mAndroid Hack:  -  Utilities for creating RAT virus ")
+print("  # \033[1;34m[ 06 ] >> \033[1;36;40mInjectionRAT:  -  Utilities for creating RAT virus")
 print("  # \033[1;34m[ 07 ] >> \033[1;36;40mSQL injection-Tool:  -  Tools for creating viruses")
 print("  # \033[1;34m[ 08 ] >> \033[1;36;40mSocialMedia-Hacking:  -  Tools for hacking social networks")
 print("  # \033[1;34m[ 09 ] >> \033[1;36;40mSMS-spaming Tools:  -  Utilities for spam and anonymous SMS")
@@ -112,6 +112,14 @@ elif(op==17):
  time.sleep(0.3)
  os.system("bash src/About.sh")
 elif(op==18):
+ print("\033[1;31;40mQuiting utility...")
+ time.sleep(1)
+ sys.exit()
+elif(op==exit):
+ print("\033[1;31;40mExiting utility...")
+ time.sleep(1)
+ sys.exit()
+elif(op==quit):
  print("\033[1;31;40mQuiting utility...")
  time.sleep(1)
  sys.exit()
