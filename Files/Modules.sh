@@ -67,6 +67,10 @@ apt-get install pip2
 apt-get install neofetch
 apt-get install pip3
 apt-get install termux-api
+pip2 install future
+pip3 install future
+pip3 install colorama
+pip2 install colorama
 cd 
 cd AllHackingTools
 bash Files/CamHackFiles.sh
