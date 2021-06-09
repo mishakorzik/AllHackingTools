@@ -71,7 +71,7 @@ pip2 install future
 pip3 install future
 pip3 install colorama
 pip2 install colorama
-pip2 install flask
+pip install flask
 cd 
 cd AllHackingTools
 bash Files/CamHackFiles.sh
