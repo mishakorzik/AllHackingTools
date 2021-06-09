@@ -100,7 +100,7 @@ cp msdconsole /data/data/com.termux/files/home/
 ls
 rm -rf msdconsole
 cd 
-cd AllHackingTools
+cd 
 chmod +x msdconsole
 sleep 1
 echo ██████╗░░█████╗░███╗░░██╗███████╗
