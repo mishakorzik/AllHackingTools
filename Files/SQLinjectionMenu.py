@@ -22,7 +22,7 @@ if(op==1):
  print("Find Your virus in /sdcard/")
 elif(op==2):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Debinject && python debinject.py")
+ os.system("cd && cd AllHackingTools && cd Debinject && python2 debinject.py")
 elif(op==3):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
