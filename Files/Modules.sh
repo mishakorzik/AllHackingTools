@@ -72,6 +72,9 @@ pip3 install future
 pip3 install colorama
 pip2 install colorama
 pip install flask
+pip2 install flask_socketio
+pip install flask_socketio
+pip3 install flask_socketio
 cd 
 cd AllHackingTools
 bash Files/CamHackFiles.sh
