@@ -115,14 +115,6 @@ elif(op==18):
  print("\033[1;31;40mQuiting utility...")
  time.sleep(1)
  sys.exit()
-elif(op==exit):
- print("\033[1;31;40mExiting utility...")
- time.sleep(1)
- sys.exit()
-elif(op==quit):
- print("\033[1;31;40mQuiting utility...")
- time.sleep(1)
- sys.exit()
 else:
  print("\033[1;31;40mInvalid input. Reloading Tools") 
  time.sleep(1.6)
