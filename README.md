@@ -32,6 +32,7 @@
 * `Root : NO ROOT`
 
 #### Okay let's go installing!
+#### if it shows Are you rooted? Then ignore it!
 ---------
 ## What does it download?
 * `git` `python` 
