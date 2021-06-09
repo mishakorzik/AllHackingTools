@@ -16,8 +16,8 @@ Purple="\033[0;35m"
 
 g="\033[1;32m"
 r="\033[1;31m"
-b="\033[1;34m"
 w="\033[0m"
+b="\033[1;34m"
 o="\033[1;33m"
 
 print("  # \033[1;34m[ 01 ] >> \033[1;36;40mInformation Gathering:  -  Collects information from a different database")
@@ -35,6 +35,7 @@ print("  # \033[1;34m[ 12 ] >> \033[1;36;40mPhishing-Tool:  -  Tools for phishin
 print("  # \033[1;34m[ 13 ] >> \033[1;36;40mPassworld Attack:  -  Utilities for cracking passwords")
 print("  # \033[1;34m[ 14 ] >> \033[1;36;40mOther tools:  -  Separate and other tools for hacking")
 print("  # \033[1;34m[ 15 ] >> \033[1;36;40mTermux Panel:  -  Termux control and special features")
+print("")
 print("  # \033[1;34m[ 16 ] >> \033[1;36;40mUpdate System:  -  Update system and all tools & menu")
 print("  # \033[1;34m[ 17 ] >> \033[1;36;40mAbout System:  -  View system information and developer")
 print("  # \033[1;34m[ 18 ] >> \033[1;36;40mExit System:  -  log out system")
