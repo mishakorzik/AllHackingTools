@@ -3,6 +3,20 @@
 ####  Hi, if you want to set up a termux quickly, here you are!
 ####  More Hacking tools with one tool!
 
+
+---------
+## Supported systems
+
+* `Termux`
+* `Ubuntu`
+#### Here on these systems works AllHackingTools
+
+#### Tested on:
+
+* `Termux`
+* `Ubuntu`
+* `Terminal`
+
 ---
 
 ## Installing for termux.
