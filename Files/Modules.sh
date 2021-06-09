@@ -112,7 +112,6 @@ cd AllHackingTools
 cd Tool
 cp msdconsole /data/data/com.termux/files/home/
 ls
-rm -rf msdconsole
 cd 
 cd 
 chmod +x msdconsole
