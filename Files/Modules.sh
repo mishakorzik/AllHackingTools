@@ -7,6 +7,11 @@ cd
 cd
 rm -rf msdconsole
 cd AllHackingTools
+cd termux-style
+./uninstall
+cd
+cd
+cd AllHackingTools
 apt-get install git 
 echo -e $b">"$w" installing modules: "$g"python"$w
 apt-get install python
