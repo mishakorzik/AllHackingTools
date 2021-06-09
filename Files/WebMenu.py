@@ -27,7 +27,7 @@ elif(op==2):
  os.system("cd && cd AllHackingTools && cd takeover && python2 SubDom.py")
 elif(op==3):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Blazy && python blazy.py")
+ os.system("cd && cd AllHackingTools && cd Blazy && python2 blazy.py")
 elif(op==4):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd sqlmap-dev && python sqlmap.py -wizard")
