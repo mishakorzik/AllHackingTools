@@ -4,7 +4,7 @@ b="\033[1;34m"
 w="\033[0m"
 o="\033[1;33m"
 
-echo -e $w"["$o"INFO"$w"]"$b"Starting AllHackingTools! Please wait."$w
+echo -e $w"["$g"INFO"$w"]"$b"Starting AllHackingTools! Please wait."$w
 sleep 0.8
 echo -e $w"["$o"WARN"$w"]"$b"Please i don't CTRL + C "$w
 sleep 0.6
