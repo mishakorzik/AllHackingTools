@@ -9,108 +9,107 @@ printf "\e[1;92m"
 termux-toast loading please wait moment..!
 printf "\n▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒ Loading .\n"
 printf "\nPlease wait a moment ..!\n"
-sleep 0.9
+sleep 0.5
 clear
 termux-vibrate -d 100 -f
 printf "\n▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒ Loading ..\n"
 printf "\nPlease wait a moment ..!\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒ Loading ...\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒ Loading .\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒ Loading ..\n"
-sleep 0.09
+sleep 0.05
 clear
-termux-vibrate -d 100 -f
 printf "\n▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒ Loading ...\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒ Loading .\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒ Loading ..\n"
 printf "\nPlease wait a moment ..!\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒ Loading ...\n"
 printf "\nPlease wait a moment ..!\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒ Loading .\n"
 printf "\nPlease wait a moment ..!\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒ Loading ..\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒ Loading ...\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒ Loading .\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒ Loading ..\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒ Loading ...\n"
 printf "\nPlease wait a moment ..!\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒ Loading .\n"
 printf "\nPlease wait a moment ..!\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒ Loading ..\n"
 printf "\nPlease wait a moment ..!\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒ Loading ...\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒ Loading .\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒ Loading ..\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒ Loading ...\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒ Loading .\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒ Loading ..\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒ Loading ...\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒ Loading .\n"
 printf "\nPlease wait a moment ..!\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒ Loading ..\n"
 printf "\nPlease wait a moment ..!\n"
-sleep 0.09
+sleep 0.05
 clear
-termux-vibrate -d 200 -f
+termux-vibrate -d 100 -f
 help
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒ Loading ...\n"
 printf "\nPlease wait a moment ..!\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒ Loading .\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ Loading ..\n"
-sleep 0.09
+sleep 0.05
 clear
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ Loading ...\n"
-leep 0.09
+leep 0.05
 clear
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ $gSuccesfull!\n"
 sleep 0.2
