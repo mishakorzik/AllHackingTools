@@ -36,10 +36,10 @@ elif(op==5):
  os.system("cd && cd AllHackingTools && cd websploit && websploit")
 elif(op==6):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd sqlmate && python sqlmate")
+ os.system("cd && cd AllHackingTools && cd sqlmate && python2 sqlmate")
 elif(op==7):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd SH33LL && python sh33l.py")
+ os.system("cd && cd AllHackingTools && cd SH33LL && python2 sh33l.py")
 elif(op==8):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
