@@ -75,6 +75,8 @@ pip install flask
 pip2 install flask_socketio
 pip install flask_socketio
 pip3 install flask_socketio
+pip3 install flask_cors
+pip2 install flask_cors
 cd 
 cd AllHackingTools
 bash Files/CamHackFiles.sh
