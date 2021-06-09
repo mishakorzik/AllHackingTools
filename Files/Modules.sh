@@ -67,6 +67,9 @@ apt-get install pip2
 apt-get install neofetch
 apt-get install pip3
 apt-get install termux-api
+pip2 install --upgrade pip
+pip2 install passlib
+pip2 install progressbar
 pip2 install future
 pip3 install future
 pip3 install colorama
