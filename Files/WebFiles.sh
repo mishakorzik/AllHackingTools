@@ -7,6 +7,9 @@ cd AdminHack
 bash setup.sh
 cd
 cd
+pip install parse
+pip2 install parse
+pip3 install parse
 cd AllHackingTools
 git clone https://github.com/m4ll0k/takeover.git
 cd takeover
