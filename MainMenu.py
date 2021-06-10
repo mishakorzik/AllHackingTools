@@ -19,7 +19,7 @@ r="\033[1;31m"
 w="\033[0m"
 b="\033[1;34m"
 o="\033[1;33m"
-bl=" \033[1;36;40m"
+bl="\033[1;36;40m"
 
 print("  # \033[1;34m[ 01 ] >> \033[1;36;40mInformation Gathering:  -  Collects information from a different database")
 print("  # \033[1;34m[ 02 ] >> \033[1;36;40mExploitation-Tools:  -  selection of tools for operation and hacking")
