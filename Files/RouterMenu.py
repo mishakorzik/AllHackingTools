@@ -35,5 +35,5 @@ elif(op==5):
 elif(op==6):
  os.system("cd")
  os.system("cd AllHackingTool")
- os.system("python2 MainMenu.py")
+ os.system("python2 Files/RouterMenu.py")
  
