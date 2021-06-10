@@ -42,6 +42,7 @@ elif(op==5):
 elif(op==7):
  os.system("cd")
  os.system("cd AllHackingTools")
+ os.system("bash src/Inf.sh")
  os.system("python2 Files/HelpTermuxMenu.py")
 elif(op==6):
  os.system("cd")
