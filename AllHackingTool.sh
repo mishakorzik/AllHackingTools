@@ -34,7 +34,6 @@ apt-get install openssh
 echo -e $b"[ ✔ ]"$g"succesfull verifined"$w
 echo "Succesfull verifined!"
 clear
-bash Logo.sh
 sleep 0.2
 python2 MainMenu.py
 termux-vibrate -d 120 -f
