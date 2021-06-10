@@ -42,7 +42,7 @@ elif(op==5):
 elif(op==5):
  os.system("cd")
  os.system("cd AllHackingTools")
- os.system("bash src/Help.sh")
+ os.system("bash Castom/Help.sh")
  os.system("python3 src/Timer2.py")
  os.system("python2 src/aboutMenu.py")
 elif(op==6):
