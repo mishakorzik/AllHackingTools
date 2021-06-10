@@ -23,35 +23,35 @@ op=int(raw_input("1nf0rmatI0nHe1p: "))
 if(op==1):
  os.system("clear")
  os.system("cd && cd AllHackingTools && bash Help/FilesAndBaseCommads.sh")
- os.system("cd && cd AllHackingTools && python3 src/Timer2.py && python2 aboutMenu.py")
+ os.system("cd && cd AllHackingTools && python3 src/Timer1.py && python2 src/aboutMenu.py")
 elif(op==2):
  os.system("clear")
  os.system("cd && cd AllHackingTools && bash Help/ProcessControlerCommands.sh")
- os.system("cd && cd AllHackingTools && python3 src/Timer2.py && python2 aboutMenu.py")
+ os.system("cd && cd AllHackingTools && python3 src/Timer1.py && python2 src/aboutMenu.py")
 elif(op==6):
  os.system("clear")
  os.system("cd && cd AllHackingTools && bash Help/SearchCommand.sh")
- os.system("cd && cd AllHackingTools && python3 src/Timer2.py && python2 aboutMenu.py")
+ os.system("cd && cd AllHackingTools && python3 src/Timer1.py && python2 src/aboutMenu.py")
 elif(op==3):
  os.system("clear")
  os.system("cd && cd AllHackingTools && bash Help/AccesRightAndFilesCommands.sh")
- os.system("cd && cd AllHackingTools && python3 src/Timer2.py && python2 aboutMenu.py")
+ os.system("cd && cd AllHackingTools && python3 src/Timer1.py && python2 src/aboutMenu.py")
 elif(op==4):
  os.system("clear")
  os.system("cd && cd AllHackingTools && bash Help/SystemInformationCommands.sh")
- os.system("cd && cd AllHackingTools && python3 src/Timer2.py && python2 aboutMenu.py")
+ os.system("cd && cd AllHackingTools && python3 src/Timer1.py && python2 src/aboutMenu.py")
 elif(op==5):
  os.system("clear")
  os.system("cd && cd AllHackingTools && bash Help/InstallingPackagesAndWorkingCommands.sh")
- os.system("cd && cd AllHackingTools && python3 src/Timer2.py && python2 aboutMenu.py")
+ os.system("cd && cd AllHackingTools && python3 src/Timer1.py && python2 src/aboutMenu.py")
 elif(op==7):
  os.system("clear")
  os.system("cd && cd AllHackingTools && bash Help/ArchiveFilesCommands.sh")
- os.system("cd && cd AllHackingTools && python3 src/Timer2.py && python2 aboutMenu.py")
+ os.system("cd && cd AllHackingTools && python3 src/Timer1.py && python2 src/aboutMenu.py")
 elif(op==8):
  os.system("clear")
  os.system("cd && cd AllHackingTools && bash Help/NetworkComands.sh")
- os.system("cd && cd AllHackingTools && python3 src/Timer2.py && python2 aboutMenu.py")
+ os.system("cd && cd AllHackingTools && python3 src/Timer1.py && python2 src/aboutMenu.py")
 elif(op==9):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
