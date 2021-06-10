@@ -8,9 +8,9 @@ echo "cd – сменить на домашний каталог"
 echo "pwd – показать текущий каталог"
 echo "mkdir dir – создать каталог dir"
 echo "rm -rf file – удалить file или папку"
-echo "rm -r dir – удалить каталог dir$
+echo "rm -r dir – удалить каталог dir"
 echo "rm -r -f /path – удалить каталог dir"
-echo "rm -f file – удалить форсированно file$
+echo "rm -f file – удалить форсированно file"
 echo "rm -rf dir – удалить форсированно каталог dir"
 echo "cp file1 file2 – скопировать file1 в file2"
 echo "cp -r dir1 dir2 – скопировать dir1 в dir2; создаст каталог dir2, если он не существует"
