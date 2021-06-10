@@ -39,7 +39,7 @@ elif(op==5):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("termux-style")
-elif(op==5):
+elif(op==7):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("bash Castom/Help.sh")
