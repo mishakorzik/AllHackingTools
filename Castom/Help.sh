@@ -23,7 +23,7 @@ echo "head file – вывести первые 10 строк file"
 echo "tail file – вывести последние 10 строк file"
 echo "tail -f file – вывести содержимое file по мере роста, начинает с последних 10 строк"
 
-Process controlers:
+echo "Process controlers:"
 
 echo "ps – вывести ваши текущие активные процессы"
 echo "top – показать все запущенные процессы"
@@ -46,7 +46,7 @@ echo "ssh user@host – подключится к host как user"
 echo "ssh -p port user@host – подключится к host на порт port как user"
 echo "ssh-copy-id user@host – добавить ваш ключ на host для user чтобы включить логин без пароля и по ключам"
 
-Search:
+echo "Search:"
 
 echo "grep pattern files – искать pattern в files"
 echo "grep -r pattern dir – искать рекурсивно pattern в dir"
