@@ -42,9 +42,7 @@ elif(op==5):
 elif(op==7):
  os.system("cd")
  os.system("cd AllHackingTools")
- os.system("bash Castom/Help.sh")
- os.system("python3 src/Timer2.py")
- os.system("python2 src/aboutMenu.py")
+ os.system("python2 Files/HelpTermuxMenu.py")
 elif(op==6):
  os.system("cd")
  os.system("cd .. && cd usr/var/log/apt && rm -r history.log && rm -r term.log && rm -r eipp.log.xz && cd .. && rm -r alternatives.log")
