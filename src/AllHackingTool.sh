@@ -1,5 +1,6 @@
 clear
 cd
+cd
 cd AllHackingTools
 bash src/AnimationLoad1.sh
 g="\033[1;32m"
