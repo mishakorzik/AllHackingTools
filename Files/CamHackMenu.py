@@ -31,4 +31,4 @@ elif(op==4):
 elif(op==5):
  os.system("cd")
  os.system("cd AllHackingTool")
- os.system("python2 MainMenu.py")
+ os.system("python2 Files/CamHackMenu.py")
