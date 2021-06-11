@@ -15,7 +15,6 @@ EXC=" $W[$R ! $W]$off"
 
 # Banner
 read -r -d '' BANNER << EOF
-
 ████████╗██╗██████╗░░█████╗░░█████╗░██╗░░██╗
 ╚══██╔══╝██║██╔══██╗██╔══██╗██╔══██╗██║░██╔╝
 ░░░██║░░░██║██████╦╝███████║██║░░╚═╝█████═╝░
@@ -58,9 +57,26 @@ function backup_home() {
 
     if tar -I pigz -cf ${DEST}/backup.tmp -C ${SOURCE} . ; then
         mv ${DEST}/backup.tmp ${DEST}/home.bak
-        printf  "${OK}Succesfull home backed up\n\n"
+        printf  "${OK} Succesfull home backed up\n\n"
 
     else
         error "backup home failed!"
     fi
 }
+
+function restore_home() {
+    if [[ -f "${DEST}"/home.bak ]]; then
+        printf  "${EXC} Restoring home\n"
+        printf  "${t}Please wait be patient...\n\n"
+
+        if tar -I pigz -xf ${DEST}/home.bak -C ${SOURCE} ; then
+            printf  "${OK} Succesfull home restored\n"
+            printf  "${t}start a new session.\n\a"
+        fi
+
+    else
+        error "home backup not found"
+        exit 1
+    fi
+}
+
