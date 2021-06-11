@@ -14,8 +14,10 @@ print("  # \033[1;34m[ 04 ] >> \033[1;36;40mPassGenerator")
 print("  # \033[1;34m[ 05 ] >> \033[1;36;40mTermux Style")
 print("  # \033[1;34m[ 06 ] >> \033[1;36;40mClear logs")
 print("  # \033[1;34m[ 07 ] >> \033[1;36;40mTermux commands")
-print("  # \033[1;34m[ 08 ] >> \033[1;36;40mExit system")
-print("  # \033[1;34m[ 09 ] >> \033[1;36;40mBack To MainMenu")
+print("  # \033[1;34m[ 08 ] >> \033[1;36;40mCreate TermuxBackup")
+print("  # \033[1;34m[ 09 ] >> \033[1;36;40mRestore TermuxBackup")
+print("  # \033[1;34m[ 10 ] >> \033[1;36;40mExit system")
+print("  # \033[1;34m[ 11 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("TermUxPane1: "))
 
@@ -52,10 +54,20 @@ elif(op==6):
  time.sleep(1)
  os.system("cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==8):
+ os.system("cd")
+ os.system("cd AllHackingTools")
+ os.system("cd TermuxBackupTools") 
+ os.system("./rewind -b")
+elif(op==9):
+ os.system("cd")
+ os.system("cd AllHackingTools")
+ os.system("cd TermuxBackupTools") 
+ os.system("./rewind -r")
+elif(op==10):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
  sys.exit()
-elif(op==9):
+elif(op==11):
  os.system("cd")
  os.system("cd AllHackingTool")
  os.system("python2 MainMenu.py")
