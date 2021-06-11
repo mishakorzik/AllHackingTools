@@ -33,11 +33,11 @@ elif(op==4):
  sys.exit()
 elif(op==5):
  os.system("cd")
- os.system("cd AllHackingTool")
+ os.system("cd AllHackingTools")
  os.system("python2 MainMenu.py")
 else:
  print("\033[1;31;40mInvalid input. Reloading Tools") 
  time.sleep(1.6)
  os.system("cd")
- os.system("cd AllHackingTool")
+ os.system("cd AllHackingTools")
  os.system("python2 Files/SQLinjectionMenu.py")
