@@ -54,15 +54,9 @@ elif(op==6):
  time.sleep(1)
  os.system("cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==8):
- os.system("cd")
- os.system("cd AllHackingTools")
- os.system("cd TermuxBackupTools") 
- os.system("./rewind -b")
+ os.system("cd && cd AllHackingTools && cd TermuxBackupTools && ./rewind -b")
 elif(op==9):
- os.system("cd")
- os.system("cd AllHackingTools")
- os.system("cd TermuxBackupTools") 
- os.system("./rewind -r")
+ os.system("cd && cd AllHackingTools && cd TermuxBackupTools && ./rewind -r")
 elif(op==10):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
