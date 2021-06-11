@@ -10,3 +10,7 @@ clear
 cd
 cd
 cd AllHackingTools
+git clone https://github.com/laraib07/TermuxBackupTools
+cd
+cd
+cd AllHackingTools
