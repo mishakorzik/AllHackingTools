@@ -73,6 +73,8 @@ pip2 install progressbar
 pip2 install future
 pip3 install future
 pip3 install colorama
+pkg install lolcat
+apt install lolcat
 pip2 install colorama
 pip install flask
 pip2 install flask_socketio
