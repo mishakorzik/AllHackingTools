@@ -79,7 +79,7 @@ elif(op==13):
 elif(op==14):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("bash src/InfErr.sh")
+ os.system("python2 Files/Other.py")
 elif(op==15):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
