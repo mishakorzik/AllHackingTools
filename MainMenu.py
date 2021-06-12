@@ -5,7 +5,7 @@ import random
 import sys
 
 os.system("clear")
-os.system("bash Logo.sh")
+os.system("bash src/Logo.sh")
 os.system("bash src/MenuOps.sh")
 
 Green="\033[1;33m"
