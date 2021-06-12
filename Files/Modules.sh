@@ -130,10 +130,10 @@ echo '
 ██║░░██║██║░░██║██║╚████║██╔══╝░░
 ██████╔╝╚█████╔╝██║░╚███║███████╗
 ╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝
-echo Developer : mishakorzhik
-echo created on: 23 05 2021
-echo code      : python, bash
-'|lolcat
+Developer : mishakorzhik
+created on: 23 05 2021
+code      : python, bash
+'|lolcat -p 1.0
 echo "Run command to Start: ./msdconsole"
 cd
 cd
