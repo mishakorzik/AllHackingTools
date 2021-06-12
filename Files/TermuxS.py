@@ -28,6 +28,7 @@ elif(op==2):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("w3m http://google.com/")
+ os.system("cd && cd AllHackingTools && python2 Files/TermuxS.py")
 elif(op==3):
  os.system("cd && cd AllHackingTools")
  os.system("termux-battery-status")
@@ -37,6 +38,7 @@ elif(op==4):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("bash src/PassGenerator.sh")
+ os.system("cd && cd AllHackingTools && python2 Files/TermuxS.py")
 elif(op==5):
  os.system("cd")
  os.system("cd AllHackingTools")
@@ -61,7 +63,7 @@ elif(op==9):
 elif(op==10):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
- sys.exit()
+ time.sleep(0.7)
 elif(op==11):
  os.system("cd")
  os.system("cd AllHackingTools")
