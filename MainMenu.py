@@ -95,8 +95,7 @@ elif(op==17):
  os.system("bash src/About.sh")
 elif(op==18):
  print("\033[1;31;40mQuiting utility...")
- time.sleep(1)
- sys.exit()
+ time.sleep(0.7)
 else:
  print("\033[1;31;40mInvalid input. Reloading Tools") 
  time.sleep(1.6)
