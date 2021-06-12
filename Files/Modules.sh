@@ -63,10 +63,14 @@ echo "╚═════╝░╚═╝░░╚═╝╚═════╝░�
 sleep 2
 echo -e $b">"$w" installing modules: "$g"pip"$w
 apt-get install pip
+pkg install pip
+pkg install pip2
 apt-get install pip2
 apt-get install neofetch
+pkg install neofetch
 apt-get install pip3
 apt-get install termux-api
+pkg install termux-api
 pip2 install --upgrade pip
 pip2 install passlib
 pip2 install progressbar
