@@ -22,18 +22,18 @@
 ## Installing for termux.
 
 * `pkg install git`
-* `git clone https://github.com/mishakorzik/AllHackingTools`
-* `cd AllHackingTools`
-* `bash Install.sh`
+* `git clone https://github.com/mzik/AllHackingTools`
+* `cd AllHa
+*
 
 ---
 
 ## Installing for linux.
 
 * `pkg install git`
-* `git clone https://github.com/mishakorzik/AllHackingTools`
-* `cd AllHackingTools`
-* `bash Files/Modules.sh`
+* `git clone https://gihakorzik/AllHackingTools`
+* `cd AllHa
+* `
 
 #### Everything is ready!  Now we are waiting for everything to download!
 
