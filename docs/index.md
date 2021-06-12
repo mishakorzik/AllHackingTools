@@ -61,14 +61,16 @@
 * `pv` `neofetch`
 * `zsh` 
 
-#### And More packages!
-
+#### And more packages!
 ------
 ## Screanshot
-#### view a screanshot for allHackingTool
+#### view a screanshot for AllHackingTools
 <br>
 <p align="center">
-<img width="99.0%" src="IMG_20210605_203052.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/IMG_20210612_102217.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/IMG_20210612_105037.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/IMG_20210612_105013.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/IMG_20210612_105401.jpg"/> 
 </p>
 
 -----
