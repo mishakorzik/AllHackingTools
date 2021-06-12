@@ -41,6 +41,7 @@ elif(op==5):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("termux-style")
+ os.system("cd && cd AllHackingTools && python2 Files/TermuxS.py")
 elif(op==7):
  os.system("cd")
  os.system("cd AllHackingTools")
@@ -51,8 +52,8 @@ elif(op==6):
  os.system("cd .. && cd usr/var/log/apt && rm -r history.log && rm -r term.log && rm -r eipp.log.xz && cd .. && rm -r alternatives.log")
  time.sleep(0.5)
  print("\033[1;31;40mTermux logs has been cleaned...")
- time.sleep(1)
- os.system("cd && cd AllHackingTools && python2 MainMenu.py")
+ time.sleep(0.6)
+ os.system("cd && cd AllHackingTools && python2 Files/TermuxS.py")
 elif(op==8):
  os.system("cd && cd AllHackingTools && cd TermuxBackupTools && ./rewind -b")
 elif(op==9):
