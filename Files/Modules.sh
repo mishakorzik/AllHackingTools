@@ -73,10 +73,11 @@ apt-get install termux-api
 pkg install termux-api
 pip2 install --upgrade pip
 pip2 install passlib
+pip install passlib
 pip2 install progressbar
+pip install progressbar
 pip2 install future
-pip3 install future
-pip3 install colorama
+pip install future
 pip install lolcat
 pip2 install colorama
 pip install flask
