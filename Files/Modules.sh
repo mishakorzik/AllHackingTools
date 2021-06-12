@@ -79,6 +79,7 @@ pip install progressbar
 pip2 install future
 pip install future
 pip install lolcat
+gem install lolcat
 pip2 install colorama
 pip install flask
 pip2 install flask_socketio
