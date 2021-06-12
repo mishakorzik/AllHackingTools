@@ -113,6 +113,7 @@ bash Files/AnalystickFiles.sh
 bash Files/PassworldFiles.sh
 bash Files/IpFiles.sh
 bash Files/TermuxSFiles.sh
+bash Files/OtherFiles.sh
 cd
 cd
 cd AllHackingTools
