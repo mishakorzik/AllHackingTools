@@ -33,4 +33,9 @@ chmod 777 /bin/spymer
 cd
 cd
 cd AllHackingTools
+git clone https://github.com/TheSpeedX/TBomb.git
+cd TBomb
+cd
+cd
+cd AllHackingTools
 
