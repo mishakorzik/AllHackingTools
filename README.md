@@ -36,8 +36,7 @@
 ## Installing for Ubuntu.
 
 * `apt-get install git`
-* `apt-get install lolcat`
-* `gem install lolcat`
+* `apt-get install python`
 * `git clone https://github.com/mishakorzik/AllHackingTools`
 * `cd AllHackingTools`
 * `bash Files/InstallUbuntu.sh`
