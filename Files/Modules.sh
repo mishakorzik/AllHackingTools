@@ -37,6 +37,9 @@ echo -e $b">"$w" installing modules: "$g"w3m"$w
 apt-get install w3m 
 echo -e $b">"$w" installing modules: "$g"figlet"$w
 apt-get install figlet
+pkg install pip
+pip install lolcat
+gem install lolcat
 echo -e $b">"$w" installing modules: "$g"zip"$w
 apt-get install zip 
 echo -e $b">"$w" installing modules: "$g"lolcat"$w
@@ -64,8 +67,6 @@ echo '
 '|lolcat -p 1.5
 sleep 2
 echo -e $b">"$w" installing modules: "$g"pip"$w
-apt-get install pip
-pkg install pip
 pkg install pip2
 apt-get install pip2
 apt-get install neofetch
@@ -80,8 +81,6 @@ pip2 install progressbar
 pip install progressbar
 pip2 install future
 pip install future
-pip install lolcat
-gem install lolcat
 pip2 install colorama
 pip install flask
 pip2 install flask_socketio
