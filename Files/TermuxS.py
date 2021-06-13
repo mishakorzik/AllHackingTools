@@ -16,8 +16,9 @@ print("  \033[1;34m[ 06 ] >> \033[1;36;40mClear logs")
 print("  \033[1;34m[ 07 ] >> \033[1;36;40mTermux commands")
 print("  \033[1;34m[ 08 ] >> \033[1;36;40mCreate TermuxBackup")
 print("  \033[1;34m[ 09 ] >> \033[1;36;40mRestore TermuxBackup")
-print("  \033[1;34m[ 10 ] >> \033[1;36;40mExit system")
-print("  \033[1;34m[ 11 ] >> \033[1;36;40mBack To MainMenu")
+print("  \033[1;34m[ 10 ] >> \033[1;36;40mReset TermuxPackages")
+print("  \033[1;34m[ 11 ] >> \033[1;36;40mExit system")
+print("  \033[1;34m[ 12 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("TermUxPane1: "))
 
@@ -61,10 +62,12 @@ elif(op==8):
 elif(op==9):
  os.system("cd && cd AllHackingTools && cd TermuxBackupTools && ./rewind -r")
 elif(op==10):
+ os.system("cd && pkg remove game-repo && pkg remove science-repo")
+elif(op==11):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
  time.sleep(0.7)
-elif(op==11):
+elif(op==12):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("python2 MainMenu.py")
