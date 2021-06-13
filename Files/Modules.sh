@@ -121,6 +121,7 @@ echo '
 ╚═╝╚═╝░░╚══╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚══════╝╚═╝╚═╝░░╚══╝░╚═════╝░
 '|lolcat -a -d 8 -s 35.0 -p 1.7
 bash Files/PassworldFiles.sh
+bash Files/DarkSearchFiles.sh
 bash Files/IpFiles.sh
 bash Files/TermuxSFiles.sh
 bash Files/OtherFiles.sh
