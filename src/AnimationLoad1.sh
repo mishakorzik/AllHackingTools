@@ -108,7 +108,7 @@ printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ Loading ..\n"
 sleep 0.01
 clear
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ Loading ...\n"
-leep 0.04
+leep 0.02
 clear
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ Succesfull!\n"
 sleep 0.2
