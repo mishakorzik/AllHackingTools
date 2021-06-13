@@ -19,7 +19,7 @@ if(op==1):
  os.system("cd && cd AllHackingTools && bash Files/Proxy/Logo.sh && python2 Files/Proxy/menu.py")
 elif(op==2):
  os.system("clear")
- os.system("cd && AllHackingTools && cd ProxyGen && python2 proxygen.py")
+ os.system("cd && cd AllHackingTools && cd ProxyGen && python2 proxygen.py")
 elif(op==3):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
