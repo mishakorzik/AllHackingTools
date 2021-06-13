@@ -8,10 +8,14 @@ cd
 cd AllHackingTools
 git clone https://github.com/4w4k3/KnockMail.git
 cd KnockMail
-sudo su
 pip install -r requeriments.txt
 cd 
 cd AllHackingTools 
 cd Files
 cd 
+cd AllHackingTools
+git clone https://github.com/thewhiteh4t/pwnedOrNot.git
+cd pwnedOrNot
+cd
+cd
 cd AllHackingTools
