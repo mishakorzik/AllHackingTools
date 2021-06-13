@@ -12,6 +12,11 @@ cd termux-style
 cd
 cd
 cd AllHackingTools
+cd Termux-Banner
+bash remove.sh
+cd
+cd
+cd AllHackingTools
 apt-get install git 
 echo -e $b">"$w" installing modules: "$g"python"$w
 apt-get install python
