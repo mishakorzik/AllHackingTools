@@ -49,7 +49,7 @@
 ## Dependencies
 #### If all this is then you can download!
 
-* `Ram  : 2436 МБ`
+* `Ram  : 2500 МБ`
 * `Root : NO ROOT`
 
 #### Okay let's go installing!
