@@ -37,6 +37,7 @@ echo -e $b">"$w" installing modules: "$g"w3m"$w
 apt-get install w3m 
 echo -e $b">"$w" installing modules: "$g"figlet"$w
 apt-get install figlet
+echo -e $b">"$w" installing modules: "$g"lolcat"$w
 pkg install pip
 pip install lolcat
 gem install lolcat
@@ -69,9 +70,6 @@ sleep 2
 echo -e $b">"$w" installing modules: "$g"pip"$w
 pkg install pip2
 apt-get install pip2
-apt-get install neofetch
-pkg install neofetch
-apt-get install pip3
 apt-get install termux-api
 pkg install termux-api
 pip2 install --upgrade pip
