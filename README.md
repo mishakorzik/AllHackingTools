@@ -28,10 +28,19 @@
 
 ## Installing for linux.
 
-* `pkg install git`
+* `apt install git`
 * `git clone https://github.com/mishakorzik/AllHackingTools`
 * `cd AllHackingTools`
 * `bash Files/Modules.sh`
+
+## Installing for Ubuntu.
+
+* `apt-get install git`
+* `apt-get install lolcat`
+* `gem install lolcat`
+* `git clone https://github.com/mishakorzik/AllHackingTools`
+* `cd AllHackingTools`
+* `bash Files/InstallUbuntu.sh`
 
 #### Everything is ready!  Now we are waiting for everything to download!
 
