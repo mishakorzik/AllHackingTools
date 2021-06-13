@@ -94,7 +94,8 @@ elif(op==17):
  time.sleep(0.3)
  os.system("bash src/About.sh")
 elif(op==18):
- print("\033[1;31;40mQuiting utility...")
+ os.system("cd && cd AllHackingTools && bash src/Logo.sh")
+ print("\033[1;31;40mExiting System...")
  time.sleep(0.7)
 else:
  print("\033[1;31;40mInvalid input. Reloading Tools") 
@@ -102,3 +103,6 @@ else:
  os.system("cd")
  os.system("cd AllHackingTool")
  os.system("python2 MainMenu.py")
+except KeyboardInterrupt:
+        os.system("cd && cd AllHackingTools && bash src/Logo.sh")
+	print("\n%Exiting System..."%(c))
