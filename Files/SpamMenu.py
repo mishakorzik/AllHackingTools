@@ -7,14 +7,14 @@ import sys
 os.system("clear")
 os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 
-print("  # \033[1;34m[ 01 ] >> \033[1;36;40mSMS-Bomber-300 - bomber for 300 services")
-print("  # \033[1;34m[ 02 ] >> \033[1;36;40mXLR8_BOMBER - hard bomber & cals")
-print("  # \033[1;34m[ 03 ] >> \033[1;36;40mAnon-SMS - Send Messages Anonymously")
-print("  # \033[1;34m[ 04 ] >> \033[1;36;40mSpymer - more options sms and cals bomber")
-print("  # \033[1;34m[ 05 ] >> \033[1;36;40mAres-Bomb - medium bomber")
-print("  # \033[1;34m[ 06 ] >> \033[1;36;40mTBomb - Is SMS And Call Bomber")
-print("  # \033[1;34m[ 07 ] >> \033[1;36;40mExit Utility")
-print("  # \033[1;34m[ 08 ] >> \033[1;36;40mBack To MainMenu")
+print("  \033[1;34m[ 01 ] >> \033[1;36;40mSMS-Bomber-300 - bomber for 300 services")
+print("  \033[1;34m[ 02 ] >> \033[1;36;40mXLR8_BOMBER - hard bomber & cals")
+print("  \033[1;34m[ 03 ] >> \033[1;36;40mAnon-SMS - Send Messages Anonymously")
+print("  \033[1;34m[ 04 ] >> \033[1;36;40mSpymer - more options sms and cals bomber")
+print("  \033[1;34m[ 05 ] >> \033[1;36;40mAres-Bomb - medium bomber")
+print("  \033[1;34m[ 06 ] >> \033[1;36;40mTBomb - Is SMS And Call Bomber")
+print("  \033[1;34m[ 07 ] >> \033[1;36;40mExit Utility")
+print("  \033[1;34m[ 08 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("SpymER: "))
 
