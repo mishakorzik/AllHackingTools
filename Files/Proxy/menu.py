@@ -2,7 +2,7 @@ import requests
 import os
 import time
 import random
-from bs4 import *
+from bs4 import BeautifulSoup
 import sys
 
 Green="\033[1;33m"
