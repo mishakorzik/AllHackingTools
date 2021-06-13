@@ -12,8 +12,9 @@ print("  # \033[1;34m[ 02 ] >> \033[1;36;40mXLR8_BOMBER - hard bomber & cals")
 print("  # \033[1;34m[ 03 ] >> \033[1;36;40mAnon-SMS - Send Messages Anonymously")
 print("  # \033[1;34m[ 04 ] >> \033[1;36;40mSpymer - more options sms and cals bomber")
 print("  # \033[1;34m[ 05 ] >> \033[1;36;40mAres-Bomb - medium bomber")
-print("  # \033[1;34m[ 06 ] >> \033[1;36;40mExit Utility")
-print("  # \033[1;34m[ 07 ] >> \033[1;36;40mBack To MainMenu")
+print("  # \033[1;34m[ 06 ] >> \033[1;36;40mTBomb - Is SMS And Call Bomber")
+print("  # \033[1;34m[ 07 ] >> \033[1;36;40mExit Utility")
+print("  # \033[1;34m[ 08 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("SpymER: "))
 
@@ -33,10 +34,13 @@ elif(op==5):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd AresBomb && python boom.py")
 elif(op==6):
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && cd TBomb && ./TBomb.sh")
+elif(op==7):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
  sys.exit()
-elif(op==7):
+elif(op==8):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("python2 MainMenu.py")
