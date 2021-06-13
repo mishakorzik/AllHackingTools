@@ -1,3 +1,8 @@
+import requests
+import os
+import time
+import random
+import sys
 os.system("clear")
 os.system("cd")
 os.system("cd AllHackingTools")
