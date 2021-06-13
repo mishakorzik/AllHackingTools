@@ -12,7 +12,7 @@ print("  \033[1;34m[ 02 ] >> \033[1;36;40mRemove Banner")
 print("  \033[1;34m[ 03 ] >> \033[1;36;40mExit Utility")
 print("  \033[1;34m[ 04 ] >> \033[1;36;40mBack To MainMenu")
 
-op=int(raw_input("BanNèŗ: "))
+op=int(raw_input("BanNer: "))
 
 if(op==1):
  os.system("clear")
