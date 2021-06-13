@@ -103,6 +103,3 @@ else:
  os.system("cd")
  os.system("cd AllHackingTool")
  os.system("python2 MainMenu.py")
-except KeyboardInterrupt:
-        os.system("cd && cd AllHackingTools && bash src/Logo.sh")
-	print("\n%Exiting System..."%(c))
