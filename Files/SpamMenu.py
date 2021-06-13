@@ -7,7 +7,7 @@ import sys
 os.system("clear")
 os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 
-print("  # \033[1;34m[ 01 ] >> \033[1;36;40mSMS-Bomber-300 - ultra bomber for 300 services")
+print("  # \033[1;34m[ 01 ] >> \033[1;36;40mSMS-Bomber-300 - bomber for 300 services")
 print("  # \033[1;34m[ 02 ] >> \033[1;36;40mXLR8_BOMBER - hard bomber & cals")
 print("  # \033[1;34m[ 03 ] >> \033[1;36;40mAnon-SMS - Send Messages Anonymously")
 print("  # \033[1;34m[ 04 ] >> \033[1;36;40mSpymer - more options sms and cals bomber")
