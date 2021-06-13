@@ -11,7 +11,7 @@ print("  \033[1;34m[ 01 ] >> \033[1;36;40mAstraNmap - Security scanner used to f
 print("  \033[1;34m[ 02 ] >> \033[1;36;40mEvilURL - Generate unicode evil domains for IDN Homograph Attack and detect them")
 print("  \033[1;34m[ 03 ] >> \033[1;36;40mOSIF - Open Source Information Facebook")
 print("  \033[1;34m[ 04 ] >> \033[1;36;40mWeeman - HTTP server for phishing in python")
-print("  #033[1;34m[ 05 ] >> \033[1;36;40mMaxSubdoFinder - Tool for Discovering Subdomain")
+print("  \033[1;34m[ 05 ] >> \033[1;36;40mMaxSubdoFinder - Tool for Discovering Subdomain")
 print("  \033[1;34m[ 06 ] >> \033[1;36;40mEasymap - Nmap Shortcut")
 print("  \033[1;34m[ 07 ] >> \033[1;36;40mTrape - People tracker on the Internet OSINT")
 print("  \033[1;34m[ 08 ] >> \033[1;36;40mRed Hawk - Information Gathering, Vulnerability Scanning and Crawling")
