@@ -15,7 +15,7 @@ op=int(raw_input("OthErTo01s: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Free-Proxy && bash FreeProxy.sh")
+ os.system("cd && cd AllHackingTools && bash Files/Proxy/Logo.sh && python2 Files/Proxy/menu.py")
 elif(op==2):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
