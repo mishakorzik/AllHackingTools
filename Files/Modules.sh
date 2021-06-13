@@ -76,6 +76,7 @@ pip2 install --upgrade pip
 pip2 install passlib
 pip install passlib
 pip2 install progressbar
+pip2 install -r beautifulsoup4==4.8.0
 pip install progressbar
 pip2 install future
 pip install future
