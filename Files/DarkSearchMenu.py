@@ -15,7 +15,7 @@ op=int(raw_input("DarkSearch: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd darkdump && python3 darkdump.py")
+ os.system("cd && cd AllHackingTools && python2 Files/DarkDump.py")
 elif(op==2):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
