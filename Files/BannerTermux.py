@@ -17,9 +17,11 @@ op=int(raw_input("BanNer: "))
 if(op==1):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd Termux-Banner && bash t-ban.sh")
+ os.system("cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==2):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd Termux-Banner && bash remove.sh")
+ os.system("cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==3):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
