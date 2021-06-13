@@ -31,7 +31,6 @@ elif(op==2):
 elif(op==3):
  print("\033[1;31;40mQuiting system...")
  time.sleep(1)
- sys.exit()
 else:
  print("\033[1;31;40mInvalid input. Back To MainMenu...")
  time.sleep(1)
