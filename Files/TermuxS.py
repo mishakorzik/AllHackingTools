@@ -65,7 +65,7 @@ elif(op==9):
 elif(op==10):
  os.system("cd && pkg remove game-repo && pkg remove science-repo")
 elif(op==11):
- os.system("cd && cd AllHackingTools && cd Termux-Banner/zsh && bash t-ban.sh")
+ os.system("cd && cd AllHackingTools && python2 Files/BannerTermux.py")
 elif(op==12):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
