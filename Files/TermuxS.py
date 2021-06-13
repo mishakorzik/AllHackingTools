@@ -17,6 +17,7 @@ print("  \033[1;34m[ 07 ] >> \033[1;36;40mTermux commands")
 print("  \033[1;34m[ 08 ] >> \033[1;36;40mCreate TermuxBackup")
 print("  \033[1;34m[ 09 ] >> \033[1;36;40mRestore TermuxBackup")
 print("  \033[1;34m[ 10 ] >> \033[1;36;40mReset TermuxPackages")
+print("  \033[1;34m[ 11 ] >> \033[1;36;40mTermux Banner")
 print("  \033[1;34m[ 12 ] >> \033[1;36;40mExit system")
 print("  \033[1;34m[ 13 ] >> \033[1;36;40mBack To MainMenu")
 
