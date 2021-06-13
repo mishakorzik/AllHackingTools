@@ -4,7 +4,7 @@ apt-get install npm
 cd
 cd AllHackingTools
 git clone https://github.com/Bhaviktutorials/shark
-cd shark chmod +x *
+cd shark && chmod +x *
 ./setup
 cd
 cd AllHackingTools
