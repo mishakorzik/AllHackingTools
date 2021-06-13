@@ -14,8 +14,7 @@ echo '
 ┃╭━━┫╭┫┃━┫━━┫━━┫┃╭━━┫╭╮┫┃┃┃━┫╭╯╱╱┃┃┃╭╮┃╰━━╮┃┃┃┃╭╮┃╭┫┃
 ┃┃╱╱┃┃┃┃━╋━━┣━━┃┃╰━━┫┃┃┃╰┫┃━┫┃╱╱╱┃┃┃╰╯┃┃╰━╯┃┃╰┫╭╮┃┃┃╰╮
 ╰╯╱╱╰╯╰━━┻━━┻━━╯╰━━━┻╯╰┻━┻━━┻╯╱╱╱╰╯╰━━╯╰━━━╯╰━┻╯╰┻╯╰━╯
-Please press enter to launch...
-'|lolcat -p 1.7 -a -d 7 -s 45.0
+Please press enter to launch...'|lolcat -p 1.7 -a -d 7 -s 45.0
 read a1
 echo -e $b">"$w" verify modules: "$g"python2"$w
 apt-get install python
