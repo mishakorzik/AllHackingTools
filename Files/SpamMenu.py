@@ -29,7 +29,7 @@ elif(op==3):
  os.system("cd && cd AllHackingTools && cd Anon-SMS && bash Run.sh")
 elif(op==4):
  os.system("clear")
- os.system("cd && cd AllHackingTools && spymer")
+ os.system("cd && cd AllHackingTools && cd spymer && python spammer.py")
 elif(op==5):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd AresBomb && python boom.py")
