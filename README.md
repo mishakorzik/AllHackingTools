@@ -98,7 +98,7 @@
 #### succesfull!
 ------
 ## Start utility for hacking!
-#### cd && cd AllHackingTools && bash AllHackingTool.sh 
+#### ./msdconsole
 
 #### It downloads packages and utilities and configures the utilities.
 
