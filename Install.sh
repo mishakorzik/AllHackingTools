@@ -16,4 +16,4 @@ sleep 1
 cd
 cd
 cd AllHackingTools
-bash Files/Modules.sh
+python2 src/InstallMenu.py
