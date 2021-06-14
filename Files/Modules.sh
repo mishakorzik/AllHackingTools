@@ -15,27 +15,27 @@ pkg install python
 pkg install python2
 pkg install python3
 echo -e $b">"$w" installing modules: "$g"wget"$w
-apt-get install wget 
+apt install wget 
 echo -e $b">"$w" installing modules: "$g"openssh"$w
-apt-get install openssh 
+apt install openssh 
 echo -e $b">"$w" installing modules: "$g"php"$w
-apt-get install php
+apt install php
 echo -e $b">"$w" installing modules: "$g"toilet"$w
-apt-get install toilet
+apt install toilet
 echo -e $b">"$w" installing modules: "$g"colorama"$w
-apt-get install colorama
+apt install colorama
 echo -e $b">"$w" installing modules: "$g"jq"$w
-apt-get install jq 
+apt install jq 
 echo -e $b">"$w" installing modules: "$g"apache2"$w
-apt-get install apache2
+apt install apache2
 echo -e $b">"$w" installing modules: "$g"ruby"$w
-apt-get install ruby 
+apt install ruby 
 echo -e $b">"$w" installing modules: "$g"ssl"$w
-apt-get install ssl
+apt install ssl
 echo -e $b">"$w" installing modules: "$g"w3m"$w
-apt-get install w3m 
+apt install w3m 
 echo -e $b">"$w" installing modules: "$g"figlet"$w
-apt-get install figlet
+apt install figlet
 echo -e $b">"$w" installing modules: "$g"lolcat"$w
 pkg install pip
 pkg install pip2
@@ -43,21 +43,21 @@ pip2 install --upgrade pip
 pip install lolcat
 gem install lolcat
 echo -e $b">"$w" installing modules: "$g"zip"$w
-apt-get install zip 
+apt install zip 
 echo -e $b">"$w" installing modules: "$g"lolcat"$w
-apt-get install lolcat
+apt install lolcat
 echo -e $b">"$w" installing modules: "$g"pv"$w
-apt-get install pv 
+apt install pv 
 echo -e $b">"$w" installing modules: "$g"neofetch"$w
-apt-get install neofetch
+apt install neofetch
 echo -e $b">"$w" installing modules: "$g"zsh"$w
-apt-get install zsh
+apt install zsh
 echo -e $b">"$w" installing modules: "$g"wget"$w
-apt-get install wget
+apt install wget
 echo -e $b">"$w" installing modules: "$g"neofetch"$w
-apt-get install neofetch
+apt install neofetch
 echo -e $b">"$w" installing modules: "$g"curl"$w
-apt-get install curl
+apt install curl
 sleep 1
 echo '
 ██████╗░░█████╗░░██████╗███████╗   ██╗███╗░░██╗░██████╗████████╗░█████╗░██╗░░░░░██╗░░░░░██╗███╗░░██╗░██████╗░
@@ -70,6 +70,8 @@ echo '
 sleep 2
 echo -e $b">"$w" installing modules: "$g"pip"$w
 pkg install pip2
+apt install python-dev -y
+apt install python3 -y
 apt-get install pip2
 pip install --upgrade pip2
 apt-get install termux-api
