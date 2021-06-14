@@ -7,13 +7,12 @@ import sys
 os.system("clear")
 os.system("cd && cd AllHackingTools && bash src/LiteLogo.sh")
 
-print("  \033[1;34mChoice installing options:")
 print("")
-print("  \033[1;34m[ 01 ] \033[1;36;40mDefault")
-print("  \033[1;34m[ 02 ] \033[1;36;40mCoded")
-print("  \033[1;34m[ 03 ] \033[1;36;40mQuit")
+print("  \033[1;34m[ 01 ] \033[1;36;40mDefault  -  Standart installing")
+print("  \033[1;34m[ 02 ] \033[1;36;40mCoded  -  Install via encoded code")
+print("  \033[1;34m[ 03 ] \033[1;36;40mQuit  -  Exit and do not download")
 
-op=int(raw_input("Ma1lHacK: "))
+op=int(raw_input("1nStall: "))
 
 if(op==1):
  os.system("clear")
@@ -27,4 +26,4 @@ elif(op==3):
  sys.exit()
 else:
  print("\033[1;31;40mInvalid input. Quiting") 
- time.sleep(1.6)
+ time.sleep(0.8)
