@@ -1,0 +1,2 @@
+read Bitext0
+toilet -fmono12 "$Bitext" | lolcat
