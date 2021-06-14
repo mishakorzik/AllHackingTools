@@ -135,6 +135,7 @@ cp msdconsole /data/data/com.termux/files/home/
 ls
 cd 
 cd 
+pkg upgrade
 chmod +x msdconsole
 sleep 1
 echo '
