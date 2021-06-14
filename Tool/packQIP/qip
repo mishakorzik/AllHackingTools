@@ -1,4 +1,0 @@
-cd
-cd
-cd /data/data/com.termux/files/usr/bin/packQIP/
-python2 qipMenu.py
