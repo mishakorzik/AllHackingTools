@@ -133,19 +133,19 @@ cd
 cd
 cd AllHackingTools
 cd Tool
-cp msdconsole /data/data/com.termux/files/home/
-cp msdconsole /data/data/com.termux/files/home/AllHackingTools/
-ls
+cp msdconsole /data/data/com.termux/files/usr/bin/
 cd
 cd
-cd AllHackingTools
+cd /data/data/com.termux/files/usr/bin/
 chmod +x msdconsole
+ls
+sleep 0.2
+clear
 cd 
 cd 
 pkg upgrade
 apt full-upgrade
 apt list
-chmod +x msdconsole
 sleep 0.4
 clear
 sleep 0.2
