@@ -1,0 +1,15 @@
+g="\033[1;32m"
+r="\033[1;31m"
+b="\033[1;34m"
+w="\033[0m"
+o="\033[1;33m"
+
+clear
+echo -e $w"["$o"SYSTEM"$w"]"$b"Press enter. To update AllHackingTools"$w
+read a1
+sleep 0.2
+echo -e $w"["$o"SYSTEM"$w"]"$b"Please wait! Updating AllHackingTools"$w
+cd
+cd
+bash AllHackingTools/Files/Updater.sh
+
