@@ -78,6 +78,7 @@ sleep 2
 echo -e $b">"$w" installing modules: "$g"pip"$w
 pkg install pip2
 apt-get install pip2
+pip install --upgrade pip2
 apt-get install termux-api
 pkg install termux-api
 pip2 install --upgrade pip
