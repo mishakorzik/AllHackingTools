@@ -30,8 +30,11 @@ echo -e $b">"$w" installing modules: "$g"apache2"$w
 apt install apache2
 echo -e $b">"$w" installing modules: "$g"ruby"$w
 apt install ruby 
+echo -e $b">"$w" installing modules: "$g"clang"$w
+apt install clang
 echo -e $b">"$w" installing modules: "$g"ssl"$w
 apt install ssl -y
+apt install openssl -y
 echo -e $b">"$w" installing modules: "$g"w3m"$w
 apt install w3m -y
 echo -e $b">"$w" installing modules: "$g"figlet"$w
