@@ -17,7 +17,9 @@ bash remove.sh
 cd
 cd
 cd AllHackingTools
-apt-get install git 
+echo -e $b">"$w" upgrading packeges: "$g"pkg & apt"$w
+pkg upgrade
+apt upgrade
 echo -e $b">"$w" installing modules: "$g"python"$w
 apt-get install python
 echo -e $b">"$w" installing modules: "$g"wget"$w
