@@ -48,10 +48,18 @@
 * `Succes!`
 #### Run command to start AllHackingTools: ./msdconsole
 ----
+#### When prompted for the download type: Default/Coded
+
+> **Choose which installation is more convenient for you**
+
+> **If you can't download Dafault then choose: Coded**
+
+> **It is recommended to choose: Default**
+----------
 ## Dependencies
 #### If all this is then you can download!
 
-* `Ram  : 2500 МБ`
+* `Ram  : 2000 MB`
 * `Root : NO ROOT`
 
 #### Okay let's go installing!
