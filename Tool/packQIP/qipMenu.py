@@ -4,9 +4,6 @@ import time
 import random
 import sys
 
-os.system("clear")
-os.system("cd && cd AllHackingTools && clear && bash src/RunLogo.sh")
-
 print("  \033[1;34m[1] \033[1;36;40mInstall module")
 print("  \033[1;34m[2] \033[1;36;40mReinstall module")
 print("  \033[1;34m[3] \033[1;36;40mRemove module")
