@@ -5,17 +5,6 @@ w="\033[0m"
 
 cd
 cd
-rm -rf msdconsole
-cd AllHackingTools
-cd termux-style
-./uninstall
-cd
-cd
-cd AllHackingTools
-cd Termux-Banner
-bash remove.sh
-cd
-cd
 cd AllHackingTools
 echo -e $b">"$w" upgrading packeges: "$g"pkg & apt"$w
 pkg upgrade
