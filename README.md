@@ -29,10 +29,11 @@
 
 ## Installing for linux.
 
+* `apt upgrade`
 * `apt install git`
 * `git clone https://github.com/mishakorzik/AllHackingTools`
 * `cd AllHackingTools`
-* `bash Files/Modules.sh`
+* `bash Install.sh`
 
 ## Installing for Ubuntu.
 
@@ -40,7 +41,7 @@
 * `apt-get install python`
 * `git clone https://github.com/mishakorzik/AllHackingTools`
 * `cd AllHackingTools`
-* `bash Files/InstallUbuntu.sh`
+* `bash Install.sh`
 
 #### Everything is ready!  Now we are waiting for everything to download!
 
