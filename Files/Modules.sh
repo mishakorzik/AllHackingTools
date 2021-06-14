@@ -31,9 +31,9 @@ apt install apache2
 echo -e $b">"$w" installing modules: "$g"ruby"$w
 apt install ruby 
 echo -e $b">"$w" installing modules: "$g"ssl"$w
-apt install ssl
+apt install ssl -y
 echo -e $b">"$w" installing modules: "$g"w3m"$w
-apt install w3m 
+apt install w3m -y
 echo -e $b">"$w" installing modules: "$g"figlet"$w
 apt install figlet
 echo -e $b">"$w" installing modules: "$g"lolcat"$w
