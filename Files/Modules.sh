@@ -160,7 +160,7 @@ Developer : mishakorzhik
 created on: 23 05 2021
 code      : python, bash
 '|lolcat -p 1.0
-echo "Run command to Start: ./msdconsole"
+echo "Run command to Start: msdconsole"
 cd
 cd
 
