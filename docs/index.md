@@ -9,6 +9,7 @@
 
 * `Termux`
 * `Ubuntu`
+* `Linux`
 #### Here on these systems works AllHackingTools
 
 #### Tested on:
@@ -26,24 +27,39 @@
 * `cd AllHackingTools`
 * `bash Install.sh`
 
----
-
 ## Installing for linux.
 
-* `pkg install git`
+* `apt upgrade`
+* `apt install git`
 * `git clone https://github.com/mishakorzik/AllHackingTools`
 * `cd AllHackingTools`
-* `bash Files/Modules.sh`
+* `bash Install.sh`
+
+## Installing for Ubuntu.
+
+* `apt-get install git`
+* `apt-get install python`
+* `git clone https://github.com/mishakorzik/AllHackingTools`
+* `cd AllHackingTools`
+* `bash Install.sh`
 
 #### Everything is ready!  Now we are waiting for everything to download!
 
 * `Succes!`
 #### Run command to start AllHackingTools: ./msdconsole
 ----
+#### When prompted for the download type: Default/Coded
+
+> **Choose which installation is more convenient for you**
+
+> **If you can't download Dafault then choose: Coded**
+
+> **It is recommended to choose: Default**
+----------
 ## Dependencies
 #### If all this is then you can download!
 
-* `Ram  : 2GB`
+* `Ram  : 2000 MB`
 * `Root : NO ROOT`
 
 #### Okay let's go installing!
