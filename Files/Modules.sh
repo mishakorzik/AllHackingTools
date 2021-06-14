@@ -136,6 +136,10 @@ cd Tool
 cp msdconsole /data/data/com.termux/files/home/
 cp msdconsole /data/data/com.termux/files/home/AllHackingTools/
 ls
+cd
+cd
+cd AllHackingTools
+chmod +x msdconsole
 cd 
 cd 
 pkg upgrade
