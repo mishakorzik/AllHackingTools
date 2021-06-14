@@ -1,0 +1,3 @@
+read Bitext1
+toilet -fmono12 -F gay "$Bitext1" 
+
