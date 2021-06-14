@@ -136,8 +136,12 @@ ls
 cd 
 cd 
 pkg upgrade
+apt full-upgrade
+apt list
 chmod +x msdconsole
-sleep 1
+sleep 0.4
+clear
+sleep 0.2
 echo '
 ██████╗░░█████╗░███╗░░██╗███████╗
 ██╔══██╗██╔══██╗████╗░██║██╔════╝
