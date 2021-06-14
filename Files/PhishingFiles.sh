@@ -39,7 +39,6 @@ cd AllHackingTools
 git clone https://github.com/DeepSociety/AIOPhish
 cd AIOPhish
 bash install-termux.sh
-bash aiophish.sh
 cd
 cd
 cd AllHackingTools
