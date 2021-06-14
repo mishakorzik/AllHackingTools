@@ -4,9 +4,9 @@ import time
 import random
 import sys
 
-print("  \033[1;34m[1] \033[1;36;40mInstall module")
-print("  \033[1;34m[2] \033[1;36;40mReinstall module")
-print("  \033[1;34m[3] \033[1;36;40mRemove module")
+print(" \033[1;34m[1] \033[1;36;40mInstall module")
+print(" \033[1;34m[2] \033[1;36;40mReinstall module")
+print(" \033[1;34m[3] \033[1;36;40mRemove module")
 
 op=int(raw_input("qip: "))
 
