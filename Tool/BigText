@@ -1,0 +1,2 @@
+read BigText
+figlet -f big "$BigText" | lolcat -p 1.2
