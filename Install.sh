@@ -16,7 +16,4 @@ sleep 1
 cd
 cd
 cd AllHackingTools
-pkg remove game-repo
-pkg remove science-repo
-pkg clean
 bash Files/Modules.sh
