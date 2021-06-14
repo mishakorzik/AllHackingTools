@@ -5,7 +5,7 @@ import random
 import sys
 
 os.system("clear")
-os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
+os.system("cd && cd AllHackingTools && clear && bash src/RunLogo.sh")
 
 print("  \033[1;34m[ 01 ] >> \033[1;36;40mCreate Banner")
 print("  \033[1;34m[ 02 ] >> \033[1;36;40mRemove Banner")
