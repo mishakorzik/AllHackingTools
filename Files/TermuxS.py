@@ -63,7 +63,7 @@ elif(op==8):
 elif(op==9):
  os.system("cd && cd AllHackingTools && cd TermuxBackupTools && ./rewind -r")
 elif(op==10):
- os.system("cd && pkg remove game-repo && pkg remove science-repo && pkg clean && apt clean && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && pkg clean && apt clean && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==11):
  os.system("cd && cd AllHackingTools && python2 Files/BannerTermux.py")
 elif(op==12):
