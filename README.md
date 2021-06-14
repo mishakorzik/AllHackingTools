@@ -46,7 +46,7 @@
 #### Everything is ready!  Now we are waiting for everything to download!
 
 * `Succes!`
-#### Run command to start AllHackingTools: ./msdconsole
+#### Run command to start AllHackingTools: msdconsole
 ----
 #### When prompted for the download type: Default/Coded
 
@@ -98,7 +98,7 @@
 #### succesfull!
 ------
 ## Start utility for hacking!
-#### ./msdconsole
+#### msdconsole
 
 #### It downloads packages and utilities and configures the utilities.
 
