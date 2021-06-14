@@ -46,6 +46,7 @@ echo -e $b">"$w" installing modules: "$g"figlet"$w
 apt-get install figlet
 echo -e $b">"$w" installing modules: "$g"lolcat"$w
 pkg install pip
+pip install --upgrade pip
 pip install lolcat
 gem install lolcat
 echo -e $b">"$w" installing modules: "$g"zip"$w
