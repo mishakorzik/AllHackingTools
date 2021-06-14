@@ -12,6 +12,4 @@ pip2 install requests
 cd
 cd
 cd AllHackingTools
-rm -rf docs
-rm -rf .github
 python2 src/InstallMenu.py
