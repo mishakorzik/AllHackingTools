@@ -1,2 +1,0 @@
-read Bitext2
-toilet -fmono12 -F metal "$Bitext2" 
