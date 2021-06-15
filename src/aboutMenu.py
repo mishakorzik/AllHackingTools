@@ -16,19 +16,19 @@ Reset="\033[0m"
 Red="\033[1;31m"
 Purple="\033[0;35m"
 
-op=int(raw_input("Y0uR D1ya: "))
+opd=int(raw_input("Options: "))
 
-if(op==1):
+if(opd==1):
  os.system("cd")
  os.system("cd AllHackingTool")
  os.system("python2 MainMenu.py")
-elif(op==2):
+elif(opd==2):
  print("\033[1;31;40mRebooting...")
  time.sleep(1)
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("bash AllHackingTool.sh")
-elif(op==3):
+elif(opd==3):
  print("\033[1;31;40mQuiting system...")
  time.sleep(1)
  sys.exit()
