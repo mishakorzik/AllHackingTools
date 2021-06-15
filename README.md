@@ -10,12 +10,13 @@
 * `Termux`
 * `Ubuntu`
 * `Linux`
+
 #### Here on these systems works AllHackingTools
 
 ## Tool tested on:
 
 * `Termux`
-* `Ubuntu`
+* `Linux`
 * `Terminal`
 
 ---
