@@ -16,7 +16,7 @@ Reset="\033[0m"
 Red="\033[1;31m"
 Purple="\033[0;35m"
 
-op=int(raw_input("Y0uR D1ya: "))
+op=int(raw_input("Y0uRD1ya: "))
 
 if(op==1):
  os.system("cd")
