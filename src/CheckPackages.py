@@ -6,7 +6,7 @@ W = '\033[0m'
 from shutil import which
 
 print(G + '[ + ]' + C + ' Checking Packages...' + W)
-pkgs = ['python', 'pip', 'python2', 'ssh', 'lolcat', 'figlet', 'pip2', 'git', 'wget', 'openssh', 'clang', 'neofetch']
+pkgs = ['python', 'pip', 'python2', 'ssh', 'lolcat', 'figlet', 'pip2', 'git', 'wget', 'openssh', 'clang', 'neofetch', 'pv', 'zsh', 'curl', 'w3m']
 inst = True
 for pkg in pkgs:
         present = which(pkg)
