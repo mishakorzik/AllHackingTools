@@ -18,8 +18,9 @@ print("  \033[1;34m[ 08 ] >> \033[1;36;40mCreate TermuxBackup")
 print("  \033[1;34m[ 09 ] >> \033[1;36;40mRestore TermuxBackup")
 print("  \033[1;34m[ 10 ] >> \033[1;36;40mReset TermuxPackages")
 print("  \033[1;34m[ 11 ] >> \033[1;36;40mTermux Banner")
-print("  \033[1;34m[ 12 ] >> \033[1;36;40mExit system")
-print("  \033[1;34m[ 13 ] >> \033[1;36;40mBack To MainMenu")
+print("  \033[1;34m[ 12 ] >> \033[1;36;40mCheck Packages")
+print("  \033[1;34m[ 13 ] >> \033[1;36;40mExit system")
+print("  \033[1;34m[ 14 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("TermUxPane1: "))
 
@@ -67,10 +68,12 @@ elif(op==10):
 elif(op==11):
  os.system("cd && cd AllHackingTools && bash src/Inf.sh && python2 Files/BannerTermux.py")
 elif(op==12):
+ os.system("cd && cd AllHackingTools && python src/CheckPackages.py && python2 Files/TermuxS.py ")
+elif(op==13):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
  time.sleep(0.7)
-elif(op==13):
+elif(op==14):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("python2 MainMenu.py")
