@@ -23,8 +23,8 @@ if(opd==1):
  os.system("cd AllHackingTool")
  os.system("python2 MainMenu.py")
 elif(opd==2):
- print("\033[1;31;40mRebooting...")
- time.sleep(1)
+ print("\033[1;31;40mRebooting system...")
+ time.sleep(0.7)
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("bash AllHackingTool.sh")
