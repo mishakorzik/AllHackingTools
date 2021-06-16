@@ -27,7 +27,7 @@ elif(opd==2):
  time.sleep(0.7)
  os.system("cd")
  os.system("cd AllHackingTools")
- os.system("bash AllHackingTool.sh")
+ os.system("bash src/AllHackingTool.sh")
 elif(opd==3):
  print("\033[1;31;40mQuiting system...")
  time.sleep(1)
