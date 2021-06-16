@@ -21,7 +21,5 @@ if inst == False:
         exit()
 else:
         pass
-print(G + '[ ✔ ]' + C + ' Succesfull checked! modules...' + W)
-time.sleep(0.2)
 print(G + '[ ✔ ]' + C + ' All modules installed...' + W)
-time.sleep(0.1)
+time.sleep(0.3)
