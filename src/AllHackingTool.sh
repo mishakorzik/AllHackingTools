@@ -38,4 +38,3 @@ echo "Succesfull verifined!"
 clear
 sleep 0.2
 python2 MainMenu.py
-termux-vibrate -d 120 -f
