@@ -23,3 +23,9 @@ clear
 cd
 cd
 cd AllHackingTools
+git clone https://github.com/mishakorzik/qiq
+cd qiq
+bash install.sh
+cd
+cd
+cd AllHackingTools
