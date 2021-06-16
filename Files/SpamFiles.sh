@@ -38,4 +38,10 @@ cd TBomb
 cd
 cd
 cd AllHackingTools
+git clone https://github.com/batiscuff/duplo-bomber
+cd duplo-bomber
+pip install -r requirements.txt
+cd
+cd
+cd AllHackingTools
 
