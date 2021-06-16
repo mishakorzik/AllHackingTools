@@ -20,7 +20,7 @@ opd=int(raw_input("Options: "))
 
 if(opd==1):
  os.system("cd")
- os.system("cd AllHackingTool")
+ os.system("cd AllHackingTool && bash src/Inf.sh")
  os.system("python2 MainMenu.py")
 elif(opd==2):
  print("\033[1;31;40mRebooting system...")
