@@ -19,3 +19,4 @@ if inst == False:
         exit()
 else:
         pass
+print(G + '[ ✔ ]' + C + ' All modules succesfull checked...' + W)
