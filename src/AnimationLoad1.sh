@@ -94,7 +94,6 @@ printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒ Loading ..\n"
 printf "\nPlease wait a moment ..!\n"
 sleep 0.01
 clear
-termux-vibrate -d 100 -f
 help
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒ Loading ...\n"
 printf "\nPlease wait a moment ..!\n"
