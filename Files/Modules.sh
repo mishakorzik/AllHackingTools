@@ -7,8 +7,7 @@ cd
 cd
 cd AllHackingTools
 echo -e $b">"$w" upgrading packeges: "$g"pkg & apt"$w
-pkg upgrade
-apt upgrade
+apt update && apt upgrade
 echo -e $b">"$w" installing modules: "$g"python"$w
 apt-get install python
 pkg install python
@@ -30,6 +29,7 @@ echo -e $b">"$w" installing modules: "$g"apache2"$w
 apt install apache2
 echo -e $b">"$w" installing modules: "$g"ruby"$w
 apt install ruby 
+pkg install ruby
 echo -e $b">"$w" installing modules: "$g"clang"$w
 apt install clang
 echo -e $b">"$w" installing modules: "$g"ssl"$w
