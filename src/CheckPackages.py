@@ -11,7 +11,7 @@ inst = True
 for pkg in pkgs:
         present = which(pkg)
         if present == None:
-                print(R + '[ - ] ' + W + packages + C + ' is not Installed!')
+                print(R + '[ - ] ' + W + pkg + C + ' is not Installed!')
                 inst = False
         else:
                 pass
