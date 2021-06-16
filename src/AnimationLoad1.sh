@@ -110,4 +110,7 @@ leep 0.02
 clear
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ Succesfull!\n"
 sleep 0.2
-python CheckPackages.py
+cd
+cd
+cd AllHackingTools
+python src/CheckPackages.py
