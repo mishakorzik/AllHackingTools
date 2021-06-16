@@ -5,13 +5,13 @@ W = '\033[0m'
 
 from shutil import which
 
-print(G + '[ + ]' + C + ' Checking Packages...' + W)
+print(G + '[ ✔ ]' + C + ' Checking Packages...' + W)
 pkgs = ['python', 'pip', 'python2', 'ssh', 'lolcat', 'figlet', 'pip2', 'git', 'wget', 'clang', 'neofetch', 'pv', 'zsh', 'curl', 'w3m']
 inst = True
 for pkg in pkgs:
         present = which(pkg)
         if present == None:
-                print(R + '[ - ] ' + W + pkg + C + ' is not Installed!')
+                print(R + '[ ✘ ] ' + W + pkg + C + ' is not Installed!')
                 inst = False
         else:
                 pass
@@ -19,4 +19,5 @@ if inst == False:
         exit()
 else:
         pass
-print(G + '[ + ]' + C + ' All modules succesfull checked...' + W)
+print(G + '[ ✔ ]' + C + ' Succesfull checked! modules...' + W)
+print(G + '[ ✔ ]' + C + ' All modules installed...' + W)
