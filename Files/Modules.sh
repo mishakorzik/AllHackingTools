@@ -161,6 +161,11 @@ cd
 cd Termux-os
 bash TermuxNewKeys.sh
 cd
+cd 
+git clone https://github.com/mishakorzik/qiq
+cd qiq
+bash install.sh
+cd
 cd
 sleep 0.2
 echo '
