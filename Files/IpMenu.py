@@ -15,40 +15,44 @@ print("  \033[1;34m[ 05 ] >> \033[1;36;40mMaxSubdoFinder - Tool for Discovering 
 print("  \033[1;34m[ 06 ] >> \033[1;36;40mEasymap - Nmap Shortcut")
 print("  \033[1;34m[ 07 ] >> \033[1;36;40mTrape - People tracker on the Internet OSINT")
 print("  \033[1;34m[ 08 ] >> \033[1;36;40mRed Hawk - Information Gathering, Vulnerability Scanning and Crawling")
-print("  \033[1;34m[ 09 ] >> \033[1;36;40mExit Utility")
-print("  \033[1;34m[ 10 ] >> \033[1;36;40mBack To MainMenu")
+print("  \033[1;34m[ 09 ] >> \033[1;36;40mLittleBrother - Information gathering (OSINT) on a person (EU)")
+print("  \033[1;34m[ 10 ] >> \033[1;36;40mExit System")
+print("  \033[1;34m[ 11 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("1nf0rmatI0n: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd AstraNmap && bash astranmap.sh")
+ os.system("cd && cd AllHackingTools && cd AstraNmap && bash astranmap.sh && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==2):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd EvilURL && python3 evilurl.py")
+ os.system("cd && cd AllHackingTools && cd EvilURL && python3 evilurl.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==6):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Easymap && php easymap.php")
+ os.system("cd && cd AllHackingTools && cd Easymap && php easymap.php && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==3):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd OSIF && python2 osif.py")
+ os.system("cd && cd AllHackingTools && cd OSIF && python2 osif.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==4):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd weeman && python2 weeman.py")
+ os.system("cd && cd AllHackingTools && cd weeman && python2 weeman.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==5):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd MaxSubdoFinder && python2 maxteroit.py")
+ os.system("cd && cd AllHackingTools && cd MaxSubdoFinder && python2 maxteroit.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==7):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd trape && python trape.py")
+ os.system("cd && cd AllHackingTools && cd trape && python trape.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==8):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd RED_HAWK && php rhawk.php")
+ os.system("cd && cd AllHackingTools && cd RED_HAWK && php rhawk.php && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==9):
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && cd LittleBrother && python3 LittleBrother.py && cd && cd AllHackingTools && python2 MainMenu.py")
+elif(op==10):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
  sys.exit()
-elif(op==10):
+elif(op==11):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("python2 MainMenu.py")
