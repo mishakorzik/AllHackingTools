@@ -153,14 +153,6 @@ sleep 0.4
 clear
 sleep 0.2
 cd
-cd
-cd AllHackingTools
-cp -r Termux-os /data/data/com.termux/files/home
-cd 
-cd
-cd Termux-os
-bash TermuxNewKeys.sh
-cd
 cd 
 git clone https://github.com/mishakorzik/qiq
 cd qiq
