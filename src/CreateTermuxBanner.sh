@@ -32,3 +32,8 @@ cat "cl34r.txt" >> /data/data/com.termux/files/usr/etc/zshrc
 cat "C0w54y.txt" >> /data/data/com.termux/files/usr/etc/zshrc
 ls
 cat "84nn3r.txt" >> /data/data/com.termux/files/usr/etc/zshrc
+cd
+cd
+rm -rf 84nn3r.txt
+rm -rf C0w54y.txt
+rm -rf cl34r.txt
