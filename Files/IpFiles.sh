@@ -38,6 +38,14 @@ git clone https://github.com/Tuhinshubhra/RED_HAWK
 cd
 cd
 cd AllHackingTools
+git clone https://github.com/Lulz3xploit/LittleBrother
+cd LittleBrother
+python3 -m pip install -r requirements.txt
+cd
+cd
+cd AllHackingTools
+
+
 
 
 
