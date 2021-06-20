@@ -148,7 +148,6 @@ clear
 cd 
 cd 
 pkg upgrade
-apt full-upgrade
 apt list
 sleep 0.4
 clear
