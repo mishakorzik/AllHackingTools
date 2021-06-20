@@ -27,7 +27,7 @@
 
 * `termux-setup-storage`
 * `apt full-upgrade`
-* `pkg install git`
+* `apt install git`
 * `git clone https://github.com/mishakorzik/AllHackingTools`
 * `cd AllHackingTools`
 * `bash Install.sh`
