@@ -20,7 +20,7 @@ if(op==1):
  os.system("cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==2):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Termux-Banner && bash remove.sh")
+ os.system("cd && cd /data/data/com.termux/files/usr/etc/ && rm -rf zshrc")
  os.system("cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==3):
  time.sleep(0.2)
