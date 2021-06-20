@@ -8,6 +8,7 @@
 
 ---------
 ## Supported systems
+#### will download 15 minutes
 
 * `Termux`
 * `Ubuntu`
