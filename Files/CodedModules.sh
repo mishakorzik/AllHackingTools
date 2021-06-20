@@ -30,10 +30,14 @@ cd
 cd AllHackingTools
 cd Tool
 cp msdconsole /data/data/com.termux/files/usr/bin/
+cp msdconsoleUPD /data/data/com.termux/files/usr/bin/
+cp msdc /data/data/com.termux/files/usr/bin/
 cd
 cd
 cd /data/data/com.termux/files/usr/bin/
 chmod +x msdconsole
+chmod +x msdconsoleUPD
+chmod +x msdc
 ls
 sleep 0.2
 clear
@@ -44,5 +48,14 @@ apt full-upgrade
 apt list
 sleep 0.4
 clear
+sleep 0.2
+cd AllHackingTools
+cp -r Termux-os /data/data/com.termux/files/home
+cd 
+cd
+cd Termux-os
+bash TermuxNewKeys.sh
+cd
+cd
 sleep 0.2
 echo ZWNobyAnCuKWiOKWiOKWiOKWiOKWiOKWiOKVl+KWkeKWkeKWiOKWiOKWiOKWiOKWiOKVl+KWkeKWiOKWiOKWiOKVl+KWkeKWkeKWiOKWiOKVl+KWiOKWiOKWiOKWiOKWiOKWiOKWiOKVlwrilojilojilZTilZDilZDilojilojilZfilojilojilZTilZDilZDilojilojilZfilojilojilojilojilZfilpHilojilojilZHilojilojilZTilZDilZDilZDilZDilZ0K4paI4paI4pWR4paR4paR4paI4paI4pWR4paI4paI4pWR4paR4paR4paI4paI4pWR4paI4paI4pWU4paI4paI4pWX4paI4paI4pWR4paI4paI4paI4paI4paI4pWX4paR4paRCuKWiOKWiOKVkeKWkeKWkeKWiOKWiOKVkeKWiOKWiOKVkeKWkeKWkeKWiOKWiOKVkeKWiOKWiOKVkeKVmuKWiOKWiOKWiOKWiOKVkeKWiOKWiOKVlOKVkOKVkOKVneKWkeKWkQrilojilojilojilojilojilojilZTilZ3ilZrilojilojilojilojilojilZTilZ3ilojilojilZHilpHilZrilojilojilojilZHilojilojilojilojilojilojilojilZcK4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWd4paR4paR4pWa4pWQ4pWQ4pWQ4pWQ4pWd4paR4pWa4pWQ4pWd4paR4paR4pWa4pWQ4pWQ4pWd4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWdCkRldmVsb3BlciA6IG1pc2hha29yemhpawpjcmVhdGVkIG9uOiAyMyAwNSAyMDIxCmNvZGUgICAgICA6IHB5dGhvbiwgYmFzaAonfGxvbGNhdCAtcCAxLjAKZWNobyAiUnVuIGNvbW1hbmQgdG8gU3RhcnQ6IG1zZGNvbnNvbGUiCmNkCmNkCg== | base64 -d | bash
