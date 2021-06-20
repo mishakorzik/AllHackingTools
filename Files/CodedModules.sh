@@ -61,4 +61,19 @@ echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> 
 cd
 cd
 sleep 0.2
-echo ZWNobyAnCuKWiOKWiOKWiOKWiOKWiOKWiOKVl+KWkeKWkeKWiOKWiOKWiOKWiOKWiOKVl+KWkeKWiOKWiOKWiOKVl+KWkeKWkeKWiOKWiOKVl+KWiOKWiOKWiOKWiOKWiOKWiOKWiOKVlwrilojilojilZTilZDilZDilojilojilZfilojilojilZTilZDilZDilojilojilZfilojilojilojilojilZfilpHilojilojilZHilojilojilZTilZDilZDilZDilZDilZ0K4paI4paI4pWR4paR4paR4paI4paI4pWR4paI4paI4pWR4paR4paR4paI4paI4pWR4paI4paI4pWU4paI4paI4pWX4paI4paI4pWR4paI4paI4paI4paI4paI4pWX4paR4paRCuKWiOKWiOKVkeKWkeKWkeKWiOKWiOKVkeKWiOKWiOKVkeKWkeKWkeKWiOKWiOKVkeKWiOKWiOKVkeKVmuKWiOKWiOKWiOKWiOKVkeKWiOKWiOKVlOKVkOKVkOKVneKWkeKWkQrilojilojilojilojilojilojilZTilZ3ilZrilojilojilojilojilojilZTilZ3ilojilojilZHilpHilZrilojilojilojilZHilojilojilojilojilojilojilojilZcK4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWd4paR4paR4pWa4pWQ4pWQ4pWQ4pWQ4pWd4paR4pWa4pWQ4pWd4paR4paR4pWa4pWQ4pWQ4pWd4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWdCkRldmVsb3BlciA6IG1pc2hha29yemhpawpjcmVhdGVkIG9uOiAyMyAwNSAyMDIxCmNvZGUgICAgICA6IHB5dGhvbiwgYmFzaAonfGxvbGNhdCAtcCAxLjAKZWNobyAiUnVuIGNvbW1hbmQgdG8gU3RhcnQ6IG1zZGNvbnNvbGUiCmNkCmNkCg== | base64 -d | bash
+echo '
+██████╗░░█████╗░███╗░░██╗███████╗
+██╔══██╗██╔══██╗████╗░██║██╔════╝
+██║░░██║██║░░██║██╔██╗██║█████╗░░
+██║░░██║██║░░██║██║╚████║██╔══╝░░
+██████╔╝╚█████╔╝██║░╚███║███████╗
+╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝
+Developer : mishakorzhik
+created on: 23 05 2021
+code      : python, bash
+'|lolcat -p 1.0
+echo -e $b"[^_^]"$w" SuccesFull Installed: "$g"AllHackingTools"$w
+echo -e $b"[^_^]"$w" Run Command to Start Tool: "$g"msdconsole"$w
+echo -e $b"[^_^]"$w" Command to Update Tool: "$g"msdconsoleUPD"$w
+cd
+cd
