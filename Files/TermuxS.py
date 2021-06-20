@@ -20,7 +20,7 @@ print("  \033[1;34m[ 10 ] >> \033[1;36;40mReset TermuxPackages")
 print("  \033[1;34m[ 11 ] >> \033[1;36;40mTermux Banner")
 print("  \033[1;34m[ 12 ] >> \033[1;36;40mCheck Packages")
 print("  \033[1;34m[ 13 ] >> \033[1;36;40mAdd NewExtraKeys")
-print("  \033[1;34m[ 14 ] >> \033[1;36;40mExit system")
+print("  \033[1;34m[ 14 ] >> \033[1;36;40mExit System")
 print("  \033[1;34m[ 15 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("TermUxPane1: "))
