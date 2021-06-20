@@ -170,6 +170,10 @@ cd AllHackingTools
 python2 Files/TermuxS.py
 cd
 cd
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
+cd
+cd
 sleep 0.2
 echo '
 ██████╗░░█████╗░███╗░░██╗███████╗
