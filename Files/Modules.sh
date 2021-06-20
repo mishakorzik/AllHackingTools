@@ -159,17 +159,18 @@ cd qiq
 bash install.sh
 cd
 cd
+clear
 rm -rf Termux-os
 cd
 cd 
 cd AllHackingTools 
 cp -r Termux-os /data/data/com.termux/files/home 
-cd && cd Termux-os && bash TermuxNewKeys.sh 
+cd 
+cd Termux-os 
+bash TermuxNewKeys.sh 
 cd
-cd AllHackingTools
-python2 Files/TermuxS.py
 cd
-cd
+clear
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
 cd
 echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
