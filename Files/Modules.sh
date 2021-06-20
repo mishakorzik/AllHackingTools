@@ -160,6 +160,15 @@ bash install.sh
 cd
 cd
 rm -rf Termux-os
+cd
+cd 
+cd /data/data/com.termux/files/usr/etc/
+rm -rf zshrc
+cd
+cd
+cd AllHackingTools
+cd Tool
+cp zshrc /data/data/com.termux/files/usr/etc/
 sleep 0.2
 echo '
 ██████╗░░█████╗░███╗░░██╗███████╗
