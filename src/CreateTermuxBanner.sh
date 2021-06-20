@@ -10,7 +10,7 @@ cp zshrc /data/data/com.termux/files/usr/etc/
 cd
 cd
 clear
-figlet -f Termux Banner | lolcat
+figlet -f big Termux Banner | lolcat -p 0.7
 
 cyan='\e[0;36m'
 lightgreen='\e[1;32m'
