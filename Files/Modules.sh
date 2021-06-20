@@ -174,18 +174,12 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
 echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
 cd
 cd
-sleep 0.2
-echo '
-██████╗░░█████╗░███╗░░██╗███████╗
-██╔══██╗██╔══██╗████╗░██║██╔════╝
-██║░░██║██║░░██║██╔██╗██║█████╗░░
-██║░░██║██║░░██║██║╚████║██╔══╝░░
-██████╔╝╚█████╔╝██║░╚███║███████╗
-╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝
-Developer : mishakorzhik
-created on: 23 05 2021
-code      : python, bash
-'|lolcat -p 1.0
+https://github.com/zsh-users/zsh-autosuggestions
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+cd
+cd
 echo '
 ██████╗░░█████╗░███╗░░██╗███████╗
 ██╔══██╗██╔══██╗████╗░██║██╔════╝
