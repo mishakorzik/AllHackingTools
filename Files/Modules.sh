@@ -174,13 +174,7 @@ cd
 clear
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
 cd
-echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
-cd
-cd
-git clone https://github.com/zsh-users/zsh-autosuggestions
-cd
-source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
-source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
 cd
 cd
 echo '
