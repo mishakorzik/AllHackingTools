@@ -182,7 +182,20 @@ Developer : mishakorzhik
 created on: 23 05 2021
 code      : python, bash
 '|lolcat -p 1.0
-echo "Run command to Start: msdconsole"
+echo '
+██████╗░░█████╗░███╗░░██╗███████╗
+██╔══██╗██╔══██╗████╗░██║██╔════╝
+██║░░██║██║░░██║██╔██╗██║█████╗░░
+██║░░██║██║░░██║██║╚████║██╔══╝░░
+██████╔╝╚█████╔╝██║░╚███║███████╗
+╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝
+Developer : mishakorzhik
+created on: 23 05 2021
+code      : python, bash
+'|lolcat -p 1.0
+echo -e $b"[^_^]"$w" SuccesFull Installed: "$g"AllHackingTools"$w
+echo -e $b"[^_^]"$w" Run Command to Start Tool: "$g"msdconsole"$w
+echo -e $b"[^_^]"$w" Command to Update Tool: "$g"msdconsoleUPD"$w
 cd
 cd
 
