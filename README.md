@@ -25,6 +25,7 @@
 
 ## Installing for termux.
 
+* `termux-setup-storage`
 * `apt full-upgrade`
 * `pkg install git`
 * `git clone https://github.com/mishakorzik/AllHackingTools`
