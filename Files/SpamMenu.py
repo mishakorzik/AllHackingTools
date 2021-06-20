@@ -21,25 +21,25 @@ op=int(raw_input("SpymER: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd SMS-Bomber-300-Free && python SMS-Bomber.py")
+ os.system("cd && cd AllHackingTools && cd SMS-Bomber-300-Free && python SMS-Bomber.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==2):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd XLR8_BOMBER && bash xlr8.sh")
+ os.system("cd && cd AllHackingTools && cd XLR8_BOMBER && bash xlr8.sh && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==3):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Anon-SMS && bash Run.sh")
+ os.system("cd && cd AllHackingTools && cd Anon-SMS && bash Run.sh && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==4):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd spymer && python spammer.py")
+ os.system("cd && cd AllHackingTools && cd spymer && python spammer.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==5):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd AresBomb && python boom.py")
+ os.system("cd && cd AllHackingTools && cd AresBomb && python boom.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==6):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd TBomb && ./TBomb.sh")
+ os.system("cd && cd AllHackingTools && cd TBomb && ./TBomb.sh && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==7):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd duplo-bomber && python3 duplo_spam.py")
+ os.system("cd && cd AllHackingTools && cd duplo-bomber && python3 duplo_spam.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==8):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
