@@ -16,7 +16,7 @@ op=int(raw_input("BanNer: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Termux-Banner && bash t-ban.sh")
+ os.system("cd && cd AllHackingTools && bash src/CreateTermuxBanner.sh")
  os.system("cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==2):
  os.system("clear")
