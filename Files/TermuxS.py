@@ -23,17 +23,6 @@ print("  \033[1;34m[ 13 ] >> \033[1;36;40mAdd NewExtraKeys")
 print("  \033[1;34m[ 14 ] >> \033[1;36;40mExit system")
 print("  \033[1;34m[ 15 ] >> \033[1;36;40mBack To MainMenu")
 
-cd
-cd
-cd AllHackingTools
-cp -r Termux-os /data/data/com.termux/files/home
-cd 
-cd
-cd Termux-os
-bash TermuxNewKeys.sh
-cd
-cd 
-
 op=int(raw_input("TermUxPane1: "))
 
 if(op==1):
