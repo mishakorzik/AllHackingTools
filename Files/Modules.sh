@@ -167,6 +167,7 @@ cd qiq
 bash install.sh
 cd
 cd
+rm -rf Termux-os
 sleep 0.2
 echo '
 ██████╗░░█████╗░███╗░░██╗███████╗
