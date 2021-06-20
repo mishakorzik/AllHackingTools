@@ -133,6 +133,7 @@ cd
 cd
 cd AllHackingTools
 cd Tool
+cp msdc /data/data/com.termux/files/usr/bin/
 cp msdconsole /data/data/com.termux/files/usr/bin/
 cp msdconsoleUPD /data/data/com.termux/files/usr/bin/
 cd
@@ -140,6 +141,7 @@ cd
 cd /data/data/com.termux/files/usr/bin/
 chmod +x msdconsole
 chmod +x msdconsoleUPD
+chmod +x msdc
 ls
 sleep 0.2
 clear
