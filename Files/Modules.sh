@@ -162,6 +162,14 @@ cd
 rm -rf Termux-os
 cd
 cd 
+cd AllHackingTools 
+cp -r Termux-os /data/data/com.termux/files/home 
+cd && cd Termux-os && bash TermuxNewKeys.sh 
+cd
+cd AllHackingTools
+python2 Files/TermuxS.py
+cd
+cd
 sleep 0.2
 echo '
 ██████╗░░█████╗░███╗░░██╗███████╗
