@@ -15,7 +15,7 @@ print("  \033[1;34m[ 05 ] >> \033[1;36;40mPackages and working commads")
 print("  \033[1;34m[ 06 ] >> \033[1;36;40mSearch commands")
 print("  \033[1;34m[ 07 ] >> \033[1;36;40mArchive commands")
 print("  \033[1;34m[ 08 ] >> \033[1;36;40mNetwork commands")
-print("  \033[1;34m[ 09 ] >> \033[1;36;40mExit Utility")
+print("  \033[1;34m[ 09 ] >> \033[1;36;40mExit System")
 print("  \033[1;34m[ 10 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("1nf0rmatI0nHe1p: "))
