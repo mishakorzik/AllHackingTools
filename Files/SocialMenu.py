@@ -8,7 +8,7 @@ os.system("clear")
 os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 
 print("  \033[1;34m[ 01 ] >> \033[1;36;40mERROR404 - NOT FOUND")
-print("  \033[1;34m[ 02 ] >> \033[1;36;40mExit Utility")
+print("  \033[1;34m[ 02 ] >> \033[1;36;40mExit System")
 print("  \033[1;34m[ 03 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("Soc1alF1sh: "))
