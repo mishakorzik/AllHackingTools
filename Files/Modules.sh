@@ -161,6 +161,7 @@ cd
 cd
 clear
 rm -rf Termux-os
+rm -rf qiq
 cd
 cd 
 cd AllHackingTools 
