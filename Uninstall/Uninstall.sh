@@ -21,5 +21,9 @@ rm -rf AutoUpdateMyTools
 git clone https://github.com/mishakorzik/AutoUpdateMyTools
 cd
 cd
+cd .termux
+rm -rf termux.properties
+cd
+cd
 cd AutoUpdateMyTools
 bash Files/UninstallAllHackingTools.sh
