@@ -7,7 +7,7 @@ W = '\033[0m'  # white
 from shutil import which
 
 print(G + '[+]' + C + ' Checking Dependencies...' + W)
-pkgs = ['python3', 'pip', 'php', 'ssh', 'openssl', 'ssh', 'pip2', 'wget', 'curl', 'python', 'python2', 'toilet', 'neofetch', 'figlet', 'lolcat']
+pkgs = ['python3', 'pip', 'php', 'ssh', 'openssh', 'ssh', 'pip2', 'wget', 'curl', 'python', 'python2', 'toilet', 'neofetch', 'figlet', 'lolcat']
 inst = True
 for pkg in pkgs:
 	present = which(pkg)
