@@ -60,6 +60,12 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
 echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
 cd
 cd
+cd AllHackingTools 
+cd .fonts
+chmod +x *
+cp * /data/data/com.termux/files/usr/share/figlet
+cd $HOME
+cd
 sleep 0.2
 echo '
 ██████╗░░█████╗░███╗░░██╗███████╗
