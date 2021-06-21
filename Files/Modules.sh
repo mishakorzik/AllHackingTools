@@ -154,6 +154,9 @@ clear
 sleep 0.2
 cd
 cd 
+rm -rf qiq
+cd
+cd
 git clone https://github.com/mishakorzik/qiq
 cd qiq
 bash install.sh
