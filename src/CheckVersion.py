@@ -1,4 +1,23 @@
-def check_version():
+R = '\033[31m' # red
+G = '\033[32m' # green
+C = '\033[36m' # cyan
+W = '\033[0m'  # white
+
+from shutil import which
+import os
+import csv
+import sys
+import time
+import json
+import argparse
+import requests
+import subprocess as subp
+
+info = ''
+result = ''
+version = '1.6'
+
+def ver_check():
 	print(G + '[+]' + C + ' Checking for Updates....', end='')
 	ver_url = 'https://raw.githubusercontent.com/mishakorzik/AllHackingTools/main/Castom/version.txt'
 	try:
@@ -18,5 +37,5 @@ def check_version():
 		print('\n' + R + '[-]' + C + ' Exception : ' + W + str(e))
 
 try:
-	check_version()
+	ver_check()
 	
