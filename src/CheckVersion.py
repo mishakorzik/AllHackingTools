@@ -55,7 +55,7 @@ def ver_check():
 	except Exception as e:
 		print('\n' + R + '[-]' + C + ' Exception : ' + W + str(e))
 
-def setting_tool():
+def set_check():
 	print(G + '[+]' + C + ' Checking Tools Setting....', end='')
 	sys_url = 'https://raw.githubusercontent.com/mishakorzik/AllHackingTools/main/Castom/system.txt'
 	try:
@@ -75,7 +75,7 @@ def setting_tool():
 		print('\n' + R + '[-]' + C + ' Exception : ' + W + str(e))
 try:
 	ver_check()
-        setting_tool()
+        set_check()
 
 except KeyboardInterrupt:
 	print ('\n' + R + '[!]' + C + ' Keyboard Interrupt.' + W)
