@@ -8,7 +8,7 @@ import time
 
 print(G + '[ ✔ ]' + C + ' Checking Packages...' + W)
 time.sleep(1)
-pkgs = ['python', 'pip', 'python2', 'ssh', 'lolcat', 'figlet', 'pip2', 'git', 'wget', 'clang', 'neofetch', 'pv', 'zsh', 'curl', 'w3m']
+pkgs = ['python', 'pip', 'python2', 'ssh', 'lolcat', 'figlet', 'pip2', 'git', 'wget', 'clang', 'neofetch', 'pv', 'zsh', 'curl', 'w3m', 'toilet']
 inst = True
 for pkg in pkgs:
         present = which(pkg)
