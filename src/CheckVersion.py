@@ -1,9 +1,26 @@
+
 R = '\033[31m' # red
 G = '\033[32m' # green
 C = '\033[36m' # cyan
 W = '\033[0m'  # white
 
 from shutil import which
+
+print(G + '[+]' + C + ' Checking Dependencies...' + W)
+pkgs = ['python3', 'pip', 'php', 'ssh', 'openssh', 'ssh', 'pip2', 'wget', 'curl', 'python', 'python2', 'toilet', 'neofetch', 'figlet', 'lolcat']
+inst = True
+for pkg in pkgs:
+	present = which(pkg)
+	if present == None:
+		print(R + '[-] ' + W + pkg + C + ' is not Installed!')
+		inst = False
+	else:
+		pass
+if inst == False:
+	exit()
+else:
+	pass
+
 import os
 import csv
 import sys
@@ -13,9 +30,22 @@ import argparse
 import requests
 import subprocess as subp
 
+parser = argparse.ArgumentParser()
+parser.add_argument('-s', '--subdomain', help='Provide Subdomain for Serveo URL ( Optional )')
+parser.add_argument('-k', '--kml', help='Provide KML Filename ( Optional )')
+parser.add_argument('-t', '--tunnel', help='Specify Tunnel Mode [ Available : manual ]')
+parser.add_argument('-p', '--port', type=int, default=8080, help='Port for Web Server [ Default : 8080 ]')
+
+args = parser.parse_args()
+subdom = args.subdomain
+kml_fname = args.kml
+tunnel_mode = args.tunnel
+port = args.port
+
+row = []
 info = ''
 result = ''
-version = '1.6'
+version = '1.5'
 
 def ver_check():
 	print(G + '[+]' + C + ' Checking for Updates....', end='')
@@ -35,7 +65,9 @@ def ver_check():
 			print(C + '[' + R + ' Status : {} '.format(ver_sc) + C + ']' + '\n')
 	except Exception as e:
 		print('\n' + R + '[-]' + C + ' Exception : ' + W + str(e))
-
 try:
 	ver_check()
-	
+
+except KeyboardInterrupt:
+	print ('\n' + R + '[!]' + C + ' Keyboard Interrupt.' + W)
+	Quit()
