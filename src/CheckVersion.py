@@ -34,7 +34,7 @@ row = []
 info = ''
 result = ''
 version = '1.6'
-sys = '1.2.4'
+systemAHT = '1.2.4'
 
 def ver_check():
 	print(G + '[+]' + C + ' Checking for Updates....', end='')
@@ -65,7 +65,7 @@ def setting_tool():
 			github_sys = sys_rqst.text
 			github_sys = github_sys.strip()
 
-			if sys == github_sys:
+			if systemAHT == github_sys:
 				print(C + '[' + G + ' No System Updates ' + C +']' + '\n')
 			else:
 				print(C + '[' + R + ' The System Is Outdated : {} '.format(github_sys) + C + ']' + '\n')
