@@ -5,6 +5,7 @@ C = '\033[36m' # cyan
 W = '\033[0m'  # white
 
 from shutil import which
+import time
 
 print(G + '[+]' + C + ' Checking Dependencies...' + W)
 pkgs = ['python3', 'pip', 'php', 'ssh', 'pip2', 'wget', 'curl', 'python', 'python2', 'toilet', 'neofetch', 'figlet', 'lolcat', 'clang', 'w3m', 'jq', 'ruby', 'ssl', 'pv']
@@ -24,17 +25,16 @@ else:
 import os
 import csv
 import sys
-import time
 import json
 import argparse
 import requests
 import subprocess as subp
 
-
 row = []
 info = ''
 result = ''
 version = '1.6'
+sys = '1.2.4'
 
 def ver_check():
 	print(G + '[+]' + C + ' Checking for Updates....', end='')
@@ -47,15 +47,35 @@ def ver_check():
 			github_ver = github_ver.strip()
 
 			if version == github_ver:
-				print(C + '[' + G + ' Up-To-Date ' + C +']' + '\n')
+				print(C + '[' + G + ' No Updates ' + C +']' + '\n')
 			else:
 				print(C + '[' + R + ' Available : {} '.format(github_ver) + C + ']' + '\n')
 		else:
 			print(C + '[' + R + ' Status : {} '.format(ver_sc) + C + ']' + '\n')
 	except Exception as e:
 		print('\n' + R + '[-]' + C + ' Exception : ' + W + str(e))
+
+def setting_tool():
+	print(G + '[+]' + C + ' Checking Tools Setting....', end='')
+	sys_url = 'https://raw.githubusercontent.com/mishakorzik/AllHackingTools/main/Castom/system.txt'
+	try:
+		sys_rqst = requests.get(sys_url)
+		sys_sc = sys_rqst.status_code
+		if sys_sc == 200:
+			github_sys = sys_rqst.text
+			github_sys = github_sys.strip()
+
+			if sys == github_sys:
+				print(C + '[' + G + ' No System Updates ' + C +']' + '\n')
+			else:
+				print(C + '[' + R + ' The System Is Outdated : {} '.format(github_sys) + C + ']' + '\n')
+		else:
+			print(C + '[' + R + ' Status : {} '.format(sys_sc) + C + ']' + '\n')
+	except Exception as e:
+		print('\n' + R + '[-]' + C + ' Exception : ' + W + str(e))
 try:
 	ver_check()
+        setting_tool()
 
 except KeyboardInterrupt:
 	print ('\n' + R + '[!]' + C + ' Keyboard Interrupt.' + W)
