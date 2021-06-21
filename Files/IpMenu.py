@@ -51,7 +51,13 @@ elif(op==9):
  os.system("cd && cd AllHackingTools && cd LittleBrother && python3 LittleBrother.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==10):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd seeker && python3 seeker.py -t manual && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools")
+ print("Open a second window in the terminal and run ngrok on port 8080")
+ time.sleep(1)
+ print("More precisely, write the command in the second window:  ./ngrok http 8080")
+ time.sleep(1.4)
+ print("if there is no ngrok then register on the website: http://ngrok.com and read the installation instructions")
+ os.system("cd seeker && python3 seeker.py -t manual && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==11):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
