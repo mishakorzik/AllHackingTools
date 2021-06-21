@@ -45,7 +45,7 @@ port = args.port
 row = []
 info = ''
 result = ''
-version = '1.5'
+version = '1.6'
 
 def ver_check():
 	print(G + '[+]' + C + ' Checking for Updates....', end='')
