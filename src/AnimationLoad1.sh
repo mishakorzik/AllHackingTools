@@ -114,3 +114,5 @@ cd
 cd
 cd AllHackingTools
 python src/CheckPackages.py
+clear
+python3 src/CheckVersion.py
