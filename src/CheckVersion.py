@@ -30,17 +30,6 @@ import argparse
 import requests
 import subprocess as subp
 
-parser = argparse.ArgumentParser()
-parser.add_argument('-s', '--subdomain', help='Provide Subdomain for Serveo URL ( Optional )')
-parser.add_argument('-k', '--kml', help='Provide KML Filename ( Optional )')
-parser.add_argument('-t', '--tunnel', help='Specify Tunnel Mode [ Available : manual ]')
-parser.add_argument('-p', '--port', type=int, default=8080, help='Port for Web Server [ Default : 8080 ]')
-
-args = parser.parse_args()
-subdom = args.subdomain
-kml_fname = args.kml
-tunnel_mode = args.tunnel
-port = args.port
 
 row = []
 info = ''
