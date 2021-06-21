@@ -6,7 +6,7 @@ w="\033[0m"
 cd
 cd
 cd AllHackingTools
-echo -e $b">"$w" upgrading packeges: "$g"pkg & apt"$w
+echo -e $b">"$w" upgrading packages: "$g"pkg & apt"$w
 apt update && apt upgrade
 echo -e $b">"$w" installing modules: "$g"python"$w
 apt-get install python
