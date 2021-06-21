@@ -167,6 +167,7 @@ cd
 cd AllHackingTools 
 cp -r Termux-os /data/data/com.termux/files/home 
 cd 
+cd
 cd Termux-os 
 bash TermuxNewKeys.sh 
 cd
@@ -175,6 +176,9 @@ clear
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
 cd
 source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
+cd
+cd
+rm -rf Termux-os
 cd
 cd
 echo '
