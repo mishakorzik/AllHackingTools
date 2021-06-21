@@ -46,7 +46,7 @@ def ver_check():
 			github_ver = ver_rqst.text
 			github_ver = github_ver.strip()
 
-			if version == github_ver:
+			elif version == github_ver:
 				print(C + '[' + G + ' No Updates ' + C +']' + '\n')
 			else:
 				print(C + '[' + R + ' Available : {} '.format(github_ver) + C + ']' + '\n')
