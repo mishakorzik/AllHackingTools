@@ -147,6 +147,7 @@ sleep 0.2
 clear
 cd 
 cd 
+Rootkite-delete-qiq
 pkg upgrade
 apt list
 sleep 0.4
