@@ -17,10 +17,8 @@ for pkg in pkgs:
 	present = which(pkg)
 	if present == None:
 		print(R + '[-] ' + W + pkg + C + ' is not Installed!')
-                time.sleep(1)
                 print(R + '[-] ' + C + 'Failed to check version!')
-                os.system("cd && cd AllHackingTools && bash src/ExitCommand.sh")
-		inst = False
+     		inst = False
 	else:
 		pass
 if inst == False:
