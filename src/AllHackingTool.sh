@@ -20,8 +20,8 @@ read a1
 echo -e $b">"$w" verify modules: "$g"python2"$w
 apt-get install python
 echo -e $b"[ ✔ ]"$g"succesfull verifined"$w
-echo -e $b">"$w" verify modules: "$g"pip3"$w
-apt-get install pip3
+echo -e $b">"$w" verify modules: "$g"pip2"$w
+apt-get install pip2
 echo -e $b"[ ✔ ]"$g"succesfull verifined"$w
 echo -e $b">"$w" verify modules: "$g"requests"$w
 pip3 install requests
@@ -32,10 +32,9 @@ echo -e $b"[ ✔ ]"$g"succesfull verifined"$w
 echo -e $b">"$w" verify modules: "$g"wget"$w
 apt-get install wget
 echo -e $b"[ ✔ ]"$g"succesfull verifined"$w
-echo -e $b">"$w" verify modules: "$g"openssh"$w
-apt-get install openssh
-echo -e $b"[ ✔ ]"$g"succesfull verifined"$w
-echo "Succesfull verifined!"
+echo ""
+echo "$g"Checking AllHackingTools for updates....."
+python3 src/CheckVersion.py
 clear
 sleep 0.2
 python2 MainMenu.py
