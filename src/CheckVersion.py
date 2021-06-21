@@ -1,3 +1,4 @@
+
 R = '\033[31m' # red
 G = '\033[32m' # green
 C = '\033[36m' # cyan
@@ -5,20 +6,15 @@ W = '\033[0m'  # white
 
 from shutil import which
 import time
-import os
-import csv
-import sys
-import json
 
 print(G + '[+]' + C + ' Checking Dependencies...' + W)
-pkgs = ['python3', 'pip', 'php', 'ssh', 'pip2', 'wget', 'curl', 'python', 'python2', 'toilet', 'neofetch', 'figlet', 'lolcat', 'clang', 'w3m', 'jq', 'ruby', 'zip', 'pv']
+pkgs = ['python3', 'pip', 'php', 'ssh', 'pip2', 'wget', 'curl', 'python', 'python2', 'toilet', 'neofetch', 'figlet', 'lolcat', 'clang', 'w3m', 'jq', 'ruby', 'pv']
 inst = True
 for pkg in pkgs:
 	present = which(pkg)
 	if present == None:
 		print(R + '[-] ' + W + pkg + C + ' is not Installed!')
-                print(R + '[-] ' + C + 'Failed to check version!')
-     		inst = False
+		inst = False
 	else:
 		pass
 if inst == False:
@@ -26,6 +22,10 @@ if inst == False:
 else:
 	pass
 
+import os
+import csv
+import sys
+import json
 import argparse
 import requests
 import subprocess as subp
@@ -53,6 +53,7 @@ def ver_check():
 			print(C + '[' + R + ' Status : {} '.format(ver_sc) + C + ']' + '\n')
 	except Exception as e:
 		print('\n' + R + '[-]' + C + ' Exception : ' + W + str(e))
+
 try:
 	ver_check()
 
