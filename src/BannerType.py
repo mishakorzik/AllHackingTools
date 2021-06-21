@@ -26,6 +26,12 @@ elif(op==2):
 elif(op==3):
  os.system("clear")
  os.system("cd && cd AllHackingTools && bash src/CreateTermuxBannerAvatar.sh")
+elif(op==4):
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && bash src/CreateTermuxBannerBloody.sh")
+elif(op==5):
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && bash src/CreateTermuxBannerModular.sh")
 elif(op==6):
  os.system("clear")
  os.system("cd && cd AllHackingTools && bash src/CreateTermuxBanner.sh")
