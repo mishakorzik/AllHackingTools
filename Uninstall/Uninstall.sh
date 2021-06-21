@@ -25,5 +25,14 @@ cd .termux
 rm -rf termux.properties
 cd
 cd
+cd /data/data/com.termux/files/usr/share/figlet
+rm -rf poison.flf
+rm -rf puffy.flf
+rm -rf real.flf
+rm -rf pagga.tlf
+rm -rf modular.tlf
+rm -rf rusto.tlf
+cd
+cd
 cd AutoUpdateMyTools
 bash Files/UninstallAllHackingTools.sh
