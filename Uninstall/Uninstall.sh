@@ -35,6 +35,7 @@ rm -rf rusto.tlf
 rm -rf avatar.flf
 rm -rf bloody.flf
 rm -rf crazy.flf
+rm -rf block.flf
 cd
 cd
 cd AutoUpdateMyTools
