@@ -36,5 +36,5 @@ echo ""
 echo "$g"Checking AllHackingTools for updates....."
 python3 src/CheckVersion.py
 clear
-sleep 0.2
+sleep 3
 python2 MainMenu.py
