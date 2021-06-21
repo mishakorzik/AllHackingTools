@@ -14,15 +14,6 @@ git clone https://github.com/laraib07/TermuxBackupTools
 cd
 cd
 cd AllHackingTools
-git clone https://github.com/Bhai4You/Termux-Banner
-cd Termux-Banner
-chmod +x requirement.sh
-chmod +x t-ban.sh
-bash requirement.sh
-clear
-cd
-cd
-cd AllHackingTools
 git clone https://github.com/mishakorzik/qiq
 cd qiq
 bash install.sh
