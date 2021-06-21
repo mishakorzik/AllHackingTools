@@ -17,6 +17,7 @@ echo -e $b">"$w" installing modules: "$g"wget"$w
 apt install wget 
 echo -e $b">"$w" installing modules: "$g"openssh"$w
 apt install openssh 
+pkg install openssh
 echo -e $b">"$w" installing modules: "$g"php"$w
 apt install php
 echo -e $b">"$w" installing modules: "$g"toilet"$w
