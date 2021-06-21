@@ -32,9 +32,4 @@ echo -e $b"[ ✔ ]"$g"succesfull verifined"$w
 echo -e $b">"$w" verify modules: "$g"wget"$w
 apt-get install wget
 echo -e $b"[ ✔ ]"$g"succesfull verifined"$w
-echo ""
-echo "$g"Checking AllHackingTools for updates....."
-python3 src/CheckVersion.py
-clear
-sleep 3
 python2 MainMenu.py
