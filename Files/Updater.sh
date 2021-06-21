@@ -15,4 +15,19 @@ echo -e $w"["$o"WARN"$w"]"$b"I don't close termux app!"$w
 sleep 1
 echo -e $w"["$g"INFO"$w"]"$b"Succesfull verifined!"$w
 sleep 0.9
+cd
+cd
+cd /data/data/com.termux/files/usr/share/figlet
+rm -rf poison.flf
+rm -rf puffy.flf
+rm -rf real.flf
+rm -rf pagga.tlf
+rm -rf modular.tlf
+rm -rf rusto.tlf
+rm -rf avatar.flf
+rm -rf bloody.flf
+rm -rf crazy.flf
+rm -rf block.flf
+cd
+cd
 bash AllHackingToolupdate.sh
