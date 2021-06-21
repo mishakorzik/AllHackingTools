@@ -181,6 +181,12 @@ cd
 rm -rf Termux-os
 cd
 cd
+cd AllHackingTools 
+cd .fonts
+chmod +x *
+cp * /data/data/com.termux/files/usr/share/figlet
+cd $HOME
+cd
 echo '
 ██████╗░░█████╗░███╗░░██╗███████╗
 ██╔══██╗██╔══██╗████╗░██║██╔════╝
