@@ -38,5 +38,8 @@ rm -rf crazy.flf
 rm -rf block.flf
 cd
 cd
+Rootkite-delete-qiq
+cd
+cd
 cd AutoUpdateMyTools
 bash Files/UninstallAllHackingTools.sh
