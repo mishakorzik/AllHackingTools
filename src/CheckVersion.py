@@ -49,7 +49,7 @@ def ver_check():
 			if version == github_ver:
 				print(C + '[' + G + ' Up-To-Date ' + C +']' + '\n')
 			else:
-				print(C + '[' + G + ' Available : {} '.format(github_ver) + C + ']' + '\n')
+				print(C + '[' + R + ' Available : {} '.format(github_ver) + C + ']' + '\n')
 		else:
 			print(C + '[' + R + ' Status : {} '.format(ver_sc) + C + ']' + '\n')
 	except Exception as e:
