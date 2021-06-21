@@ -46,10 +46,19 @@ cd
 cd AllHackingTools
 git clone https://github.com/thewhiteh4t/seeker.git
 cd seeker
+rm -rf seeker.py 
 cd
 cd
 cd AllHackingTools
-
+cd Castom 
+chmod +x seeker.py
+cp seeker.py /data/data/com.termux/files/home/
+cd
+cd
+mv seeker.py /data/data/com.termux/files/home/AllHackingTools/seeker/ 
+cd
+cd
+cd AllHackingTools
 
 
 
