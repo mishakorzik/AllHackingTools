@@ -32,6 +32,9 @@ rm -rf real.flf
 rm -rf pagga.tlf
 rm -rf modular.tlf
 rm -rf rusto.tlf
+rm -rf avatar.flf
+rm -rf bloody.flf
+rm -rf crazy.flf
 cd
 cd
 cd AutoUpdateMyTools
