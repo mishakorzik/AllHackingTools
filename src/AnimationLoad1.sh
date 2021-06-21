@@ -113,4 +113,5 @@ sleep 0.2
 cd
 cd
 cd AllHackingTools
-python src/CheckPackages.py
+python3 src/CheckVersion.py
+sleep 3
