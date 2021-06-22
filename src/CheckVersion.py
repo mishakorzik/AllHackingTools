@@ -1,8 +1,8 @@
 
-R = '\033[31m' # red
-G = '\033[32m' # green
-C = '\033[36m' # cyan
-W = '\033[0m'  # white
+R = '\033[31m'
+G = '\033[32m' 
+C = '\033[36m'
+W = '\033[0m' 
 
 from shutil import which
 import time
@@ -33,7 +33,7 @@ import subprocess as subp
 row = []
 info = ''
 result = ''
-version = '1.6'
+version = '1.7'
 
 def ver_check():
 	print(G + '[+]' + C + ' Checking for Updates....', end='')
