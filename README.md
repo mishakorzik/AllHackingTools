@@ -56,9 +56,9 @@
 #### If all this is then you can download!
 
 * `Root  : NO ROOT`
-* `Ngrok : Token
-* `Storage  : 2000 MB
-* `Internet : must be
+* `Ngrok : Token`
+* `Storage  : 2000 MB`
+* `Internet : must be`
 
 #### Okay let's go installing!
 #### if it shows Are you rooted? Then ignore it!
