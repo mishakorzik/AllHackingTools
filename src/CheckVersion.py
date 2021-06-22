@@ -16,7 +16,6 @@ for pkg in pkgs:
 	present = which(pkg)
 	if present == None:
 		print(R + '[-] ' + W + pkg + C + ' is not Installed!')
-		os.system("cd && cd AllHackingTools && bash .check/ConfigurationOptions.sh")
 		inst = False
 	else:
 		pass
