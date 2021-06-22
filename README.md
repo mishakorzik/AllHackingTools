@@ -19,7 +19,6 @@
 
 * `Termux`
 * `Linux`
-* `Terminal`
 
 ---
 
@@ -56,8 +55,10 @@
 ## Dependencies
 #### If all this is then you can download!
 
-* `Ram  : 2000 MB`
-* `Root : NO ROOT`
+* `Root  : NO ROOT`
+* `Ngrok : Token
+* `Storage  : 2000 MB
+* `Internet : must be
 
 #### Okay let's go installing!
 #### if it shows Are you rooted? Then ignore it!
