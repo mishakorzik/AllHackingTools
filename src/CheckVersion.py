@@ -36,7 +36,7 @@ result = ''
 version = '1.7'
 
 def ver_check():
-	print(G + '[+]' + C + ' Checking for Updates....', end='')
+	print(G + '[+]' + C + ' Checking the AllHackingTools for updates....', end='')
 	ver_url = 'https://raw.githubusercontent.com/mishakorzik/AllHackingTools/main/Castom/version.txt'
 	try:
 		ver_rqst = requests.get(ver_url)
