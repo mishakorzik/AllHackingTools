@@ -18,5 +18,5 @@ echo '
   [ 15 ] >> Termux Panel:  -  Termux control and special features
   [ 16 ] >> Update System:  -  Update system and all tools & menu
   [ 17 ] >> About System:  -  View system information and developer
-  [ 18 ] >> Exit System:  -  log out system'|lolcat -p 2.0
+  [ 18 ] >> Exit System:  -  Log out of the AllHackingTools system '|lolcat -p 2.0
 
