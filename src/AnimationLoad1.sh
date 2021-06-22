@@ -114,4 +114,5 @@ cd
 cd
 cd AllHackingTools
 python3 src/CheckVersion.py
+python3 src/Configuration.py
 sleep 3
