@@ -9,11 +9,11 @@ rm -rf AutoUpdateMyTools
 cd 
 git clone https://github.com/mishakorzik/AutoUpdateMyTools 
 cd AutoUpdateMyTools
-echo -e $w"["$o"WARN"$w"]"$b"verifining settings!"$w
+echo $w"["$o"WARN"$w"]"$b"verifining settings!"$w
 sleep 0.2
-echo -e $w"["$o"WARN"$w"]"$b"I don't close termux app!"$w
+echo $w"["$o"WARN"$w"]"$b"I don't close termux app!"$w
 sleep 1
-echo -e $w"["$g"INFO"$w"]"$b"Succesfull verifined!"$w
+echo $w"["$g"INFO"$w"]"$b"Succesfull verifined!"$w
 sleep 0.9
 cd
 cd
