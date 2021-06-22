@@ -1,1 +1,3 @@
+cd
+cd
 exit
