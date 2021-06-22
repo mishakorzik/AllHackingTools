@@ -25,7 +25,7 @@ echo
 echo -e "\e[1m\e[33m\nEnter Your Cowsay Name\e[32m :\n\n "
 read eycn
 echo  "cowsay -f eyes "$eycn" | lolcat -p 1.0" > C0w54y.txt
-echo "toilet -f puffy '   $eybn' -F gay | lolcat -p 1.0" > 84nn3r.txt
+echo "toilet -f puffy ' $eybn' -F gay | lolcat -p 1.0" > 84nn3r.txt
 echo
 echo "clear" > cl34r.txt
 cat "cl34r.txt" >> /data/data/com.termux/files/usr/etc/zshrc
