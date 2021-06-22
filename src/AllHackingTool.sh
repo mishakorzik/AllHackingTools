@@ -2,7 +2,7 @@ clear
 cd
 cd
 cd AllHackingTools
-bash src/AnimationLoad1.sh
+python3 src/CheckVersion.py
 clear
 g="\033[1;32m"
 r="\033[1;31m"
