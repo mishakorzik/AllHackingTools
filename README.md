@@ -11,7 +11,6 @@
 #### will download 5-15 minutes
 
 * `Termux`
-* `Ubuntu`
 * `Linux`
 
 #### Here on these systems works AllHackingTools
@@ -37,14 +36,6 @@
 
 * `apt upgrade`
 * `apt install git`
-* `git clone https://github.com/mishakorzik/AllHackingTools`
-* `cd AllHackingTools`
-* `bash Install.sh`
-
-## Installing for Ubuntu.
-
-* `apt-get install git`
-* `apt-get install python`
 * `git clone https://github.com/mishakorzik/AllHackingTools`
 * `cd AllHackingTools`
 * `bash Install.sh`
