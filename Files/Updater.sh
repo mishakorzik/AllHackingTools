@@ -30,4 +30,5 @@ rm -rf crazy.flf
 rm -rf block.flf
 cd
 cd
+cd AutoUpdateMyTools
 bash AllHackingToolupdate.sh
