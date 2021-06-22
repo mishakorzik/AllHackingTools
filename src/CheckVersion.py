@@ -7,7 +7,7 @@ W = '\033[0m'
 from shutil import which
 import time
 
-print(G + '[+]' + C + ' Checking Dependencies...' + W)
+print(G + '[+]' + C + ' Checking Dependencies And Packages...' + W)
 pkgs = ['python3', 'pip', 'php', 'ssh', 'pip2', 'wget', 'curl', 'python', 'python2', 'toilet', 'neofetch', 'figlet', 'lolcat', 'clang', 'w3m', 'jq', 'ruby', 'pv']
 inst = True
 for pkg in pkgs:
