@@ -30,6 +30,7 @@ def sys_check():
 
 			if systemR == github_sys:
 				print(C + '[' + G + ' Succesfull ' + C +']' + '\n')
+				os.system("cd && cd AllHackingTools && bash src/AllHackingTool.sh")
 			else:
 				print("")
 				print(R + '[-] ' + C + 'The system failed to start due to an unknown error')
