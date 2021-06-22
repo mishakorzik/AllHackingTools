@@ -26,7 +26,7 @@ op=int(raw_input("Options: "))
 if(op==1):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("python2 Files/IpMenu.py")
+ os.system("cd && cd AllHackingTools && python3 .check/IpMenuConfig.py")
 elif(op==2):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
@@ -78,16 +78,16 @@ elif(op==13):
 elif(op==14):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("python2 Files/Other.py")
+ os.system("cd && cd AllHackingTools && python3 .check/OtherToolConfig.py")
 elif(op==15):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("python2 Files/TermuxS.py")
+ os.system("cd && cd AllHackingTools && python3 .check/TermuxPanelConfig.py")
 elif(op==16):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  time.sleep(1)
- os.system("bash Files/Updater.sh")
+ os.system("cd && cd AllHackingTools && python3 .check/UpdaterConfig.py")
 elif(op==17):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
