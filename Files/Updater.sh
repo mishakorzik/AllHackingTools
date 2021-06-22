@@ -30,5 +30,8 @@ rm -rf crazy.flf
 rm -rf block.flf
 cd
 cd
+python3 AllHackingTools/.check/UpdaterConfig.py
+cd
+cd
 cd AutoUpdateMyTools
 bash AllHackingToolupdate.sh
