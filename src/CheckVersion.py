@@ -49,6 +49,7 @@ def ver_check():
 				print(C + '[' + G + ' No Updates ' + C +']' + '\n')
 			else:
 				print(C + '[' + R + ' Available : {} '.format(github_ver) + C + ']' + '\n')
+                                print(R + '[-] ' + C + 'Please update the system: msdconsoleUPD')
 		else:
 			print(C + '[' + R + ' Status : {} '.format(ver_sc) + C + ']' + '\n')
 	except Exception as e:
