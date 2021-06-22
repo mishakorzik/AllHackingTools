@@ -1,8 +1,8 @@
-clear
 cd
 cd
 cd AllHackingTools
 python3 src/CheckVersion.py
+sleep 3
 clear
 g="\033[1;32m"
 r="\033[1;31m"
