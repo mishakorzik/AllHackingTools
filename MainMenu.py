@@ -42,7 +42,7 @@ elif(op==4):
 elif(op==5):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
-  os.system("python2 Files/CamHackMenu.py")
+ os.system("python2 Files/CamHackMenu.py")
 elif(op==6):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
