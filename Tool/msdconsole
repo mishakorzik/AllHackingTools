@@ -11,5 +11,5 @@ sleep 0.6
 cd
 cd
 cd AllHackingTools
-bash src/AllHackingTool.sh
+bash src/AnimationLoad1.sh
 cd
