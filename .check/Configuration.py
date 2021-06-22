@@ -31,10 +31,12 @@ def sys_check():
 			if systemR == github_sys:
 				print(C + '[' + G + ' Succesfull ' + C +']' + '\n')
 				print(G + '[+] ' + C + 'System configuration checked! There are no failures')
+				os.system("cd && cd AllHackingTools && mv ErrorServer254NotFound.py MainMenu.py")
 				os.system("cd && cd AllHackingTools && bash src/AllHackingTool.sh")
 			else:
 				print("")
 				print(R + '[-] ' + C + 'The system failed to start due to an unknown error!')
+				os.system("cd && cd AllHackingTools && mv MainMenu.py ErrorServer254NotFound.py")
 				os.system("cd && bash AllHackingTools/.check/ConfigurationOptions.sh")
 		else:
 			print(C + '[' + R + ' Status : {} '.format(sys_sc) + C + ']' + '\n')
