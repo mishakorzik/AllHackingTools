@@ -33,7 +33,7 @@ def sys_check():
 			else:
 				print("")
 				print(R + '[-] ' + C + 'The system failed to start due to an unknown error')
-				os.system("exit")
+				os.system("cd && bash AllHackingTools/.check/ConfigurationOptions.sh")
 		else:
 			print(C + '[' + R + ' Status : {} '.format(sys_sc) + C + ']' + '\n')
 	except Exception as e:
