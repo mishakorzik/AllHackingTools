@@ -31,5 +31,9 @@ apt-get install php
 echo -e $b"[ ✔ ]"$g"succesfull verifined"$w
 echo -e $b">"$w" verify modules: "$g"wget"$w
 apt-get install wget
+cd
+cd
+cd AllHackingTools 
+mv ErrorServer254NotFound.py MainMenu.py
 echo -e $b"[ ✔ ]"$g"succesfull verifined"$w
 python2 MainMenu.py
