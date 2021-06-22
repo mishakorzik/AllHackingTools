@@ -11,5 +11,5 @@ sleep 0.2
 echo -e $w"["$o"SYSTEM"$w"]"$b"Please wait! Updating AllHackingTools"$w
 cd
 cd
-bash AllHackingTools/Files/Updater.sh
+python3 AllHackingTools/.check/UpdaterConfig.py
 
