@@ -6,6 +6,8 @@ W = '\033[0m'
 
 from shutil import which
 import time
+import os
+import sys
 
 print(G + '[+]' + C + ' Checking Dependencies And Packages...' + W)
 pkgs = ['python3', 'pip', 'php', 'ssh', 'pip2', 'wget', 'curl', 'python', 'python2', 'toilet', 'neofetch', 'figlet', 'lolcat', 'clang', 'w3m', 'jq', 'ruby', 'pv']
@@ -23,9 +25,7 @@ if inst == False:
 else:
 	pass
 
-import os
 import csv
-import sys
 import json
 import argparse
 import requests
