@@ -54,7 +54,6 @@ def sysfile_check():
 			if sysfile == github_file:
 				print(C + '[' + G + ' Succesfull ' + C +']' + '\n')
 				print(G + '[+] ' + C + 'Files configuration checked! There are no failures')
-				print(G + '[+] ' + C + 'Launching other files! Please wait a moment')
 				os.system("cd && cd AllHackingTools && bash src/AllHackingTool.sh")
 			else:
 				print("")
