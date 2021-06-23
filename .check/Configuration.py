@@ -58,6 +58,7 @@ def sysfile_check():
 			else:
 				print("")
 				print(R + '[-] ' + C + 'The system failed to start due to a damaged file!')
+				print(R + '[-] ' + C + 'Error configuration files do not match!')
 				os.system("cd && bash AllHackingTools/.check/ConfigurationOptions.sh")
 		else:
 			print(C + '[' + R + ' Status : {} '.format(file_sc) + C + ']' + '\n')
@@ -72,4 +73,4 @@ try:
 
 except KeyboardInterrupt:
 	print ('\n' + R + '[!]' + C + ' Keyboard Interrupt.' + W)
-	Quit()
+	os.system("cd && bash AllHackingTools/.check/ConfigurationOptions.sh")
