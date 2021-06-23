@@ -12,7 +12,7 @@ function setup_ngrok() {
 		launch="installing ngrok";splashdown="installed ngrok";echo
 		(wget --quiet ${ngrok_url} -O ngrok.zip) & spinner
 		unzip -q ngrok.zip && rm -rf ngrok.zip && chmod +x ngrok && mv ngrok $BIN
-	fi
+	done
 }
 
 setup_ngrok
