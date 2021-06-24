@@ -21,7 +21,7 @@ op=int(raw_input("Web-Hack1Ng: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd AdminHack && bash AdminHack.sh && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AdminHack && bash AdminHack.sh && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==2):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd Files && bash SubDom.sh && cd && cd AllHackingTools && python2 MainMenu.py")
