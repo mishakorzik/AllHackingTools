@@ -1,12 +1,13 @@
 apt-get install git
 apt-get install python
 cd
-cd AllHackingTools
+cd 
 git clone https://github.com/mishakorzik/AdminHack
 cd AdminHack
 bash setup.sh
 cd
 cd
+cd AllHackingTools
 pip install parse
 pip2 install parse
 pip3 install parse
