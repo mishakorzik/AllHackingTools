@@ -60,4 +60,3 @@ try:
 
 except KeyboardInterrupt:
 	print ('\n' + R + '[!]' + C + ' Keyboard Interrupt.' + W)
-	Quit()
