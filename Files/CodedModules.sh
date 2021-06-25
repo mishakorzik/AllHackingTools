@@ -56,6 +56,9 @@ cd qiq
 bash install.sh
 cd
 cd
+python3 AllHackingTools/.check/ServerStatusCheck.py
+cd
+cd
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
 echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
 cd
@@ -70,7 +73,7 @@ cd
 bash AllHackingTools/.check/ServerConfig.sh
 cd  
 cd
-cd AllHaackingTools
+cd AllHackingTools
 cd Castom
 cp ngrok /data/data/com.temux/files/home/
 cd
