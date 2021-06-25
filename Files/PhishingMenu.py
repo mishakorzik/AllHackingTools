@@ -43,12 +43,12 @@ elif(op==7):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd Mask-Phish.Termux && bash Mask-Phish.sh && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==8):
- os.system("")
- print "please open window 2 and enable ngrok with the command ./ngrok http 8080"
- time.sleep(2)
- print "if you do not have ngrok then register on the website https://ngrok.com/ and read the download instructions"
- os.system("cd && cd AllHackingTools && python3 Timer2.py")
  os.system("clear")
+ os.system("cd && cd AllHackingTools")
+ print("Open a second window in Termux and run ngrok on port 8080: ./ngrok http 8080")
+ time.sleep(1.4)
+ print("Warning AllHackingTools has already downloaded ngrok")
+ time.sleep(2.3)
  os.system("cd && cd AllHackingTools && cd seeker && python3 seeker.py -t manual && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==9):
  os.system("clear")
