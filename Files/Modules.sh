@@ -178,7 +178,7 @@ bash TermuxNewKeys.sh
 cd
 cd
 clear
-bash AllHackingTools/.check/ServerStatusCheck.py
+python3 AllHackingTools/.check/ServerStatusCheck.py
 cd
 cd
 rm -rf Termux-os
