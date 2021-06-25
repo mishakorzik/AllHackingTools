@@ -193,6 +193,7 @@ cd
 bash AllHackingTools/.check/ServerConfig.sh
 cd
 cd
+clear
 echo '
 ██████╗░░█████╗░███╗░░██╗███████╗
 ██╔══██╗██╔══██╗████╗░██║██╔════╝
