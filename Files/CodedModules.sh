@@ -65,6 +65,12 @@ cd .fonts
 chmod +x *
 cp * /data/data/com.termux/files/usr/share/figlet
 cd $HOME
+cd 
+cd
+cd AllHaackingTools
+cd Castom
+cp ngrok /data/data/com.temux/files/home/
+cd
 cd
 sleep 0.2
 echo '
