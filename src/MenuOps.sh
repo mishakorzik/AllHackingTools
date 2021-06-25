@@ -11,7 +11,7 @@ echo '
   [ 09 ] >> SMS-spaming Tools:  -  Utilities for spam and anonymous SMS
   [ 10 ] >> Vulnerability Analysis:  -  Systems for vulnerability analysis
   [ 11 ] >> DarkSearch Tool:  -  Tools for Secret and Onion search 
-  [ 12 ] >> Phishing Tool:  -  Tools for phishing and fake websites
+  [ 12 ] >> Phishing And IpHack:  -  Tools for phishing and fake websites
   [ 13 ] >> Passworld Attack:  -  Utilities for cracking passwords
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣ 
   [ 14 ] >> Other tools:  -  Separate and other tools for hacking
