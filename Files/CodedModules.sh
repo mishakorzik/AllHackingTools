@@ -65,7 +65,10 @@ cd .fonts
 chmod +x *
 cp * /data/data/com.termux/files/usr/share/figlet
 cd $HOME
-cd 
+cd
+cd
+bash AllHackingTools/.check/ServerConfig.sh
+cd  
 cd
 cd AllHaackingTools
 cd Castom
