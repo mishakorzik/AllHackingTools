@@ -178,6 +178,7 @@ bash TermuxNewKeys.sh
 cd
 cd
 clear
+bash AllHackingTools/.check/ServerStatusCheck.py
 cd
 cd
 rm -rf Termux-os
@@ -191,14 +192,14 @@ cd $HOME
 cd
 cd
 bash AllHackingTools/.check/ServerConfig.sh
+clear
 cd 
 cd
-cd AllHaackingTools
+cd AllHackingTools
 cd Castom
 cp ngrok /data/data/com.temux/files/home/
 cd
-cd
-clear
+cd 
 echo '
 ██████╗░░█████╗░███╗░░██╗███████╗
 ██╔══██╗██╔══██╗████╗░██║██╔════╝
