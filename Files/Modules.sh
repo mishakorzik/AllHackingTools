@@ -191,6 +191,11 @@ cd $HOME
 cd
 cd
 bash AllHackingTools/.check/ServerConfig.sh
+cd 
+cd
+cd AllHaackingTools
+cd Castom
+cp ngrok /data/data/com.temux/files/home/
 cd
 cd
 clear
