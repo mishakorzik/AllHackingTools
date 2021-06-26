@@ -57,6 +57,3 @@ def ver_check():
 
 try:
 	ver_check()
-
-except KeyboardInterrupt:
-	print ('\n' + R + '[!]' + C + ' Keyboard Interrupt.' + W)
