@@ -95,8 +95,9 @@
 * `bash Uninstall/Uninstall.sh`
 #### succesfull!
 ------
-## Start utility for hacking!
-#### msdconsole
+## Start AllHackingTool for hacking!
+#### msdconsole AND msdc
+
 
 #### It downloads packages and utilities and configures the utilities.
 
