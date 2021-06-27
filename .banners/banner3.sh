@@ -4,5 +4,5 @@ echo """
  [$api] /      _____
      \ /—-----[=====] Server
       | 
-    Google 
+    Google                       
 """| lolcat -p 1.0
