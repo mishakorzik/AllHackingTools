@@ -18,10 +18,13 @@ op=int(raw_input("Sett1Ngs: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd pyshell && ./Pyshell && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && mv Logo.sh /data/data/com.termux/files/home/AllHackingTools/.temp/ && cd && cd AllHackingTools && cd .settings && mv Logo.sh /data/data/com.termux/files/home/AllHackingTools/")
 elif(op==2):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd wishfish && ./wishfish.sh && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/.temp/ && cd && cd AllHackingTools && cd .settings && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/")
+elif(op==3):
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && python2 .settings/VibrSet.py")
 elif(op==5):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
