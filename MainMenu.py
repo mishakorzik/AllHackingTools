@@ -86,13 +86,21 @@ elif(op==15):
 elif(op==16):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- time.sleep(1)
- os.system("cd && cd AllHackingTools && python3 .check/UpdaterConfig.py")
+ os.system("cd && cd AllHackingTools && python2 .settings/settingsMenu.py")
 elif(op==17):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("bash src/About.sh")
+ os.system("cd && cd AllHackingTools && python2")
 elif(op==18):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.3)
+ time.sleep(1)
+ os.system("cd && cd AllHackingTools && python3 .check/UpdaterConfig.py")
+elif(op==19):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.3)
+ os.system("bash src/About.sh")
+elif(op==20):
  os.system("clear && cd && cd AllHackingTools && bash src/RunLogo.sh")
  print("\033[1;31;40mExiting System...")
  time.sleep(0.7)
