@@ -16,7 +16,9 @@ echo '
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣ 
   [ 14 ] >> Other tools:  -  Separate and other tools for hacking
   [ 15 ] >> Termux Panel:  -  Termux control and special features
-  [ 16 ] >> Update System:  -  Update system and all tools & menu
-  [ 17 ] >> About System:  -  View system information and developer
-  [ 18 ] >> Exit System:  -  Log out of the AllHackingTools system '|lolcat -p 2.0
+  [ 16 ] >> System Settings:  -  AllHackingTools control and special features
+  [ 17 ] >> System License:  -  View A AllHackingTools License =  License
+  [ 18 ] >> Update System:  -  Update system and all tools & menu and more utilitys
+  [ 19 ] >> About System:  -  View system information and developer
+  [ 20 ] >> Exit System:  -  Log out of the AllHackingTools system '|lolcat -p 2.0
 
