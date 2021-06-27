@@ -18,10 +18,10 @@ op=int(raw_input("Sett1Ngs: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd AllHackingTools && mv Logo.sh /data/data/com.termux/files/home/AllHackingTools/.temp/ && cd && cd AllHackingTools && cd .settings && mv Logo.sh /data/data/com.termux/files/home/AllHackingTools/")
+ os.system("cd && cd AllHackingTools && mv Logo.sh /data/data/com.termux/files/home/AllHackingTools/.temp/ && cd && cd AllHackingTools && cd .settings && mv Logo.sh /data/data/com.termux/files/home/AllHackingTools/ && cd && cd AllHackingTools && cd .temp && mv Logo.sh /data/data/com.termux/files/home/AllHackingTools/.settings/")
 elif(op==2):
  os.system("clear")
- os.system("cd && cd AllHackingTools && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/.temp/ && cd && cd AllHackingTools && cd .settings && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/")
+ os.system("cd && cd AllHackingTools && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/.temp/ && cd && cd AllHackingTools && cd .settings && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/ && cd && cd AllHackingTools && cd .temp && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/.settings/")
 elif(op==3):
  os.system("clear")
  os.system("cd && cd AllHackingTools && python2 .settings/VibrSet.py")
