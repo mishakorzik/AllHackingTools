@@ -24,7 +24,9 @@ elif(op==2):
  os.system("cd && cd AllHackingTools && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/.temp/ && cd && cd AllHackingTools && cd .settings && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/ && cd && cd AllHackingTools && cd .temp && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/.settings/")
 elif(op==3):
  os.system("clear")
- os.system("cd && cd AllHackingTools && python2 .settings/VibrSet.py")
+ os.system("cd && cd AllHackingTools && cd src && mv AnimationLoad1.sh /data/data/com.termux/files/home/AllHackingTools/.temp/ && cd && cd AllHackingTools && cd .settings && mv AnimationLoad1.sh /data/data/com.termux/files/home/AllHackingTools/src/ && cd && cd AllHackingTools && cd .temp && mv AnimationLoad1.sh /data/data/com.termux/files/home/AllHackingTools/.settings/")
+elif(op==4):
+ os.system("clear")
 elif(op==5):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
