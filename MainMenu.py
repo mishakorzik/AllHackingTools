@@ -90,7 +90,7 @@ elif(op==16):
 elif(op==17):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python2")
+ os.system("clear && cd && cd AllHackingTools && bash .settings/LICENSE.sh && cd && cd AllHackingTools && python3 src/Timer2.py")
 elif(op==18):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
