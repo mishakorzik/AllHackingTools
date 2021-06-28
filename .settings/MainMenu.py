@@ -5,6 +5,7 @@ import random
 import sys
 
 os.system("clear")
+os.system("cd && cd AllHackingTools")
 os.system("bash Logo.sh")
 os.system("bash src/MenuOps1.sh")
 
