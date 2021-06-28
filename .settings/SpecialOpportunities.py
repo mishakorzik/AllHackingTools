@@ -18,16 +18,16 @@ op=int(raw_input("Sett1Ngs: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd src && mv AllHackingTool.sh /data/data/com.termux/files/home/AllHackingTools/.temp/ && cd && cd AllHackingTools && cd .settings && mv AllHackingTool.sh /data/data/com.termux/files/home/AllHackingTools/src/ && cd && cd AllHackingTools && cd .temp && mv AllHackingTool.sh /data/data/com.termux/files/home/AllHackingTools/.settings/")
+ os.system("cd && cd AllHackingTools && cd src && mv AllHackingTool.sh /data/data/com.termux/files/home/AllHackingTools/.temp/ && cd && cd AllHackingTools && cd .settings && mv AllHackingTool.sh /data/data/com.termux/files/home/AllHackingTools/src/ && cd && cd AllHackingTools && cd .temp && mv AllHackingTool.sh /data/data/com.termux/files/home/AllHackingTools/.settings/ && cd && cd AllHackingTools && bash .settings/Applined.sh")
 elif(op==2):
  os.system("clear")
  print("\033[1;31;40mNot Found! You have no rights....")
 elif(op==3):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Termux-os && bash TermuxNewKeys2.sh")
+ os.system("cd && cd AllHackingTools && cd Termux-os && bash TermuxNewKeys2.sh && cd && cd AllHackingTools && bash .settings/Applined.sh")
 elif(op==4):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Termux-os && bash TermuxNewKeys.sh")
+ os.system("cd && cd AllHackingTools && cd Termux-os && bash TermuxNewKeys.sh && cd && cd AllHackingTools && bash .settings/Applined.sh")
 elif(op==5):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
@@ -41,4 +41,4 @@ else:
  time.sleep(1.6)
  os.system("cd")
  os.system("cd AllHackingTools")
- os.system("python2 Files/AndroidMenu.py")
+ os.system("python2 MainMenu.py")
