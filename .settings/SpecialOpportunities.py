@@ -7,7 +7,7 @@ import sys
 os.system("clear")
 os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 
-print("  \033[1;34m[ 01 ] >> \033[1;36;40mQuick Start")
+print("  \033[1;34m[ 01 ] >> \033[1;36;40mQuick Start - on/off")
 print("  \033[1;34m[ 02 ] >> \033[1;36;40mServers Setting")
 print("  \033[1;34m[ 03 ] >> \033[1;36;40mNew ExtraKeys1")
 print("  \033[1;34m[ 04 ] >> \033[1;36;40mNew ExtraKeys0")
