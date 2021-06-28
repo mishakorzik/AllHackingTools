@@ -6,7 +6,7 @@ import sys
 
 os.system("clear")
 os.system("cd && cd AllHackingTools")
-os.system("bash src/Logo.sh")
+os.system("bash Logo.sh")
 os.system("bash src/MenuA.sh")
 
 Green="\033[1;33m"
