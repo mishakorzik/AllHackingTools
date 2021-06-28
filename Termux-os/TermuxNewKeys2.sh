@@ -17,9 +17,11 @@ clear
 wget -O $PREFIX/share/figlet/ASCII-Shadow.flf https://raw.githubusercontent.com/xero/figlet-fonts/master/ANSI%20Shadow.flf
 git clone https://github.com/ohmyzsh/ohmyzsh.git ~/.oh-my-zsh
 apt install toilet figlet exa wget ruby 
+cd
+cd
 rm -rf ~/.termux/colors.properties
 rm -rf ~/.termux/termux.properties
 rm -rf ~/.termux/termux.properties2
 rm -rf /data/data/com.termux/files/usr/etc/motd
-cd ~/Termux-os/.object ; cp -r .colors.properties2 ~/.termux/colors.properties
-cd ~/Termux-os/.object ; cp -r .termux.properties2 ~/.termux/termux.properties
+cd ~/AllHackingTools/Termux-os/.object ; cp -r .colors.properties2 ~/.termux/colors.properties
+cd ~/AllHackingTools/Termux-os/.object ; cp -r .termux.properties2 ~/.termux/termux.properties
