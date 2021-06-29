@@ -1,4 +1,5 @@
 echo '
+    [NOTICE] Steeper Tools
   [ 01 ] >> Information Gathering:  -  Collects information from database
   [ 02 ] >> Exploitation Tools:  -  selection of tools for operation and hacking
   [ 03 ] >> Sniffing and Spoofing:  -  Tools for forgery of data and databases
