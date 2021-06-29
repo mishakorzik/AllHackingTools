@@ -17,8 +17,9 @@ print("  \033[1;34m[ 07 ] >> \033[1;36;40mTrape - People tracker on the Internet
 print("  \033[1;34m[ 08 ] >> \033[1;36;40mRed Hawk - Information Gathering, Vulnerability Scanning and Crawling")
 print("  \033[1;34m[ 09 ] >> \033[1;36;40mLittleBrother - Information gathering (OSINT) on a person (EU)")
 print("  \033[1;34m[ 10 ] >> \033[1;36;40mSeeker - Accurately Locate Smartphones and GPS")
-print("  \033[1;34m[ 11 ] >> \033[1;36;40mExit System")
-print("  \033[1;34m[ 12 ] >> \033[1;36;40mBack To MainMenu")
+print("  \033[1;34m[ 11 ] >> \033[1;36;40mReconDog - Reconnaissance Swiss Army Knife")
+print("  \033[1;34m[ 12 ] >> \033[1;36;40mExit System")
+print("  \033[1;34m[ 13 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("1nf0rmatI0n: "))
 
@@ -58,10 +59,13 @@ elif(op==10):
  time.sleep(2.3)
  os.system("cd seeker && python3 seeker.py -t manual && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==11):
- time.sleep(0.2)
- print("\033[1;31;40mQuiting utility...")
- sys.exit()
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && cd ReconDog && ./dog && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==12):
+ time.sleep(0.2)
+ print("\033[1;31;40mQuiting System...")
+ sys.exit()
+elif(op==13):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("python2 MainMenu.py")
