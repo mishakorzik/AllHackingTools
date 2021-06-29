@@ -35,3 +35,7 @@ git clone https://github.com/karjok/fim
 cd
 cd
 cd AllHackingTools
+git clone https://github.com/Gameye98/FBBrute
+cd
+cd
+cd AllHackingTools
