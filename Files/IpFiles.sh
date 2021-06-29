@@ -59,6 +59,12 @@ mv seeker.py /data/data/com.termux/files/home/AllHackingTools/seeker/
 cd
 cd
 cd AllHackingTools
+git clone https://github.com/s0md3v/ReconDog
+cd ReconDog
+chmod +x dog
+cd
+cd
+cd AllHackingTools
 
 
 
