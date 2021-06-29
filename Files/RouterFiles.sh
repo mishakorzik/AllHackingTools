@@ -31,3 +31,7 @@ bash termux-install.sh
 cd
 cd 
 cd AllHackingTools
+git clone https://github.com/karjok/fim
+cd
+cd
+cd AllHackingTools
