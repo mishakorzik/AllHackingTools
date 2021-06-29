@@ -32,6 +32,8 @@ cd
 cd 
 cd AllHackingTools
 git clone https://github.com/karjok/fim
+cd fim 
+pip install -r requirements.txt
 cd
 cd
 cd AllHackingTools
