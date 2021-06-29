@@ -73,7 +73,7 @@
 * `w3m` `figlet`
 * `zip` `lolcat`
 * `pv` `neofetch`
-* `zsh` 
+* `zsh` `ngrok`
 
 #### And more packages!
 ------
