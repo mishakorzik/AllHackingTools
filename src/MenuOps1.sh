@@ -5,7 +5,7 @@ echo '
   [ 04 ] >> Web Hacking Tool:  -  Tools for hacking websites and servers
   [ 05 ] >> Cam Hacking Tool:  -  Tools for hacking cams and front camera
   [ 06 ] >> Injection RAT:  -  Utilities for creating RAT virus
-    >>> Useful Tools  ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣ 
+    [NOTICE] Useful Tools  ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣ 
   [ 07 ] >> SQL injection-Tool:  -  Tools for creating viruses
   [ 08 ] >> SocialMedia Hacking:  -  Tools for hacking social networks
   [ 09 ] >> SMS-spaming Tools:  -  Utilities for spam and anonymous SMS
@@ -13,7 +13,7 @@ echo '
   [ 11 ] >> DarkSearch Tool:  -  Tools for Secret and Onion search 
   [ 12 ] >> Phishing And IpHack:  -  Tools for phishing and fake websites
   [ 13 ] >> Passworld Attack:  -  Utilities for cracking passwords
-    >>> Other Tools  ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣
+    [NOTICE] Other Tools  ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣
   [ 14 ] >> Other tools:  -  Separate and other tools for hacking
   [ 15 ] >> Termux Panel:  -  Termux control and special features
   [ 16 ] >> System Settings:  -  AllHackingTools control and special features
