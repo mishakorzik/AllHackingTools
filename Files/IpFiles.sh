@@ -65,6 +65,10 @@ chmod +x dog
 cd
 cd
 cd AllHackingTools
+git clone https://github.com/bibortone/D-Tech
+cd
+cd
+cd AllHackingTools
 
 
 
