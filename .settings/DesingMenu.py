@@ -23,7 +23,7 @@ elif(op==2):
  os.system("cd && cd AllHackingTools && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/.temp/ && cd && cd AllHackingTools && cd .settings && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/ && cd && cd AllHackingTools && cd .temp && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/.settings/ && cd && cd AllHackingTools && bash .settings/Applined.sh")
 elif(op==3):
  os.system("clear")
- os.system("cd && cd AllHackingTools && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/.temp/DesingTemp2/ && cd && cd AllHackingTools && cd .settings && cd desing2 && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/ && cd && cd AllHackingTools && cd .temp && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/.settings/ && cd && cd AllHackingTools && bash .settings/Applined.sh")
+ os.system("cd && cd AllHackingTools && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/.temp/DesingTemp2/ && cd && cd AllHackingTools && cd .settings && cd desing2 && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/ && cd && cd AllHackingTools && cd .temp && cd DesingTemp2 && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/.settings/desing2/ && cd && cd AllHackingTools && bash .settings/Applined.sh")
 elif(op==4):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
