@@ -9,8 +9,8 @@ os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 
 print("  \033[1;34m[ 01 ] >> \033[1;36;40mMailHack - Email hacker")
 print("  \033[1;34m[ 02 ] >> \033[1;36;40mPwnedOrnot - Tool for find passworld email")
-print("  \033[1;34m[ 03 ] >> \033[1;36;40mExit System")
-print("  \033[1;34m[ 04 ] >> \033[1;36;40mBack To MainMenu")
+print("  \033[1;34m[ 04 ] >> \033[1;36;40mExit System")
+print("  \033[1;34m[ 05 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("Ma1lHacK: "))
 
@@ -21,9 +21,12 @@ elif(op==2):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd pwnedOrNot && python3 pwnedornot.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==3):
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && cd emailpyspam && cd main && python3 emailspam.py && cd && cd AllHackingTools && python2 MainMenu.py")
+elif(op==4):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
-elif(op==4):
+elif(op==5):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("python2 MainMenu.py")
