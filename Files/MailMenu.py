@@ -9,6 +9,7 @@ os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 
 print("  \033[1;34m[ 01 ] >> \033[1;36;40mMailHack - Email hacker")
 print("  \033[1;34m[ 02 ] >> \033[1;36;40mPwnedOrnot - Tool for find passworld email")
+print("  \033[1;34m[ 03 ] >> \033[1;36;40mEmailPySpam - A python 3+ program to spam emails and more options!")
 print("  \033[1;34m[ 04 ] >> \033[1;36;40mExit System")
 print("  \033[1;34m[ 05 ] >> \033[1;36;40mBack To MainMenu")
 
