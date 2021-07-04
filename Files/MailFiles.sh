@@ -19,3 +19,8 @@ cd pwnedOrNot
 cd
 cd
 cd AllHackingTools
+git clone https://github.com/Curioo/emailpyspam.git
+cd emailpyspam
+cd
+cd
+cd AllHackingTools
