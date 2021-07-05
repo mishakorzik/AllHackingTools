@@ -26,7 +26,7 @@ elif(op==3):
  os.system("cd && cd AllHackingTools && cd emailpyspam && cd main && python3 emailspam.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==4):
  time.sleep(0.2)
- print("\033[1;31;40mQuiting utility...")
+ print("\033[1;31;40mQuiting System...")
 elif(op==5):
  os.system("cd")
  os.system("cd AllHackingTools")
