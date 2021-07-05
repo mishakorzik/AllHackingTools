@@ -7,7 +7,7 @@ import sys
 os.system("clear")
 os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 
-print("  \033[1;34m[ 01 ] >> \033[1;36;40mSeeker - Remote Access Trojan - RAT")
+print("  \033[1;34m[ 01 ] >> \033[1;36;40mSeeker - Accurately Locate Smartphones and GPS")
 print("  \033[1;34m[ 02 ] >> \033[1;36;40mTrape - People tracker on the Internet OSINT")
 print("  \033[1;34m[ 03 ] >> \033[1;36;40mExit System - log out AllHackingTools")
 print("  \033[1;34m[ 04 ] >> \033[1;36;40mBack To MainMenu")
