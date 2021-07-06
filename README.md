@@ -1,5 +1,10 @@
 # AllHackingTools
 
+• <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE">License</a>
+• <a href="https://github.com/mishakorzik/AllHackingTools/issues">Issues</a>
+• <a href="https://github.com/mishakorzik/AllHackingTools/projects">Project</a>
+• <a href="https://github.com/mishakorzik/AllHackingTools/wiki">Wikipedia</a>
+
 ####  Hi, if you want to set up a termux quickly, here you are!
 ####  More Hacking tools with one tool!
 
@@ -22,7 +27,7 @@
 
 ---
 
-## Installing for termux.
+## Installing for termux
 
 * `termux-setup-storage`
 * `apt full-upgrade`
@@ -31,7 +36,7 @@
 * `cd AllHackingTools`
 * `bash Install.sh`
 
-## Installing for linux.
+## Installing for linux
 
 * `apt upgrade`
 * `apt install git`
@@ -73,14 +78,13 @@
 ----------
 ## Dependencies
 #### If all this is then you can download!
-
-* `Root  : NO ROOT`
-* `Ngrok : Token`
-* `Storage  : 2000 MB`
-* `Internet : must be`
-
-#### Okay let's go installing!
-#### if it shows Are you rooted? Then ignore it!
+```bash
+Root     : NO ROOT
+Ngrok    : Token
+Storage  : 2000 MB
+Internet : must be
+```
+#### Okay let's go installing! If it shows Are you rooted? Then ignore it!
 ---------
 ## What does it download?
 * `git` `python` 
