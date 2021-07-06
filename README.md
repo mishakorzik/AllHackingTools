@@ -43,6 +43,25 @@
 
 * `Succes!`
 #### Run command to start AllHackingTools: msdconsole
+## AllHackingTool Menu:
+- Information Gathering
+- Exploitation Tools
+- Sniffing and Spoofing
+- Web Attack Tool
+- Cam Hacking Tool
+- SQL injection-Tool
+- SocialMedia Bruteforce
+- DDOS Attack Tools
+- Phishing attack tools
+- Hash cracking tools
+- Android Hacking Tool
+- Web crawling
+- XSS Attack Tool
+- Wordlist Generator
+- Wireless attack tools
+- Other Tool
+     - Free Proxy
+
 ----
 #### When prompted for the download type: Default/Coded
 
