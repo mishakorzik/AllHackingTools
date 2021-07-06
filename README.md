@@ -67,6 +67,7 @@
 - Wireless attack tools
 - Other Tool
      - Free Proxy
+     - Mix tools
 
 ----
 #### When prompted for the download type: Default/Coded
