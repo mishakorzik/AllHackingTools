@@ -53,15 +53,16 @@
 - Information Gathering
 - Exploitation Tools
 - Sniffing and Spoofing
-- Web Attack Tool
-- Cam Hacking Tool
-- SQL injection-Tool
+- Web Attack Tools
+- Cam Hacking Tools
+- SQL injection-Tools
 - SocialMedia Bruteforce
 - DDOS Attack Tools
 - Phishing attack tools
 - Hash cracking tools
-- Android Hacking Tool
+- Android Hacking Tools
 - Web crawling
+- XSS Attack tools
 - Wordlist Generator
 - Wireless attack tools
 - Other Tool
