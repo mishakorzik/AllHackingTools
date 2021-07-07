@@ -1,5 +1,5 @@
 # AllHackingTools
-<img src="https://img.shields.io/badge/Build-passing-green.svg" alt="passed"> <img src="https://img.shields.io/badge/Version-2.0-blue.svg" alt="version"> <img src="https://img.shields.io/badge/license-GNU-orange.svg" alt="license">
+<img src="https://img.shields.io/badge/Build-passed-green.svg" alt="passed"> <img src="https://img.shields.io/badge/Version-2.0-blue.svg" alt="version"> <img src="https://img.shields.io/badge/license-GNU-orange.svg" alt="license">
 
 • <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE">License</a>
 • <a href="https://github.com/mishakorzik/AllHackingTools/issues">Issues</a>
