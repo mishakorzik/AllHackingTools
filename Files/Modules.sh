@@ -117,6 +117,8 @@ bash Files/RouterFiles.sh
 bash Files/SQLinjectionFiles.sh
 bash Files/SpamFiles.sh
 bash Files/AnalystickFiles.sh
+bash Files/WordlistGeneratorFiles.sh
+bash Files/XSSAttackFiles.sh
 echo '
 ██╗███╗░░██╗░██████╗████████╗░█████╗░██╗░░░░░██╗░░░░░██╗███╗░░██╗░██████╗░
 ██║████╗░██║██╔════╝╚══██╔══╝██╔══██╗██║░░░░░██║░░░░░██║████╗░██║██╔════╝░
