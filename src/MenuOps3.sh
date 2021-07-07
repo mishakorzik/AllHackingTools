@@ -13,8 +13,8 @@ echo '
   11) ~ DarkSearch Tool:  -  Tools for Secret and Onion search 
   12) ~ Phishing And IpHack:  -  Tools for phishing and fake websites
   13) ~ Passworld Attack:  -  Utilities for cracking passwords
-  14) >> Wordlist Generator:  -  Tools for Genering Worldlist
-  15) >> XSS Attack Tools:  -  Utilities for Attacking XSS
+  14) ~ Wordlist Generator:  -  Tools for Genering Worldlist
+  15) ~ XSS Attack Tools:  -  Utilities for Attacking XSS
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣ 
   16) ~ Other tools:  -  Separate and other tools for hacking
   17) ~ Termux Panel:  -  Termux control and special features
