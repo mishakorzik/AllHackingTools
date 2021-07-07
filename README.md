@@ -121,12 +121,11 @@ Internet : must be
 #### succesfull!
 ------
 ## Start AllHackingTool for hacking!
-#### msdconsole AND msdc
+#### msdconsole & msdc
 
 
 #### It downloads packages and utilities and configures the utilities.
 
-###### Trank for downloading.
 ###### By MishaKorzhik
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/><br/>
 
