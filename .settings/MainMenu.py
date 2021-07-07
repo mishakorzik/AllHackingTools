@@ -91,7 +91,7 @@ elif(op==16):
 elif(op==17):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python2")
+ os.system("clear && cd && cd AllHackingTools && bash .settings/LICENSE.sh && cd && cd AllHackingTools && python3 src/Timer2.py && python2 MainMenu.py")
 elif(op==18):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
@@ -100,8 +100,16 @@ elif(op==18):
 elif(op==19):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("bash src/About.sh")
+ os.system("cd && cd AllHackingTools && python2 Files/WordlistGeneratorMenu.py")
 elif(op==20):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.3)
+ os.system("cd && cd AllHackingTools && python2 Files/XSSAttackMenu.py")
+elif(op==21):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.3)
+ os.system("bash src/About.sh")
+elif(op==22):
  os.system("clear && cd && cd AllHackingTools && bash src/RunLogo.sh")
  print("\033[1;31;40mExiting System...")
  time.sleep(0.7)
