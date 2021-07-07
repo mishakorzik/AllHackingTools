@@ -62,7 +62,6 @@
 - Hash cracking tools
 - Android Hacking Tool
 - Web crawling
-- XSS Attack Tool
 - Wordlist Generator
 - Wireless attack tools
 - Other Tool
