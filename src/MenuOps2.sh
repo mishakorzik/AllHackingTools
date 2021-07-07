@@ -13,12 +13,14 @@ echo '
   [11] >> DarkSearch Tool:  -  Tools for Secret and Onion search 
   [12] >> Phishing And IpHack:  -  Tools for phishing and fake websites
   [13] >> Passworld Attack:  -  Utilities for cracking passwords
+  [14] >> Wordlist Generator:  -  Tools for Genering Worldlist
+  [15] >> XSS Attack Tools:  -  Utilities for Attacking XSS
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣ 
-  [14] >> Other tools:  -  Separate and other tools for hacking
-  [15] >> Termux Panel:  -  Termux control and special features
-  [16] >> System Settings:  -  AllHackingTools control and special features
-  [17] >> System License:  -  View A AllHackingTools License =  License
-  [18] >> Update System:  -  Update system and all tools & menu and more utilitys
-  [19] >> About System:  -  View system information and developer
-  [20] >> Exit System:  -  Log out of the AllHackingTools system '|lolcat -p 2.0
+  [16] >> Other tools:  -  Separate and other tools for hacking
+  [17] >> Termux Panel:  -  Termux control and special features
+  [18] >> System Settings:  -  AllHackingTools control and special features
+  [19] >> System License:  -  View A AllHackingTools License =  License
+  [20] >> Update System:  -  Update system and all tools & menu and more utilitys
+  [21] >> About System:  -  View system information and developer
+  [22] >> Exit System:  -  Log out of the AllHackingTools system '|lolcat -p 2.0
 
