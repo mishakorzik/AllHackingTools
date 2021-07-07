@@ -79,32 +79,32 @@ elif(op==13):
 elif(op==14):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python3 .check/OtherToolConfig.py")
+ os.system("cd && cd AllHackingTools && python2 Files/WordlistGeneratorMenu.py")
 elif(op==15):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python3 .check/TermuxPanelConfig.py")
+ os.system("cd && cd AllHackingTools && python2 Files/XSSAttackMenu.py")
 elif(op==16):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python2 .settings/settingsMenu.py")
+ os.system("cd && cd AllHackingTools && python3 .check/OtherToolConfig.py")
 elif(op==17):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("clear && cd && cd AllHackingTools && bash .settings/LICENSE.sh && cd && cd AllHackingTools && python3 src/Timer2.py && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && python3 .check/TermuxPanelConfig.py")
 elif(op==18):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.3)
+ os.system("cd && cd AllHackingTools && python2 .settings/settingsMenu.py")
+elif(op==19):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.3)
+ os.system("clear && cd && cd AllHackingTools && bash .settings/LICENSE.sh && cd && cd AllHackingTools && python3 src/Timer2.py && python2 MainMenu.py")
+elif(op==20):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  time.sleep(1)
  os.system("cd && cd AllHackingTools && python3 .check/UpdaterConfig.py")
-elif(op==19):
- os.system("bash src/Inf.sh")
- time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python2 Files/WordlistGeneratorMenu.py")
-elif(op==20):
- os.system("bash src/Inf.sh")
- time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python2 Files/XSSAttackMenu.py")
 elif(op==21):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
