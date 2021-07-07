@@ -8,3 +8,7 @@ cd XSSCon
 cd
 cd
 cd AllHackingTools
+git clone https://github.com/Ekultek/XanXSS
+cd
+cd
+cd AllHackingTools
