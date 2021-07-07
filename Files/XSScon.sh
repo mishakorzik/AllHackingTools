@@ -14,7 +14,7 @@ read siteURL1
 sleep 0.1
 echo -e $b">>>"$w" Please wait a moment: "$g"XSScon"$w
 sleep 0.6
-python3 xsscon.py -u $siteURL1 -v
+python3 xsscon.py -u $siteURL1 
 cd
 cd
 cd AllHackingTools
