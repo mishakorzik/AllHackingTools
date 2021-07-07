@@ -12,3 +12,7 @@ git clone https://github.com/Ekultek/XanXSS
 cd
 cd
 cd AllHackingTools
+git clone https://github.com/s0md3v/XSStrike
+cd
+cd 
+cd AllHackingTools
