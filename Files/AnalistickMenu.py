@@ -46,7 +46,7 @@ elif(op==5):
  os.system("cd && cd AllHackingTools && cd rang3r && python2 rang3r.py --ip 192.168.0.1 && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==9):
  time.sleep(0.2)
- print("\033[1;31;40mQuiting utility...")
+ print("\033[1;31;40mQuiting System...")
  sys.exit()
 elif(op==10):
  os.system("cd")
