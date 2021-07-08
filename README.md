@@ -115,6 +115,8 @@ Desing:
 #Thanks for reviewing the update list. 
 #Bye bye Have a nice day!
 ```
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/><br/>
+
 </details>
 
 ## Dependencies
@@ -168,7 +170,6 @@ Internet : must be
 #### It downloads packages and utilities and configures the utilities.
 
 ###### By MishaKorzhik
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/><br/>
 [![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
 [![Forkers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/forks/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/members)
 
