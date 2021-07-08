@@ -4,7 +4,8 @@ apt-get install npm
 cd
 cd AllHackingTools
 git clone https://github.com/Bhaviktutorials/shark
-cd shark && chmod +x *
+cd shark
+chmod +x *
 ./setup
 cd
 cd AllHackingTools
@@ -41,6 +42,12 @@ cd AIOPhish
 bash install-termux.sh
 cd
 cd
+cd AllHackingTools
+git clone https://github.com/Viralmaniar/I-See-You.git
+cd I-See-You
+chmod u+x ISeeYou.sh
+cd
+cd 
 cd AllHackingTools
 
 
