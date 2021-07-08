@@ -6,7 +6,7 @@ echo '
   [05] >> Cam Hacking Tools:  -  Tools for hacking cams and front camera
   [06] >> Remote Trojan RAT:  -  Utilities for creating RAT virus
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  
-  [07] >> SQL injection-Tool:  -  Tools for creating viruses
+  [07] >> SQL injection Tool:  -  Tools for creating viruses
   [08] >> SocialMedia Hacking:  -  Tools for hacking social networks
   [09] >> SMS spaming Tools:  -  Utilities for spam and anonymous SMS
   [10] >> Vulnerability Analysis:  -  Systems for vulnerability analysis
