@@ -92,10 +92,12 @@
 
 ### version 2.1
 ```bash
-2 new menu options have been added
-Many new utilities have been added
-Many bugs have been fixed
-2 new logo designs were added
+• Utilites
+: 2 new menu options have been added
+: Many new utilities have been added
+• Desing
+: Many bugs have been fixed
+: 2 new logo designs were added
 
 Thanks for reviewing the update list. 
 Bye bye Have a nice day!
