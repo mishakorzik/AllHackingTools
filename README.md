@@ -85,13 +85,25 @@
 #### Do you need help? Write me on: misakorzik528@gmail.com
 #### And I will consider your letter and problem!
 
+```bash
+Emails:
+ misakorzik528@gmail.com
+ miguardzecurity@gmail.com
+
+Developers:
+ mishakorzhik
+```
+
 </details>
 
 <details id="missing-code-coverage">
   <summary>Versions</summary>
 
-### version 2.1
+### Version 2.1
+##### below is a list added in version 2.1
+
 ```bash
+
 Tools:
  Two new menu options have been added
  Many new utilities have been added
