@@ -20,6 +20,7 @@ echo '
   [17] >> Termux Panel:  -  Termux control and special features
   [18] >> System Settings:  -  AllHackingTools control and special features
   [19] >> System License:  -  View the license in AllHackingTools
-  [20] >> Update System:  -  Update system and all tools & menu and more utilitys
-  [21] >> About System:  -  View system information and developer '|lolcat -p 2.0
+  [20] >> Update System:  -  Update system and all tools & menu 
+  [21] >> About System:  -  View system information and developer
+  [22] >> Exit System:  -  Log out of the AllHackingTools system '|lolcat -p 2.0
 
