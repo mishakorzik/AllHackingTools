@@ -169,4 +169,6 @@ Internet : must be
 
 ###### By MishaKorzhik
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/><br/>
+[![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
+[![Forkers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/forks/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/members)
 
