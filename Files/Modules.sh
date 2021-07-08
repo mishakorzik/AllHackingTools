@@ -143,6 +143,8 @@ cp msdServer /data/data/com.termux/files/usr/bin/
 cp msd /data/data/com.termux/files/usr/bin/
 cp ms /data/data/com.termux/files/usr/bin/
 cp m /data/data/com.termux/files/usr/bin/
+cp sys /data/data/com.termux/files/usr/bin/
+cp system /data/data/com.termux/files/usr/bin/
 cd
 cd
 cd /data/data/com.termux/files/usr/bin/
@@ -153,6 +155,8 @@ chmod +x msdServer
 chmod +x msd
 chmod +x ms
 chmod +x m
+chmod +x sys
+chmod +x system
 ls
 sleep 0.2
 clear
