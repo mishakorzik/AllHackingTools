@@ -2,11 +2,11 @@ echo '
   01) ~ Information Gathering:  -  Collects information from database
   02) ~ Exploitation Tools:  -  selection of tools for operation and hacking
   03) ~ Sniffing and Spoofing:  -  Tools for forgery of data and databases
-  04) ~ Web Hacking Tool:  -  Tools for hacking websites and servers
+  04) ~ Web Attack Tool:  -  Tools for hacking websites and servers
   05) ~ Cam Hacking Tool:  -  Tools for hacking cams and front camera
-  06) ~ Injection RAT:  -  Utilities for creating RAT virus
+  06) ~ Remote Trojan RAT:  -  Utilities for creating RAT virus
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  
-  07) ~ SQL injection-Tool:  -  Tools for creating viruses
+  07) ~ SQL injection Tool:  -  Tools for creating viruses
   08) ~ SocialMedia Hacking:  -  Tools for hacking social networks
   09) ~ SMS-spaming Tools:  -  Utilities for spam and anonymous SMS
   10) ~ Vulnerability Analysis:  -  Systems for vulnerability analysis
