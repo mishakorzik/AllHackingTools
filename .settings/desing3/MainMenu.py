@@ -84,19 +84,19 @@ elif(op==15):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  os.system("cd && cd AllHackingTools && python2 Files/XSSAttackMenu.py")
-elif(op==16):
+elif(op==o):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  os.system("cd && cd AllHackingTools && python3 .check/OtherToolConfig.py")
-elif(op==17):
+elif(op==p):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  os.system("cd && cd AllHackingTools && python3 .check/TermuxPanelConfig.py")
-elif(op==18):
+elif(op==s):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  os.system("cd && cd AllHackingTools && python2 .settings/settingsMenu.py")
-elif(op==19):
+elif(op==l):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  os.system("clear && cd && cd AllHackingTools && bash .settings/LICENSE.sh && cd && cd AllHackingTools && python3 src/Timer2.py && python2 MainMenu.py")
