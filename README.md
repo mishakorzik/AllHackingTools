@@ -78,6 +78,30 @@
 
 > **It is recommended to choose: Default**
 ----------
+
+<details id="missing-code-coverage">
+  <summary>Need Help</summary>
+
+#### Do you need help? Write me on: misakorzik528@gmail.com
+#### And I will consider your letter and problem!
+
+</details>
+
+<details id="missing-code-coverage">
+  <summary>Versions</summary>
+
+### version 2.1
+```bash
+• 2 new menu options have been added
+• Many new utilities have been added
+• many bugs have been fixed
+• 2 new logo designs were added
+
+# Thanks for reviewing the update list. 
+# Bye bye Have a nice day!
+```
+</details>
+
 ## Dependencies
 #### If all this is then you can download!
 ```bash
