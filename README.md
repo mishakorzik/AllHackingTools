@@ -69,6 +69,36 @@
      - Free Proxy
      - Mix tools
 
+<details id="missing-code-coverage">
+  <summary>New Commands</summary>
+
+##### AllHackingTools adds new commands for the terminal!  All teams below
+
+```bash
+msdconsole : start AllHackingTools
+msdServer  : Check AllHackingTools server
+msdc       : start AllHackingTools 
+
+Others commands:
+
+system : View My System
+sys    : View My System
+
+Fonts Commands:
+
+figlet -f puffy  AND  toilet -f puffy
+figlet -f poison  AND  toilet -f poison
+figlet -f avatar   AND  toilet -f avatar
+figlet -f modular  AND  toilet -f modular
+figlet -f crazy   AND  toilet -f crazy
+figlet -f bloody  AND  toilet -f bloody
+figlet -f rusto   AND  toilet -f rusto
+figlet -f real   AND  toilet -f real
+figlet -f pagga  AND  toilet -f pagga
+figlet -f block  AND  toilet -f block
+```
+</details>
+
 ----
 #### When prompted for the download type: Default/Coded
 
