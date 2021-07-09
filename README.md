@@ -97,6 +97,17 @@ figlet -f real   AND  toilet -f real
 figlet -f pagga  AND  toilet -f pagga
 figlet -f block  AND  toilet -f block
 ```
+- [x] system desing
+- [x] Mix Tools
+- [x] technical support
+- [x] In a real break-in
+- [x] multi terminal
+- [x] terminal customization
+- [x] selection of editions
+- [x] multifunctional settings
+- [ ] fast download i system
+
+
 </details>
 
 ----
