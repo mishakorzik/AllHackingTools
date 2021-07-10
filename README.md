@@ -47,6 +47,7 @@
 #### Everything is ready!  Now we are waiting for everything to download!
 
 * `Succes!`
+<a id="viewmenu"></a>
 #### Run command to start AllHackingTools: msdconsole
 ## AllHackingTool Menu:
 - Information Gathering
@@ -211,7 +212,7 @@ Internet : must be
 
 #### It downloads packages and utilities and configures the utilities.
 
-• [Dependencies](#depencies) • [Installing](#installing)
+• [Dependencies](#depencies) • [Installing](#installing) • [View MenuOption](#viewmenu)
 
 ## Supporters
 [![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
