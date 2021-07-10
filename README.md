@@ -212,7 +212,7 @@ Internet : must be
 
 #### It downloads packages and utilities and configures the utilities.
 
-• [Dependencies](#depencies) • [Installing](#installing) • [View MenuOption](#viewmenu)
+• [Dependencies](#depencies) • [Installing](#installing) • [Options](#viewmenu)
 
 ## Supporters
 [![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
