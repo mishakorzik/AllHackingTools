@@ -5,7 +5,6 @@
 • <a href="https://github.com/mishakorzik/AllHackingTools/issues">Issues</a>
 • <a href="https://github.com/mishakorzik/AllHackingTools/projects">Project</a>
 • <a href="https://github.com/mishakorzik/AllHackingTools/wiki">Wikipedia</a>
-[Dependencies](#depencies) • [Installing](#installing)
 ####  Hi, if you want to set up a termux quickly, here you are!
 ####  More Hacking tools with one tool!
 
@@ -27,7 +26,7 @@
 * `Linux`
 
 ---
-
+<a id="installing"></a>
 ## Installing for termux
 
 * `termux-setup-storage`
@@ -158,7 +157,9 @@ Desing:
 ```
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/><br/>
 </details>
+
 <a id="depencies"></a>
+
 ## Dependencies
 #### If all this is then you can download!
 ```bash
@@ -170,6 +171,7 @@ Internet : must be
 #### Okay let's go installing! If it shows Are you rooted? Then ignore it!
 ---------
 ## What does it download?
+
 * `git` `python` 
 * `wget` `curl`
 * `openssh` `php`
@@ -208,6 +210,8 @@ Internet : must be
 
 
 #### It downloads packages and utilities and configures the utilities.
+
+• [Dependencies](#depencies) • [Installing](#installing)
 
 ## Supporters
 [![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
