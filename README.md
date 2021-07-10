@@ -5,7 +5,7 @@
 • <a href="https://github.com/mishakorzik/AllHackingTools/issues">Issues</a>
 • <a href="https://github.com/mishakorzik/AllHackingTools/projects">Project</a>
 • <a href="https://github.com/mishakorzik/AllHackingTools/wiki">Wikipedia</a>
-
+[Dependencies](#depencies) • [Installing](#installing)
 ####  Hi, if you want to set up a termux quickly, here you are!
 ####  More Hacking tools with one tool!
 
@@ -157,9 +157,8 @@ Desing:
 #Bye bye Have a nice day!
 ```
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/><br/>
-
 </details>
-
+<a id="depencies"></a>
 ## Dependencies
 #### If all this is then you can download!
 ```bash
