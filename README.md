@@ -115,7 +115,7 @@ figlet -f block  AND  toilet -f block
 
 > **Choose which installation is more convenient for you**
 
-> **If you can't download Dafault then choose: Coded**
+> **If you can't download Default then choose: Coded**
 
 > **It is recommended to choose: Default**
 ----------
