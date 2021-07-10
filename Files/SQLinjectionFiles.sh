@@ -24,3 +24,9 @@ cd AllHackingTools
 cd Files
 cd 
 cd AllHackingTools
+git clone https://github.com/mishakorzik/Infect
+cd Infect
+bash install.sh
+cd
+cd
+cd AllHackingTools
