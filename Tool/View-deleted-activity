@@ -1,0 +1,6 @@
+cd
+cd
+cd AllHackingTools
+cd .settings
+cd deletedfiles
+nano .zsh_history
