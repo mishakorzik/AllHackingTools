@@ -106,6 +106,7 @@ figlet -f block  AND  toilet -f block
 - [x] selection of editions
 - [x] multifunctional settings
 - [ ] fast download i system
+- [ ] Automatic
 
 
 </details>
