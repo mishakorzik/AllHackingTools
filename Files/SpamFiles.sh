@@ -44,4 +44,9 @@ pip install -r requirements.txt
 cd
 cd
 cd AllHackingTools
-
+git clone https://github.com/mishakorzik/anonymousSMS
+cd anonymousSMS
+bash setup.sh
+cd
+cd
+cd AllHackingTools
