@@ -110,7 +110,7 @@ elif(op==21):
  time.sleep(0.3)
  os.system("bash src/About.sh")
 elif(op==22):
- os.system("clear && cd && cd AllHackingTools && bash src/RunLogo.sh")
+ os.system("clear && cd && cd AllHackingTools && bash Logo.sh")
  print("\033[1;31;40mExiting System...")
  time.sleep(0.7)
 else:
