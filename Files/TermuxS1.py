@@ -59,7 +59,7 @@ elif(op==13):
  os.system("cd && cd AllHackingTools && cp -r Termux-os /data/data/com.termux/files/home && cd && cd Termux-os && bash TermuxNewKeys.sh && cd && cd AllHackingTools && python2 Files/TermuxS.py")
 elif(op==14):
  time.sleep(0.2)
- print("\033[1;31;40mQuiting utility...")
+ print("\033[1;31;40mQuiting System...")
  time.sleep(0.7)
 elif(op==15):
  os.system("cd")
