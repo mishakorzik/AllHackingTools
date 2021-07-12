@@ -111,6 +111,60 @@ figlet -f block  AND  toilet -f block
 
 </details>
 
+<details id="missing-code-coverage">
+   <summary>qiq more commands</summary>
+
+##### Now when you write the qiq command in the terminal.  Many other teams will show you
+##### The main commands should be written without a space, with a drawing, for example: qiq-install
+##### When you write qiq-install, it will write to you Enter module name to install and write the name of the module you want to download, for example: git, python, wget
+</details>
+
+<details id="missing-code-coverage">
+  <summary>view qiq more commands</summary>
+
+```
+>>> qiq-help      :view more qiq info
+>>> qiq-update    :update qiq
+>>> qiq-version   :view qiq version
+>>> qiq-author    :view qiq author
+>>> qiq-install   :install packages
+>>> qiq-remove    :remove packages
+>>> qiq-reinstall :reinstall packages
+┐─┐┐ ┬┐─┐┌┐┐┬─┐┌┌┐  ┌─┐┌─┐┌┌┐┌┌┐┬─┐┌┐┐┬─┐┐─┐
+└─┐└┌┘└─┐ │ ├─ │││  │  │ ││││││││─┤││││ │└─┐
+──┘ ┆ ──┘ ┆ ┴─┘┘ ┆  └─┘┘─┘┘ ┆┘ ┆┘ ┆┆└┘┆─┘──┘
+>>> qiq-proces    :view system process
+>>> qiq-smalltext :create small logo
+>>> qiq-bigtext   :create big logo
+>>> qiq-rgb       :create medium colored logo
+>>> qiq-rcolor    :create medium rainbow logo
+>>> qiq-mysystem  :view my system
+>>> qiq-home      :cd to derictory
+>>> qiq-usr       :cd to derictory
+>>> qiq-bin       :cd to derictory
+┬─┐o┌─┐┬  ┬─┐┌┐┐  ┌┐┐┬─┐┐ ┬  ┌─┐┌─┐┌┌┐┌┌┐┬─┐┌┐┐┬─┐┐─┐
+├─ ││ ┬│  ├─  │    │││├─ │││  │  │ ││││││││─┤││││ │└─┐
+┆  ┆┆─┘┆─┘┴─┘ ┆   ┆└┘┴─┘└┴┆  └─┘┘─┘┘ ┆┘ ┆┘ ┆┆└┘┆─┘──┘
+>>> figlet -f Puffy   :no description
+>>> figlet -f Bloody  :no description
+>>> figlet -f Poison  :no description
+>>> figlet -f Block   :no description
+>>> figlet -f Avatar  :no description
+>>> figlet -f Crazy   :no description
+>>> figlet -f Modular :no description
+>>> figlet -f Basic   :no description
+>>> figlet -f Rusto   :no description
+>>> figlet -f Pagga   :no description
+┌─┐┌┐┐┬ ┬┬─┐┬─┐  ┌─┐┌─┐┌┌┐┌┌┐┬─┐┌┐┐┬─┐┐─┐
+│ │ │ │─┤├─ │┬┘  │  │ ││││││││─┤││││ │└─┐
+┘─┘ ┆ ┆ ┴┴─┘┆└┘  └─┘┘─┘┘ ┆┘ ┆┘ ┆┆└┘┆─┘──┘
+>>> qiq-AllHackingTools :Install AllHackingTools
+>>> qiq-FreeProxy       :Install Free-Proxy
+>>> qiq-AdminHack       :Install AdminHack
+```
+</details>
+
+
 ----
 #### When prompted for the download type: Default/Coded
 
