@@ -17,7 +17,7 @@ echo '
   [15] >> XSS Attack Tools:  -  Utilities for Attacking XSS
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣ 
   [16] >> Other tools:  -  Separate and other tools for hacking
-  [17] >> Termux Panel:  -  Termux control and special features
+  [17] >> Terminal Panel:  -  Termux control and special features
   [18] >> System Settings:  -  AllHackingTools control and special features
   [19] >> System License:  -  View the license in AllHackingTools
   [20] >> Update System:  -  Update system and all tools & menu 
