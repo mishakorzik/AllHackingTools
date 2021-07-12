@@ -108,7 +108,6 @@ figlet -f block  AND  toilet -f block
 - [ ] fast download i system
 - [ ] Automatic
 
-
 </details>
 
 <details id="missing-code-coverage">
@@ -117,10 +116,6 @@ figlet -f block  AND  toilet -f block
 ##### Now when you write the qiq command in the terminal.  Many other teams will show you
 ##### The main commands should be written without a space, with a drawing, for example: qiq-install
 ##### When you write qiq-install, it will write to you Enter module name to install and write the name of the module you want to download, for example: git, python, wget
-</details>
-
-<details id="missing-code-coverage">
-  <summary>view qiq more commands</summary>
 
 ```
 >>> qiq-help      :view more qiq info
