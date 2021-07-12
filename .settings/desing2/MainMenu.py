@@ -91,7 +91,7 @@ elif(op==16):
 elif(op==17):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python3 .check/TermuxPanelConfig.py")
+ os.system("cd && cd AllHackingTools && python3 .check/TermuxPanelConfig2.py")
 elif(op==18):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
