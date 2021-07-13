@@ -30,10 +30,8 @@ def sys_check():
 
 			if systemR == github_sys:
 				print(C + '[' + G + ' Online ' + C +']' + '\n')
-				print(G + '[+] ' + C + 'Server Control Panel Actived!')
 			else:
 				print(C + '[' + G + ' Online ' + C +']' + '\n')
-				print(R + '[+] ' + C + 'Server Control Panel Actived!')
 				os.system("termux-torch on")
 		else:
 			print(C + '[' + R + ' Status : {} '.format(sys_sc) + C + ']' + '\n')
