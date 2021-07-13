@@ -13,8 +13,10 @@ print("  \033[1;34m[ 03 ] >> \033[1;36;40mVibration Setting - on/off")
 print("  \033[1;34m[ 04 ] >> \033[1;36;40mSpecial Opportunities")
 print("  \033[1;34m[ 05 ] >> \033[1;36;40mView My Activity")
 print("  \033[1;34m[ 06 ] >> \033[1;36;40mDelete My Activity")
-print("  \033[1;34m[ 07 ] >> \033[1;36;40mExit System")
-print("  \033[1;34m[ 08 ] >> \033[1;36;40mBack To MainMenu")
+print("  \033[1;34m[ 07 ] >> \033[1;36;40mRestore AllHackingTools backup")
+print("  \033[1;34m[ 08 ] >> \033[1;36;40mCreate AllHackingTools backup")
+print("  \033[1;34m[ 09 ] >> \033[1;36;40mExit System - log out AllHackingTools")
+print("  \033[1;34m[ 10 ] >> \033[1;36;40mBack To MainMenu - Back To Main Menu")
 
 op=int(raw_input("Sett1Ngs: "))
 
@@ -37,10 +39,24 @@ elif(op==6):
  os.system("clear")
  os.system("cd && rm -rf AllHackingTools/.settings/deletedfiles/.zsh_history && cd && mv .zsh_history AllHackingTools/.settings/deletedfiles/ && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==7):
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && bash Logo.sh")
+ time.sleep(0.2)
+ print("\033[1;31;40mWait A Bit For The Backup To Be Created...")
+ os.system("cd /sdcard/ && cp -r AllHackingTools /data/data/com.termux/files/home/")
+ print("successfully created a backup in: sdcard...")
+elif(op==8):
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && bash Logo.sh")
+ time.sleep(0.2)
+ print("\033[1;31;40mWait A Bit For The Backup To Be Created...")
+ os.system("cd && cd && cp -r AllHackingTools /sdcard/")
+ print("successfully created a backup in: sdcard...")
+elif(op==9):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
  sys.exit()
-elif(op==8):
+elif(op==10):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("python2 MainMenu.py")
