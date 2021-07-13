@@ -40,3 +40,7 @@ def sys_check():
 
 try:
 	sys_check()
+
+
+except KeyboardInterrupt:
+	os.system("cd && bash AllHackingTools/.check/ConfigurationOptions.sh")
