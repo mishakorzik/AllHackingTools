@@ -12,8 +12,9 @@ print("  \033[1;34m[ 02 ] >> \033[1;36;40mServers Setting")
 print("  \033[1;34m[ 03 ] >> \033[1;36;40mNew ExtraKeys0")
 print("  \033[1;34m[ 04 ] >> \033[1;36;40mNew ExtraKeys1")
 print("  \033[1;34m[ 05 ] >> \033[1;36;40mAdd AllHackingTool to startup")
-print("  \033[1;34m[ 06 ] >> \033[1;36;40mExit System - log out AllHackingTool")
-print("  \033[1;34m[ 07 ] >> \033[1;36;40mBack To MainMenu - go to the home menu")
+print("  \033[1;34m[ 06 ] >> \033[1;36;40mView MySystem Process - ProcessExplorer")
+print("  \033[1;34m[ 07 ] >> \033[1;36;40mExit System - log out AllHackingTool")
+print("  \033[1;34m[ 08 ] >> \033[1;36;40mBack To MainMenu - go to the home menu")
 
 op=int(raw_input("Sett1Ngs: "))
 
@@ -33,10 +34,13 @@ elif(op==5):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd .settings && bash StartAllHackingToolsAndTerminal.sh && cd && cd AllHackingTools && bash .settings/Applined.sh")
 elif(op==6):
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && bash src/ProcesExplorer.sh")")
+elif(op==7):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
  sys.exit()
-elif(op==7):
+elif(op==8):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("python2 MainMenu.py")
