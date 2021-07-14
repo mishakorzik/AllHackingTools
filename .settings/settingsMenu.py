@@ -6,17 +6,7 @@ import sys
 
 os.system("clear")
 os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
-
-print("  \033[1;34m[ 01 ] >> \033[1;36;40mLogo Setting - d/n")
-print("  \033[1;34m[ 02 ] >> \033[1;36;40mMenu Setting - d/n")
-print("  \033[1;34m[ 03 ] >> \033[1;36;40mVibration Setting - on/off")
-print("  \033[1;34m[ 04 ] >> \033[1;36;40mSpecial Opportunities")
-print("  \033[1;34m[ 05 ] >> \033[1;36;40mView My Activity")
-print("  \033[1;34m[ 06 ] >> \033[1;36;40mDelete My Activity")
-print("  \033[1;34m[ 07 ] >> \033[1;36;40mRestore AllHackingTools backup")
-print("  \033[1;34m[ 08 ] >> \033[1;36;40mCreate AllHackingTools backup")
-print("  \033[1;34m[ 09 ] >> \033[1;36;40mExit System - log out AllHackingTools")
-print("  \033[1;34m[ 10 ] >> \033[1;36;40mBack To MainMenu - Back To Main Menu")
+os.system("cd && bash AllHackingTools/.desing/SettingMenu0.sh")
 
 op=int(raw_input("Sett1Ngs: "))
 
