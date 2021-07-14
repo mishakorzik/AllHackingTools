@@ -95,7 +95,7 @@ elif(op==17):
 elif(op==18):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python2 .settings/settingsMenu.py")
+ os.system("cd && cd AllHackingTools && python2 .settings/settingsMenu3.py")
 elif(op==19):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
