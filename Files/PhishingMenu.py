@@ -16,7 +16,7 @@ print("  \033[1;34m[ 06 ] >> \033[1;36;40mUserRecon - find people from social")
 print("  \033[1;34m[ 07 ] >> \033[1;36;40mMask Phish - An masking phishing url")
 print("  \033[1;34m[ 08 ] >> \033[1;36;40mSeeker - Accurately Locate Smartphones")
 print("  \033[1;34m[ 09 ] >> \033[1;36;40mAIOPhish - A Social Toolkit for phishing")
-print("  \033[1;34m[ 10 ] >> \033[1;36;40mISeeYou- Find the exact location of the users)
+print("  \033[1;34m[ 10 ] >> \033[1;36;40mISeeYou- Find the exact location of the users")
 print("  \033[1;34m[ 11 ] >> \033[1;36;40mExit System - log out AllHackingTools")
 print("  \033[1;34m[ 12 ] >> \033[1;36;40mBack To MainMenu")
 
