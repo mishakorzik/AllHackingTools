@@ -215,7 +215,6 @@ Desing:
 #### If all this is then you can download!
 ```bash
 Root     : NO ROOT
-Ngrok    : Token
 Storage  : 2000 MB
 Internet : must be
 ```
