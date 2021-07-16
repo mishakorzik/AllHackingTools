@@ -33,13 +33,17 @@ def sys_check():
 				print(G + '[+] ' + C + 'System configuration checked! There are no failures')
 				os.system("cd && cd AllHackingTools && python3 .check/FileConfiguration.py")
 			else:
-				print("")
-				print(R + '[-] ' + C + 'The system failed to start due to an unknown error!')
+				print(C + '[' + R + ' Failed ' + C +']' + '\n')
+				print(R + '[-] ' + C + 'The system failed to start!')
+				print(R + '[-] ' + C + 'Error code: 106 DNS server refused to connect')
+				print(R + '[-] ' + C + 'Please wait while we fix the problem...')
 				os.system("cd && bash AllHackingTools/.check/ConfigurationOptions.sh")
 		else:
 			print(C + '[' + R + ' Status : {} '.format(sys_sc) + C + ']' + '\n')
+			print(R + '[-] ' + C + 'The system failed to start!')
+			print(R + '[-] ' + C + 'Error code: 401 the server cannot boot')
 	except Exception as e:
-		print('\n' + R + '[-]' + C + ' Exception : ' + W + str(e))
+		print('\n' + R + '[-]' + C + ' Critical Error code: 105 Maybe you dont have internet - Exception : ' + W + str(e))
 
 try:
 	sys_check()
