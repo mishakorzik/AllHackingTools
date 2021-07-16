@@ -6,15 +6,7 @@ import sys
 
 os.system("clear")
 os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
-
-print("  \033[1;34m[ 01 ] >> \033[1;36;40mQuick Start - on/off")
-print("  \033[1;34m[ 02 ] >> \033[1;36;40mServers Setting")
-print("  \033[1;34m[ 03 ] >> \033[1;36;40mNew ExtraKeys0")
-print("  \033[1;34m[ 04 ] >> \033[1;36;40mNew ExtraKeys1")
-print("  \033[1;34m[ 05 ] >> \033[1;36;40mAdd AllHackingTool to startup")
-print("  \033[1;34m[ 06 ] >> \033[1;36;40mView MySystem Process - ProcessExplorer")
-print("  \033[1;34m[ 07 ] >> \033[1;36;40mExit System - log out AllHackingTool")
-print("  \033[1;34m[ 08 ] >> \033[1;36;40mBack To MainMenu - go to the home menu")
+os.system("cd && cd AllHackingTools && bash .desing/desing/SpecialMenu0.sh")
 
 op=int(raw_input("Sett1Ngs: "))
 
