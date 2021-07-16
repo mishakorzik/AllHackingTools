@@ -263,6 +263,19 @@ Internet : must be
 
 • [Dependencies](#depencies) • [Installing](#installing) • [Options](#viewmenu)
 
+## I recommend watching
+
+1.<a href="https://github.com/mishakorzik/qiq">qiq - Batch installer that replaces: apt, pkg, apt-get</a>
+
+2.<a href="https://github.com/mishakorzik/Gmail-Hack">Gmail-Hack - Easy email hacking</a>
+
+3.<a href="https://github.com/mishakorzik/AdminHack">AdminHack - Hacking bad sites</a>
+
+4.<a href="https://github.com/mishakorzik/Infect">Infect - Creating a computer and telephone virus</a>
+
+5.<a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy - Lots of free proxy servers</a>
+
+
 ## Supporters
 [![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
 [![Forkers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/forks/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/members)
