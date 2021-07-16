@@ -24,3 +24,9 @@ cd emailpyspam
 cd
 cd
 cd AllHackingTools
+git clone https://github.com/mishakorzik/Gmail-Hack
+cd Gmail-Hack
+bash install.sh
+cd
+cd
+cd AllHackingTools
