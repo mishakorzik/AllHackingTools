@@ -19,7 +19,7 @@ result = ''
 sysfile = 'WJins82bsOx'
 
 def sysfile_check():
-	print(G + '[+]' + C + ' Checking for files configurations....', end='')
+	print(G + '[>]' + C + ' Checking for files configurations....', end='')
 	file_url = 'https://raw.githubusercontent.com/mishakorzik/AllHackingTools/main/Castom/systemfile.txt'
 	try:
 		file_rqst = requests.get(file_url)
@@ -34,13 +34,14 @@ def sysfile_check():
 				os.system("cd && cd AllHackingTools && bash src/AllHackingTool.sh")
 			else:
 				print("")
-				print(R + '[-] ' + C + 'The system failed to start due to a damaged file!')
-				print(R + '[-] ' + C + 'Error configuration files do not match!')
+				print(R + '[-] ' + C + 'The system failed to start!')
+				print(R + '[-] ' + C + 'Error code: 502 Bad Gateway')
+				print(R + '[-] ' + C + 'Please wait while we fix the problem...')
 				os.system("cd && bash AllHackingTools/.check/ConfigurationOptions.sh")
 		else:
-			print(C + '[' + R + ' Status : {} '.format(file_sc) + C + ']' + '\n')
+			print(C + '[' + R + ' Server time out - Status : {} '.format(file_sc) + C + ']' + '\n')
 	except Exception as e:
-		print('\n' + R + '[-]' + C + ' Exception : ' + W + str(e))
+		print('\n' + R + '[-]' + C + ' Error code: Unknown failed to authenticate the server - Exception : ' + W + str(e))
 
 try:
 	sysfile_check()
