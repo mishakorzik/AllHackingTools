@@ -16,13 +16,13 @@ op=int(raw_input("OthErTo01s: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd AllHackingTools && bash Files/Proxy/Logo.sh && python2 Files/Proxy/menu.py && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && bash Files/Proxy/Logo.sh && python2 Files/Proxy/menu.py && cd")
 elif(op==2):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd ProxyGen && python2 proxygen.py && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && cd ProxyGen && python2 proxygen.py && cd")
 elif(op==3):
  time.sleep(0.2)
- print("\033[1;31;40mQuiting utility...")
+ print("\033[1;31;40mQuiting System...")
  sys.exit()
 elif(op==4):
  os.system("cd")
