@@ -3,6 +3,8 @@ import sys
 import os
 
 if sys.platform == 'win32':
-        os.system('cls') # clear in windows
+        # clear in windows
+        os.system('cls')
 else:
-        os.system('clear') # clear in android
+        # clear in android
+        os.system('clear')
