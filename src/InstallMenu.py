@@ -8,10 +8,10 @@ os.system("clear")
 os.system("cd && cd AllHackingTools && bash src/LiteLogo.sh")
 
 print("")
-print("  \033[1;34m[ 01 ] \033[1;36;40mDefault  -  Standart installing and default")
-print("  \033[1;34m[ 02 ] \033[1;36;40mRestore  -  Restore AllHackingTools in backup")
-print("  \033[1;34m[ 03 ] \033[1;36;40mCoded  -  Install via encoded code NOT RECOMMENDED")
-print("  \033[1;34m[ 04 ] \033[1;36;40mQuit  -  Exit and do not download AllHackingTools")
+print("  \033[1;34m[01] \033[1;36;40mDefault  -  Standart installing and default")
+print("  \033[1;34m[02] \033[1;36;40mRestore  -  Restore AllHackingTools in backup")
+print("  \033[1;34m[03] \033[1;36;40mCoded  -  Install via encoded code NOT RECOMMENDED")
+print("  \033[1;34m[04] \033[1;36;40mQuit  -  Exit and do not download AllHackingTools")
 
 op=int(raw_input("1nStall: "))
 
