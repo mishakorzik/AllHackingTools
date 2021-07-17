@@ -199,6 +199,24 @@ Developers:
 <details id="missing-code-coverage">
   <summary>Versions</summary>
 
+### Version 2.2
+##### below is a list added in version 2.2
+
+```bash
+
+Tools:
+ Many new utilities have been added
+
+Desing:
+ Many bugs have been fixed
+ New logo designs were added
+ New Menu desings were added
+ New AllHackingTools download design 
+
+#Thanks for reviewing the update list. 
+#Bye bye Have a nice day!
+```
+
 ### Version 2.1
 ##### below is a list added in version 2.1
 
