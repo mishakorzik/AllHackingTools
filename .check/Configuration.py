@@ -19,7 +19,7 @@ result = ''
 systemR = 'QruWn'
 
 def sys_check():
-	print(G + '[+]' + C + ' Checking for system configurations....', end='')
+	print(G + '[>]' + C + ' Checking for system configurations....', end='')
 	sys_url = 'https://raw.githubusercontent.com/mishakorzik/AllHackingTools/main/Castom/system.txt'
 	try:
 		sys_rqst = requests.get(sys_url)
@@ -29,7 +29,7 @@ def sys_check():
 			github_sys = github_sys.strip()
 
 			if systemR == github_sys:
-				print(C + '[' + G + ' Succesfull ' + C +']' + '\n')
+				print(C + '[' + G + ' Succesful ' + C +']' + '\n')
 				print(G + '[+] ' + C + 'System configuration checked! There are no failures')
 				os.system("cd && cd AllHackingTools && python3 .check/FileConfiguration.py")
 			else:
