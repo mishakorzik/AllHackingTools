@@ -8,7 +8,7 @@ cd
 cd AllHackingTools
 echo -e $b">"$w" upgrading packages: "$g"pkg & apt"$w
 apt update && apt upgrade
-echo -e $b">"$w" installing modules: "$g"python"$w
+echo -e $b">"$w" updating modules: "$g"python"$w
 apt-get install python
 apt install python
 apt install python2
