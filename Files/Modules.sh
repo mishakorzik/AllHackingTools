@@ -10,9 +10,9 @@ echo -e $b">"$w" upgrading packages: "$g"pkg & apt"$w
 apt update && apt upgrade
 echo -e $b">"$w" installing modules: "$g"python"$w
 apt-get install python
-pkg install python
-pkg install python2
-pkg install python3
+apt install python
+apt install python2
+apt install python3
 echo -e $b">"$w" installing modules: "$g"wget"$w
 apt install wget 
 echo -e $b">"$w" installing modules: "$g"openssh"$w
