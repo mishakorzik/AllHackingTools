@@ -11,4 +11,8 @@ git clone https://github.com/xHak9x/finduser
 cd
 cd
 cd AllHackingTools
+git clone https://github.com/mishakorzik/UserFinder
+cd
+cd
+cd AllHackingTools
 
