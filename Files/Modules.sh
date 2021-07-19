@@ -178,6 +178,7 @@ cd
 git clone https://github.com/mishakorzik/qiq
 cd qiq
 bash install.sh
+clear
 cd
 cd
 clear
