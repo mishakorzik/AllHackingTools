@@ -1,14 +1,2 @@
-g="\033[1;32m"
-r="\033[1;31m"
-b="\033[1;34m"
-w="\033[0m"
-o="\033[1;33m"
+echo Zz0iXDAzM1sxOzMybSIKcj0iXDAzM1sxOzMxbSIKYj0iXDAzM1sxOzM0bSIKdz0iXDAzM1swbSIKbz0iXDAzM1sxOzMzbSIKCmVjaG8gLWUgJHciWyIkZyJJTkZPIiR3Il0iJGIiU3RhcnRpbmcgQWxsSGFja2luZ1Rvb2xzISBQbGVhc2Ugd2FpdC4iJHcKc2xlZXAgMC44CmVjaG8gLWUgJHciWyIkbyJXQVJOIiR3Il0iJGIiUGxlYXNlIGkgZG9uJ3QgQ1RSTCArIEMgIiR3CnNsZWVwIDAuNgpjZApjZApjZCBBbGxIYWNraW5nVG9vbHMKYmFzaCBzcmMvQW5pbWF0aW9uTG9hZDEuc2g= | base64 -d | bash
 
-echo -e $w"["$g"INFO"$w"]"$b"Starting AllHackingTools! Please wait."$w
-sleep 0.8
-echo -e $w"["$o"WARN"$w"]"$b"Please i don't CTRL + C "$w
-sleep 0.6
-cd
-cd
-cd AllHackingTools
-bash src/AnimationLoad1.sh
