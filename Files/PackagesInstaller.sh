@@ -7,11 +7,11 @@ green='\033[92m'
 which git > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[Git]..........................[ SUCCESFUL ]"
+echo -e "$green[+]-[Git].............................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[Git].......................[ NOT FOUND ]"
+echo -e "$red[-]-[Git]..........................[ NOT FOUND ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Git...]"
 apt install git > /dev/null
@@ -156,11 +156,11 @@ fi
 which ruby > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[Clang]..........................[ SUCCESFUL ]"
+echo -e "$green[+]-[Clang]........................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[Clang].......................[ NOT FOUND ]"
+echo -e "$red[-]-[Clang].....................[ NOT FOUND ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Clang...]"
 apt install clang > /dev/null
@@ -234,6 +234,19 @@ echo -e "$red[-]-[Curl].......................[ NOT FOUND ]"
 sleep 1.5
 echo -e "$yellow[!]-[Installing Module Curl...]"
 apt install curl > /dev/null
+fi
+
+which w3m > /dev/null 2>&1
+if [ "$?" -eq "0" ]; then
+echo ""
+echo -e "$green[+]-[w3m]...........................[ SUCCESFUL ]"
+sleep 1.5
+else
+echo ""
+echo -e "$red[-]-[w3m]........................[ NOT FOUND ]"
+sleep 1.5
+echo -e "$yellow[!]-[Installing Module w3m...]"
+apt install w3m > /dev/null
 fi
 
 exit
