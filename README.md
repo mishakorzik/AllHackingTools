@@ -45,14 +45,6 @@
 * `cd AllHackingTools`
 * `bash Install.sh`
 
-## Installing for ubuntu
-
-* `apt-get upgrade`
-* `apt-get install git`
-* `git clone https://github.com/mishakorzik/AllHackingTools`
-* `cd AllHackingTools`
-* `bash Install.sh`
-
 #### Everything is ready!  Now we are waiting for everything to download!
 
 * `Succes!`
