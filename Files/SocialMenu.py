@@ -28,10 +28,10 @@ elif(op==3):
  os.system("cd && cd AllHackingTools && cd Files && bash SherlockUser.sh")
 elif(op==4):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd finduser && bash finduser.sh && cd && cd AllHackingTools && python3 src/Timer2.py")
+ os.system("cd && cd AllHackingTools && cd finduser && bash finduser.sh && cd && cd AllHackingTools && python3 src/Timer3.py")
 elif(op==5):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd UserFinder && bash UserFinder.sh && cd && cd AllHackingTools && python3 src/Timer2.py")
+ os.system("cd && cd AllHackingTools && cd UserFinder && bash UserFinder.sh && cd && cd AllHackingTools && python3 src/Timer3.py")
 elif(op==6):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System..")
