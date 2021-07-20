@@ -104,8 +104,14 @@ clear
 printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒ Loading ...\n"
 leep 0.1
 clear
-printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Succesfull!\n"
-sleep 0.2
+printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Succesful!\n"
+cd
+cd 
+cd AllHackingTools 
+bash src/CheckWifi.sh
+sleep 2
+clear
+sleep 0.1
 cd
 cd
 cd AllHackingTools
