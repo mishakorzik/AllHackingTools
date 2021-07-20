@@ -1,4 +1,10 @@
 clear
+cd
+cd 
+cd AllHackingTools 
+bash src/CheckWifi.sh
+cd
+cd
 
 g="\033[1;32m"
 r="\033[1;31m"
