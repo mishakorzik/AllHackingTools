@@ -17,7 +17,7 @@ cd
 cd
 cd AllHackingTools
 cd Castom
-cp ngrok /data/data/com.temux/files/home/
+cp ngrok /data/data/com.termux/files/home/
 echo -e "$yellow[+]-[Ngrok Installed!................]"
 sleep 1.5
 fi
