@@ -19,4 +19,4 @@ python3 sherlock.py $NameOrUser
 cd
 cd
 cd AllHackingTools
-python3 src/Timer2.py
+python3 src/Timer3.py
