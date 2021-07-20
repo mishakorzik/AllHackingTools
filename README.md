@@ -17,14 +17,12 @@
 
 * `Termux`
 * `Linux`
-* `Ubuntu`
 
 #### Here on these systems works AllHackingTools
 
 ## Tool tested on:
 
 * `Termux`
-* `Linux`
 
 ---
 <a id="installing"></a>
