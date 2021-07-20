@@ -52,11 +52,11 @@ fi
 which jq > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[Jq]..........................[ SUCCESFUL ]"
+echo -e "$green[+]-[Jq]............................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[Jq].......................[ NOT FOUND ]"
+echo -e "$red[-]-[Jq].........................[ NOT FOUND ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Jq...]"
 apt install python > /dev/null
