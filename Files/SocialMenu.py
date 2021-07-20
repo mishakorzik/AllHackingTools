@@ -10,8 +10,8 @@ os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 print("  \033[1;34m[ 01 ] >> \033[1;36;40mInstaHack - Best Tool For instagram bruteforce hacking Tool")
 print("  \033[1;34m[ 02 ] >> \033[1;36;40mFacebook - Bruteforce attack on Facebook account using python")
 print("  \033[1;34m[ 03 ] >> \033[1;36;40mSherlock - Hunt social media accounts by username across social networks")
-print("  \033[1;34m[ 04 ] >> \033[1;36;40mFindUser - Find usernames across over 75 social networks)
-print("  \033[1;34m[ 05 ] >> \033[1;36;40mFacebook - Bruteforce attack on Facebook account using python")
+print("  \033[1;34m[ 04 ] >> \033[1;36;40mFindUser - Find usernames across over 75 social networks")
+print("  \033[1;34m[ 05 ] >> \033[1;36;40mUserFinder - Find UserName in social")
 print("  \033[1;34m[ 06 ] >> \033[1;36;40mExit System - Log out AllHackingTools")
 print("  \033[1;34m[ 07 ] >> \033[1;36;40mBack To MainMenu")
 
@@ -31,7 +31,7 @@ elif(op==4):
  os.system("cd && cd AllHackingTools && cd finduser && bash finduser.sh && cd && cd AllHackingTools && python3 src/Timer2.py")
 elif(op==5):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Facebook-BruteForce && python3 fb.py or python fb2.py")
+ os.system("cd && cd AllHackingTools && cd UserFinder && bash UserFinder.sh && cd && cd AllHackingTools && python3 src/Timer2.py")
 elif(op==6):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System..")
