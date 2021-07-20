@@ -82,7 +82,7 @@
 <details id="missing-code-coverage">
   <summary>New Commands</summary>
 
-##### AllHackingTools adds new commands for the terminal!  All teams below
+##### AllHackingTools adds new commands for the terminal! All commands below
 
 ```bash
 msdconsole : start AllHackingTools
