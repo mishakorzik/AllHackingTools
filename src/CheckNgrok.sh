@@ -11,7 +11,7 @@ sleep 1.5
 else
 echo -e "$red[-]-[Ngrok]........................[ NOT FOUND ]"
 sleep 0.2
-echo -e "$yellow[!]-[Downloading ngrok.................]"
+echo -e "$yellow[!]-[Downloading:Ngrok.................]"
 sleep 1.2
 cd 
 cd
@@ -25,4 +25,3 @@ echo -e "$yellow[+]-[Ngrok Installed!................]"
 sleep 1.5
 fi
 
-exit
