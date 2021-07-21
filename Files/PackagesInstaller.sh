@@ -200,11 +200,11 @@ fi
 which zsh > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[zsh]............................[ SUCCESFUL ]"
+echo -e "$green[+]-[zsh]..........................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[zsh].........................[ FAILED ]"
+echo -e "$red[-]-[zsh].......................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module zsh...]"
 apt install zsh > /dev/null
@@ -213,11 +213,11 @@ fi
 which pv > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[pv].............................[ SUCCESFUL ]"
+echo -e "$green[+]-[pv]...........................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[pv]..........................[ FAILED ]"
+echo -e "$red[-]-[pv]........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module pv...]"
 apt install pv > /dev/null
@@ -226,11 +226,11 @@ fi
 which curl > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[Curl]..........................[ SUCCESFUL ]"
+echo -e "$green[+]-[Curl].........................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[Curl].......................[ FAILED ]"
+echo -e "$red[-]-[Curl]......................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!]-[Installing Module Curl...]"
 apt install curl > /dev/null
