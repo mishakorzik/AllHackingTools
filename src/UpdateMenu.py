@@ -24,7 +24,7 @@ elif(op==2):
  os.system("rm -rf msdc && rm -rf msdconsole && rm -rf msdconsoleUPD")
  os.system("rm -rf msdServer && rm -rf msd && rm -rf ms && rm -rf m")
  os.system("rm -rf sys && rm -rf system && rm -rf View-deleted-activity")
- os.system("cd && cd AllHackingTools && cd Tool")
+ os.system("cd && cd AllHackingTools && cd Tool && chmod +x *")
  os.system("cp msdc /data/data/com.termux/files/usr/bin/")
  os.system("cp msdconsole /data/data/com.termux/files/usr/bin/")
  os.system("cp msdconsoleUPD /data/data/com.termux/files/usr/bin/")
