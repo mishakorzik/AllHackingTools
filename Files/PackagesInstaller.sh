@@ -13,6 +13,17 @@ echo -e "$yellow |   |   |  \___  \  |  |  / __ \|  |_|  |_\  ___/|  | \/ "
 echo -e "$yellow |___|___|  /____  > |__| (____  /____/____/\___  >__|    "
 echo -e "$yellow          \/     \/            \/               \/        "
 
+ping -c 1 google.com > /dev/null 2>&1
+if [[ "$?" == 0 ]]; then
+echo ""
+echo -e "$green[+]-[Internet Connection]............[ True ]"
+sleep 1.5
+else
+echo ""
+echo -e "$red[-]-[Internet Connection].........[ False ]"
+echo ""
+fi
+
 which git > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo -e "$green[+]-[Git].............................[ SUCCESFUL ]"
@@ -209,6 +220,34 @@ echo -e "$red[-]-[w3m]..........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!]-[Installing Module w3m...]"
 apt install w3m 
+fi
+
+red='\e[1;31m'
+default='\e[0m'
+yellow='\e[0;33m'
+orange='\e[38;5;166m'
+green='\033[92m'
+
+arch=`arch`
+if [ -f "ngrok" ]; then
+echo -e "$green[+]-[Ngrok].............................[ FOUND ]"
+sleep 1.5
+else
+echo -e "$red[-]-[Ngrok]........................[ NOT FOUND ]"
+sleep 0.2
+echo -e "$yellow[!]-[Downloading:Ngrok.............[ INSTALLING ]"
+sleep 1.2
+cd 
+cd
+cd AllHackingTools
+cd Castom
+cp ngrok /data/data/com.termux/files/home/
+cd
+cd
+chmod +x ngrok
+sleep 2
+echo -e "$yellow[+]-[Ngrok Installed!..............[ INSTALLED ]"
+sleep 1.5
 fi
 
 echo -e $yellow
