@@ -129,17 +129,6 @@ echo -e "$yellow[!][Installing Module PHP...]"
 apt install php
 fi
 
-which apache2 > /dev/null 2>&1
-if [ "$?" -eq "0" ]; then
-echo -e "$green[+]-[Apache2]...........................[ SUCCESFUL ]"
-sleep 1.5
-else
-echo -e "$red[-]-[Apache2]........................[ FAILED ]"
-sleep 1.5
-echo -e "$yellow[!][Installing Module Apache2...]"
-apt install apache2 
-fi
-
 which ruby > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo -e "$green[+]-[Clang]...........................[ SUCCESFUL ]"
@@ -227,6 +216,7 @@ echo -n [!] Installing Depencies...= ;
 sleep 3 & while [ "$(ps a | awk '{print $1}' | grep $!)" ] ; do for X in '-' '\' '|' '/'; do echo -en "\b$X"; sleep 0.1; done; done 
 echo ""
 
+apt install apache2
 apt install openssl -y
 apt install python-dev -y
 apt install python3 -y
