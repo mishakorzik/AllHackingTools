@@ -16,7 +16,7 @@ bash install.sh
 cd
 cd
 cd AllHackingTools
-git clonehttps://github.com/Gameye98/AstraNmap
+git clone https://github.com/Gameye98/AstraNmap
 cd
 cd 
 cd AllHackingTools
