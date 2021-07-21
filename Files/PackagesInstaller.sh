@@ -20,11 +20,11 @@ fi
 which python > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[Python]..........................[ SUCCESFUL ]"
+echo -e "$green[+]-[Python]........................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[Python].......................[ NOT FOUND ]"
+echo -e "$red[-]-[Python].....................[ NOT FOUND ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Python...]"
 apt install python > /dev/null
@@ -39,11 +39,11 @@ fi
 which wget > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[Wget]..........................[ SUCCESFUL ]"
+echo -e "$green[+]-[Wget]............................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[Wget].......................[ NOT FOUND ]"
+echo -e "$red[-]-[Wget].........................[ NOT FOUND ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Wget...]"
 apt install wget > /dev/null
@@ -52,11 +52,11 @@ fi
 which jq > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[Jq]............................[ SUCCESFUL ]"
+echo -e "$green[+]-[Jq]..............................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[Jq].........................[ NOT FOUND ]"
+echo -e "$red[-]-[Jq]...........................[ NOT FOUND ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Jq...]"
 apt install python > /dev/null
@@ -65,11 +65,11 @@ fi
 which ruby > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[Ruby]..........................[ SUCCESFUL ]"
+echo -e "$green[+]-[Ruby]............................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[Ruby].......................[ NOT FOUND ]"
+echo -e "$red[-]-[Ruby].........................[ NOT FOUND ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Ruby...]"
 apt install ruby > /dev/null
@@ -248,5 +248,10 @@ sleep 1.5
 echo -e "$yellow[!]-[Installing Module w3m...]"
 apt install w3m > /dev/null
 fi
+
+echo -e $yellow
+echo -n [!] Installing Depencies...= ;
+sleep 3 & while [ "$(ps a | awk '{print $1}' | grep $!)" ] ; do for X in '-' '\' '|' '/'; do echo -en "\b$X"; sleep 0.1; done; done 
+echo ""
 
 exit
