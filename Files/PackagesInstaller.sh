@@ -217,7 +217,6 @@ yellow='\e[0;33m'
 orange='\e[38;5;166m'
 green='\033[92m'
 
-arch=`arch`
 if [ -f "ngrok" ]; then
 echo -e "$green[+]-[Ngrok].............................[ FOUND ]"
 sleep 1.5
