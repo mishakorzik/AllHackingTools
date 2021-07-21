@@ -14,6 +14,6 @@ echo ""
 echo -e "$red[-]-[Internet Connection].........[ False ]"
 echo ""
 exit
+exit
 fi
 
-exit
