@@ -21,6 +21,7 @@ cp ngrok /data/data/com.termux/files/home/
 cd
 cd
 chmod +x ngrok
+sleep 2
 echo -e "$yellow[+]-[Ngrok Installed!..............[ INSTALLED ]"
 sleep 1.5
 fi
