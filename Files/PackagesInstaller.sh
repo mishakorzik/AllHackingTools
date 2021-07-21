@@ -111,10 +111,10 @@ fi
 
 which php > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo -e "$green[+]-[PHP]............................[ SUCCESFUL ]"
+echo -e "$green[+]-[PHP].............................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo -e "$red[-]-[PHP].........................[ FAILED ]"
+echo -e "$red[-]-[PHP]..........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module PHP...]"
 apt install php > /dev/null
@@ -122,10 +122,10 @@ fi
 
 which apache2 > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo -e "$green[+]-[Apache2]..........................[ SUCCESFUL ]"
+echo -e "$green[+]-[Apache2]...........................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo -e "$red[-]-[Apache2].......................[ FAILED ]"
+echo -e "$red[-]-[Apache2]........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Apache2...]"
 apt install apache2 > /dev/null
@@ -133,10 +133,10 @@ fi
 
 which ruby > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo -e "$green[+]-[Clang]..........................[ SUCCESFUL ]"
+echo -e "$green[+]-[Clang]...........................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo -e "$red[-]-[Clang].......................[ FAILED ]"
+echo -e "$red[-]-[Clang]........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Clang...]"
 apt install clang > /dev/null
@@ -144,10 +144,10 @@ fi
 
 which zip > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo -e "$green[+]-[Zip]............................[ SUCCESFUL ]"
+echo -e "$green[+]-[Zip].............................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo -e "$red[-]-[Zip].........................[ FAILED ]"
+echo -e "$red[-]-[Zip]..........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Zip...]"
 apt install zip > /dev/null
@@ -155,10 +155,10 @@ fi
 
 which pip > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo -e "$green[+]-[PIP]............................[ SUCCESFUL ]"
+echo -e "$green[+]-[PIP].............................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo -e "$red[-]-[PIP].........................[ FAILED ]"
+echo -e "$red[-]-[PIP]..........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module pip...]"
 apt install pip > /dev/null
@@ -171,10 +171,10 @@ fi
 
 which zsh > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo -e "$green[+]-[zsh]............................[ SUCCESFUL ]"
+echo -e "$green[+]-[zsh].............................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo -e "$red[-]-[zsh].........................[ FAILED ]"
+echo -e "$red[-]-[zsh]..........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module zsh...]"
 apt install zsh > /dev/null
@@ -182,10 +182,10 @@ fi
 
 which pv > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo -e "$green[+]-[pv].............................[ SUCCESFUL ]"
+echo -e "$green[+]-[pv]..............................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo -e "$red[-]-[pv]..........................[ FAILED ]"
+echo -e "$red[-]-[pv]...........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module pv...]"
 apt install pv > /dev/null
@@ -193,10 +193,10 @@ fi
 
 which curl > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo -e "$green[+]-[Curl]...........................[ SUCCESFUL ]"
+echo -e "$green[+]-[Curl]............................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo -e "$red[-]-[Curl]........................[ FAILED ]"
+echo -e "$red[-]-[Curl].........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!]-[Installing Module Curl...]"
 apt install curl > /dev/null
@@ -204,10 +204,10 @@ fi
 
 which w3m > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo -e "$green[+]-[w3m]...........................[ SUCCESFUL ]"
+echo -e "$green[+]-[w3m].............................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo -e "$red[-]-[w3m]........................[ FAILED ]"
+echo -e "$red[-]-[w3m]..........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!]-[Installing Module w3m...]"
 apt install w3m > /dev/null
