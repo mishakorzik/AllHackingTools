@@ -35,6 +35,14 @@
 * `cd AllHackingTools`
 * `bash Install.sh`
 
+## Installing for linux
+
+* `apt upgrade`
+* `apt install git`
+* `git clone https://github.com/mishakorzik/AllHackingTools`
+* `cd AllHackingTools`
+* `bash Install.sh`
+
 #### Everything is ready!  Now we are waiting for everything to download!
 
 * `Succes!`
