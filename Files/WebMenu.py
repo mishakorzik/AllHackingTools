@@ -38,12 +38,12 @@ elif(op==5):
 elif(op==6):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd sqlmate && python2 sqlmate && cd && cd AllHackingTools && python2 MainMenu.py")
-elif(op==8):
- os.system("clear")
- os.system("cd && cd AllHackingTools && cd webkiller && python3 webkiller.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==7):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd SH33LL && python2 sh33l.py && cd && cd AllHackingTools && python2 MainMenu.py")
+elif(op==8):
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && cd webkiller && python3 webkiller.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==9):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
