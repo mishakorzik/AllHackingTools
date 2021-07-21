@@ -8,6 +8,8 @@ cd
 cd AllHackingTools 
 cd Files
 bash PackagesInstaller.sh
+sleep 0.3
+clear
 sleep 1
 cd
 cd 
@@ -17,16 +19,6 @@ bash Files/AndroidFiles.sh
 bash Files/SocialFiles.sh
 bash Files/MailFiles.sh
 bash Files/WebFiles.sh
-echo -e $w"["$g"INFO"$w"]"$b"Loading wait a moment"$w
-sleep 0.2
-echo -e $w"["$o"WARN"$w"]"$b"A don't close termux app!"$w
-sleep 0.3
-echo -e $w"["$r"ERRO"$w"]"$b"Error installing! Reloading installing."$w
-sleep 0.1
-echo -e $w"["$g"INFO"$w"]"$b"Succesfull! Loading installing!"$w
-sleep 0.3
-echo -e $w"["$o"WARN"$w"]"$b"Starting please wait!"$w
-sleep 0.3
 bash Files/PhishingFiles.sh
 bash Files/RouterFiles.sh
 bash Files/SQLinjectionFiles.sh
