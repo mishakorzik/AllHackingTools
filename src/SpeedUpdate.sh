@@ -1,5 +1,9 @@
 cd
 cd
+cd AllHackingTools
+git pull
+cd
+cd
 cd /data/data/com.termux/files/usr/bin/
 rm -rf msdc
 rm -rf msdconsole
@@ -38,9 +42,5 @@ chmod +x m
 chmod +x sys
 chmod +x system
 chmod +x View-deleted-activity
-cd
-cd
-cd AllHackingTools
-git pull
 cd
 cd
