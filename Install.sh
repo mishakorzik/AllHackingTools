@@ -1,10 +1,4 @@
 clear
-cd
-cd 
-cd AllHackingTools 
-bash src/CheckWifi.sh
-cd
-cd
 
 g="\033[1;32m"
 r="\033[1;31m"
@@ -20,6 +14,7 @@ pip2 install requests
 cd
 cd
 cd AllHackingTools
+
 red='\e[1;31m'
 default='\e[0m'
 yellow='\e[0;33m'
@@ -35,7 +30,7 @@ python2 src/InstallMenu.py
 else
 echo ""
 echo -e "$red[-]-[Internet Connection].........[ False ]"
-echo ""
+echo "$default"
 exit
 exit
 fi
