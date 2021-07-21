@@ -20,11 +20,11 @@ fi
 which python > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[Python]........................[ SUCCESFUL ]"
+echo -e "$green[+]-[Python]..........................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[Python].....................[ FAILED ]"
+echo -e "$red[-]-[Python].......................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Python...]"
 apt install python > /dev/null
@@ -156,11 +156,11 @@ fi
 which ruby > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[Clang]........................[ SUCCESFUL ]"
+echo -e "$green[+]-[Clang]..........................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[Clang].....................[ FAILED ]"
+echo -e "$red[-]-[Clang].......................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Clang...]"
 apt install clang > /dev/null
@@ -169,11 +169,11 @@ fi
 which zip > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[Zip]..........................[ SUCCESFUL ]"
+echo -e "$green[+]-[Zip]............................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[Zip].......................[ FAILED ]"
+echo -e "$red[-]-[Zip].........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Zip...]"
 apt install zip > /dev/null
@@ -182,11 +182,11 @@ fi
 which pip > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[PIP]..........................[ SUCCESFUL ]"
+echo -e "$green[+]-[PIP]............................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[PIP].......................[ FAILED ]"
+echo -e "$red[-]-[PIP].........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module pip...]"
 apt install pip > /dev/null
@@ -200,11 +200,11 @@ fi
 which zsh > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[zsh]..........................[ SUCCESFUL ]"
+echo -e "$green[+]-[zsh]............................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[zsh].......................[ FAILED ]"
+echo -e "$red[-]-[zsh].........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module zsh...]"
 apt install zsh > /dev/null
@@ -213,11 +213,11 @@ fi
 which pv > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[pv]...........................[ SUCCESFUL ]"
+echo -e "$green[+]-[pv].............................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[pv]........................[ FAILED ]"
+echo -e "$red[-]-[pv]..........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module pv...]"
 apt install pv > /dev/null
@@ -226,11 +226,11 @@ fi
 which curl > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[Curl].........................[ SUCCESFUL ]"
+echo -e "$green[+]-[Curl]...........................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[Curl]......................[ FAILED ]"
+echo -e "$red[-]-[Curl]........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!]-[Installing Module Curl...]"
 apt install curl > /dev/null
