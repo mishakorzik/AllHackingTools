@@ -117,11 +117,11 @@ fi
 which neofetch > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[Neofetch]..........................[ SUCCESFUL ]"
+echo -e "$green[+]-[Neofetch]........................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[Neofetch].......................[ FAILED ]"
+echo -e "$red[-]-[Neofetch].....................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Neofetch...]"
 apt install neofetch > /dev/null
@@ -130,11 +130,11 @@ fi
 which php > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo ""
-echo -e "$green[+]-[PHP]..........................[ SUCCESFUL ]"
+echo -e "$green[+]-[PHP]............................[ SUCCESFUL ]"
 sleep 1.5
 else
 echo ""
-echo -e "$red[-]-[PHP].......................[ FAILED ]"
+echo -e "$red[-]-[PHP].........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module PHP...]"
 apt install php > /dev/null
