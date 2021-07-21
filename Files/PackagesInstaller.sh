@@ -12,6 +12,9 @@ echo -e "$yellow |   |/    \ /  ___/\   __\__  \ |  | |  | _/ __ \_  __ \ "
 echo -e "$yellow |   |   |  \___  \  |  |  / __ \|  |_|  |_\  ___/|  | \/ "    
 echo -e "$yellow |___|___|  /____  > |__| (____  /____/____/\___  >__|    "
 echo -e "$yellow          \/     \/            \/               \/        "
+echo ""
+echo -e "$yellow   Tool Name: AllHackingTools "
+echo -e "$yellow   Developer: Misha Korzhik " 
 
 which git > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
