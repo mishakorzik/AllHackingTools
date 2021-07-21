@@ -21,17 +21,14 @@ echo -e $w"["$o"SYSTEM"$w"]"$w" Press enter to uninstall AllHackingTools"$w
 read a1
 echo -e $w"["$o"SYSTEM"$w"]"$w" Uninstalling AllHackingTools. Please wait a moment!"$w
 sleep 0.8
-
 ping -c 1 google.com > /dev/null 2>&1
 if [[ "$?" == 0 ]]; then
-echo ""
 echo -e "$green[+]-[Internet Connection]............[ true ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[Internet Connection].........[ False ]"
 echo ""
-exit
+sleep 9999
 fi
 
 sleep 2.8
