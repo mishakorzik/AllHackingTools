@@ -11,7 +11,7 @@ sleep 1.5
 else
 echo -e "$red[-]-[Ngrok]........................[ NOT FOUND ]"
 sleep 0.2
-echo -e "$yellow[!]-[Downloading:Ngrok.................]"
+echo -e "$yellow[!]-[Downloading:Ngrok...............[ DOWNLOADING ]"
 sleep 1.2
 cd 
 cd
@@ -21,7 +21,7 @@ cp ngrok /data/data/com.termux/files/home/
 cd
 cd
 chmod +x ngrok
-echo -e "$yellow[+]-[Ngrok Installed!................]"
+echo -e "$yellow[+]-[Ngrok Installed!................[ INSTALLED ]"
 sleep 1.5
 fi
 
