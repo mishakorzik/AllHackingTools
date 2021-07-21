@@ -11,16 +11,16 @@ orange='\e[38;5;166m'
 green='\033[92m'
 
 clear
-echo -e "$y  ____ ___            .___                       "
-echo -e "$y |    |   \______   __| _/____ _/  |_  ____      "
-echo -e "$y |    |   /\____ \ / __ |\__  \\   __\/ __ \     "
-echo -e "$y |    |  / |  |_> > /_/ | / __ \|  | \  ___/     "
-echo -e "$y |______/  |   __/\____ |(____  /__|  \___  >    "
-echo -e "$y           |__|        \/     \/          \/     "
+echo -e $y"  ____ ___            .___                       "
+echo -e $y" |    |   \______   __| _/____ _/  |_  ____      "
+echo -e $y" |    |   /\____ \ / __ |\__  \\   __\/ __ \     "
+echo -e $y" |    |  / |  |_> > /_/ | / __ \|  | \  ___/     "
+echo -e $y" |______/  |   __/\____ |(____  /__|  \___  >    "
+echo -e $y"           |__|        \/     \/          \/     "
 echo ""
 echo -e $w"["$o"SYSTEM"$w"]"$b"Press enter. To update AllHackingTools"$w
 read a1
-sleep 1
+sleep 0.3
 cd
 cd
 python3 AllHackingTools/.check/UpdaterConfig.py
