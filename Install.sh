@@ -31,7 +31,7 @@ python2 src/InstallMenu.py
 else
 echo ""
 echo -e "$red[-]-[Internet Connection].........[ False ]"
-echo "$default"
+echo -e "$default"
 exit
 exit
 fi
