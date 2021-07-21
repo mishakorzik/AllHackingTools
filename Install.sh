@@ -20,4 +20,22 @@ pip2 install requests
 cd
 cd
 cd AllHackingTools
+red='\e[1;31m'
+default='\e[0m'
+yellow='\e[0;33m'
+orange='\e[38;5;166m'
+green='\033[92m'
+
+ping -c 1 google.com > /dev/null 2>&1
+if [[ "$?" == 0 ]]; then
+echo ""
+echo -e "$green[+]-[Internet Connection]............[ True ]"
+sleep 1.5
 python2 src/InstallMenu.py
+else
+echo ""
+echo -e "$red[-]-[Internet Connection].........[ False ]"
+echo ""
+exit
+exit
+fi
