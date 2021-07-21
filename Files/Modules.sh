@@ -5,96 +5,11 @@ w="\033[0m"
 
 cd
 cd
-cd AllHackingTools
-echo -e $b">"$w" upgrading packages: "$g"pkg & apt"$w
-apt update && apt upgrade
-echo -e $b">"$w" installing modules: "$g"python"$w
-apt-get install python
-apt install python
-apt install python2
-apt install python3
-echo -e $b">"$w" installing modules: "$g"wget"$w
-apt install wget 
-echo -e $b">"$w" installing modules: "$g"openssh"$w
-apt install openssh 
-pkg install openssh
-echo -e $b">"$w" installing modules: "$g"php"$w
-apt install php
-echo -e $b">"$w" installing modules: "$g"toilet"$w
-apt install toilet
-echo -e $b">"$w" installing modules: "$g"colorama"$w
-apt install colorama
-echo -e $b">"$w" installing modules: "$g"jq"$w
-apt install jq 
-echo -e $b">"$w" installing modules: "$g"apache2"$w
-apt install apache2
-echo -e $b">"$w" installing modules: "$g"ruby"$w
-apt install ruby 
-pkg install ruby
-echo -e $b">"$w" installing modules: "$g"clang"$w
-apt install clang
-echo -e $b">"$w" installing modules: "$g"ssl"$w
-apt install ssl -y
-apt install openssl -y
-echo -e $b">"$w" installing modules: "$g"w3m"$w
-apt install w3m -y
-echo -e $b">"$w" installing modules: "$g"figlet"$w
-apt install figlet
-echo -e $b">"$w" installing modules: "$g"lolcat"$w
-pkg install pip
-pkg install pip2
-pip2 install --upgrade pip
-pip install lolcat
-gem install lolcat
-echo -e $b">"$w" installing modules: "$g"zip"$w
-apt install zip 
-echo -e $b">"$w" installing modules: "$g"lolcat"$w
-apt install lolcat
-echo -e $b">"$w" installing modules: "$g"pv"$w
-apt install pv 
-echo -e $b">"$w" installing modules: "$g"neofetch"$w
-apt install neofetch
-echo -e $b">"$w" installing modules: "$g"zsh"$w
-apt install zsh
-echo -e $b">"$w" installing modules: "$g"wget"$w
-apt install wget
-echo -e $b">"$w" installing modules: "$g"neofetch"$w
-apt install neofetch
-echo -e $b">"$w" installing modules: "$g"curl"$w
-apt install curl
+cd AllHackingTools 
+cd Files
+bash PackagesInstaller.sh
 sleep 1
-echo '
-██████╗░░█████╗░░██████╗███████╗   ██╗███╗░░██╗░██████╗████████╗░█████╗░██╗░░░░░██╗░░░░░██╗███╗░░██╗░██████╗░
-██╔══██╗██╔══██╗██╔════╝██╔════╝   ██║████╗░██║██╔════╝╚══██╔══╝██╔══██╗██║░░░░░██║░░░░░██║████╗░██║██╔════╝░
-██████╦╝███████║╚█████╗░█████╗░░   ██║██╔██╗██║╚█████╗░░░░██║░░░███████║██║░░░░░██║░░░░░██║██╔██╗██║██║░░██╗░
-██╔══██╗██╔══██║░╚═══██╗██╔══╝░░   ██║██║╚████║░╚═══██╗░░░██║░░░██╔══██║██║░░░░░██║░░░░░██║██║╚████║██║░░╚██╗
-██████╦╝██║░░██║██████╔╝███████╗   ██║██║░╚███║██████╔╝░░░██║░░░██║░░██║███████╗███████╗██║██║░╚███║╚██████╔╝
-╚═════╝░╚═╝░░╚═╝╚═════╝░╚══════╝   ╚═╝╚═╝░░╚══╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚══════╝╚═╝╚═╝░░╚══╝░╚═════╝░
-'|lolcat -p 1.5
-sleep 2
-echo -e $b">"$w" installing modules: "$g"pip"$w
-pkg install pip2
-apt install python-dev -y
-apt install python3 -y
-apt-get install pip2
-pip install --upgrade pip2
-apt-get install termux-api
-pkg install termux-api
-pip2 install --upgrade pip
-pip2 install passlib
-pip install passlib
-pip2 install progressbar
-pip install progressbar
-pip2 install future
-pip install future
-pip2 install colorama
-pip install flask
-pip2 install flask_socketio
-pip install flask_socketio
-pip3 install flask_socketio
-pip3 install flask_cors
-pip2 install flask_cors
-pip2 install mechanize
+cd
 cd 
 cd AllHackingTools
 bash Files/CamHackFiles.sh
