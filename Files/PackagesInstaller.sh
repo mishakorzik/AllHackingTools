@@ -6,11 +6,9 @@ green='\033[92m'
 
 which git > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo ""
 echo -e "$green[+]-[Git].............................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[Git]..........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Git...]"
@@ -19,11 +17,9 @@ fi
 
 which python > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo ""
 echo -e "$green[+]-[Python]..........................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[Python].......................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Python...]"
@@ -38,11 +34,9 @@ fi
 
 which wget > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo ""
 echo -e "$green[+]-[Wget]............................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[Wget].........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Wget...]"
@@ -51,11 +45,9 @@ fi
 
 which jq > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo ""
 echo -e "$green[+]-[Jq]..............................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[Jq]...........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Jq...]"
@@ -64,11 +56,9 @@ fi
 
 which ruby > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo ""
 echo -e "$green[+]-[Ruby]............................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[Ruby].........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Ruby...]"
@@ -77,11 +67,9 @@ fi
 
 which toilet > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo ""
 echo -e "$green[+]-[Toilet]..........................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[Toilet].......................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Toilet...]"
@@ -90,11 +78,9 @@ fi
 
 which figlet > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo ""
 echo -e "$green[+]-[Figlet]..........................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[Figlet].......................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Figlet...]"
@@ -103,11 +89,9 @@ fi
 
 which lolcat > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo ""
 echo -e "$green[+]-[Lolcat]..........................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[Lolcat].......................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Lolcat...]"
@@ -116,11 +100,9 @@ fi
 
 which neofetch > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo ""
 echo -e "$green[+]-[Neofetch]........................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[Neofetch].....................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Neofetch...]"
@@ -129,11 +111,9 @@ fi
 
 which php > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo ""
 echo -e "$green[+]-[PHP]............................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[PHP].........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module PHP...]"
@@ -142,11 +122,9 @@ fi
 
 which apache2 > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo ""
 echo -e "$green[+]-[Apache2]..........................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[Apache2].......................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Apache2...]"
@@ -155,11 +133,9 @@ fi
 
 which ruby > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo ""
 echo -e "$green[+]-[Clang]..........................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[Clang].......................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Clang...]"
@@ -168,11 +144,9 @@ fi
 
 which zip > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo ""
 echo -e "$green[+]-[Zip]............................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[Zip].........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module Zip...]"
@@ -181,11 +155,9 @@ fi
 
 which pip > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo ""
 echo -e "$green[+]-[PIP]............................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[PIP].........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module pip...]"
@@ -199,11 +171,9 @@ fi
 
 which zsh > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo ""
 echo -e "$green[+]-[zsh]............................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[zsh].........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module zsh...]"
@@ -212,11 +182,9 @@ fi
 
 which pv > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo ""
 echo -e "$green[+]-[pv].............................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[pv]..........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!][Installing Module pv...]"
@@ -225,11 +193,9 @@ fi
 
 which curl > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo ""
 echo -e "$green[+]-[Curl]...........................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[Curl]........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!]-[Installing Module Curl...]"
@@ -238,11 +204,9 @@ fi
 
 which w3m > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
-echo ""
 echo -e "$green[+]-[w3m]...........................[ SUCCESFUL ]"
 sleep 1.5
 else
-echo ""
 echo -e "$red[-]-[w3m]........................[ FAILED ]"
 sleep 1.5
 echo -e "$yellow[!]-[Installing Module w3m...]"
