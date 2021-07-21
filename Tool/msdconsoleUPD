@@ -17,6 +17,8 @@ echo -e "$yellow |    |   /\____ \ / __ |\__  \\   __\/ __ \               "
 echo -e "$yellow |    |  / |  |_> > /_/ | / __ \|  | \  ___/               "
 echo -e "$yellow |______/  |   __/\____ |(____  /__|  \___  > /\  /\  /\   "
 echo -e "$yellow           |__|        \/     \/          \/  \/  \/  \/   "
+echo ""
+echo -e $w"["$o"SYSTEM"$w"]"$w" I don't close Termux App And Cntr + C."$w
 echo -e $w"["$o"SYSTEM"$w"]"$w" Press enter. To update AllHackingTools"$w
 read a1
 sleep 0.1
