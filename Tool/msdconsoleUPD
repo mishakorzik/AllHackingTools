@@ -11,14 +11,6 @@ orange='\e[38;5;166m'
 green='\033[92m'
 
 clear
-echo -e "$y"
-echo """  ____ ___            .___                       """
-echo """ |    |   \______   __| _/____ _/  |_  ____      """
-echo """ |    |   /\____ \ / __ |\__  \\   __\/ __ \     """
-echo """ |    |  / |  |_> > /_/ | / __ \|  | \  ___/     """
-echo """ |______/  |   __/\____ |(____  /__|  \___  >    """
-echo """           |__|        \/     \/          \/     """
-echo ""
 echo -e $w"["$o"SYSTEM"$w"]"$w"Press enter. To update AllHackingTools"$w
 read a1
 sleep 0.3
