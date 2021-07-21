@@ -13,19 +13,6 @@ echo -e "$yellow |   |   |  \___  \  |  |  / __ \|  |_|  |_\  ___/|  | \/ "
 echo -e "$yellow |___|___|  /____  > |__| (____  /____/____/\___  >__|    "
 echo -e "$yellow          \/     \/            \/               \/        "
 
-ping -c 1 google.com > /dev/null 2>&1
-if [[ "$?" == 0 ]]; then
-echo ""
-echo -e "$green[+]-[Internet Connection]............[ True ]"
-sleep 1.5
-else
-echo ""
-echo -e "$red[-]-[Internet Connection].........[ False ]"
-echo ""
-exit
-exit
-fi
-
 which git > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo -e "$green[+]-[Git].............................[ SUCCESFUL ]"
