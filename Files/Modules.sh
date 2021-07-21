@@ -3,6 +3,15 @@ r="\033[1;31m"
 b="\033[1;34m"
 w="\033[0m"
 
+clear
+cd
+cd
+cd AllHackingTools
+cd termux-style
+./uninstall
+cd
+cd 
+clear
 cd
 cd
 cd AllHackingTools 
