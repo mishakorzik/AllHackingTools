@@ -1,3 +1,8 @@
+#!/usr/bin
+#Copyright 2021 AllHackingTools
+#Written by : Misha Korzhik
+#Github     : http://github.com/mishakorzik
+
 import requests
 import os
 import time
