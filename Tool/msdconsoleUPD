@@ -6,17 +6,17 @@ o="\033[1;33m"
 
 red='\e[1;31m'
 default='\e[0m'
-yellow='\e[0;33m'
+y="\e[0;33m"
 orange='\e[38;5;166m'
 green='\033[92m'
 
 clear
-echo -e "$yellow  ____ ___            .___                       "
-echo -e "$yellow |    |   \______   __| _/____ _/  |_  ____      "
-echo -e "$yellow |    |   /\____ \ / __ |\__  \\   __\/ __ \     "
-echo -e "$yellow |    |  / |  |_> > /_/ | / __ \|  | \  ___/     "
-echo -e "$yellow |______/  |   __/\____ |(____  /__|  \___  >    "
-echo -e "$yellow           |__|        \/     \/          \/     "
+echo -e "$y  ____ ___            .___                       "
+echo -e "$y |    |   \______   __| _/____ _/  |_  ____      "
+echo -e "$y |    |   /\____ \ / __ |\__  \\   __\/ __ \     "
+echo -e "$y |    |  / |  |_> > /_/ | / __ \|  | \  ___/     "
+echo -e "$y |______/  |   __/\____ |(____  /__|  \___  >    "
+echo -e "$y           |__|        \/     \/          \/     "
 echo ""
 echo -e $w"["$o"SYSTEM"$w"]"$b"Press enter. To update AllHackingTools"$w
 read a1
