@@ -12,7 +12,7 @@ print("  \033[1;34m[01] \033[1;36;40mDefault Installing  -  Standart installing 
 print("  \033[1;34m[02] \033[1;36;40mSpeed Installing  -  Very fast download NOT RECOMMEND")
 print("  \033[1;34m[03] \033[1;36;40mQuit Updater  -  Exit and do not update AllHackingTools")
 
-op=int(raw_input("1nStall: "))
+op=int(raw_input("UPda1Er: "))
 
 if(op==1):
  os.system("clear")
