@@ -247,7 +247,6 @@ sleep 3 & while [ "$(ps a | awk '{print $1}' | grep $!)" ] ; do for X in '-' '\'
 echo ""
 
 apt install apache2
-apt install Apache2
 apt install openssl -y
 apt install python-dev -y
 apt install python3 -y
