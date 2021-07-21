@@ -279,5 +279,3 @@ pip3 install flask_socketio
 pip3 install flask_cors
 pip2 install flask_cors
 pip2 install mechanize
-echo -e "$green[+]-[Other:Packages].....................[ SUCCESFUL ]"
-sleep 0.7
