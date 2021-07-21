@@ -20,6 +20,10 @@ if(op==1):
  os.system("cd /data/data/com.termux/files/usr/share/figlet && rm -rf poison.flf && rm -rf puffy.flf && rm -rf real.flf && rm -rf pagga.tlf && rm -rf modular.tlf && rm -rf rusto.tlf && rm -rf avatar.flf && rm -rf bloody.flf && rm -rf crazy.flf && rm -rf block.flf && cd && cd AutoUpdateMyTools && bash AllHackingToolupdate.sh")
 elif(op==2):
  os.system("cd && cd AllHackingTools && git pull")
+ os.system("cd /data/data/com.termux/files/usr/bin/")
+ os.system("rm -rf msdc && rm -rf msdconsole && rm -rf msdconsoleUPD")
+ os.system("rm -rf msdServer && rm -rf msd && rm -rf ms && rm -rf m")
+ os.system("rm -rf sys && rm -rf system && rm -rf View-deleted-activity")
  os.system("cd && cd AllHackingTools && cd Tool")
  os.system("cp msdc /data/data/com.termux/files/usr/bin/")
  os.system("cp msdconsole /data/data/com.termux/files/usr/bin/")
