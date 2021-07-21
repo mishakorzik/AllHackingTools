@@ -4,6 +4,12 @@ b="\033[1;34m"
 w="\033[0m"
 o="\033[1;33m"
 
+red='\e[1;31m'
+default='\e[0m'
+yellow='\e[0;33m'
+orange='\e[38;5;166m'
+green='\033[92m'
+
 echo -e "$yellow  ____ ___      .__                 __         .__  .__     "
 echo -e "$yellow |    |   \____ |__| ____   _______/  |______  |  | |  |    "
 echo -e "$yellow |    |   /    \|  |/    \ /  ___/\   __\__  \ |  | |  |    "
@@ -11,9 +17,9 @@ echo -e "$yellow |    |  /   |  \  |   |  \\___ \   |  |  / __ \|  |_|  |__ "
 echo -e "$yellow |______/|___|  /__|___|  /____  > |__| (____  /____/____/  "
 echo -e "$yellow              \/        \/     \/            \/             "
 echo ""
-echo -e $w"["$o"SYSTEM"$w"]"$b"Press enter to uninstall AllHackingTools"$w
+echo -e $w"["$o"SYSTEM"$w"]"$w" Press enter to uninstall AllHackingTools"$w
 read a1
-echo -e $w"["$o"SYSTEM"$w"]"$b"Uninstalling AllHackingTools. Please wait a moment!"$w
+echo -e $w"["$o"SYSTEM"$w"]"$w" Uninstalling AllHackingTools. Please wait a moment!"$w
 sleep 0.8
 
 ping -c 1 google.com > /dev/null 2>&1
