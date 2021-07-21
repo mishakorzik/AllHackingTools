@@ -18,9 +18,10 @@ echo -e $y""" |    |  / |  |_> > /_/ | / __ \|  | \  ___/     """
 echo -e $y""" |______/  |   __/\____ |(____  /__|  \___  >    """
 echo -e $y"""           |__|        \/     \/          \/     """
 echo ""
-echo -e $w"["$o"SYSTEM"$w"]"$b"Press enter. To update AllHackingTools"$w
+echo -e $w"["$o"SYSTEM"$w"]"$w"Press enter. To update AllHackingTools"$w
 read a1
 sleep 0.3
+
 cd
 cd
 python3 AllHackingTools/.check/UpdaterConfig.py
