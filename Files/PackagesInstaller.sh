@@ -22,6 +22,8 @@ else
 echo ""
 echo -e "$red[-]-[Internet Connection].........[ False ]"
 echo ""
+exit
+exit
 fi
 
 which git > /dev/null 2>&1
