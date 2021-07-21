@@ -19,8 +19,9 @@ print("  \033[1;34m[ 09 ] >> \033[1;36;40mLittleBrother - Information gathering 
 print("  \033[1;34m[ 10 ] >> \033[1;36;40mSeeker - Accurately Locate Smartphones and GPS")
 print("  \033[1;34m[ 11 ] >> \033[1;36;40mReconDog - Reconnaissance Swiss Army Knife")
 print("  \033[1;34m[ 12 ] >> \033[1;36;40mD-Tech - Pentesting the Modern Web")
-print("  \033[1;34m[ 13 ] >> \033[1;36;40mExit System")
-print("  \033[1;34m[ 14 ] >> \033[1;36;40mBack To MainMenu")
+print("  \033[1;34m[ 13 ] >> \033[1;36;40mWebKiller - Tool Information Gathering Write By Python")
+print("  \033[1;34m[ 14 ] >> \033[1;36;40mExit System - log out AllHackingTools")
+print("  \033[1;34m[ 15 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("1nf0rmatI0n: "))
 
@@ -66,10 +67,13 @@ elif(op==12):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd D-Tech && python2 d-tect.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==13):
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && cd webkiller && python3 webkiller.py && cd && cd AllHackingTools && python2 MainMenu.py")
+elif(op==14):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
  sys.exit()
-elif(op==14):
+elif(op==15):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("python2 MainMenu.py")
