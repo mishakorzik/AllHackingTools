@@ -26,6 +26,7 @@ if [[ "$?" == 0 ]]; then
 echo ""
 echo -e "$green[+]-[Internet Connection]............[ True ]"
 sleep 1.5
+echo "$default"
 python2 src/InstallMenu.py
 else
 echo ""
