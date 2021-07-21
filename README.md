@@ -37,6 +37,24 @@
 
 * `Termux`
 
+------------------------------
+## New features:
+
+**1) New Tools And functions**
+- New tools for penetration testing. And many new opportunities.
+
+**2) Castomization and desing**
+- Now a new customization for the terminal has been added, and a new design has been added.
+
+**3) New Desing And functions**
+- The AllHackingTools installer has been updated it has got a new design and many features to check packages.
+
+**4) New design for download and update**
+- Now added the ability to quickly update AllHackingTools and new design, download, and update AllHackingTools.
+
+**5) Fixed More Bugs**
+- Fixed many bugs in the system, now AllHackingTools works faster and more stable
+
 ---
 <a id="installing"></a>
 ## Installing for termux
