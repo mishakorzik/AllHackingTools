@@ -9,7 +9,7 @@ chmod +x *
 ./setup
 cd
 cd AllHackingTools
-git clone git://github.com/htr-tech/zphisher.git
+git clone https://github.com/htr-tech/zphisher.git
 cd
 cd AllHackingTools
 git clone https://github.com/AbirHasan2005/ShellPhish
