@@ -70,20 +70,23 @@
 - <a href="https://github.com/mishakorzik/anonymousSMS">anonymousSMS</a>
 
 ## Vulnerability Analysis
+- <a href="https://github.com/floriankunushevci/rang3r">Rang3r</a>
+- <a href="https://github.com/TechnicalMujeeb/TM-scanner.git">TM-Scanner</a>
+- <a href="https://github.com/Gameye98/AstraNmap">AstraNmap</a>
+
+## DarkSearch Tools
+- <a href="https://github.com/josh0xA/darkdump">DarkDump</a>
+
+## Phishing And IpHack
+- <a href="https://github.com/Bhaviktutorials/shark">Shark</a>
+- <a href="https://github.com/htr-tech/zphisher.git">Zphisher</a>
+- <a href="https://github.com/AbirHasan2005/ShellPhish">ShellPhish</a>
+- <a href="https://github.com/hangetzzu/saycheese">Saycheese</a>
+- <a href="https://github.com/iinc0gnit0/BlackPhish">BlackPhish</a>
+- <a href="https://github.com/mishakorzik/Mask-Phish.Termux">Mask-Phish</a>
 - <a href="
 - <a href="
 - <a href="
-- <a href="
-- <a href="
-- <a href="
--
--
-
-
-
-
-
-
 
 
 
