@@ -57,6 +57,10 @@ cd HiddenEye
 cd
 cd
 cd AllHackingTools
+git clone https://github.com/An0nUD4Y/blackeye
+cd
+cd
+cd AllHackingTools
 
 
 
