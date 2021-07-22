@@ -27,6 +27,17 @@ echo -e "$yellow[!][Installing Module Git...]"
 apt install git 
 fi
 
+which openssh > /dev/null 2>&1
+if [ "$?" -eq "0" ]; then
+echo -e "$green[+]-[Openssh].........................[ SUCCESFUL ]"
+sleep 1.5
+else
+echo -e "$red[-]-[Openssh]......................[ FAILED ]"
+sleep 1.5
+echo -e "$yellow[!][Installing Module Git...]"
+apt install openssh
+fi
+
 which python > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo -e "$green[+]-[Python]..........................[ SUCCESFUL ]"
