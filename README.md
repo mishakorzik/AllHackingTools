@@ -85,7 +85,7 @@
 - Sniffing and Spoofing
 - Web Attack Tools
 - Cam Hacking Tools
-- SQL injection-Tools
+- Remote Trojan RAT
 - SocialMedia Bruteforce
      - SocialMedia Finder
 - DDOS Attack Tools
