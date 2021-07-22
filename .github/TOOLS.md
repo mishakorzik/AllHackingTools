@@ -52,7 +52,7 @@
 - <a href="https://github.com/Terror696/Vitus2.0">Vitus2.0</a>
 - <a href="https://github.com/mishakorzik/Infect">Infect</a>
 
-## Social Media Hacking
+## SocialMedia Hacking
 - <a href="https://github.com/evildevill/instahack">InstaHack</a>
 - <a href="https://github.com/IAmBlackHacker/Facebook-BruteForce">Facebook-BruteForce</a>
     - <a href="https://github.com/sherlock-project/sherlock.git">Sherlock</a>
@@ -88,6 +88,7 @@
 - <a href="https://github.com/DeepSociety/AIOPhish">AIOPhish</a>
 - <a href="https://github.com/Viralmaniar/I-See-You.git">I See You</a>
 - <a href="https://github.com/DarkSecDevelopers/HiddenEye-Legacy">HiddenEye</a>
+- <a href="https://github.com/An0nUD4Y/blackeye">BlackEye</a>
 
 ## Hash cracking Tools
 - <a href="https://github.com/ciku370/hasher">Hasher</a>
