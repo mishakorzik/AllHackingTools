@@ -20,11 +20,10 @@
 
 ---------------------
 
-####  Hi, if you want to set up a termux quickly, here you are! More Hacking tools with one tool!
+#### Hi, if you want to set up a termux quickly, here you are! More Hacking tools with one tool!
 
 > Я не несу ответственности за ваши действия. Скачивая программное обеспечение из этого репозитория, вы соглашаетесь с [лицензией](https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE).
 
-#### <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">View AllHackingTool Menu And Tools</a>
 ---------
 ## Supported systems
 #### will download 5-15 minutes
@@ -55,6 +54,9 @@
 
 **5) Fixed More Bugs**
 - Fixed many bugs in the system, now AllHackingTools works faster and more stable
+
+**6) Run Tools**
+- The user can now run the tools directly from AllHackingTools, even though they are already installed.
 
 ---
 <a id="installing"></a>
