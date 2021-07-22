@@ -24,6 +24,7 @@
 
 > Я не несу ответственности за ваши действия. Скачивая программное обеспечение из этого репозитория, вы соглашаетесь с [лицензией](https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE).
 
+#### <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">View AllHackingTool Menu And Tools</a>
 ---------
 ## Supported systems
 #### will download 5-15 minutes
