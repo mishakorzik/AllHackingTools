@@ -84,10 +84,15 @@
 - <a href="https://github.com/hangetzzu/saycheese">Saycheese</a>
 - <a href="https://github.com/iinc0gnit0/BlackPhish">BlackPhish</a>
 - <a href="https://github.com/mishakorzik/Mask-Phish.Termux">Mask-Phish</a>
-- <a href="
-- <a href="
-- <a href="
+- <a href="https://github.com/thewhiteh4t/seeker.git">Seeker</a>
+- <a href="https://github.com/DeepSociety/AIOPhish">AIOPhish</a>
+- <a href="https://github.com/Viralmaniar/I-See-You.git">I See You</a>
 
+## Password Attack
+- <a href="https://github.com/ciku370/hasher">Hasher</a>
+- <a href="https://github.com/thamahaxor/hasherdoid">HasherDoid</a>
+- <a href="https://github.com/ciku370/hash-generator">Hash Generator</a>
+- <a href="https://github.com/s0md3v/Hash-Buster">Hash Buster</a>
 
 
 
