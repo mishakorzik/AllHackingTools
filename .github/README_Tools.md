@@ -42,12 +42,59 @@
 - <a href="https://github.com/noob-hackers/grabcam">Grabcam</a>
 - <a href="https://github.com/Devil-Tigers/CamHack.git">CamHack</a>
 
-## Sql Injection Tools
+## Remote Trojan RAT
+- <a href="https://github.com/knassar702/pyshell">PyShell</a>
+- <a href="https://github.com/kinghacker0/WishFish">WishFish</a>
+
+## SQL Injection Tools
+- <a href="https://github.com/ZechBron/zVirus-Gen">zVirus Gen</a>
+- <a href="https://github.com/UndeadSec/Debinject.git">Debinject</a>
+- <a href="https://github.com/Terror696/Vitus2.0">Vitus2.0</a>
+- <a href="https://github.com/mishakorzik/Infect">Infect</a>
+
+## Social Media Hacking
+- <a href="https://github.com/evildevill/instahack">InstaHack</a>
+- <a href="https://github.com/IAmBlackHacker/Facebook-BruteForce">Facebook-BruteForce</a>
+    - <a href="https://github.com/sherlock-project/sherlock.git">Sherlock</a>
+    - <a href="https://github.com/xHak9x/finduser">FindUser</a>
+    - <a href="https://github.com/mishakorzik/UserFinder">UserFinder</a>
+
+## SMS spaming tools
+- <a href="https://github.com/3UMOBKA/SMS-Bomber-300-Free">SMS-Bomber-300-Free</a>
+- <a href="https://github.com/anubhavanonymous/XLR8_BOMBER">XLR8_BOMBER</a>
+- <a href="https://github.com/MaksPV/AresBomb">AresBomb</a>
+- <a href="https://github.com/HACK3RY2J/Anon-SMS.git">Anon-SMS</a>
+- <a href="https://github.com/FSystem88/spymer">Spymer</a>
+- <a href="https://github.com/TheSpeedX/TBomb.git">TBomb</a>
+- <a href="https://github.com/batiscuff/duplo-bomber">Duplo-Bomber</a>
+- <a href="https://github.com/mishakorzik/anonymousSMS">anonymousSMS</a>
+
+## Vulnerability Analysis
+- <a href="
+- <a href="
 - <a href="
 - <a href="
 - <a href="
 - <a href="
 -
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
