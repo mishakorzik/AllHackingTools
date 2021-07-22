@@ -83,26 +83,25 @@
 <a id="viewmenu"></a>
 #### Run command to start AllHackingTools: msdconsole
 ## AllHackingTool Menu:
-- Information Gathering
-- Exploitation Tools
-- Sniffing and Spoofing
-- Web Attack Tools
-- Cam Hacking Tools
-- Remote Trojan RAT
-- SQL Injection Tools
-- SocialMedia Bruteforce
-     - SocialMedia Finder
-- DDOS Attack Tools
-- Phishing attack tools
-- Hash cracking tools
-- Android Hacking Tools
-- Web crawling
-- XSS Attack tools
-- Wordlist Generator
-- Wireless attack tools
-- Other Tool
-     - Free Proxy
-     - Mix tools
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Information Gathering</a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Exploitation Tools</a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Sniffing and Spoofing</a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Web Attack Tools</a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Cam Hacking Tools</a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Remote Trojan RAT</a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SQL Injection Tools</a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Bruteforce</a>
+     - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Finder</a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">DDOS Attack Tools</a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Phishing Attack Tools</a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Hash Cracking Tools</a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Worldlist Generator</a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">XSS Attack Tools</a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Web Crawling</a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Wireless attack Tools</a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Other Tools</a>
+     - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Free Proxy</a>
+     - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Mix Tools</a>
 
 <details id="missing-code-coverage">
   <summary>New Commands</summary>
