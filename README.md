@@ -86,6 +86,7 @@
 - Web Attack Tools
 - Cam Hacking Tools
 - Remote Trojan RAT
+- SQL Injection Tools
 - SocialMedia Bruteforce
      - SocialMedia Finder
 - DDOS Attack Tools
