@@ -1,6 +1,8 @@
 apt-get install git
 apt-get install python
 apt-get install npm
+pip install pyngrok
+pip install pgrep
 cd
 cd AllHackingTools
 git clone https://github.com/Bhaviktutorials/shark
@@ -48,6 +50,12 @@ cd I-See-You
 chmod u+x ISeeYou.sh
 cd
 cd 
+cd AllHackingTools
+git clone https://github.com/DarkSecDevelopers/HiddenEye.git
+chmod 777 HiddenEye
+cd HiddenEye
+cd
+cd
 cd AllHackingTools
 
 
