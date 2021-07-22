@@ -17,9 +17,10 @@ print("  \033[1;34m[ 07 ] >> \033[1;36;40mMask Phish - An masking phishing url")
 print("  \033[1;34m[ 08 ] >> \033[1;36;40mSeeker - Accurately Locate Smartphones")
 print("  \033[1;34m[ 09 ] >> \033[1;36;40mAIOPhish - A Social Toolkit for phishing")
 print("  \033[1;34m[ 10 ] >> \033[1;36;40mISeeYou - Find the exact location of the users")
-print("  \033[1;34m[ 11 ] >> \033[1;36;40mHiddenEye - ")
-print("  \033[1;34m[ 12 ] >> \033[1;36;40mBack To MainMenu")
-print("  \033[1;34m[ 13 ] >> \033[1;36;40mBack To MainMenu")
+print("  \033[1;34m[ 11 ] >> \033[1;36;40mHiddenEye - Modern Phishing Tool With Advanced Functionality")
+print("  \033[1;34m[ 12 ] >> \033[1;36;40mBlackEye - The ultimate phishing tool with 38 websites available!")
+print("  \033[1;34m[ 13 ] >> \033[1;36;40mExit System - log out AllHackingTools")
+print("  \033[1;34m[ 14 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("Phish1ng: "))
 
@@ -62,10 +63,13 @@ elif(op==11):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd HiddenEye && python HiddenEye.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==12):
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && cd blackeye && bash blackeye.sh && cd && cd AllHackingTools && python2 MainMenu.py")
+elif(op==13):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
  sys.exit()
-elif(op==13):
+elif(op==14):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("python2 MainMenu.py")
