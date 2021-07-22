@@ -88,15 +88,25 @@
 - <a href="https://github.com/DeepSociety/AIOPhish">AIOPhish</a>
 - <a href="https://github.com/Viralmaniar/I-See-You.git">I See You</a>
 
-## Password Attack
+## Hash cracking Tools
 - <a href="https://github.com/ciku370/hasher">Hasher</a>
 - <a href="https://github.com/thamahaxor/hasherdoid">HasherDoid</a>
 - <a href="https://github.com/ciku370/hash-generator">Hash Generator</a>
 - <a href="https://github.com/s0md3v/Hash-Buster">Hash Buster</a>
 
+## Wordlist generator Tools
+- <a href="https://github.com/Keshav2136/wlcreator">WlCreator</a>
+- <a href="https://github.com/UndeadSec/GoblinWordGenerator.git">GoblinWordGenerator</a>
+- <a href="https://github.com/Viralmaniar/SMWYG-Show-Me-What-You-Got.git">SMWYG-SHOW-ME-WHAT-You-Got</a>
 
+## XSS Attack Tools
+- <a href="https://github.com/menkrep1337/XSSCon">XSSCon</a>
+- <a href="https://github.com/Ekultek/XanXSS">XanXSS</a>
+- <a href="https://github.com/s0md3v/XSStrike">XSStrike</a>
 
-
+## Other Tools
+- <a href="https://github.com/tuhin1729/ProxyGen.git">ProxyGen</a>
+- <a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy</a>
 
 
 
