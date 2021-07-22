@@ -87,6 +87,7 @@
 - <a href="https://github.com/thewhiteh4t/seeker.git">Seeker</a>
 - <a href="https://github.com/DeepSociety/AIOPhish">AIOPhish</a>
 - <a href="https://github.com/Viralmaniar/I-See-You.git">I See You</a>
+- <a href="https://github.com/DarkSecDevelopers/HiddenEye-Legacy">HiddenEye</a>
 
 ## Hash cracking Tools
 - <a href="https://github.com/ciku370/hasher">Hasher</a>
