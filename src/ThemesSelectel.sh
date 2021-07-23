@@ -5,8 +5,8 @@ MAGENTABG="$(printf '\033[45m')"  CYANBG="$(printf '\033[46m')"  WHITEBG="$(prin
 DEFAULT_FG="$(printf '\033[39m')"  DEFAULT_BG="$(printf '\033[49m')"
 
 clear
-echo "-----------------------------"
-echo "| ${BLUE}Please select a option   "
+echo "${BLUE}-----------------------------"
+echo "| ${RED}Please select a option ${BLUE}  "
 echo "|------- ----  --------- ---|"
 echo "| 1. Default                 "
 echo "| 2. Neon                    "
@@ -17,7 +17,7 @@ echo "| 6. Smyck                   "
 echo "| 7. Dracula                 "
 echo "  8. Twilight               |"
 echo "|                           |"
-echo "| While   1/2/3/4/5/6/7/8:  |"
+echo "| ${RED}While   1/2/3/4/5/6/7/8: ${BLUE}|"
 echo "----  ----------       ------"
 read numb
 if [ $numb = "1" ]
