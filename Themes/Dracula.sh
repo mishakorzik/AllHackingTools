@@ -1,3 +1,5 @@
+tput sgr0 #reset attributes
+tput op #reset color
 cd
 cd
 rm -rf ~/.termux/colors.properties
