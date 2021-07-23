@@ -115,6 +115,7 @@ python3 AllHackingTools/.check/ServerStatusCheck.py
 cd
 cd
 rm -rf Termux-os
+am broadcast --user 0 -a com.termux.app.reload_style com.termux > /dev/null
 cd
 cd
 cd AllHackingTools 
