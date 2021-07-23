@@ -35,11 +35,11 @@ echo "  ${CYAN}8. Twilight ${BLUE}              |"
 echo "|                           |"
 echo "| ${RED}While   1/2/3/4/5/6/7/8: ${BLUE} |"
 echo "----  ----------       ------"
-echo ""
 if [ $numb = "1" ]
 then
         echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
         sleep 0.3
+        echo ""
         cd
         cd AllHackingTools
         bash Themes/Default.sh
@@ -49,6 +49,7 @@ else
         then
                 echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
                 sleep 0.3
+                echo ""
                 cd
                 cd AllHackingTools
                 bash Themes/Neon.sh
@@ -58,6 +59,7 @@ else
                 then
                         echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
                         sleep 0.3
+                        echo ""
                         cd
                         cd AllHackingTools
                         bash Themes/GoogleDark.sh
@@ -67,6 +69,7 @@ else
                         then
                                 echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
                                 sleep 0.3
+                                echo ""
                                 cd
                                 cd AllHackingTools
                                 bash Themes/Materia.sh
@@ -76,6 +79,7 @@ else
                                 then
                                         echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
                                         sleep 0.3
+                                        echo ""
                                         cd
                                         cd AllHackingTools
                                         bash Themes/Material.sh
@@ -85,6 +89,7 @@ else
                                         then
                                                 echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
                                                 sleep 0.3
+                                                echo ""
                                                 cd
                                                 cd AllHackingTools
                                                 bash Themes/Smyck.sh
@@ -94,6 +99,7 @@ else
                                                 then
                                                         echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
                                                         sleep 0.3
+                                                        echo ""
                                                         cd
                                                         cd AllHackingTools
                                                         bash Themes/Dracula.sh
@@ -103,6 +109,7 @@ else
                                                         then
                                                                 echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
                                                                 sleep 0.3
+                                                                echo ""
                                                                 cd
                                                                 cd AllHackingTools
                                                                 bash Themes/Twilight.sh
