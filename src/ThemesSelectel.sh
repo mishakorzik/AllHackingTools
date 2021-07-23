@@ -6,7 +6,7 @@ DEFAULT_FG="$(printf '\033[39m')"  DEFAULT_BG="$(printf '\033[49m')"
 
 clear
 echo "${BLUE}-----------------------------"
-echo "| ${RED}Please select a option ${BLUE}  "
+echo "| ${RED}Select A Theme ${BLUE}  "
 echo "|------- ----  --------- ---|"
 echo "| ${CYAN}1. Default ${BLUE}                "
 echo "| ${CYAN}2. Neon ${BLUE}                   "
