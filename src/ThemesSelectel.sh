@@ -95,7 +95,8 @@ else
                                                                 bash Themes/Twilight.sh
                                                                 echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
                                                         else
-                                                                echo "Invalid input! Reloading Tool"
+                                                                echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Invalid input! Reloading Option"
+                                                                sleep 1.5
                                                                 cd && cd AllHackingTools && bash src/ThemesSelectel.sh
                                                         fi
                                                 fi
