@@ -21,7 +21,7 @@ echo "| ${RED}While   1/2/3/4/5/6/7/8: ${BLUE} |"
 echo "----  ----------       ------"
 read numb
 echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
-sleep 0.2
+sleep 0.3
 echo ""
 echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
 if [ $numb = "1" ]
