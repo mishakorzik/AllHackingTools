@@ -22,7 +22,7 @@ echo "----  ----------       ------"
 read numb
 clear
 echo "${BLUE}-----------------------------"
-echo "| ${RED}Please select a option ${BLUE}  "
+echo "| ${RED}Loading Theme ${BLUE}  "
 echo "|------- ----  --------- ---|"
 echo "| ${CYAN}1. Default ${BLUE}                "
 echo "| ${CYAN}2. Neon ${BLUE}                   "
