@@ -20,9 +20,10 @@ echo "|                           |"
 echo "| ${RED}While   1/2/3/4/5/6/7/8: ${BLUE} |"
 echo "----  ----------       ------"
 read numb
-echo -n "${BLUE}[${RED}!${BLUE}] Loading Settings..."
+echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
 sleep 0.2
-echo -n "${BLUE}[${RED}!${BLUE}]${BLUE} Applined Succesful..!"
+echo ""
+echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
 if [ $numb = "1" ]
 then
         cd
