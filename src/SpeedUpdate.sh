@@ -14,6 +14,7 @@ rm -rf ms
 rm -rf m
 rm -rf sys
 rm -rf system
+rm -rf Theme
 rm -rf View-deleted-activity
 cd
 cd
@@ -28,6 +29,7 @@ cp ms /data/data/com.termux/files/usr/bin/
 cp m /data/data/com.termux/files/usr/bin/
 cp sys /data/data/com.termux/files/usr/bin/
 cp system /data/data/com.termux/files/usr/bin/
+cp Theme /data/data/com.termux/files/usr/bin/
 cp View-deleted-activity /data/data/com.termux/files/usr/bin/
 cd
 cd
