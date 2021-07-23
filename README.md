@@ -267,7 +267,7 @@ Desing:
 #### If all this is then you can download!
 ```bash
 Root     : NO ROOT
-Storage  : 2000 MB
+Storage  : 2200 MB
 Internet : must be
 ```
 #### Okay let's go installing! If it shows Are you rooted? Then ignore it!
