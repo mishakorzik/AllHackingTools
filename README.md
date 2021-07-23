@@ -112,6 +112,7 @@
 msdconsole : start AllHackingTools
 msdServer  : Check AllHackingTools server
 msdc       : start AllHackingTools 
+Theme      : Select Termux Theme
 
 Others commands:
 
