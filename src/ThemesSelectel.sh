@@ -38,12 +38,12 @@ echo "----  ----------       ------"
 echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
 sleep 0.3
 echo ""
-echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
 if [ $numb = "1" ]
 then
         cd
         cd AllHackingTools
         bash Themes/Default.sh
+        echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
 else
         if [ $numb = "2" ]
         then
@@ -51,42 +51,49 @@ else
                 cd
                 cd AllHackingTools
                 bash Themes/Neon.sh
+                echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
         else
                 if [ $numb = "3" ]
                 then
                         cd
                         cd AllHackingTools
                         bash Themes/GoogleDark.sh
+                        echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
                 else
                         if [ $numb = "4" ]
                         then
                                 cd
                                 cd AllHackingTools
                                 bash Themes/Materia.sh
+                                echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
                         else
                                 if [ $numb = "5" ]
                                 then
                                         cd
                                         cd AllHackingTools
                                         bash Themes/Material.sh
+                                        echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
                                 else
                                         if [ $numb = "6" ]
                                         then
                                                 cd
                                                 cd AllHackingTools
                                                 bash Themes/Smyck.sh
+                                                echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
                                         else
                                                 if [ $numb = "7" ]
                                                 then
                                                         cd
                                                         cd AllHackingTools
                                                         bash Themes/Dracula.sh
+                                                        echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
                                                 else
                                                         if [ $numb = "8" ]
                                                         then
                                                                 cd
                                                                 cd AllHackingTools
                                                                 bash Themes/Twilight.sh
+                                                                echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
                                                         else
                                                                 echo "Invalid input! Reloading Tool"
                                                                 cd && cd AllHackingTools && bash src/ThemesSelectel.sh
