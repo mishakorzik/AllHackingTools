@@ -44,5 +44,6 @@ chmod +x m
 chmod +x sys
 chmod +x system
 chmod +x View-deleted-activity
+chmod +x Theme
 cd
 cd
