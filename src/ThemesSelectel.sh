@@ -35,11 +35,11 @@ echo "  ${CYAN}8. Twilight ${BLUE}              |"
 echo "|                           |"
 echo "| ${RED}While   1/2/3/4/5/6/7/8: ${BLUE} |"
 echo "----  ----------       ------"
-echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
-sleep 0.3
 echo ""
 if [ $numb = "1" ]
 then
+        echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
+        sleep 0.3
         cd
         cd AllHackingTools
         bash Themes/Default.sh
@@ -47,7 +47,8 @@ then
 else
         if [ $numb = "2" ]
         then
-
+                echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
+                sleep 0.3
                 cd
                 cd AllHackingTools
                 bash Themes/Neon.sh
@@ -55,6 +56,8 @@ else
         else
                 if [ $numb = "3" ]
                 then
+                        echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
+                        sleep 0.3
                         cd
                         cd AllHackingTools
                         bash Themes/GoogleDark.sh
@@ -62,6 +65,8 @@ else
                 else
                         if [ $numb = "4" ]
                         then
+                                echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
+                                sleep 0.3
                                 cd
                                 cd AllHackingTools
                                 bash Themes/Materia.sh
@@ -69,6 +74,8 @@ else
                         else
                                 if [ $numb = "5" ]
                                 then
+                                        echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
+                                        sleep 0.3
                                         cd
                                         cd AllHackingTools
                                         bash Themes/Material.sh
@@ -76,6 +83,8 @@ else
                                 else
                                         if [ $numb = "6" ]
                                         then
+                                                echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
+                                                sleep 0.3
                                                 cd
                                                 cd AllHackingTools
                                                 bash Themes/Smyck.sh
@@ -83,6 +92,8 @@ else
                                         else
                                                 if [ $numb = "7" ]
                                                 then
+                                                        echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
+                                                        sleep 0.3
                                                         cd
                                                         cd AllHackingTools
                                                         bash Themes/Dracula.sh
@@ -90,6 +101,8 @@ else
                                                 else
                                                         if [ $numb = "8" ]
                                                         then
+                                                                echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Reloading Settings..."
+                                                                sleep 0.3
                                                                 cd
                                                                 cd AllHackingTools
                                                                 bash Themes/Twilight.sh
