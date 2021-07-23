@@ -1,3 +1,5 @@
+tput sgr0 #reset attributes
+tput op #reset color
 cd
 cd
 apt install toilet figlet exa wget ruby 
