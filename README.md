@@ -36,6 +36,7 @@
 ## Tool tested on:
 
 * `Termux`
+* `Linux`
 
 ------------------------------
 ## New features:
