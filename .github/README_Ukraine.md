@@ -4,7 +4,7 @@
 
 #### Привіт, якщо ви хочете швидко налаштувати термукс, ось вам!  Більше інструментів злому одним інструментом!
 
-> Я не відповідаю за ваші дії.  Скачуюче програмне забезпечення з цього репозиторію, ви згодні з [ліцензією] (https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE).
+> Я не відповідаю за ваші дії. Скачуюче програмне забезпечення з цього репозиторію, ви згоджуєтесь з [ліцензією](https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE).
 
 ---------
 ## Підтримувані системи
@@ -42,7 +42,7 @@
  - Користувач тепер може запускати інструменти безпосередньо з AllHackingTools, хоча вони вже встановлені.
 
 ---
-<a id="333"> </a>
+<a id="333"></a>
 ## Встановлення для termux
 
 * `termux-setup-storage`
@@ -63,7 +63,9 @@
 #### Все готово!  Зараз ми чекаємо, поки все завантажиться!
 
 * `Успіхів!`
-<a id="222"> </a>
+
+<a id="222"></a>
+
 #### Запустіть команду для запуску AllHackingTools: msdconsole
 ## Меню AllHackingTool:
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Збір Інформації </a>
@@ -93,14 +95,14 @@
 
 ``` 
 msdconsole: запустити AllHackingTools
-msdServer: Перевірте сервер AllHackingTools
-msdc: запустити AllHackingTools
-Theme: Виберіть тему для Termux
+msdServer : Перевірте сервер AllHackingTools
+msdc      : запустити AllHackingTools
+Theme     : Виберіть тему для Termux
 
 Інші команди:
 
-system: Переглянути мою систему
-sys: Переглянути мою систему
+system : Переглянути мою систему
+sys    : Переглянути мою систему
 
 Команди шрифтів:
 
@@ -205,8 +207,8 @@ figlet -f block  AND  toilet -f block
 
 </details>
 
- <деталі id = "відсутність коду-покриття">
-   <summary>Версії</summary>
+<details id="missing-code-coverage">
+  <summary>Версії</summary>
 
 ### Версія 2.2
 ##### нижче - список, доданий у версії 2.2
@@ -243,7 +245,7 @@ figlet -f block  AND  toilet -f block
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/><br/>
 </details>
 
-<a id="111"> </a>
+<a id="111"></a>
 
 ## Залежності
 #### Якщо все це, тоді ви можете завантажити!
