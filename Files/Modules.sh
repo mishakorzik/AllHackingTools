@@ -77,14 +77,6 @@ rm -rf Termux-os
 rm -rf qiq
 cd
 cd 
-cd AllHackingTools 
-cp -r Termux-os /data/data/com.termux/files/home 
-cd 
-cd
-cd Termux-os 
-bash TermuxNewKeys.sh 
-cd
-cd
 clear
 python3 AllHackingTools/.check/ServerStatusCheck.py
 cd
