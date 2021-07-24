@@ -31,7 +31,7 @@ cp m /data/data/com.termux/files/usr/bin/
 cp sys /data/data/com.termux/files/usr/bin/
 cp system /data/data/com.termux/files/usr/bin/
 cp Theme /data/data/com.termux/files/usr/bin/
-cp theme data/data/com.termux/files/usr/bin/
+cp theme /data/data/com.termux/files/usr/bin/
 cp View-deleted-activity /data/data/com.termux/files/usr/bin/
 cd
 cd
