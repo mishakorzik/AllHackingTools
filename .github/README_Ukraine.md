@@ -42,7 +42,7 @@
  - Користувач тепер може запускати інструменти безпосередньо з AllHackingTools, хоча вони вже встановлені.
 
 ---
-<a id="installing"> </a>
+<a id="333"> </a>
 ## Встановлення для termux
 
 * `termux-setup-storage`
@@ -63,7 +63,7 @@
 #### Все готово!  Зараз ми чекаємо, поки все завантажиться!
 
 * `Успіхів!`
-<a id="viewmenu"> </a>
+<a id="222"> </a>
 #### Запустіть команду для запуску AllHackingTools: msdconsole
 ## Меню AllHackingTool:
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Збір Інформації </a>
@@ -239,22 +239,22 @@ figlet -f block  AND  toilet -f block
   Додано два нових дизайни логотипів
 
  # Дякуємо за перегляд списку оновлень.
- ```
+```
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/><br/>
 </details>
 
- <a id="depencies"> </a>
+<a id="111"> </a>
 
- ## Залежності
- #### Якщо все це, тоді ви можете завантажити!
- ```
+## Залежності
+#### Якщо все це, тоді ви можете завантажити!
+```
  Нгрок    : Альт токена не треба
  Пам'ять  : 2200 МБ
  Інтернет : повинен бути
- ```
- #### Добре, почнемо встановлювати! Якщо відображається Are you Rooted? Тоді ігноруйте це!
- ---------
- ## Що завантажує?
+```
+#### Добре, почнемо встановлювати! Якщо відображається Are you Rooted? Тоді ігноруйте це!
+---------
+## Що завантажує?
 
 * `git` `python` 
 * `wget` `curl`
@@ -267,26 +267,28 @@ figlet -f block  AND  toilet -f block
 * `pv` `neofetch`
 * `zsh` `ngrok`
 
- #### І ще багато інших пакетів!
- ------
- ## Скріншот
- #### переглянути скріншот для AllHackingTools
- <br>
- <p align = "center">
- <img width = "49,0%" src = "https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212422.jpg" />
- <img width = "49,0%" src = "https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144718.jpg" />
- <img width = "49,0%" src = "https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212448.jpg" />
- <img width = "49,0%" src = "https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144658.jpg" />
- </p>
+#### І ще багато інших пакетів!
+------
+## Скріншоти
+#### переглянути скріншот для AllHackingTools
 
- -----
- ## Завантажте додаткову програму для злому!
+<br>
+<p align="center">
+<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212422.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144718.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212448.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144658.jpg"/> 
+</p>
 
- #### Як видалити AllHackingTools?
 
- * `bash Uninstall/Uninstall.sh`
+-----
+## Завантажте додаткову програму для злому!
 
- ------
+#### Як видалити AllHackingTools?
+
+* `bash Uninstall/Uninstall.sh`
+
+------
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/mishakorzik/)](https://github.com/mishakorzik/)
 
 ## Запустіть AllHackingTool для злому!
