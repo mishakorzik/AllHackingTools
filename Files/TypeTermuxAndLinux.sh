@@ -62,7 +62,20 @@ then
 	sleep 0.1
 	clear
 	cd 
-	cd 
+        cd 
+        clear
+        rm -rf Termux-os
+        rm -rf qiq
+        cd
+        cd 
+        cd AllHackingTools 
+        cp -r Termux-os /data/data/com.termux/files/home 
+        cd 
+        cd
+        cd Termux-os 
+        bash TermuxNewKeys.sh 
+        cd
+        cd
 	sleep 0.9
 	echo -n "${BLUE}[${GREEN}+${BLUE}] ${GREEN}Succesful Installed..!"
 	echo ""
