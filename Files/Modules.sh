@@ -52,6 +52,18 @@ cd
 cd
 cd AllHackingTools
 cd Tool
+cp msdc /usr/local/bin/
+cp msdconsole /usr/local/bin/
+cp msdconsoleUPD /usr/local/bin/
+cp msdServer /usr/local/bin/
+cp msd /usr/local/bin/
+cp ms /usr/local/bin/
+cp m /usr/local/bin/
+cp sys /usr/local/bin/
+cp system /usr/local/bin/
+cp View-deleted-activity /usr/local/bin/
+cp theme /usr/local/bin/
+cp Theme /usr/local/bin/
 cp msdc /data/data/com.termux/files/usr/bin/
 cp msdconsole /data/data/com.termux/files/usr/bin/
 cp msdconsoleUPD /data/data/com.termux/files/usr/bin/
@@ -67,6 +79,7 @@ cp theme /data/data/com.termux/files/usr/bin/
 cd
 cd
 cd /data/data/com.termux/files/usr/bin/
+cd /usr/local/bin/
 chmod +x msdconsole
 chmod +x msdconsoleUPD
 chmod +x msdc
