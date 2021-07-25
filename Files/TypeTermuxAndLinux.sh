@@ -43,7 +43,9 @@ then
 	cp View-deleted-activity /data/data/com.termux/files/usr/bin/
 	cp Theme /data/data/com.termux/files/usr/bin/
 	cp theme /data/data/com.termux/files/usr/bin/
-	cd
+	cp standart /data/data/com.termux/files/usr/bin/
+        cp edit /data/data/com.termux/files/usr/bin/
+        cd
 	cd
 	cd /data/data/com.termux/files/usr/bin/
 	chmod +x msdconsole
@@ -58,6 +60,8 @@ then
 	chmod +x View-deleted-activity
 	chmod +x Theme
 	chmod +x theme
+        chmod +x standart
+        chmod +x edit
 	ls
 	sleep 0.1
 	clear
