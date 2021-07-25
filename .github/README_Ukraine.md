@@ -84,25 +84,25 @@
 
 <a id="222"></a>
 
-#### Запустіть команду для запуску AllHackingTools: msdconsole
+#### Запустите команду для запуска AllHackingTools: msdconsole
 ## Меню AllHackingTool:
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Збір Інформації </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти експлуатації </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Обнюхування та підробка </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Збор Інформации </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти експлуатации </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Обнюхування та потделка </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти веб-атак </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти злому камери </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Віддалений троянський RAT </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти злому камер </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Отдаленный троянський RAT </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти ін’єкції SQL </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Bruteforce </a>
      - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Finder </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Атаки DDOS </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Для Фішингових Атак </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти злому хешу </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Генератор Світових Списків </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Генератор Светових Списков </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Атаки XSS </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Веб-сканування </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Бездротової Атаки </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інші Інструменти </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Другие Інструменти </a>
      - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Безкоштовний проксі </a>
      - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Змішування </a>
 
@@ -122,7 +122,7 @@ Theme     : Виберіть тему для Termux
 system : Переглянути мою систему
 sys    : Переглянути мою систему
 
-Команди шрифтів:
+Команди шрифтов:
 
 figlet -f puffy  AND  toilet -f puffy
 figlet -f poison  AND  toilet -f poison
@@ -135,25 +135,25 @@ figlet -f real   AND  toilet -f real
 figlet -f pagga  AND  toilet -f pagga
 figlet -f block  AND  toilet -f block
 ```
- - [x] проектування системи
- - [x] Інструменти змішування
- - [x] технічна підтримка
- - [x] У справжньому взломі
- - [x] мультитермінал
- - [x]налаштування терміналу
- - [x] відбір видань
- - [x] багатофункціональні налаштування
- - [ ] швидке завантаження системи
- - [ ] Автоматичний
+ - [x] проектирования системы
+ - [x] Инструменты смешивания
+ - [x] поддержка
+ - [x] В настоящем взломе
+ - [x] мультитерминал
+ - [x] настройки терминала
+ - [x] отбор изданий
+ - [x] многофункциональные настройки
+ - [ ] быстрая загрузка системы
+ - [ ] Автоматический
 
  </details>
 
 <details id="missing-code-coverage">
-   <summary>Всі команди qiq</summary>
+   <summary>Всё команди qiq</summary>
 
-##### Тепер, коли ви пишете команду qiq у терміналі.  Багато інших команд покажуть вам
-##### Основні команди слід писати без пробілу, з кресленням, наприклад: qiq-install
-##### Коли ви пишете qiq-install, він напише вам Введіть ім'я модуля для встановлення та напишіть ім'я модуля, який ви хочете завантажити, наприклад: git, python, wget
+##### Теперь, когда вы пишете команду qiq в терминале.  Многие другие команды покажут вам
+##### Основные команды следует писать без пробела, чертежу, например qiq-install
+##### Когда вы пишете qiq-install, он напишет вам Введите имя модуля для установки и напишите имя модуля, который вы хотите загрузить, например git, python, wget
 
 ```
 >>> qiq-help      :view more qiq info
@@ -199,27 +199,27 @@ figlet -f block  AND  toilet -f block
 
 
 ----
-#### Коли з'явиться запит про тип завантаження: За замовчуванням / кодований
+#### В ответ на запрос о типе загрузки: Default/Coded
 
-> **Виберіть, яка установка вам зручніша**
+> **Выберите которая установка вам удобнее**
 
-> **Якщо ви не можете завантажити за замовчуванням, виберіть: Coded**
+> **Если вы не можете загрузить по умолчанию, выберите: Coded**
 
-> **Рекомендується вибрати: Default**
+> **Рекомендуется выбрать: Default**
 ----------
 
 <details id="missing-code-coverage">
    <summary>Потрібна Допомога</summary>
 
-#### Тобі потрібна допомога?  Напишіть мені на: misakorzik528@gmail.com
-#### І я розгляну ваш лист та проблему!
+#### Тебе нужна допомога? Напиши мнё на: misakorzik528@gmail.com
+#### И я розгляну ваш лист та проблему!
 
 ```
- Електронні листи:
+ Електрониые листи:
   misakorzik528@gmail.com
   miguardzecurity@gmail.com
 
- Розробники:
+ Разработчики:
   misha korzhik
 ```
 
@@ -228,69 +228,69 @@ figlet -f block  AND  toilet -f block
 <details id="missing-code-coverage">
   <summary>Версії</summary>
 
-### Версія 2.3
-##### нижче - список, доданий у версії 2.3
+### Версии 2.3
+##### ниже - список, доданий у версії 2.3
 
 ```
 Інструменти:
- Додано нові утіліти
+ Додано новиё утилити
 
 Desing:
- Добавлено 2 нові команди
- Ісправлено було 2 бага
- Добавлено було нову кастомізацію
+ Добавлено 2 новиё команди
+ Исправлено 2 бага
+ Добавлено було нову кастомизацию
 
 #Thanks for reviewing the update list. 
 #Bye bye Have a nice day!
 ```
 
-### Версія 2.2
-##### нижче - список, доданий у версії 2.2
+### Версия 2.2
+##### ниже - список, доданий у версии 2.2
 
 ```
 
  Інструменти:
-  Додано багато нових утиліт
+  Додано багато нових утилит
 
  Дизайн:
   Виправлено багато помилок
-  Додано нові дизайни логотипів
-  Додано нові варіанти меню
+  Додано новиё дизайни логотипов
+  Додано новиё варіанти меню
   Новий дизайн завантаження AllHackingTools
 
- # Дякуємо за перегляд списку оновлень.
+ # Спасибо за перегляд списку оновлень.
 ```
 
-### Версія 2.1
-##### нижче - список, доданий у версії 2.1
+### Версия 2.1
+##### ниже - список, доданий у версии 2.1
 
 ```
 
  Інструменти:
-  Додано дві нові опції меню
-  Додано багато нових утиліт
+  Додано двё новиё опции меню
+  Додано багато нових утилит
 
  Дизайн:
   Виправлено багато помилок
-  Додано два нових дизайни логотипів
+  Додано два нових дизайни логотипов
 
- # Дякуємо за перегляд списку оновлень.
+ # Спасибо за перегляд списку оновлень.
 ```
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/><br/>
 </details>
 
 <a id="111"></a>
 
-## Залежності
-#### Якщо все це, тоді ви можете завантажити!
+## Зависимости
+#### Если все это, тогда вы можете скачать!
 ```
- Нгрок    : Альт токена не треба
- Пам'ять  : 2200 МБ
- Інтернет : повинен бути
+ Нгрок: Альт токена не надо
+ Память 2200 Мб
+ Интернет: должен быть
 ```
-#### Добре, почнемо встановлювати! Якщо відображається Are you Rooted? Тоді ігноруйте це!
+#### Хорошо, начнем устанавливать!  Если отображается Are you Rooted?  Тогда игнорируйте это!
 ---------
-## Що завантажує?
+## Что загружает?
 
 * `git` `python` 
 * `wget` `curl`
@@ -303,10 +303,10 @@ Desing:
 * `pv` `neofetch`
 * `zsh` `ngrok`
 
-#### І ще багато інших пакетів!
+#### І ещё много других пакетов!
 ------
-## Скріншоти
-#### переглянути скріншот для AllHackingTools
+## Фото
+#### Рекомендую переглянути фоно на AllHackingTools
 
 <br>
 <p align="center">
@@ -327,13 +327,13 @@ Desing:
 ------
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/mishakorzik/)](https://github.com/mishakorzik/)
 
-## Запустіть AllHackingTool для злому!
+## Запусти AllHackingTool для злому!
 #### msdconsole & msdc
 
 
-#### Він завантажує пакети та утиліти та налаштовує утиліти.
+#### AllHackingTool завантажує пакети та утилити та налаштовує утилити.
 
-• [Залежності](#111) • [Встановлення](#222) • [Меню Інструмента](#333)
+• [Зависимости](#111) • [Встановлення](#222) • [Меню Инструментов](#333)
 
 ## Рекомендую переглянути
 
@@ -347,9 +347,9 @@ Desing:
 
 5.<a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy - Lots of free proxy servers</a>
 
-#### Ось сховища, які я рекомендую вам переглянути. нижче - люди, яким сподобалось схоже сховище
+#### Вот сховища, какие я рекомендую вам посмотреть. ниже - люди, каким понравилось AllHackingTools
 
-## Прихильники
+## Сторонники
 [![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
 [![Forkers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/forks/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/members)
 
