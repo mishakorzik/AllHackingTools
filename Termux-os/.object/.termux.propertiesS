@@ -1,1 +1,1 @@
-extra-keys = [['CTRL','ESC','nano','LEFT','DOWN','UP','RIGHT','ls','qiq','TAB']]
+extra-keys = [['CTRL','ESC','nano','LEFT','DOWN','UP','RIGHT','ls','TAB']]
