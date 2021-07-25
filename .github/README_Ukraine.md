@@ -78,7 +78,7 @@
 * `cd AllHackingTools`
 * `bash Install.sh`
 
-#### Все готово!  Зараз ми чекаємо, поки все завантажиться!
+#### Все готово! Зараз ми чекаємо, поки все завантажиться!
 
 * `Успіхів!`
 
@@ -122,7 +122,7 @@ Theme     : Виберіть тему для Termux
 system : Переглянути мою систему
 sys    : Переглянути мою систему
 
-Команди шрифтов:
+Команди шрифтів:
 
 figlet -f puffy  AND  toilet -f puffy
 figlet -f poison  AND  toilet -f poison
@@ -274,7 +274,7 @@ figlet -f block  AND  toilet -f block
   Виправлено много помилок
   Додано два Нових дизайн логотипів
 
-# Спасибі за переглядання списку оновлення.
+# Дякую за переглядання списку оновлення.
 ```
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/><br/>
 </details>
@@ -284,8 +284,8 @@ figlet -f block  AND  toilet -f block
 ## Залежності
 #### Якщо все це, тоді ви можете скачати!
 ```
- Нгрок: Альт токена не треба
- Пам'ять 2200 Мб
+ Нгрок   : Альт токена не треба
+ Пам'ять :2200 Мб
  Інтернет: повинен бути
 ```
 #### Добре, почнемо встановлювати!  Якщо відображається Are you Rooted?  Тоді ігноруйте це!
@@ -303,10 +303,10 @@ figlet -f block  AND  toilet -f block
 * `pv` `neofetch`
 * `zsh` `ngrok`
 
-#### І ещё много других пакетов!
+#### І ще багато інших пакетів!
 ------
-## Фото
-#### Рекомендую переглянути фоно на AllHackingTools
+## Скріншоти
+#### Рекомендую переглянути скріншоти на AllHackingTools
 
 <br>
 <p align="center">
@@ -333,7 +333,7 @@ figlet -f block  AND  toilet -f block
 
 #### AllHackingTool завантажує пакети та утилити та налаштовує утилити.
 
-• [Зависимости](#111) • [Встановлення](#222) • [Меню Инструментов](#333)
+• [Залежності](#111) • [Встановлення](#222) • [Меню Інструментів](#333)
 
 ## Рекомендую переглянути
 
@@ -349,7 +349,7 @@ figlet -f block  AND  toilet -f block
 
 #### Ось сховища які я рекомендую вам переглянути. ниже - люди, яким сподобалося AllHackingTools
 
-## Сторонники
+## Прихильники
 [![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
 [![Forkers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/forks/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/members)
 
