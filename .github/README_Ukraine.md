@@ -228,6 +228,22 @@ figlet -f block  AND  toilet -f block
 <details id="missing-code-coverage">
   <summary>Версії</summary>
 
+### Версія 2.3
+##### нижче - список, доданий у версії 2.3
+
+```
+Інструменти:
+ Додано нові утіліти
+
+Desing:
+ Добавлено 2 нові команди
+ Ісправлено було 2 бага
+ Добавлено було нову кастомізацію
+
+#Thanks for reviewing the update list. 
+#Bye bye Have a nice day!
+```
+
 ### Версія 2.2
 ##### нижче - список, доданий у версії 2.2
 
