@@ -1,3 +1,21 @@
+<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/Logo/IMG-cd518796cb4b0527368a1b9dd67a8889-V.jpg"/>
+
+<p align="center">
+<a href="https://github.com/mishakorzik/AllHackingTools"><img title="Version" src="https://img.shields.io/badge/Version-2.2.7-yellow?style=for-the-badge&logo="></a>
+<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-brightgreen?style=for-the-badge&logo=gnu"></a>
+<a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.x-red?style=for-the-badge&logo=python"></a>
+<a href="https://github.com/mishakorzik"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-red?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mishakorzik"><img title="Autor" src="https://img.shields.io/badge/Author-mishakorzik-blue?style=for-the-badge&logo=github"></a>
+
+<p align="center"
+
+• <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE">License</a> 
+• <a href="https://github.com/mishakorzik/AllHackingTools/issues">Issues</a> 
+• <a href="https://github.com/mishakorzik/AllHackingTools/projects">Project</a> 
+• <a href="https://github.com/mishakorzik/AllHackingTools/wiki">Wikipedia</a> •
+
+</p>
+
 > AllHackingTools: це система, призначена для автоматизації процесу завантаження та встановлення різних інструментів для тестування на проникнення.
 
 ---------------------
@@ -302,3 +320,21 @@ figlet -f block  AND  toilet -f block
 • [Залежності](#111) • [Встановлення](#222) • [Меню Інструмента](#333)
 
 ## Рекомендую переглянути
+
+1.<a href="https://github.com/mishakorzik/qiq">qiq - Useful batch installer</a>
+
+2.<a href="https://github.com/mishakorzik/Gmail-Hack">Gmail-Hack - Easy email hacking</a>
+
+3.<a href="https://github.com/mishakorzik/AdminHack">AdminHack - Hacking bad sites</a>
+
+4.<a href="https://github.com/mishakorzik/Infect">Infect - Easy virus creation</a>
+
+5.<a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy - Lots of free proxy servers</a>
+
+#### Ось сховища, які я рекомендую вам переглянути. нижче - люди, яким сподобалось схоже сховище
+
+## Прихильники
+[![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
+[![Forkers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/forks/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/members)
+
+
