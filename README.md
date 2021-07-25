@@ -321,7 +321,7 @@ Internet : must be
 
 <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Ukraine.md"><img title="Unkraine" src="https://img.shields.io/badge/Translate%20to-Ukraine-inactive?style=for-the-badge&logo=google-translate"></a>
 <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Russian.md"><img title="Russian" src="https://img.shields.io/badge/Translate%20to-Russian-inactive?style=for-the-badge&logo=google-translate"></a>
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Ukraine.md"><img title="Spanish" src="https://img.shields.io/badge/Translate%20to-Spanish-inactive?style=for-the-badge&logo=google-translate"></a>
+<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Spanish.md"><img title="Spanish" src="https://img.shields.io/badge/Translate%20to-Spanish-inactive?style=for-the-badge&logo=google-translate"></a>
 </p>
 
 
