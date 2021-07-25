@@ -19,7 +19,7 @@ rm -rf Theme
 rm -rf View-deleted-activity
 rm -rf theme
 rm -rf edit
-rm -rf default
+rm -rf standart
 cd
 cd
 cd AllHackingTools
@@ -51,7 +51,7 @@ cp Theme /data/data/com.termux/files/usr/bin/
 cp theme /data/data/com.termux/files/usr/bin/
 cp View-deleted-activity /data/data/com.termux/files/usr/bin/
 cp edit /data/data/com.termux/files/usr/bin/
-cp default /data/data/com.termux/files/usr/bin/
+cp standart /data/data/com.termux/files/usr/bin/
 cd
 cd
 cd /data/data/com.termux/files/usr/bin/
@@ -68,6 +68,6 @@ chmod +x View-deleted-activity
 chmod +x Theme
 chmod +x theme
 chmod +x edit
-chmod +x default
+chmod +x standart
 cd
 cd
