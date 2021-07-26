@@ -221,6 +221,17 @@ Developers:
  mishakorzhik
 ```
 
+## Bug?
+```
+If the tool fails, follow these steps:
+
+1. Take a screenshot and see the error in detail
+
+2. Contact me through the following email: misakorzik528@gmail.com
+
+3. Submit the screenshot and explain your problem with that error
+```
+
 </details>
 
 <details id="missing-code-coverage">
