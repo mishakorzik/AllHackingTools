@@ -335,6 +335,13 @@ figlet -f block  AND  toilet -f block
 
 • [Залежності](#111) • [Встановлення](#222) • [Меню Інструментів](#333)
 
+## Перекласти
+
+<a href="https://github.com/mishakorzik/AllHackingTools"><img title="English" src="https://img.shields.io/badge/Translate%20to-English-inactive?style=for-the-badge&logo=google-translate"></a>
+<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Russia.md"><img title="Russian" src="https://img.shields.io/badge/Translate%20to-Russian-inactive?style=for-the-badge&logo=google-translate"></a>
+<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Spanish.md"><img title="Spanish" src="https://img.shields.io/badge/Translate%20to-Spanish-inactive?style=for-the-badge&logo=google-translate"></a>
+</p>
+
 ## Рекомендую переглянути
 
 1.<a href="https://github.com/mishakorzik/qiq">qiq - Useful batch installer</a>
