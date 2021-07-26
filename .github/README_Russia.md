@@ -87,24 +87,24 @@
 #### Запустите команду для запуска AllHackingTools: msdconsole
 ## Меню AllHackingTool:
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Збор Інформации </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти експлуатации </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Инструменты експлуатации </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Обнюхування та потделка </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти веб-атак </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти злому камер </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Инструменты веб-атак </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Инструменты взлому веб-камер </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Отдаленный троянський RAT </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти ін’єкції SQL </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти ин’єкциы SQL </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Bruteforce </a>
      - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Finder </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Атаки DDOS </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Для Фішингових Атак </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти злому хешу </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Инструменты Атаки DDOS </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Инструменты Для Фишинговых Атак </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Инструменты взлому хешу </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Генератор Светових Списков </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Атаки XSS </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Веб-сканування </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Бездротової Атаки </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Другие Інструменти </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Инструменты Атаки XSS </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Веб-сканированые </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Инструменты беспроводной Атаки </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Другие Инструменты </a>
      - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Безкоштовний проксі </a>
-     - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Змішування </a>
+     - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Инструменты Змішування </a>
 
 <details id="missing-code-coverage">
   <summary>Нові Команди</summary>
