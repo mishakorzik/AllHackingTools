@@ -86,23 +86,23 @@
 
 #### Запустите команду для запуска AllHackingTools: msdconsole
 ## Меню AllHackingTool:
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Збор Інформации </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Збір Інформации </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти експлуатации </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Обнюхування та потделка </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Обнюхування та підропка </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти веб-атак </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти злому камер </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Отдаленный троянський RAT </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти взлому камер </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Вітдалений троянський RAT </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти ін’єкції SQL </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Bruteforce </a>
      - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Finder </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Атаки DDOS </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Для Фішингових Атак </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти злому хешу </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Генератор Светових Списков </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти взлому хешу </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Генератор Світових Списків </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Атаки XSS </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Веб-сканування </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Бездротової Атаки </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Другие Інструменти </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інші Інструменти </a>
      - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Безкоштовний проксі </a>
      - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Змішування </a>
 
