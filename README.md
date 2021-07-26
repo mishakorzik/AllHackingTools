@@ -39,6 +39,8 @@
 * `Linux`
 
 ------------------------------
+> If you do not understand anything then there is a [translate](#Translate).
+
 ## New features:
 
 **1) New Tools And functions**
@@ -346,6 +348,7 @@ Internet : must be
 
 • [Dependencies](#depencies) • [Installing](#installing) • [Options](#viewmenu)
 
+<a id="Translate"></a>
 ## Translate
 
 <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Ukraine.md"><img title="Unkraine" src="https://img.shields.io/badge/Translate%20to-Ukraine-inactive?style=for-the-badge&logo=google-translate"></a>
