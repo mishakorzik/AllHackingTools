@@ -7,8 +7,9 @@
 <a href="https://github.com/mishakorzik"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-red?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/mishakorzik"><img title="Autor" src="https://img.shields.io/badge/Author-mishakorzik-blue?style=for-the-badge&logo=github"></a>
 
-<p align="center"
+</p>
 
+<p align="center">
 • <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE">License</a> 
 • <a href="https://github.com/mishakorzik/AllHackingTools/issues">Issues</a> 
 • <a href="https://github.com/mishakorzik/AllHackingTools/projects">Project</a> 
