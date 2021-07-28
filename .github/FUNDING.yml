@@ -1,12 +1,5 @@
 # These are supported funding model platforms
 
-github: # SuperOchkobus MishaKorzhik am1iq Arsenmaksymchukhacker
-patreon: # MishaKorzhik
-open_collective: # FlyZero
-ko_fi: # MishaKorzhik
-tidelift: # github/AllHackingTools
-community_bridge: # FlyZero mkl
-liberapay: # MishaKorzhik
-issuehunt: # MishaKorzhik
-otechie: # MishaKorzhik
-custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+github: mishakorzik
+ko_fi: Misha Korzhik # Replace with a single Ko-fi username
+custom: https://github.com/mishakorzik
