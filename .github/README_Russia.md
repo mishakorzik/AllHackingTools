@@ -353,6 +353,9 @@ Desing:
 <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Spanish.md"><img title="Spanish" src="https://img.shields.io/badge/Translate%20to-Spanish-inactive?style=for-the-badge&logo=google-translate"></a>
 </p>
 
+## Найди меня
+[![Github](https://img.shields.io/badge/TELEGRAM-MishaKorzhik-orange?style=for-the-badge&logo=telegram)](https://t.me/MishaKorzhikTelegram)
+
 ## Рекомендую посмотреть
 
 1.<a href="https://github.com/mishakorzik/qiq">qiq - Useful batch installer</a>
