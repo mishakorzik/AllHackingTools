@@ -355,6 +355,7 @@ figlet -f block  AND  toilet -f block
 
 ## Знайди мене 
 [![Github](https://img.shields.io/badge/TELEGRAM-MishaKorzhik-orange?style=for-the-badge&logo=telegram)](https://t.me/MishaKorzhikTelegram)
+[![Github](https://img.shields.io/badge/Twitter-MishaKorzhik-blue?style=for-the-badge&logo=twitter)](https://twitter.com/MishaKorzhik)
 
 ## Рекомендую переглянути
 
