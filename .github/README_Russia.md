@@ -337,6 +337,7 @@ Desing:
 
 ------
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/mishakorzik/)](https://github.com/mishakorzik/)
+[![Github](https://img.shields.io/badge/Twitter-MishaKorzhik-blue?style=for-the-badge&logo=twitter)](https://twitter.com/MishaKorzhik)
 
 ## Запусти AllHackingTool для злому!
 #### msdconsole & msdc
