@@ -7,24 +7,16 @@ echo '
    │
   [02] >> Exploitation Tools:
    ├ Selection of tools for operation and hacking
-   ├ Tools for operations 
-   ├ blackmail utilities 
-   ├ Utilities for human use
+   ├ Tools for special operations 
+   ├ blackmail utilities And human use
    │
   [03] >> Sniffing and Spoofing:
    ├ Tools for forgery of data and databases
    ├ Tools for crawling data
-   │
-  [>]┐
-    [04] >> Web Attack Tools:
-     ├ Tools for hacking websites and servers
-     ├ Utilities for hacking the admin panel of sites
-     ├ And DDOS websites
-     │
-    [05] >> Cam Hacking Tools:
-     ├ Tools for hacking cams and front camera
-    [06] >> Remote Trojan RAT:
-     └ Utilities for creating RAT virus
+  [SKIP]┐
+      ┌[04] >> Web Attack Tools: Tools for hacking websites and servers
+  [-]─┘[05] >> Cam Hacking Tools: Tools for hacking cams and front camera
+       [06] >> Remote Trojan RAT: Utilities for creating RAT virus
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  
          ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  
    ╔[NOTICE] Useful Tools 
@@ -50,13 +42,10 @@ echo '
      ├ And Crawling email and passwords
      ├ And Tools for creting fake websites
      │
-   ┌[<]
-  [13] >> Passworld Attack:
-   ├ Utilities for cracking passwords
-  [14] >> Wordlist Generator: 
-   ├ Tools for Genering Worldlist
-  [15] >> XSS Attack Tools:
-   └ Utilities for Attacking XSS
+   ┌[SKIP]
+  [13] >> Passworld Attack: Utilities for cracking passwords
+  [14] >> Wordlist Generator: Tools for Genering Worldlist
+  [15] >> XSS Attack Tools: Utilities for Attacking XSS
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  
          ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  
   [16] >> Other tools: 
