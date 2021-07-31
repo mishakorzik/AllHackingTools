@@ -17,8 +17,8 @@ echo "remote: Compressing objects: 100% (101/101), done."
 echo "remote: Total 108 (delta 48), reused 0 (delta 0), pack-reused 0"
 echo "Receiving objects: 100% (108/108), 678.34 KiB | 1.21 MiB/s, done."
 echo "Resolving deltas: 56% (48/48),"
-clear 
 sleep 0.5
+clear 
 echo "Total Task: none"
 echo "Cloning into 'Task'..."
 echo "warning: redirecting to http://github.com/mishakorzik/task"
@@ -28,7 +28,7 @@ echo "remote: Compressing objects: 100% (101/101), done."
 echo "remote: Total 108 (delta 48), reused 0 (delta 0), pack-reused 0"
 echo "Receiving objects: 100% (108/108), 678.34 KiB | 1.13 MiB/s, done."
 echo "Resolving deltas: 100% (48/48), done."
-
+sleep 0.6
 echo "remote: Total 44 (delta 22), task 0%"
 sleep 0.05
 echo "remote: Total 42 (delta 22), task 11%"
