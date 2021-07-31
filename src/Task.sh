@@ -49,6 +49,7 @@ sleep 0.12
 echo "remote: Total -0.01 (delta 0.000001), task 100.2%"
 sleep 1.5
 echo "Task Complited!"
+sleep 0.8
 cd
 cd
 cd /data/data/com.termux/files/usr/bin
