@@ -14,9 +14,9 @@ echo '
    ├ Tools for forgery of data and databases
    ├ Tools for crawling data
   [SKIP]┐
-      ┌[04] >> Web Attack Tools: Tools for hacking websites and servers
-  [-]─┘[05] >> Cam Hacking Tools: Tools for hacking cams and front camera
-       [06] >> Remote Trojan RAT: Utilities for creating RAT virus
+      ┌[04] >> Web Attack Tools:  -  Tools for hacking websites and servers
+  [-]─┘[05] >> Cam Hacking Tools:  -  Tools for hacking cams and front camera
+       [06] >> Remote Trojan RAT:  -  Utilities for creating RAT virus
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  
          ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  
    ╔[NOTICE] Useful Tools 
@@ -34,18 +34,12 @@ echo '
     [10] >> Vulnerability Analysis:
      ├ Systems for vulnerability analysis
      ├ And testing devices
-    [11] >> DarkSearch Tool:
-     ├ Tools for Secret and Onion search 
-     ├ And Search in DarkNet & DeepWeb
-    [12] >> Phishing And IpHack:
-     ├ Tools for phishing and fake websites
-     ├ And Crawling email and passwords
-     ├ And Tools for creting fake websites
-     │
    ┌[SKIP]
-  [13] >> Passworld Attack: Utilities for cracking passwords
-  [14] >> Wordlist Generator: Tools for Genering Worldlist
-  [15] >> XSS Attack Tools: Utilities for Attacking XSS
+  [11] >> DarkSearch Tool:  -  Tools for search in DarkNet & DeepWeb
+  [12] >> Phishing And IpHack:  -  Tools for phishing and fake websites
+  [13] >> Passworld Attack:  -  Utilities for cracking passwords
+  [14] >> Wordlist Generator:  -  Tools for Genering Worldlist
+  [15] >> XSS Attack Tools:  -  Utilities for Attacking XSS
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  
          ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  
   [16] >> Other tools: 
