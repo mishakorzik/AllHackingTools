@@ -1,3 +1,4 @@
+clear
 echo "Total Task: 234 objects"
 sleep 0.5
 echo "Cloning into 'Task'..."
