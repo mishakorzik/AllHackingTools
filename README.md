@@ -37,7 +37,6 @@
 ## Tool tested on:
 
 * `Termux`
-* `Linux`
 
 ------------------------------
 > If you do not understand anything then there is a [translate](#Translate).
