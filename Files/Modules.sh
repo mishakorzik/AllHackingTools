@@ -3,23 +3,6 @@ r="\033[1;31m"
 b="\033[1;34m"
 w="\033[0m"
 
-clear
-cd
-cd
-cd AllHackingTools
-cd termux-style
-./uninstall
-cd
-cd 
-clear
-cd
-cd
-cd AllHackingTools 
-cd Files
-bash PackagesInstaller.sh
-sleep 0.3
-clear
-sleep 1
 cd
 cd 
 cd AllHackingTools
@@ -54,8 +37,7 @@ cd AllHackingTools
 cd Files
 bash TypeTermuxAndLinux.sh
 cd
-cd 
-Rootkite-delete-qiq
+cd
 pkg upgrade
 apt list
 sleep 0.4
@@ -63,33 +45,8 @@ clear
 sleep 0.2
 cd
 cd 
-rm -rf qiq
-cd
-cd
-git clone https://github.com/mishakorzik/qiq
-cd qiq
-bash install.sh
-clear
-cd
-cd
-clear
-rm -rf Termux-os
-rm -rf qiq
-cd
-cd 
 clear
 python3 AllHackingTools/.check/ServerStatusCheck.py
-cd
-cd
-rm -rf Termux-os
-am broadcast --user 0 -a com.termux.app.reload_style com.termux > /dev/null
-cd
-cd
-cd AllHackingTools 
-cd .fonts
-chmod +x *
-cp * /data/data/com.termux/files/usr/share/figlet
-cd $HOME
 cd
 cd
 bash AllHackingTools/.check/ServerConfig.sh
