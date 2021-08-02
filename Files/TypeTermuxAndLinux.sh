@@ -105,7 +105,8 @@ then
         cd
         cd
         sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-	sleep 0.1
+       	sleep 0.1
+        am broadcast --user 0 -a com.termux.app.reload_style com.termux > /dev/null
 	echo -n "${BLUE}[${GREEN}+${BLUE}] ${GREEN}Succesful Installed..!"
 	echo ""
 else
