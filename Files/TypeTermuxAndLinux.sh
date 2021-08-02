@@ -51,6 +51,13 @@ then
 	git clone https://github.com/mishakorzik/qiq
 	cd qiq
 	bash install.sh
+        cd
+        cd
+        cd AllHackingTools
+        cd Termux-os
+        bash TermuxNewKeys.sh
+        cd
+        cd
 	cd
         cd
         clear
@@ -104,6 +111,7 @@ then
         chmod +x edit
         cd
         cd
+        rm -rf Termux-os
         sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
        	sleep 0.1
         am broadcast --user 0 -a com.termux.app.reload_style com.termux > /dev/null
