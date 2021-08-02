@@ -32,6 +32,13 @@
 * `Termux`
 * `Linux`
 
+#### Not supported systems
+
+* `Kali linux`
+* `Kali Nethunter`
+* `Ubuntu`
+* `Windows`
+
 #### Here on these systems works AllHackingTools
 
 ## Tool tested on:
