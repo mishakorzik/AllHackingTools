@@ -6,6 +6,11 @@ w="\033[0m"
 cd
 cd 
 cd AllHackingTools
+cd Files
+bash PackagesInstaller.sh
+cd
+cd
+cd AllHackingTools
 bash Files/CamHackFiles.sh
 bash Files/AndroidFiles.sh
 bash Files/SocialFiles.sh
