@@ -44,6 +44,17 @@ pkg install pip2
 pip2 install --upgrade pip
 fi
 
+which cowsay > /dev/null 2>&1
+if [ "$?" -eq "0" ]; then
+echo -e "$green[+]-[Cowsay]..........................[ SUCCESFUL ]"
+sleep 1.5
+else
+echo -e "$red[-]-[Cowsay].......................[ FAILED ]"
+sleep 1.5
+echo -e "$yellow[!][Installing Module Cowsay...]"
+apt install cowsay
+fi
+
 which wget > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo -e "$green[+]-[Wget]............................[ SUCCESFUL ]"
