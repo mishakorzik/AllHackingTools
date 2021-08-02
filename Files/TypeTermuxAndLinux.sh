@@ -36,9 +36,12 @@ then
 	cd AllHackingTools
 	cd termux-style
 	./uninstall
+        cd && cd && cd AllHackingTools
+        git clone https://github.com/adi1090x/termux-style
+        cd termux-style
+        ./install
 	cd
-	cd 
-	sleep 0.3
+	cd
 	clear
 	cd
 	cd 
