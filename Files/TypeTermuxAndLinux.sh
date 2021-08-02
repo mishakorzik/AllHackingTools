@@ -38,12 +38,6 @@ then
 	./uninstall
 	cd
 	cd 
-	clear
-	cd
-	cd
-	cd AllHackingTools 
-	cd Files
-	bash PackagesInstaller.sh
 	sleep 0.3
 	clear
 	cd
