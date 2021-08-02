@@ -10,8 +10,9 @@ echo "| ${RED} Select Option ${BLUE}     |"
 echo "|------- ----  -------|"
 echo "| ${GREEN}1. Termux ${BLUE} "
 echo "| ${GREEN}2. Linux ${BLUE} "
+echo "| ${GREEN}3. NetHunter ${BLUE} "
 echo "|                     |"
-echo "| ${RED}While 1/2:${BLUE}          |"
+echo "| ${RED}While 1/2/3:${BLUE}        |"
 echo "----  ---------- ------     "
 read numb
 clear
@@ -20,15 +21,60 @@ echo "| ${RED} Select Option ${BLUE}     |"
 echo "|------- ----  -------|"
 echo "| ${CYAN}1. Termux ${BLUE} "
 echo "| ${CYAN}2. Linux ${BLUE} "
+echo "| ${CYAN}3. NetHunter ${BLUE} "
 echo "|                     |"
-echo "| ${RED}While 1/2:${BLUE}          |"
+echo "| ${RED}While 1/2/3:${BLUE}        |"
 echo "----  ---------- ------     "
 if [ $numb = "1" ]
 then
         echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Loading Installing In Termux..."
 	echo ""
+	echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}All utilities will work..."
+	echo ""
 	cd
 	cd
+	cd AllHackingTools
+	cd termux-style
+	./uninstall
+	cd
+	cd 
+	clear
+	cd
+	cd
+	cd AllHackingTools 
+	cd Files
+	bash PackagesInstaller.sh
+	sleep 0.3
+	clear
+	cd
+	cd 
+	Rootkite-delete-qiq
+	cd
+	cd
+	rm -rf qiq
+	cd
+	cd
+	git clone https://github.com/mishakorzik/qiq
+	cd qiq
+	bash install.sh
+	cd
+        cd
+        clear
+        rm -rf Termux-os
+        rm -rf qiq
+        cd
+        cd
+        cd AllHackingTools
+        cp -r Termux-os /data/data/com.termux/files/home
+        am broadcast --user 0 -a com.termux.app.reload_style com.termux > /dev/null
+        cd
+        cd
+        cd AllHackingTools
+        cd .fonts
+        chmod +x *
+        cp * /data/data/com.termux/files/usr/share/figlet
+        cd
+        cd
 	cd AllHackingTools
 	cd Tool
 	cp msdc /data/data/com.termux/files/usr/bin/
@@ -64,29 +110,14 @@ then
         chmod +x edit
 	ls
 	sleep 0.1
-	clear
-	cd 
-        cd 
-        clear
-        rm -rf Termux-os
-        rm -rf qiq
-        cd
-        cd 
-        cd AllHackingTools 
-        cp -r Termux-os /data/data/com.termux/files/home 
-        cd 
-        cd
-        cd Termux-os 
-        bash TermuxNewKeys.sh 
-        cd
-        cd
-	sleep 0.9
 	echo -n "${BLUE}[${GREEN}+${BLUE}] ${GREEN}Succesful Installed..!"
 	echo ""
 else
         if [ $numb = "2" ]
         then
                 echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Loading Installing In Linux..."
+		echo ""
+		echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Some utilities will not work ...."
 		echo ""
 		cd
 		cd
@@ -119,5 +150,42 @@ else
 		sleep 1
 		echo -n "${BLUE}[${GREEN}+${BLUE}] ${GREEN}Succesful Installed..!"
 		echo ""
-	fi
+	else
+		if [ $numb = "3" ]
+		then
+			echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Loading Installing In NetHunter..."
+			echo ""
+			echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Most utilities will not work ...."
+			echo ""
+			cd
+			cd
+			cd AllHackingTools
+			cd Tool
+			cp msdc /bin/
+			cp msdconsole /bin/
+			cp msdconsoleUPD /bin/
+			cp msdServer /bin/
+			cp msd /bin/
+			cp ms /bin/
+			cp m /bin/
+			cp sys /bin/
+			cp system /bin/
+			cp View-deleted-activity /bin/
+			cp theme /bin/
+			cp Theme /bin/
+			cd
+			cd
+			cd /bin/
+			chmod +x msdconsole
+			chmod +x msdc
+			chmod +x msdconsoleUPD
+			chmod +x msdServer
+			chmod +x msd
+			chmod +x ms
+			chmod +x m
+			echo -n "${BLUE}[${GREEN}+${BLUE}] ${GREEN}Succesful Installed..!"
+                	echo ""
+		fi
+	fi	
 fi
+
