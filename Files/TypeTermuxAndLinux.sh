@@ -102,7 +102,9 @@ then
 	chmod +x theme
         chmod +x standart
         chmod +x edit
-	ls
+        cd
+        cd
+        sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 	sleep 0.1
 	echo -n "${BLUE}[${GREEN}+${BLUE}] ${GREEN}Succesful Installed..!"
 	echo ""
