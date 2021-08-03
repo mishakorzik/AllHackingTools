@@ -34,16 +34,16 @@
 
 #### Not supported systems
 
-* `Kali linux`
-* `Kali Nethunter`
-* `Ubuntu`
-* `Windows`
+<a href="https://github.com/mishakorzik"><img title="Kali linux" src="https://img.shields.io/badge/Not Supported-Kali Linux-blue?style=for-the-badge&logo=kali-linux"></a>
+<a href="https://github.com/mishakorzik"><img title="Nethunter" src="https://img.shields.io/badge/Not Supported-Nethunter-blue?style=for-the-badge&logo=kali-linux"></a>
+<a href="https://github.com/mishakorzik"><img title="Ubuntu" src="https://img.shields.io/badge/Not Supported-Ubuntu-blue?style=for-the-badge&logo=ubuntu"></a>
+<a href="https://github.com/mishakorzik"><img title="Windows" src="https://img.shields.io/badge/Not Supported-Windows-blue?style=for-the-badge&logo=windows"></a>
 
 #### Here on these systems works AllHackingTools
 
 ## Tool tested on:
 
-* `Termux`
+<a href="https://github.com/mishakorzik"><img title="Termux" src="https://img.shields.io/badge/Tested on-Termux-blue?style=for-the-badge&logo=github"></a>
 
 ------------------------------
 > If you do not understand anything then there is a [translate](#Translate).
