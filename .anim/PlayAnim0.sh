@@ -2,6 +2,7 @@ cd
 cd
 cd AllHackingTools
 cd .anim
+cd preview
 clear
 bash an1.sh
 sleep 0.4
