@@ -29,8 +29,8 @@
 ## Supported systems
 #### will download 5-15 minutes
 
-* `Termux`
-* `Linux`
+<a href="https://github.com/mishakorzik"><img title="Termux" src="https://img.shields.io/badge/Supported-Termux-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mishakorzik"><img title="Linux" src="https://img.shields.io/badge/Supported-Linux-blue?style=for-the-badge&logo=linux"></a>
 
 #### Not supported systems
 
