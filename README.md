@@ -123,6 +123,8 @@ msdconsole : start AllHackingTools
 msdServer  : Check AllHackingTools server
 msdc       : start AllHackingTools 
 Theme      : Select Termux Theme
+Standart   : Select default keys
+edit       : Select nano keys
 
 Others commands:
 
