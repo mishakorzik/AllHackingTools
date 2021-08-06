@@ -10,7 +10,7 @@ os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 print("  \033[1;34m[ 01 ] >> \033[1;36;40mCam-Hacker - Hack Cameras CCTV FREE")
 print("  \033[1;34m[ 02 ] >> \033[1;36;40mGrabCam - A tool to hack camera from termux")
 print("  \033[1;34m[ 03 ] >> \033[1;36;40mCamHack - hack Front Camera by sending a LINK")
-print("  \033[1;34m[ 04 ] >> \033[1;36;40mExit System")
+print("  \033[1;34m[ 04 ] >> \033[1;36;40mExit System - log out AllHackingTools")
 print("  \033[1;34m[ 05 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("CamPh1sh: "))
