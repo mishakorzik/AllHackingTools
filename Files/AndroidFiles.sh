@@ -7,7 +7,13 @@ cd AllHackingTools
 git clone https://github.com/kinghacker0/WishFish
 cd wishfish
 cd 
-cd AllHackingTools 
-cd Files
-cd 
+cd AllHackingTools
+git clone https://github.com/JasonJerry/lockphish
+cd lockphish
+cd
+cd
+cd AllHackingTools
+git clone https://github.com/HatBashBR/HatCloud
+cd
+cd
 cd AllHackingTools
