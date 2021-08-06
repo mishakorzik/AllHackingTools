@@ -68,6 +68,9 @@
 **6) Run Tools**
 - The user can now run the tools directly from AllHackingTools, even though they are already installed.
 
+**7) Restart AllHackingTools**
+- And when you run a tool and exit it, AllHackingTools automatically restarts.
+
 ---
 <a id="installing"></a>
 ## Installing for termux
