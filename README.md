@@ -249,6 +249,23 @@ If the tool fails, follow these steps:
 <details id="missing-code-coverage">
   <summary>Versions</summary>
 
+### Version 2.4
+##### below is a list added in version 2.4
+
+```
+
+Tools:
+ Many new utilities have been added
+
+Desing:
+ Many bugs have been fixed
+ Added New Castomization
+ Addet Castomization for loading
+
+#Thanks for reviewing the update list. 
+#Bye bye Have a nice day!
+```
+
 ### Version 2.3
 ##### below is a list added in version 2.3
 
