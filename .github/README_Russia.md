@@ -1,7 +1,7 @@
 <img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/Logo/IMG-cd518796cb4b0527368a1b9dd67a8889-V.jpg"/>
 
 <p align="center">
-<a href="https://github.com/mishakorzik/AllHackingTools"><img title="Version" src="https://img.shields.io/badge/Version-2.2.7-yellow?style=for-the-badge&logo="></a>
+<a href="https://github.com/mishakorzik/AllHackingTools"><img title="Version" src="https://img.shields.io/badge/Version-2.4.1-yellow?style=for-the-badge&logo="></a>
 <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-brightgreen?style=for-the-badge&logo=gnu"></a>
 <a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.x-red?style=for-the-badge&logo=python"></a>
 <a href="https://github.com/mishakorzik"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-red?style=for-the-badge&logo=github"></a>
@@ -58,6 +58,9 @@
 
 **6) Запустити інструменти**
  - Користувач тепер може запускати інструменти безпосередньо з AllHackingTools, хоча вони вже встановлені.
+
+**7) Автоперезапуск**
+- А когда вы запускаете инструмент и выходите из него, AllHackingTools автоматически перезагружается.
 
 ---
 <a id="333"></a>
@@ -238,6 +241,22 @@ figlet -f block  AND  toilet -f block
 
 <details id="missing-code-coverage">
   <summary>Версії</summary>
+
+### Версии 2.4
+##### ниже - список, доданий у версії 2.4
+
+```
+ Инструменты:
+  Додано новиё утилити
+
+ Desing:
+  Виправлено 3 бага
+  Додано Було нову кастомизацыю
+  Додано кастомызацию загрузки
+
+#Thanks for reviewing the update list.
+#Bye bye Have a nice day!
+```
 
 ### Версии 2.3
 ##### ниже - список, доданий у версії 2.3
