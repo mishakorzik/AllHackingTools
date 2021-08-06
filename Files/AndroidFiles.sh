@@ -1,5 +1,3 @@
-apt-get install git
-apt-get install python
 cd
 cd AllHackingTools
 git clone https://github.com/knassar702/pyshell
