@@ -30,14 +30,6 @@
 #### will download 5-15 minutes
 
 <a href="https://github.com/mishakorzik"><img title="Termux" src="https://img.shields.io/badge/Supported-Termux-blue?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/mishakorzik"><img title="Linux" src="https://img.shields.io/badge/Supported-Linux-blue?style=for-the-badge&logo=linux"></a>
-
-#### Not supported systems
-
-<a href="https://github.com/mishakorzik"><img title="Kali linux" src="https://img.shields.io/badge/Not Supported-Kali Linux-blue?style=for-the-badge&logo=kali-linux"></a>
-<a href="https://github.com/mishakorzik"><img title="Nethunter" src="https://img.shields.io/badge/Not Supported-Nethunter-blue?style=for-the-badge&logo=kali-linux"></a>
-<a href="https://github.com/mishakorzik"><img title="Ubuntu" src="https://img.shields.io/badge/Not Supported-Ubuntu-blue?style=for-the-badge&logo=ubuntu"></a>
-<a href="https://github.com/mishakorzik"><img title="Windows" src="https://img.shields.io/badge/Not Supported-Windows-blue?style=for-the-badge&logo=windows"></a>
 
 #### Here on these systems works AllHackingTools
 
