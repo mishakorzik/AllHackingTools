@@ -20,7 +20,6 @@ updates:
       # Check for npm updates at 9am UTC
       time: "09:00"
       
-      timezone: "Kyiv"
 name: Dependabot auto-label
 on: pull_request_target
 
