@@ -11,6 +11,7 @@ echo '
     │ >>  Author   :  Misha Korzhik                                │
     │     Github   :  https://github.com/mishakorzik               │
     │     Telegram :  pseudonym @MishaKorzhikTelegram              │
+    |     Info     :  Trank for installing AllHackingTools         |
     │                                                              │
     └──────────────────────────────────────────────────────────────┘ 
 '|lolcat -a -d 10 -p 1.5 -s 40.0
