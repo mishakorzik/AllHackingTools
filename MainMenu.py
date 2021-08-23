@@ -124,5 +124,5 @@ else:
  os.system("cd")
  os.system("cd AllHackingTool")
  os.system("python2 MainMenu.py")
-elif(op==13324715):
+elif(op==96):
  os.system("cd && cd AllHackingTools && rm -rf MainMenu.py && cd .settings && cd debug && cp MainMenu.py /data/data/com.termux/files/home/AllHackingTools/")
