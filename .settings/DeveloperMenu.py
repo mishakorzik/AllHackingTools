@@ -126,7 +126,7 @@ elif(op==42):
 elif(op==43):
  os.system("cd && cd AllHackingTools && l")
 elif(op==44):
- os.system("echo "[DEBUG] SUCCESFUL RELOADED! TYPE: MSDC, TO START....")
+ os.system("echo "[DEBUG] SUCCESFUL RELOADED! TYPE: MSDC, TO START...."")
 
 
 
