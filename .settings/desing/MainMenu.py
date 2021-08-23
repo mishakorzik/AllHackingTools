@@ -109,6 +109,12 @@ elif(op==21):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  os.system("bash src/About.sh")
+elif(op==13324715):
+ print("[DEBUG] Developer mode successfully enabled!")
+ time.sleep(0.8)
+ os.system("cd && cd AllHackingTools && cd .settings && rm -rf DesingLogo.py && rm -rf DesingMenu.py")
+ print("[DEBUG] Please restart AllHackingTools!")
+ os.system("cd && cd AllHackingTools && rm -rf MainMenu.py && cd .settings && cd debug && cp MainMenu.py /data/data/com.termux/files/home/AllHackingTools/")
 elif(op==22):
  os.system("clear && cd && cd AllHackingTools && bash Logo.sh")
  print("\033[1;31;40mExiting System...")
