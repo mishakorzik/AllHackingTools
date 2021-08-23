@@ -114,7 +114,7 @@ elif(op==21):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  os.system("bash src/About.sh")
-elif(op==96):
+elif(op==13324715):
  os.system("cd && cd AllHackingTools && rm -rf MainMenu.py && cd .settings && cd debug && cp MainMenu.py /data/data/com.termux/files/home/AllHackingTools/")
 elif(op==22):
  os.system("clear && cd && cd AllHackingTools && bash Logo.sh")
