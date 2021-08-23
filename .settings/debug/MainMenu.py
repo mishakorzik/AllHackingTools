@@ -7,7 +7,7 @@ import sys
 os.system("clear")
 os.system("cd && cd AllHackingTools")
 os.system("bash Logo.sh")
-os.system("bash src/MenuOps3.sh")
+os.system("bash src/DebugOps.sh")
 
 Green="\033[1;33m"
 Blue="\033[1;34m"
@@ -109,16 +109,6 @@ elif(op==21):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  os.system("bash src/About.sh")
-elif(op==22):
- os.system("clear && cd && cd AllHackingTools && bash Logo.sh")
- print("\033[1;31;40mExiting System...")
- time.sleep(0.7)
-else:
- print("\033[1;31;40mInvalid input. Reloading Tools") 
- time.sleep(1.6)
- os.system("cd")
- os.system("cd AllHackingTool")
- os.system("python2 MainMenu.py")
 elif(op==41):
  os.system("cd && cd AllHackingTools && nano MainMenu.py")
 elif(op==42): 
@@ -131,6 +121,15 @@ elif(op==45):
  os.system("cd && cd AllHackingTools && rm -rf .logs && rm -rf .fonts && rm -rf .temp && rm -rf .settings")
 elif(op==46):
  os.system("cd && cd AllHackingTools && cd src && rm -rf AnimationLoad1.sh && rm -rf AnimationLoad2.sh && cd && cd AllHackingTools && cd .settings && cd debug && cp AnimationLoad1.sh /data/data/com.termux/files/home/AllHackingTools/src && cp AnimationLoad2.sh /data/data/com.termux/files/home/AllHackingTools/src") 
-
+elif(op==22):
+ os.system("clear && cd && cd AllHackingTools && bash Logo.sh")
+ print("\033[1;31;40mExiting System...")
+ time.sleep(0.7)
+else:
+ print("\033[1;31;40mInvalid input. Reloading Tools") 
+ time.sleep(1.6)
+ os.system("cd")
+ os.system("cd AllHackingTool")
+ os.system("python2 MainMenu.py")
 
 
