@@ -114,11 +114,13 @@ elif(op==41):
 elif(op==42): 
  os.system("cd && cd AllHackingTools && rm -rf .logs && mkdir .logs && rm -rf .fonts && mkdir .fonts && rm -rf .temp && mkdir temp")
 elif(op==43):
- os.system("cd && cd AllHackingTools && l")
+ os.system("cd && cd AllHackingTools && ls")
+ time.sleep(0.2)
+ print("TYPE: la ,TO VIEW SECRET FILES")
 elif(op==44):
  print("[DEBUG] SUCCESFUL RELOADED! TYPE: MSDC, TO START....")
 elif(op==45):
- os.system("cd && cd AllHackingTools && rm -rf .logs && rm -rf .fonts && rm -rf .temp && rm -rf .settings")
+ os.system("cd && cd AllHackingTools && rm -rf .logs && rm -rf .fonts && rm -rf .temp")
 elif(op==46):
  os.system("cd && cd AllHackingTools && cd src && rm -rf AnimationLoad1.sh && rm -rf AnimationLoad2.sh && cd && cd AllHackingTools && cd .settings && cd debug && cp AnimationLoad1.sh /data/data/com.termux/files/home/AllHackingTools/src && cp AnimationLoad2.sh /data/data/com.termux/files/home/AllHackingTools/src") 
 elif(op==22):
