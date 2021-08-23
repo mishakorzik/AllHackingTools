@@ -6,9 +6,9 @@ echo '
   [05] >> Cam Hacking Tools:  -  Tools for hacking cams and front camera  ~ /AllHackingTools/Files
   [06] >> Remote Trojan RAT:  -  Utilities for creating RAT virus       ~ /AllHackingTools/Files
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  
-  [07] >> SQL injection Tool:  -  Tools for creating viruses       ~ /AllHackingTools/Files
-  [08] >> SocialMedia Hacking:  -  Tools for hacking social networks ~ /AllHackingTools/Files
-  [09] >> SMS spaming Tools:  -  Utilities for spam and anonymous SMS ~ /AllHackingTools/.check
+  [07] >> SQL injection Tool:  -  Tools for creating viruses          ~ /AllHackingTools/Files
+  [08] >> SocialMedia Hacking:  -  Tools for hacking social networks  ~ /AllHackingTools/Files
+  [09] >> SMS spaming Tools:  -  Utilities for spam and anonymous SMS   ~ /AllHackingTools/.check
   [10] >> Vulnerability Analysis:  -  Systems for vulnerability analysis ~ /AllHackingTools/Files
   [11] >> DarkSearch Tool:  -  Tools for Secret and Onion search        ~ /AllHackingTools/Files
   [12] >> Phishing And IpHack:  -  Tools for phishing and fake websites ~ /AllHackingTools/Files
