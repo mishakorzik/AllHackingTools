@@ -4,15 +4,15 @@
 #Github     : http://github.com/mishakorzik
 
 echo '
-[+]—13,3,24,7,15
+[1]
  |  ██╗░░██╗░█████╗░░█████╗░██╗░░██╗██╗███╗░░██╗░██████╗░░░░░░░████████╗░█████╗░░█████╗░██╗░░░░░
  |  ██║░░██║██╔══██╗██╔══██╗██║░██╔╝██║████╗░██║██╔════╝░░░░░░░╚══██╔══╝██╔══██╗██╔══██╗██║░░░░░
  |  ███████║███████║██║░░╚═╝█████═╝░██║██╔██╗██║██║░░██╗░█████╗░░░██║░░░██║░░██║██║░░██║██║░░░░░
  |  ██╔══██║██╔══██║██║░░██╗██╔═██╗░██║██║╚████║██║░░╚██╗╚════╝░░░██║░░░██║░░██║██║░░██║██║░░░░░
  |  ██║░░██║██║░░██║╚█████╔╝██║░╚██╗██║██║░╚███║╚██████╔╝░░░░░░░░░██║░░░╚█████╔╝╚█████╔╝███████╗
  |  ╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝╚═╝░░╚══╝░╚═════╝░░░░░░░░░░╚═╝░░░░╚════╝░░╚════╝░╚══════╝ v2.4
-[+] Title    : AllHackingTools - Tool for hacking  -  ⁣ATTENTION! The author of this article is not respo-
-[+] Github   : https://github.com/mishakorzik  -  nsi⁣ble responsible for any consequences of reading it. 
-[+] Coded By : Misha Korzhik (Міша Коржик)  -  All materials are provided for educational purposes only! 
-[+]——————-——-–—————-—-–—————-————-—–————-———-—–—————————-——–—————–-——[+]
+[3] Title    : AllHackingTools - Tool for hacking  -  ⁣ATTENTION! The author of this article is not respo-
+[3] Github   : https://github.com/mishakorzik  -  nsi⁣ble responsible for any consequences of reading it. 
+[2] Coded By : Misha Korzhik (Міша Коржик)  -  All materials are provided for educational purposes only! 
+[4]——————-——-–—————-—-–—————-————-—–————-———-—–—————————-——–—————–-——[715]
 '|lolcat -p 1.6 -a -d 2 -s 20.0
