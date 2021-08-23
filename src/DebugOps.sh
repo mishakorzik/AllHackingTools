@@ -30,7 +30,7 @@ echo '
   [043] >> View Directory; - no description       ~ /AllHackingTools/ 
   [044] >> Reset All Data; - no description      ~ /AllHackingTools/    
   [045] >> Remove data; - no description       ~ /AllHackingTools/.settings 
-  [046] >> Off Server; - I DON'T TOUCH        ~ /SERVER/dll                 '|lolcat -p 1.7
+  [046] >> Off Server; - I DONT TOUCH        ~ /SERVER/dll                 '|lolcat -p 1.7
 
 
 
