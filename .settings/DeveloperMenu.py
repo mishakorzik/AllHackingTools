@@ -127,7 +127,8 @@ elif(op==43):
  os.system("cd && cd AllHackingTools && l")
 elif(op==44):
  print("[DEBUG] SUCCESFUL RELOADED! TYPE: MSDC, TO START....")
-
+elif(op==45):
+ os.system("cd && cd AllHackingTools && rm -rf .logs && rm -rf .fonts && rm -rf .temp && rm -rf .settings")
 
 
 
