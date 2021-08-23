@@ -112,7 +112,7 @@ elif(op==21):
 elif(op==13324715):
  print("[DEBUG] Developer mode successfully enabled!")
  time.sleep(0.8)
- os.system("cd && cd AllHackingTools && cd .settings && rm -rf DesingLogo.py && rm -rf DesingMenu.py")
+ os.system("cd && cd AllHackingTools && cd .settings && mv DesingLogo.py /data/data/com.termux/files/home/AllHackingTools/.temp/ && mv DesingMenu.py /data/data/com.termux/files/home/AllHackingTools/.temp/")
  print("[DEBUG] Please restart AllHackingTools!")
  os.system("cd && cd AllHackingTools && rm -rf MainMenu.py && cd .settings && cd debug && cp MainMenu.py /data/data/com.termux/files/home/AllHackingTools/")
 elif(op==22):
