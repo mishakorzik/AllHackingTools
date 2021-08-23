@@ -129,7 +129,7 @@ elif(op==44):
  print("[DEBUG] SUCCESFUL RELOADED! TYPE: MSDC, TO START....")
 elif(op==45):
  os.system("cd && cd AllHackingTools && rm -rf .logs && rm -rf .fonts && rm -rf .temp && rm -rf .settings")
-
-
+elif(op==46):
+ os.system("cd && cd AllHackingTools && cd src && rm -rf AnimationLoad1.sh && rm -rf AnimationLoad2.sh && cd && cd AllHackingTools && cd .settings && cd debug && cp AnimationLoad1.sh /data/data/com.termux/files/home/AllHackingTools/src && cp AnimationLoad2.sh /data/data/com.termux/files/home/AllHackingTools/src") 
 
 
