@@ -4,6 +4,7 @@ REDBG="$(printf '\033[41m')"  GREENBG="$(printf '\033[42m')"  ORANGEBG="$(printf
 MAGENTABG="$(printf '\033[45m')"  CYANBG="$(printf '\033[46m')"  WHITEBG="$(printf '\033[47m')" BLACKBG="$(printf '\033[40m')"
 DEFAULT_FG="$(printf '\033[39m')"  DEFAULT_BG="$(printf '\033[49m')"
 
+echo ""
 echo "${WHITE}[${RED}SYSTEM${WHITE}] ${ORANGE}Welcome user! ${GREEN}We are glad to see you. ${ORANGE}To run AllHackingTools, type the command: ${RED}msdc & msdconsole"
 echo "${WHITE}[${RED}SYSTEM${WHITE}] ${ORANGE}If AllHackingTools does ${RED}not work correctly,${ORANGE} go to: ${GREEN}github.com/mishakorzik/AllHackingTools,${ORANGE} and report bug."
 
