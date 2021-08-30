@@ -9,11 +9,11 @@
 
 </p>
 
-<p align="center">
+• [I recommend watching](#irecomendwatching) 
 • <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE">License</a> 
 • <a href="https://github.com/mishakorzik/AllHackingTools/issues">Issues</a> 
 • <a href="https://github.com/mishakorzik/AllHackingTools/projects">Project</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/wiki">Wikipedia</a> •
+• <a href="https://github.com/mishakorzik/AllHackingTools/wiki">Wikipedia</a>
 
 </p>
 
@@ -381,6 +381,10 @@ Internet : must be
 [![Github](https://img.shields.io/badge/TELEGRAM-MishaKorzhik-orange?style=for-the-badge&logo=telegram)](https://t.me/MishaKorzhikTelegram)
 [![Github](https://img.shields.io/badge/GitHub-MishaKorzhik-yellow?style=for-the-badge&logo=github)](https://github.com/mishakorzik)
 [![Github](https://img.shields.io/badge/Twitter-MishaKorzhik-blue?style=for-the-badge&logo=twitter)](https://twitter.com/MishaKorzhik)
+
+<a href="https://github.com/mishakorzik/AllHackingTools">View this repository for your mobile! Click here.</a>
+
+<a id="irecomendwatching"></a>
 
 ## I recommend watching
 
