@@ -1,6 +1,7 @@
 <img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/Logo/IMG-cd518796cb4b0527368a1b9dd67a8889-V.jpg"/>
 
 <p align="center">
+<a href="mailto:misakorzik528@gmail.com"><img title="Report bug" src="https://img.shields.io/badge/email-misakorzik528%40gmail.com-darkred?style=for-the-badge&logo=gmail"></a>
 <a href="https://github.com/mishakorzik/AllHackingTools"><img title="Version" src="https://img.shields.io/badge/Version-2.4.9-yellow?style=for-the-badge&logo="></a>
 <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-brightgreen?style=for-the-badge&logo=gnu"></a>
 <a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.7-red?style=for-the-badge&logo=python"></a>
@@ -9,7 +10,9 @@
 
 </p>
 
-• [I recommend watching](#irecomendwatching) 
+• [Screanshots](#Screanshot)
+• [Recommendations](#irecomendwatching) 
+• [Find Me ](#findme) 
 • <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE">License</a> 
 • <a href="https://github.com/mishakorzik/AllHackingTools/issues">Issues</a> 
 • <a href="https://github.com/mishakorzik/AllHackingTools/projects">Project</a> 
@@ -341,6 +344,9 @@ Internet : must be
 
 #### And more packages!
 ------
+
+<a id="Screanshot"></a>
+
 ## Screanshot
 #### view a screanshot for AllHackingTools
 <br>
@@ -375,6 +381,8 @@ Internet : must be
 <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Russia.md"><img title="Russian" src="https://img.shields.io/badge/Translate%20to-Russian-inactive?style=for-the-badge&logo=google-translate"></a>
 <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Spanish.md"><img title="Spanish" src="https://img.shields.io/badge/Translate%20to-Spanish-inactive?style=for-the-badge&logo=google-translate"></a>
 </p>
+
+<a id="findme"></a>
 
 ## Find Me 
 [![Github](https://img.shields.io/badge/Reddit-MishaKorzhik-red?style=for-the-badge&logo=reddit)](https://www.reddit.com/u/Necessary_Mammoth368?utm_medium=android_app&utm_source=share)
