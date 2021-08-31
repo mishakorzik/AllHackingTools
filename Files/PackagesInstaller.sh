@@ -176,6 +176,18 @@ echo -e "$yellow[!][Installing Module Zip...]"
 apt install zip
 fi
 
+which nodejs > /dev/null 2>&1
+if [ "$?" -eq "0" ]; then
+echo -e "$green[+]-[NodeJs]..........................[ SUCCESFUL ]"
+sleep 1.5
+else
+echo -e "$red[-]-[NodeJs].......................[ FAILED ]"
+sleep 1.5
+echo -e "$yellow[!][Installing Module NodeJs...]"
+apt-get install nodejs
+npm install --global speed-test
+fi
+
 which pip > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo -e "$green[+]-[PIP].............................[ SUCCESFUL ]"
