@@ -93,5 +93,42 @@ echo $white . " now text words will";
 echo $green . " use php";
 echo $white . " instead of shell";
 echo $white . "!";
+echo $white . "  \n";
+echo $white . "  \n";
+echo $white . "-";
+echo $orange . " Testing: \n";
+echo $white . "  \n";
+
+echo $white . "  \n";
+echo $white . "-";
+echo $orange . " 71q8809";
+echo $white . " [";
+echo $red . "Test";
+echo $white . "]";
+echo $white . " The system has been";
+echo $green . " successfully tested";
+echo $white . "!";
+
+echo $white . "  \n";
+echo $white . "-";
+echo $orange . " 5a8890p";
+echo $white . " [";
+echo $red . "Test";
+echo $white . "]";
+echo $white . " Developer mode successfully tested";
+echo $green . " successfully tested";
+echo $white . " in AllHackingTools"; 
+echo $white . "!";
+
+echo $white . "  \n";
+echo $white . "-";
+echo $orange . " 101u021";
+echo $white . " [";
+echo $red . "Test";
+echo $white . "]";
+echo $white . " The system";
+echo $green . " successfully works";
+echo $white . " stably confirmed by the test"; 
+echo $white . "!";
 
 ?>
