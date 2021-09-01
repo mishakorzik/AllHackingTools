@@ -48,6 +48,16 @@ echo $white . "]";
 echo $white . " Now when the system is malfunctioning it can be";
 echo $green . " fixed through debug mode";
 echo $white . "! \n";
+
+echo $white . "  \n";
+echo $white . "-";
+echo $orange . " 11a6201";
+echo $white . " [";
+echo $red . "system";
+echo $white . "]";
+echo $white . " yet the AllHackingTools system has been";
+echo $green . " optimized";
+echo $white . "!";
 echo $white . "  \n";
 echo $white . "  \n";
 echo $white . "-";
@@ -71,6 +81,17 @@ echo $red . "script";
 echo $white . "]";
 echo $white . " AllHackingTools is";
 echo $green . " still improved";
+echo $white . "!";
+
+echo $white . "  \n";
+echo $white . "-";
+echo $orange . " 1sys220";
+echo $white . " [";
+echo $red . "script";
+echo $white . "]";
+echo $white . " now text words will";
+echo $green . " use php";
+echo $white . " instead of shell";
 echo $white . "!";
 
 ?>
