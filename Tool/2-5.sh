@@ -4,11 +4,16 @@ REDBG="$(printf '\033[41m')"  GREENBG="$(printf '\033[42m')"  ORANGEBG="$(printf
 MAGENTABG="$(printf '\033[45m')"  CYANBG="$(printf '\033[46m')"  WHITEBG="$(printf '\033[47m')" BLACKBG="$(printf '\033[40m')"
 DEFAULT_FG="$(printf '\033[39m')"  DEFAULT_BG="$(printf '\033[49m')"
 
-echo "${WHITE} -${ORANGE} New Features:
+echo "${WHITE} -${ORANGE} New Features:"
 echo ""
 echo "${WHITE} -${ORANGE} 7708yr0${WHITE} [${RED}bugs${WHITE}] A bug in the ${GREEN}Termux-Banner system has now been fixed${WHITE}!"
 echo "${WHITE} -${ORANGE} 10a0509${WHITE} [${RED}bugs${WHITE}] Many faults have been fixed and now the ${GREEN}system works better${WHITE}!"
 echo "${WHITE} -${ORANGE} 5we0011${WHITE} [${RED}debug${WHITE}] A new ${GREEN}debug mode has now been added ${WHITE}for testing and debugging!"
 echo "${WHITE} -${ORANGE} 068q068${WHITE} [${RED}debug${WHITE}] Now when the system is malfunctioning it can be ${GREEN}fixed through debug mode${WHITE}!"
+echo ""
+echo ""
+echo "${WHITE} -${ORANGE} New Scripts:"
+echo ""
+echo "${WHITE} -${ORANGE} 1t200e6${WHITE} [${RED}java${WHITE}] AllHackingTools still ${GREEN}uses javascript${WHITE}!"
 
 
