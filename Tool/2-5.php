@@ -3,10 +3,17 @@ $white  = "\033[37m";
 $orange = "\033[33m";
 $green  = "\033[32m";
 $red    = "\033[31m";
+$cyan   = "\033[36m";
 $cln    = "\e[0m";
 $bold   = "\e[1m";
 
-echo $white . "-";
+echo $cyan . "bugs  › report bugs \n";
+echo $cyan . "debug › developer mode \n";
+echo $cyan . "debug ›  \n";
+
+echo $white . "  \n";
+echo $white . "  \n";
+echo $white . "—";
 echo $orange . " New Features: \n";
 echo $white . "  \n";
 echo $white . "-";
@@ -49,18 +56,17 @@ echo $white . " Now when the system is malfunctioning it can be";
 echo $green . " fixed through debug mode";
 echo $white . "! \n";
 
-echo $white . "  \n";
 echo $white . "-";
 echo $orange . " 11a6201";
 echo $white . " [";
-echo $red . "system";
+echo $red . "build";
 echo $white . "]";
 echo $white . " yet the AllHackingTools system has been";
 echo $green . " optimized";
 echo $white . "!";
 echo $white . "  \n";
 echo $white . "  \n";
-echo $white . "-";
+echo $white . "—";
 echo $orange . " New Scripts: \n";
 echo $white . "  \n";
 
@@ -95,9 +101,8 @@ echo $white . " instead of shell";
 echo $white . "!";
 echo $white . "  \n";
 echo $white . "  \n";
-echo $white . "-";
+echo $white . "—";
 echo $orange . " Testing: \n";
-echo $white . "  \n";
 
 echo $white . "  \n";
 echo $white . "-";
