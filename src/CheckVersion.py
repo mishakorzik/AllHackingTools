@@ -33,7 +33,7 @@ import subprocess as subp
 row = []
 info = ''
 result = ''
-version = '2.4'
+version = '2.5.1'
 
 def ver_check():
 	print(G + '[+]' + C + ' Checking the AllHackingTools for updates....', end='')
