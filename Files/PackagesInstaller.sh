@@ -176,18 +176,6 @@ echo -e "$yellow[!][Installing Module Zip...]"
 apt install zip
 fi
 
-which nodejs > /dev/null 2>&1
-if [ "$?" -eq "0" ]; then
-echo -e "$green[+]-[NodeJs]..........................[ SUCCESFUL ]"
-sleep 1.5
-else
-echo -e "$red[-]-[NodeJs].......................[ FAILED ]"
-sleep 1.5
-echo -e "$yellow[!][Installing Module NodeJs...]"
-apt-get install nodejs
-npm install --global speed-test
-fi
-
 which pip > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo -e "$green[+]-[PIP].............................[ SUCCESFUL ]"
@@ -280,6 +268,8 @@ echo -n [!] Installing Depencies...= ;
 sleep 3 & while [ "$(ps a | awk '{print $1}' | grep $!)" ] ; do for X in '-' '\' '|' '/'; do echo -en "\b$X"; sleep 0.1; done; done 
 echo ""
 
+apt-get install nodejs
+npm install --global speed-test
 apt install apache2
 apt install openssl -y
 apt install python-dev -y
