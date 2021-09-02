@@ -5,9 +5,10 @@ echo '
  | ███████║███▓▓▓█║██║░░╚═╝█████═╝░▓▒║▒▓╔▓█╗██║██║░░██╗░███▓▓╗░░░██║░░░██║░░▓▓║▓▓║░░██║██║░░░░░
  | ██╔══▓█║██╔══▓▓║▓█║░░██╗██╔═██╗░▓▒║▓▓║╚████║██║░░╚██╗╚════╝▒▒░██║░░░██║░░█▓║▓▓║░░██║██║░░░░░
  | ██║░░█▓║██║░░▓▓║╚█████╔╝██║░╚▓▓╗▓▓║▓▓║░╚███║╚██████╔╝░░░░▒▒▒░░██║░░░╚█████╔╝╚█████╔╝███████╗
- | ╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝╚═╝░░╚══╝░╚═════╝░░░░░░░░░░╚═╝░░░░╚════╝░░╚════╝░╚══════╝ v2.4
+ | ╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝╚═╝░░╚══╝░╚═════╝░░░░░░░░░░╚═╝░░░░╚════╝░░╚════╝░╚══════╝ 
  |
-[+] company  : FlyZero Official Copyring  -  ⁣ATTENTION! The author of this article is not respo-
+[+] Version  : AllHackingTools v2.5.1    -  Debug mode: true
+[+] Company  : FlyZero Official Copyring ©  -  ⁣ATTENTION! The author of this article is not respo-
 [+] Github   : https://github.com/mishakorzik  -  nsi⁣ble responsible for any consequences of reading it. 
 [+] Coded By : Misha Korzhik (Міша Коржик)  -  All materials are provided for educational purposes only! 
 [+]——————-——-–—————-—-–—————-————-—–————-———-—–—————————-——–—————–-——[DEBUG]
