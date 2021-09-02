@@ -30,9 +30,11 @@ def sys_check():
 
 			if systemR == github_sys:
 				print(C + '[' + G + ' Online ' + C +']' + '\n')
+				os.system("speed-test --v")
 			else:
 				print(C + '[' + G + ' Online ' + C +']' + '\n')
 				os.system("termux-torch on")
+				os.system("speed-test --v")
 		else:
 			print(C + '[' + R + ' Status : {} '.format(sys_sc) + C + ']' + '\n')
 	except Exception as e:
