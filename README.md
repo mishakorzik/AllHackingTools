@@ -244,6 +244,27 @@ If the tool fails, follow these steps:
 <details id="missing-code-coverage">
   <summary>Versions</summary>
 
+### Version 2.5.1
+##### below is a list added in version 2.5
+
+```
+
+Desing:
+ Many bugs have been fixed
+ Added New Castomization
+ New Loading animation
+ Added checking for ping
+
+Build:
+ Added new optimization
+ Added stabilization
+ Added new programming code PHP
+
+#Thanks for reviewing the update list. 
+#Bye bye Have a nice day!
+```
+
+
 ### Version 2.4
 ##### below is a list added in version 2.4
 
@@ -255,7 +276,7 @@ Tools:
 Desing:
  Many bugs have been fixed
  Added New Castomization
- Addet Castomization for loading
+ Added Castomization for loading
 
 #Thanks for reviewing the update list. 
 #Bye bye Have a nice day!
