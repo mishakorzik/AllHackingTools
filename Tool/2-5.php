@@ -7,11 +7,12 @@ $cyan   = "\033[36m";
 $cln    = "\e[0m";
 $bold   = "\e[1m";
 
-echo $cyan . "bugs  › report bugs \n";
-echo $cyan . "debug › developer mode \n";
-echo $cyan . "debug ›  \n";
+echo $cyan . "╔bugs   › report bugs \n";
+echo $cyan . "║debug  › developer mode \n";
+echo $cyan . "║build  › build system \n";
+echo $cyan . "║test   › testing code & system \n";
+echo $cyan . "╚script › new code programing \n";
 
-echo $white . "  \n";
 echo $white . "  \n";
 echo $white . "—";
 echo $orange . " New Features: \n";
