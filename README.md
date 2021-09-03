@@ -69,10 +69,10 @@
 ## Installing
 
 ```
-#Add termux permision
+#Add your termux permision
 termux-setup-storage
 
-#Upgrade all packages
+#Upgrade all & full packages
 apt full-upgrade
 
 #Install package git
@@ -81,10 +81,10 @@ apt install git
 #clone this repository
 git clone https://github.com/mishakorzik/AllHackingTools
 
-#cd to directory
+#cd to directory allhackingtools
 cd AllHackingTools
 
-#Start script to install
+#Start script to install system
 bash Install.sh
 
 
