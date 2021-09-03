@@ -88,7 +88,7 @@ cd AllHackingTools
 bash Install.sh
 ```
 
-**And when he writes a big pink button: Done, everything is ready! Wait until you can write to the terminal.**
+**And when he writes a big rainbow button: Done, everything is ready! Wait until you can write to the terminal.**
 
 <a id="viewmenu"></a>
 #### Run command to start AllHackingTools: msdconsole
