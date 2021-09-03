@@ -66,26 +66,23 @@
 
 ---
 <a id="installing"></a>
-## Installing for termux
+## Install allhackingtools
 
-* `termux-setup-storage`
-* `apt full-upgrade`
-* `apt install git`
-* `git clone https://github.com/mishakorzik/AllHackingTools`
-* `cd AllHackingTools`
-* `bash Install.sh`
+```
+termux-setup-storage
+apt full-upgrade
+apt install git
+git clone https://github.com/mishakorzik/AllHackingTools
+cd AllHackingTools
+bash Install.sh
 
-## Installing for linux
 
-* `apt upgrade`
-* `apt install git`
-* `git clone https://github.com/mishakorzik/AllHackingTools`
-* `cd AllHackingTools`
-* `bash Install.sh`
+Everything is ready! 
+Now we are waiting for everything to download!
 
-#### Everything is ready!  Now we are waiting for everything to download!
+While command: msdc, To start allhackingtools
+```
 
-* `Succes!`
 <a id="viewmenu"></a>
 #### Run command to start AllHackingTools: msdconsole
 ## AllHackingTool Menu:
