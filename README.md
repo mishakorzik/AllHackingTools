@@ -421,6 +421,10 @@ Internet : must be
 
 #### Here are the repositories that I recommend you look at. below are people who liked and forked the repository
 
+-----------
+
+##### Статья носит исследовательский характер. Она адресована специалистам по безопасности и тем, кто собирается ими стать. При ее написании использовались общедоступные базы данных. Ни редакция, ни автор не несут ответственности за неэтичное использование любых упомянутых здесь сведений.
+
 ## Supporters
 [![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
 [![Forkers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/forks/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/members)
