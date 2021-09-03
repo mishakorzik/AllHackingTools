@@ -86,13 +86,9 @@ cd AllHackingTools
 
 #Start script to install system
 bash Install.sh
-
-
-Everything is ready! 
-Now we are waiting for everything to download!
-
-While command: msdc, To start allhackingtools
 ```
+
+**And when he writes a big pink button: Done, everything is ready! Wait until you can write to the terminal.**
 
 <a id="viewmenu"></a>
 #### Run command to start AllHackingTools: msdconsole
