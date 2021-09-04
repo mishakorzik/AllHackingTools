@@ -28,7 +28,7 @@ echo  "cowsay -f eyes "$eycn" | lolcat -p 1.0" > C0w54y.txt
 echo "toilet -f puffy ' $eybn' -F gay | lolcat -p 1.0" > 84nn3r.txt
 echo "cd && bash AllHackingTools/Tool/UserInfo.sh" > U3eR1nf0.txt
 echo
-echo "clear" > cl34r.txt
+echo "cd && cd AllHackingTools && git add . && git pull && clear" > cl34r.txt
 cat "cl34r.txt" >> /data/data/com.termux/files/usr/etc/zshrc
 cat "C0w54y.txt" >> /data/data/com.termux/files/usr/etc/zshrc
 ls
