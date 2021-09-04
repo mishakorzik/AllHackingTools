@@ -12,7 +12,7 @@ op=int(raw_input("Sett1Ngs: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd src && mv AllHackingTool.sh /data/data/com.termux/files/home/AllHackingTools/.temp/ && cd && cd AllHackingTools && cd .settings && mv AllHackingTool.sh /data/data/com.termux/files/home/AllHackingTools/src/ && cd && cd AllHackingTools && cd .temp && mv AllHackingTool.sh /data/data/com.termux/files/home/AllHackingTools/.settings/ && cd && cd AllHackingTools && bash .settings/Applined.sh")
+ os.system("cd && cd AllHackingTools && cd .check && mv CheckServerYesAndNo.py /data/data/com.termux/files/home/AllHackingTools/.temp/ && cd && cd AllHackingTools && cd .settings && mv CheckServerYesAndNo.py /data/data/com.termux/files/home/AllHackingTools/.check/ && cd && cd AllHackingTools && cd .temp && mv CheckServerYesAndNo.py /data/data/com.termux/files/home/AllHackingTools/.settings/ && cd && cd AllHackingTools && bash .settings/Applined.sh")
 elif(op==2):
  os.system("clear")
  print("\033[1;31;40mNot Found! You have no rights....")
