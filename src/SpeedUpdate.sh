@@ -1,6 +1,7 @@
 cd
 cd
 cd AllHackingTools
+git add .
 git pull
 cd
 cd
