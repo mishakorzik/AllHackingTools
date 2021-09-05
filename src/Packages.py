@@ -15,7 +15,7 @@ tasks1 = [f"data {n}" for n in range(1, 5)]
 
 with console1.status("[bold green]I perform the task ...[/bold green]") as status:
     while tasks1:
-        task = tasks.pop(0)
+        task = tasks1.pop(0)
         sleep(1)
         console1.log(f"{task} done!")
 
