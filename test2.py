@@ -1,9 +1,11 @@
-import random
 from time import sleep
-from rich.progress import track
+from rich.console import Console
 
-def do_step(step):
-    sleep(random.uniform(0.01, 0.1))
+console = Console()
+tasks = [f"зaдaча {n}" for n in range(1, 7)]
 
-for step in track(range(100), description="Загрузка пакетов ..."):
-    do_step(step)
+with console.status("[bold green]Виконую задачу ...[/bold green]") as status:
+    while tasks:
+        task = tasks.pop(0)
+        sleep(1)
+        console.log(f"{task} виконана!")
