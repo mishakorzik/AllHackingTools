@@ -10,11 +10,10 @@ printf "\e[1;92m"
 cd AllHackingTools 
 cd src
 python3 ProgressBar.py
-bash src/CheckWifi.sh
+bash CheckWifi.sh
 python3 Packages.py
-sleep 1
+sleep 2
 clear
-sleep 0.1
 cd
 cd
 cd AllHackingTools
