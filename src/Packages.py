@@ -11,7 +11,7 @@ with console.status("[bold green]I perform the task ...[/bold green]") as status
         console.log(f"{task} done!")
 
 console1 = Console()
-tasks1 = [f"data {n}" for n in range(1, 5)]
+tasks1 = [f"data {n}" for n in range(3, 8)]
 
 with console1.status("[bold green]I perform the task ...[/bold green]") as status:
     while tasks1:
