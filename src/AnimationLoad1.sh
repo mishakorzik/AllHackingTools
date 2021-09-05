@@ -11,7 +11,6 @@ cd
 cd AllHackingTools 
 cd src
 python3 ProgressBar.py
-bash CheckWifi.sh
 python3 Packages.py
 sleep 2
 clear
