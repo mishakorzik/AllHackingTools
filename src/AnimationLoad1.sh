@@ -6,7 +6,8 @@ w="\033[0m"
 o="\033[1;33m"
 printf "\e[1;92m"
 
-
+cd
+cd
 cd AllHackingTools 
 cd src
 python3 ProgressBar.py
