@@ -24,7 +24,7 @@ read eybn
 echo
 echo -e "\e[1m\e[33m\nEnter Your Cowsay Name\e[32m :\n\n "
 read eycn
-echo  "cowsay -f eyes "$eycn" | lolcat -p 1.0" > C0w54y.txt
+echo  "clear && cowsay -f eyes "$eycn" | lolcat -p 1.0" > C0w54y.txt
 echo "toilet -f rusto ' $eybn' -F gay | lolcat -p 1.0" > 84nn3r.txt
 echo "cd && bash AllHackingTools/Tool/UserInfo.sh" > U3eR1nf0.txt
 echo
