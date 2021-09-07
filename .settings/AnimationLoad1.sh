@@ -14,6 +14,20 @@ termux-vibrate -d 200
 python3 ProgressBar.py
 python3 Packages.py
 termux-vibrate -d 300
+
+ping -c 1 google.com > /dev/null 2>&1
+if [[ "$?" == 0 ]]; then
+echo -e "$g[+]-[Internet Connection]———[ True ]"
+else
+echo -e "$r[-]-[Internet Connection]——[ False ]"
+echo -e "$rType: CTRL + C to exit"
+exit
+sleep 9999999
+sleep 9999999
+sleep 9999999
+exit
+fi
+
 sleep 2
 clear
 cd
