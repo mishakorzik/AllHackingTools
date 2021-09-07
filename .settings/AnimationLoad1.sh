@@ -17,9 +17,9 @@ termux-vibrate -d 300
 
 ping -c 1 google.com > /dev/null 2>&1
 if [[ "$?" == 0 ]]; then
-echo -e "$g[+]-[Internet Connection]———[ True ]"
+echo -e "$g[+]-[wifi]———[ True ]"
 else
-echo -e "$r[-]-[Internet Connection]——[ False ]"
+echo -e "$r[-]-[wifi]——[ False ]"
 echo -e "$rType: CTRL + C to exit"
 exit
 sleep 9999999
