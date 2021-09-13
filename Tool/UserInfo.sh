@@ -7,7 +7,4 @@ DEFAULT_FG="$(printf '\033[39m')"  DEFAULT_BG="$(printf '\033[49m')"
 echo ""
 echo "${WHITE}[${RED}SYSTEM${WHITE}] ${ORANGE}Welcome user! ${GREEN}We are glad to see you. ${ORANGE}To run AllHackingTools, type the command: ${RED}msdc"
 echo "${WHITE}[${RED}SYSTEM${WHITE}] ${ORANGE}If AllHackingTools does ${RED}not work,${ORANGE} go to: ${GREEN}github.com/mishakorzik/AllHackingTools${ORANGE}"
-echo ""
-echo "${WHITE}[${RED}SYSTEM${WHITE}] ${ORANGE}congratulations on the day of the ${GREEN}programmer!${ORANGE}"
-
 
