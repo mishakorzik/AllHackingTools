@@ -350,6 +350,11 @@ Build:
 
 #### І ще багато інших пакетів!
 ------
+## Donate
+
+**Донат в низу на кнопці, Bye me a coffee**
+<a href="https://www.donationalerts.com/r/misha_korzhik"><img title="Donate" src="https://img.shields.io/badge/Donate-AllHackingTools-yellow?style=for-the-badge&logo=github"></a>
+
 ## Скріншоти
 #### Рекомендую переглянути скріншоти на AllHackingTools
 
