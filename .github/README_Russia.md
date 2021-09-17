@@ -354,6 +354,11 @@ Desing:
 
 #### І ещё много других пакетов!
 ------
+## Donate
+
+**Донат в низу на кнопке, Bye me a coffee**
+<a href="https://www.donationalerts.com/r/misha_korzhik"><img title="Donate" src="https://img.shields.io/badge/Donate-AllHackingTools-yellow?style=for-the-badge&logo=github"></a>
+
 ## Фото
 #### Рекомендую переглянути фоно на AllHackingTools
 
