@@ -1,5 +1,10 @@
+echo "
 💾Folders 15
-💾Files 8
+💾Files 7
+💾Server 1
+
+🔐 �server
+🔐 �packages
 
 📁 .check
 📁 .desing
@@ -23,7 +28,7 @@
 📄 MainMenu.py
 📄 README.md
 📄 SECURITY.md
-
+"
 
 
 
