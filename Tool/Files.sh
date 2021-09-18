@@ -1,10 +1,11 @@
 echo "
 💾Folders 15
 💾Files 7
-💾Server 1
+💾Server 3
 
 🔐 �server
 🔐 �packages
+🔐 �User-Agent
 
 📁 .check
 📁 .desing
