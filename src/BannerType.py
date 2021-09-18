@@ -41,7 +41,7 @@ elif(op==7):
  os.system("cd && cd AllHackingTools && bash src/CreateTermuxBanner.sh")
 elif(op==8):
  time.sleep(0.2)
- print("\033[1;31;40mQuiting utility...")
+ print("\033[1;31;40mQuiting System...")
 else:
  print("\033[1;31;40mInvalid input. Reloading Tools") 
  time.sleep(1.6)
