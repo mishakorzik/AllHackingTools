@@ -58,6 +58,9 @@ bash AllHackingTools/.check/ServerConfig.sh
 clear
 cd
 cd 
+cd && cd AllHackingTools && python2 src/TerminalBanner.py
+cd
+cd
 echo '
 ██████╗░░█████╗░███╗░░██╗███████╗
 ██╔══██╗██╔══██╗████╗░██║██╔════╝
