@@ -1,11 +1,5 @@
 echo "
-💾Folders 15
-💾Files 7
-💾Server 3
-
-🔐 �server
-🔐 �packages
-🔐 �User-Agent
+💾Folders 15    💾Files 7
 
 📁 .check       📁 .desing
 📁 .fonts       📁 .github
