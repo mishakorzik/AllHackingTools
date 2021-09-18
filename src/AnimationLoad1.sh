@@ -36,4 +36,5 @@ clear
 cd
 cd
 cd AllHackingTools
+mv MainMenu.py Tool
 python3 .check/Configuration.py
