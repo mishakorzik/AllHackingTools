@@ -12,6 +12,10 @@ w="\033[0m"
 cd
 cd
 cd AllHackingTools 
-mv ErrorServer254NotFound.py MainMenu.py
+cd Tool
+mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools
+cd
+cd AllHackingTools
+clear
 echo -e $b"[ ✔ ]"$g"succesfull verifined"$w
 python2 MainMenu.py
