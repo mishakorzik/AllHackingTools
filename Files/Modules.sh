@@ -61,6 +61,14 @@ cd
 cd && cd AllHackingTools && python2 src/TerminalBanner.py
 cd
 cd
+cd AllHackingTools
+cd Tool
+chmod +x folder
+chmod +x os
+mv folder /data/data/com.termux/files/home/AllHackingTools
+mv os /data/data/com.termux/files/home/AllHackingTools
+cd
+cd
 echo '
 ██████╗░░█████╗░███╗░░██╗███████╗
 ██╔══██╗██╔══██╗████╗░██║██╔════╝
@@ -70,10 +78,11 @@ echo '
 ╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝
 Developer : mishakorzhik
 created on: 23 05 2021
-code      : python, bash
+code      : python, bash, php
 '|lolcat -p 1.0
+echo -e $b"[^_^]"$w" AllHackingTools donate: "$g"https://www.donationalerts.com/r/misha_korzhik"$w
 echo -e $b"[^_^]"$w" SuccesFull Installed: "$g"AllHackingTools"$w
-echo -e $b"[^_^]"$w" Run Command to Start Tool: "$g"msdconsole"$w
+echo -e $b"[^_^]"$w" Run Command to Start Tool: "$g"msdc & msdconsole"$w
 echo -e $b"[^_^]"$w" Command to Update Tool: "$g"msdconsoleUPD"$w
 cd
 cd
