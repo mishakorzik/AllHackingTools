@@ -12,25 +12,26 @@ echo '
   [10] >> Vulnerability Analysis:  -  Systems for vulnerability analysis  ~ /AllHackingTools/Files
   [11] >> DarkSearch Tool:  -  Tools for Secret and Onion search         ~ /AllHackingTools/Files
   [12] >> Phishing And IpHack:  -  Tools for phishing and fake websites ~ /AllHackingTools/Files
-  [13] >> Passworld Attack:  -  Utilities for cracking passwords      ~ /AllHackingTools/Files
-  [14] >> Wordlist Generator:  -  Tools for Genering Worldlist      ~ /AllHackingTools/Files
-  [15] >> XSS Attack Tools:  -  Utilities for Attacking XSS        ~ /AllHackingTools/Files
+  [13] >> Passworld Attack:  -  Utilities for cracking passwords        ~ /AllHackingTools/Files
+  [14] >> Wordlist Generator:  -  Tools for Genering Worldlist         ~ /AllHackingTools/Files
+  [15] >> XSS Attack Tools:  -  Utilities for Attacking XSS           ~ /AllHackingTools/Files
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣ 
-  [16] >> Other tools:  -  Separate and other tools for hacking    ~ /AllHackingTools/.check
-  [17] >> Terminal Panel:  -  Termux control and special features   ~ /AllHackingTools/.check
-  [18] >> System Settings:  -  AllHackingTools control and features  ~ /AllHackingTools/.settings
-  [19] >> System License:  -  View the license in AllHackingTools    ~ /AllHackingTools/.settings 
-  [20] >> Update System:  -  Update system and all tools & menu     ~ /AllHackingTools/.check  
-  [21] >> About System:  -  View system information and developer  ~ /AllHackingTools/src 
-  [22] >> Exit System:  -  Log out of the AllHackingTools system  ~ /AllHackingTools/  
+  [16] >> Other tools:  -  Separate and other tools for hacking      ~ /AllHackingTools/.check
+  [17] >> Terminal Panel:  -  Termux control and special features    ~ /AllHackingTools/.check
+  [18] >> System Settings:  -  AllHackingTools control and features   ~ /AllHackingTools/.settings
+  [19] >> System License:  -  View the license in AllHackingTools     ~ /AllHackingTools/.settings 
+  [20] >> Update System:  -  Update system and all tools & menu       ~ /AllHackingTools/.check  
+  [21] >> About System:  -  View system information and developer    ~ /AllHackingTools/src 
+  [22] >> Exit System:  -  Log out of the AllHackingTools system    ~ /AllHackingTools/  
 
   [000]————{ DEBUG | DEVELOPER } Misha Korzhik
-  [041] >> Edit MainMenu; - no description             ~ /AllHackingTools/     
-  [042] >> Clear All Data; - no description         ~ /AllHackingTools/  
-  [043] >> View Directory; - no description       ~ /AllHackingTools/ 
-  [044] >> Reset All Data; - no description      ~ /AllHackingTools/    
-  [045] >> Remove data; - no description       ~ /AllHackingTools/.settings 
-  [046] >> Off Server; - no description        ~ /sys/dll                 '|lolcat -p 1.7
+  [041] >> Edit MainMenu; - edit MainMenu             (WARNING)    ~ /AllHackingTools/     
+  [042] >> Clear All Data; - clear unnecessary files  (WARNING)    ~ /AllHackingTools/  
+  [043] >> View Directory; - view folder no detail                ~ /AllHackingTools/ 
+  [044] >> Reset All Data; - reload date & files                 ~ /AllHackingTools/    
+  [045] >> Remove data; - delete some date          (WARNING)    ~ /AllHackingTools/.settings 
+  [046] >> View Folder; - detailed view of folders              ~ /AllHackingTools/folder
+  [047] >> Off Server; - no description             (WARNING)   ~ /sys/dll                 '|lolcat -p 1.7
 
 
 
