@@ -22,7 +22,7 @@ echo '
   [19] >> System License:  -  View the license in AllHackingTools    ~ /AllHackingTools/.settings 
   [20] >> Update System:  -  Update system and all tools & menu     ~ /AllHackingTools/.check  
   [21] >> About System:  -  View system information and developer  ~ /AllHackingTools/src 
-  [22] >> Exit System:  -  Log out of the AllHackingTools system ~ /AllHackingTools/  
+  [22] >> Exit System:  -  Log out of the AllHackingTools system  ~ /AllHackingTools/  
 
   [000]————{ DEBUG | DEVELOPER } Misha Korzhik
   [041] >> Edit MainMenu; - no description             ~ /AllHackingTools/     
@@ -30,7 +30,7 @@ echo '
   [043] >> View Directory; - no description       ~ /AllHackingTools/ 
   [044] >> Reset All Data; - no description      ~ /AllHackingTools/    
   [045] >> Remove data; - no description       ~ /AllHackingTools/.settings 
-  [046] >> Off Server; - I DONT TOUCH        ~ /SERVER/dll                 '|lolcat -p 1.7
+  [046] >> Off Server; - no description        ~ /sys/dll                 '|lolcat -p 1.7
 
 
 
