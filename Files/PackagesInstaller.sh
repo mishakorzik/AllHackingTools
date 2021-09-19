@@ -293,4 +293,5 @@ pip3 install flask_socketio
 pip3 install flask_cors
 pip2 install flask_cors
 pip2 install mechanize
+pip install rich
 pip3 install rich
