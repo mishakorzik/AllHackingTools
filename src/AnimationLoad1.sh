@@ -9,6 +9,12 @@ printf "\e[1;92m"
 cd
 cd
 cd AllHackingTools 
+git add .
+git pull
+clear
+cd
+cd
+cd AllHackingToosl
 cd src
 python3 ProgressBar.py
 python3 Packages.py
