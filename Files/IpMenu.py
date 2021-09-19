@@ -24,7 +24,7 @@ print("  \033[1;34m[ 14 ] >> \033[1;36;40mIpHack - Track Location With Live Addr
 print("  \033[1;34m[ 15 ] >> \033[1;36;40mExit System - log out AllHackingTools")
 print("  \033[1;34m[ 16 ] >> \033[1;36;40mBack To MainMenu")
 
-op=int(raw_input("1nf0rmatI0n: "))
+op=int(raw_input("1nf0RmatI0n: "))
 
 if(op==1):
  os.system("clear")
