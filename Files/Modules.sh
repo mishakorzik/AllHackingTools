@@ -69,6 +69,11 @@ mv folder /data/data/com.termux/files/home/AllHackingTools
 mv os /data/data/com.termux/files/home/AllHackingTools
 cd
 cd
+cd AllHackingTools
+cd .logs 
+pip freeze > requirements.txt
+cd
+cd
 echo '
 ██████╗░░█████╗░███╗░░██╗███████╗
 ██╔══██╗██╔══██╗████╗░██║██╔════╝
