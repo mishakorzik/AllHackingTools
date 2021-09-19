@@ -33,4 +33,6 @@ clear
 cd
 cd
 cd AllHackingTools
+mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/Tool
+clear
 python3 .check/Configuration.py
