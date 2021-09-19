@@ -44,3 +44,6 @@ def sys_check():
 
 try:
 	sys_check()
+
+except KeyboardInterrupt:
+      print("")
