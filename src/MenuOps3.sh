@@ -22,4 +22,4 @@ echo '
   19) ~ System License:  -  View A AllHackingTools License =  License
   20) ~ Update System:  -  Update system and all tools & menu and more utilitys
   21) ~ About System:  -  View system information and developer
-  22) ~ Exit System:  -  Log out of the AllHackingTools system '|lolcat -p 1.5
+  22) ~ Exit System:  -  Log out of the AllHackingTools system '|lolcat -p 3.0
