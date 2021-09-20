@@ -14,8 +14,9 @@ git pull
 clear
 cd
 cd
-cd AllHackingToosl
+cd AllHackingTools
 cd src
+python3 CheckFolder.py
 python3 ProgressBar.py
 python3 Packages.py
 red='\e[1;31m'
