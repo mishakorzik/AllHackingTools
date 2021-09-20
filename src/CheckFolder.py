@@ -29,7 +29,7 @@ if os.path.exists(path1):
                         if os.path.exists(path7):
                             if os.path.exists(path8):
                                 if os.path.exists(path9):
-                                    import os
+                                    os.system("cd && cd AllHackingTools && starterUp.sh")
                                 else:
                                     print(R + '[-] ' + C + 'Error code: 106 DNS server refused to connect')
                                     print(R + '[-] ' + C + 'Error code: 404 Not Found! No system folder')
