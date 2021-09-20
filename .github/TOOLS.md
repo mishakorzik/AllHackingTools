@@ -1,4 +1,5 @@
 ## Information Gathering
+- <a href="https://github.com/Gameye98/AstraNmap">AstraNmap</a>
 - <a href="https://github.com/UndeadSec/EvilURL.git">EvilURL</a>
 - <a href="https://github.com/ciku370/OSIF">OSIF</a>
 - <a href="https://github.com/Cvar1984/Easymap">Easymap</a>
@@ -11,6 +12,7 @@
 - <a href="https://github.com/thewhiteh4t/seeker.git">Seeker</a>
 - <a href="https://github.com/s0md3v/ReconDog">ReconDog</a>
 - <a href="https://github.com/bibortone/D-Tech">D-Tech</a>
+- <a href="https://github.com/mishakorzik/IpHack">IpHack</a>
 
 ## Exploitation Tools
 - <a href="https://www.github.com/threat9/routersploit">RouterSploit</a>
