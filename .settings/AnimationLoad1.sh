@@ -14,31 +14,6 @@ git pull
 clear
 cd
 cd
-cd AllHackingToosl
-cd src
-termux-vibrate -d 200
-python3 ProgressBar.py
-python3 Packages.py
-termux-vibrate -d 300
-
-ping -c 1 google.com > /dev/null 2>&1
-if [[ "$?" == 0 ]]; then
-echo -e "$g[+]-[wifi]———[ True ]"
-else
-echo -e "$r[-]-[wifi]——[ False ]"
-echo -e "$rType: CTRL + C to exit"
-exit
-sleep 9999999
-sleep 9999999
-sleep 9999999
-exit
-fi
-
-sleep 2
-clear
-cd
-cd
 cd AllHackingTools
-mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/Tool
-clear
-python3 .check/Configuration.py
+cd src
+python3 CheckFolder.py
