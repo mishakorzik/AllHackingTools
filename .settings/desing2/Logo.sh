@@ -11,4 +11,4 @@ echo '
 {l}Github   : https://github.com/mishakorzik  -  nsi⁣ble responsible for any consequences of reading it. 
 {l}coded By : Misha Korzhik (Міша Коржик)  -  All materials are provided for educational purposes only! 
 {o}——————-——-–—————-—-–—————-————-—–————-———-—–—————————-——–—————–-——{+}
-'|lolcat -p 1.6 -a -d 2 -s 20.0
+'|lolcat -p 2.6 -a -d 2 -s 20.0
