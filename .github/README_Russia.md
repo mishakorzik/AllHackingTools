@@ -415,6 +415,8 @@ Desing:
 
 5.<a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy - Lots of free proxy servers</a>
 
+<img src="https://github-readme-stats.vercel.app/api?username=mishakorzik&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
+
 #### Вот сховища, какие я рекомендую вам посмотреть. ниже - люди, каким понравилось AllHackingTools
 
 ## Сторонники
