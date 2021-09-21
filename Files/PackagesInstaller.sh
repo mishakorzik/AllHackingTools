@@ -289,9 +289,8 @@ pip2 install colorama
 pip install flask
 pip2 install flask_socketio
 pip install flask_socketio
-pip3 install flask_socketio
-pip3 install flask_cors
+python3 -m pip install flask_socketio
+python3 -m pip install flask_cors
 pip2 install flask_cors
 pip2 install mechanize
-pip install rich
-pip3 install rich
+python3 -m pip install rich rich
