@@ -33,7 +33,7 @@ def sys_check():
 				
 				os.system("cd && cd AllHackingTools && cd Tool && php 2-5.php && sleep 1")
 			else:
-				print(C + '[' + G + ' Offline ' + C +']' + '\n')
+				print(C + '[' + R + ' Offline ' + C +']' + '\n')
 				print(R + '[-] ' + C + 'Error Code: 407 Proxy Authentication Required!')
 				print(R + '[-] ' + C + 'Error Code: 422 Unprocessable Entity! Error Proxy!')
 				os.system("cd && cd AllHackingTools && cd Tool && php 2-5.php && sleep 1")
