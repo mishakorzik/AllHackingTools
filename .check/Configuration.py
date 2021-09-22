@@ -34,8 +34,8 @@ def sys_check():
 				os.system("cd && cd AllHackingTools && python3 .check/FileConfiguration.py")
 			else:
 				print(C + '[' + R + ' Failed ' + C +']' + '\n')
-				print(R + '[-] ' + C + 'The system failed to start!')
 				print(R + '[-] ' + C + 'Error code: 106 DNS server refused to connect')
+				print(R + '[-] ' + C + 'Error code: 503 Service Unavailable! Retry-After')
 				print(R + '[-] ' + C + 'Please wait while we fix the problem...')
 				os.system("cd && bash AllHackingTools/.check/ConfigurationOptions.sh")
 		else:
