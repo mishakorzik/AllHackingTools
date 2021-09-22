@@ -29,7 +29,7 @@ def sys_check():
 			github_sys = github_sys.strip()
 
 			if systemR == github_sys:
-				print(C + '[' + G + ' Succesfull ' + C +']' + '\n')
+				print(C + '[' + G + ' Succesful ' + C +']' + '\n')
 				print(G + '[+] ' + C + 'System configuration checked! There are no failures')
 				os.system("cd && cd AllHackingTools && python2 src/UpdateMenu.py")
 			else:
