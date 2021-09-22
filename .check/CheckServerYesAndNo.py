@@ -19,7 +19,7 @@ result = ''
 systemR = 'no'
 
 def sys_check():
-	print(G + '[+]' + C + ' Checking Server ControlPanel....', end='')
+	print(G + '[+]' + C + ' Checking Server Proxy....', end='')
 	sys_url = 'https://raw.githubusercontent.com/mishakorzik/AllHackingTools/main/Castom/ServerYesAndNo.txt'
 	try:
 		sys_rqst = requests.get(sys_url)
@@ -30,12 +30,12 @@ def sys_check():
 
 			if systemR == github_sys:
 				print(C + '[' + G + ' Online ' + C +']' + '\n')
-				os.system("speed-test --v")
+				
 				os.system("cd && cd AllHackingTools && cd Tool && php 2-5.php && sleep 1")
 			else:
-				print(C + '[' + G + ' Online ' + C +']' + '\n')
-				os.system("termux-torch on")
-				os.system("speed-test --v")
+				print(C + '[' + G + ' Offline ' + C +']' + '\n')
+				print(R + '[-] ' + C + 'Error Code: 407 Proxy Authentication Required!')
+				print(R + '[-] ' + C + 'Error Code: 422 Unprocessable Entity! Error Proxy!')
 				os.system("cd && cd AllHackingTools && cd Tool && php 2-5.php && sleep 1")
 		else:
 			print(C + '[' + R + ' Status : {} '.format(sys_sc) + C + ']' + '\n')
