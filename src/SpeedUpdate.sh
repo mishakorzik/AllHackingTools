@@ -1,74 +1,37 @@
-cd
-cd
-cd AllHackingTools
-git add .
-git pull
-cd
-cd
-cd /data/data/com.termux/files/usr/bin/
-cd /usr/local/bin/
-rm -rf msdc
-rm -rf msdconsole
-rm -rf msdconsoleUPD
-rm -rf msdServer
-rm -rf msd
-rm -rf ms
-rm -rf m
-rm -rf sys
-rm -rf system
-rm -rf Theme
-rm -rf View-deleted-activity
-rm -rf theme
-rm -rf edit
-rm -rf standart
-cd
+
+cd 
 cd
 cd AllHackingTools
-cd Tool
-cp msdc /usr/local/bin/
-cp msdconsole /usr/local/bin/
-cp msdconsoleUPD /usr/local/bin/
-cp msdServer /usr/local/bin/
-cp msd /usr/local/bin/
-cp ms /usr/local/bin/
-cp m /usr/local/bin/
-cp sys /usr/local/bin/
-cp system /usr/local/bin/
-cp View-deleted-activity /usr/local/bin/
-cp theme /usr/local/bin/
-cp Theme /usr/local/bin/
-cp edit /usr/local/bin/
-cp default /usr/local/bin/
-cp msdc /data/data/com.termux/files/usr/bin/
-cp msdconsole /data/data/com.termux/files/usr/bin/
-cp msdconsoleUPD /data/data/com.termux/files/usr/bin/
-cp msdServer /data/data/com.termux/files/usr/bin/
-cp msd /data/data/com.termux/files/usr/bin/
-cp ms /data/data/com.termux/files/usr/bin/
-cp m /data/data/com.termux/files/usr/bin/
-cp sys /data/data/com.termux/files/usr/bin/
-cp system /data/data/com.termux/files/usr/bin/
-cp Theme /data/data/com.termux/files/usr/bin/
-cp theme /data/data/com.termux/files/usr/bin/
-cp View-deleted-activity /data/data/com.termux/files/usr/bin/
-cp edit /data/data/com.termux/files/usr/bin/
-cp standart /data/data/com.termux/files/usr/bin/
+rm -rf .check
+rm -rf .temp
+rm -rf .logs
+rm -rf .settings
+rm -rf .desing
+rm -rf Files
+rm -rf src
+rm -rf desing
+rm -rf Castom
+rm -rf Tool
+rm -rf Help
+rm -rf Themes
+rm -rf Uninstall
+rm -rf Termux-os
+git clone https://github.com/mishakorzik/Termux-Setting
+cd Termux-Setting
+mv .check /data/data/com.termux/files/home/AllHackingTools
+mv .desing /data/data/com.termux/files/home/AllHackingTools
+mv .temp /data/data/com.termux/files/home/AllHackingTools
+mv .logs /data/data/com.termux/files/home/AllHackingTools
+mv .settings /data/data/com.termux/files/home/AllHackingTools
+mv Files /data/data/com.termux/files/home/AllHackingTools
+mv src /data/data/com.termux/files/home/AllHackingTools
+mv Help /data/data/com.termux/files/home/AllHackingTools
+mv Themes /data/data/com.termux/files/home/AllHackingTools
+mv Termux-os /data/data/com.termux/files/home/AllHackingTools
+mv Uninstall /data/data/com.termux/files/home/AllHackingTools
+mv Castom /data/data/com.termux/files/home/AllHackingTools
+cd 
 cd
-cd
-cd /data/data/com.termux/files/usr/bin/
-chmod +x msdconsole
-chmod +x msdconsoleUPD
-chmod +x msdc
-chmod +x msdServer
-chmod +x msd
-chmod +x ms
-chmod +x m
-chmod +x sys
-chmod +x system
-chmod +x View-deleted-activity
-chmod +x Theme
-chmod +x theme
-chmod +x edit
-chmod +x standart
-cd
+rm -rf Termux-Setting
+cd 
 cd
