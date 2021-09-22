@@ -9,8 +9,7 @@ printf "\e[1;92m"
 cd
 cd
 cd AllHackingTools 
-git add .
-git pull
+mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/Tool
 clear
 cd
 cd
