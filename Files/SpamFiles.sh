@@ -1,9 +1,7 @@
-apt-get install git
-apt-get install python
-apt-get install future
-apt-get install paramiko
-apt-get install pysnmp
-apt-get install pycrypto
+apt install future
+apt install paramiko
+apt install pysnmp
+apt install pycrypto
 cd
 cd AllHackingTools
 pip install -r requirements.txt
