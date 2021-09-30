@@ -1,8 +1,0 @@
-https://flyzero.000webhostapp.com/project/proxy=%3f/ProxyRU%25=HingAnonymous
-https://flyzero.000webhostapp.com/project/proxy=%3f/ProxyUS%25=HingAnonymous
-https://flyzero.000webhostapp.com/project/proxy=%3f/ProxyBY
-https://flyzero.000webhostapp.com/project/proxy=%3f/ProxyRU
-https://flyzero.000webhostapp.com/project/proxy=%3f/ProxyUA
-https://flyzero.000webhostapp.com/project/proxy=%3f/ProxyUS
-https://flyzero.000webhostapp.com/project/proxy=%3f/ProxyIN
-
