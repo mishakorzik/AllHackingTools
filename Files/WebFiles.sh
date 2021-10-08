@@ -50,3 +50,7 @@ pip3 install -r requirments.txt
 cd
 cd
 cd AllHackingTools
+git clone https://github.com/mishakorzik/Ultra-DDos
+cd
+cd 
+cd AllHackingTools
