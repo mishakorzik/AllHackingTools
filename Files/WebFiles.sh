@@ -2,6 +2,7 @@ apt-get install git
 apt-get install python
 cd
 cd 
+cd AllHackingTools
 git clone https://github.com/mishakorzik/AdminHack
 cd AdminHack
 bash setup.sh
