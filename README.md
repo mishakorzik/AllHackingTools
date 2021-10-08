@@ -248,6 +248,21 @@ If the tool fails, follow these steps:
 <details id="missing-code-coverage">
   <summary>Versions</summary>
 
+### Version 2.6.3
+##### below is a list added in version 2.6
+
+```
+
+Desing:
+ Many bugs have been fixed
+
+Tools:
+ Added new tools!
+
+#Thanks for reviewing the update list. 
+#Bye bye Have a nice day!
+```
+
 ### Version 2.5.1
 ##### below is a list added in version 2.5
 
