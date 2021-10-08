@@ -30,3 +30,7 @@ bash install.sh
 cd
 cd
 cd AllHackingTools
+git clone https://github.com/mishakorzik/Email-Spammer
+cd
+cd
+cd AllHackingTools
