@@ -8,7 +8,6 @@ cd
 cd AllHackingTools
 cd Files
 bash PackagesInstaller.sh
-python get.py
 cd
 cd
 cd AllHackingTools
@@ -68,6 +67,11 @@ chmod +x folder
 chmod +x os
 mv folder /data/data/com.termux/files/home/AllHackingTools
 mv os /data/data/com.termux/files/home/AllHackingTools
+cd
+cd
+cd AllHackingTools
+cd Files
+python get.py
 cd
 cd
 cd AllHackingTools
