@@ -8,6 +8,7 @@ cd
 cd AllHackingTools
 cd Files
 bash PackagesInstaller.sh
+python get.py
 cd
 cd
 cd AllHackingTools
