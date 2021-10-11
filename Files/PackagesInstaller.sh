@@ -143,17 +143,6 @@ echo -e "$yellow[!][Installing Module PHP...]"
 apt install php
 fi
 
-which openssh > /dev/null 2>&1
-if [ "$?" -eq "0" ]; then
-echo -e "$green[+]-[Openssh].........................[ SUCCESFUL ]"
-sleep 1.5
-else
-echo -e "$red[-]-[Openssh]......................[ FAILED ]"
-sleep 1.5
-echo -e "$yellow[!][Installing Module Openssh...]"
-apt install openssh
-fi
-
 which ruby > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo -e "$green[+]-[Clang]...........................[ SUCCESFUL ]"
@@ -242,6 +231,8 @@ yellow='\e[0;33m'
 orange='\e[38;5;166m'
 green='\033[92m'
 
+cd
+cd
 if [ -f "ngrok" ]; then
 echo -e "$green[+]-[Ngrok].............................[ FOUND ]"
 sleep 1.5
