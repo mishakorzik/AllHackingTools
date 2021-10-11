@@ -263,6 +263,7 @@ apt-get install nodejs
 npm install --global speed-test
 apt install apache2
 apt install openssl -y
+python3 -m pip install rich
 apt install python-dev -y
 apt install python3 -y
 apt-get install pip2
@@ -284,4 +285,3 @@ python3 -m pip install flask_socketio
 python3 -m pip install flask_cors
 pip2 install flask_cors
 pip2 install mechanize
-python3 -m pip install rich
