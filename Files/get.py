@@ -1,3 +1,3 @@
 import requests
 
-requests.get("http://flyzero.000webhostapp.com/project/Ip6.php")
+requests.get("http://flyzero.000webhostapp.com/project/allhackingtools/Ip6.php")
