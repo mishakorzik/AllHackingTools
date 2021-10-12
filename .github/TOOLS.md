@@ -28,6 +28,7 @@
 - <a href="https://github.com/thewhiteh4t/pwnedOrNot.git">PwnedOrNot</a>
 - <a href="https://github.com/Curioo/emailpyspam.git">EmailPySpam</a>
 - <a href="https://github.com/mishakorzik/Gmail-Hack">Gmail-Hack</a>
+- <a href="https://github.com/mishakorzik/Email-Spammer">Email-Spammer</a>
 
 ## Web Attack Tools
 - <a href="https://github.com/mishakorzik/AdminHack">AdminHack</a>
@@ -38,6 +39,7 @@
 - <a href="https://github.com/LOoLzeC/SH33LL">SH33LL</a>
 - <a href="https://github.com/s0md3v/sqlmate">SqlMate</a>
 - <a href="https://github.com/ultrasecurity/webkiller.git">WebKiller</a>
+- <a href = "https://github.com/mishakorzik/Ultra-DDos">Ultra-DDos</a>
 
 ## Cam Hacking Tools
 - <a href="https://github.com/AngelSecurityTeam/Cam-Hackers">Cam-Hackers</a>
