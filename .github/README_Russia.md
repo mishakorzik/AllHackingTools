@@ -217,7 +217,6 @@ figlet -f block  AND  toilet -f block
 
 ```
  Електрониые листи:
-  misakorzik528@gmail.com
   miguardzecurity@gmail.com
 
  Разработчики:
@@ -230,7 +229,7 @@ figlet -f block  AND  toilet -f block
    ошибку подробно 
 
    2. Свяжитесь со мной с помощью следующего 
-   электронный адрес: misakorzik528@gmail.com 
+   электронный адрес: miguardzecurity@gmail.com 
 
    3. Отправьте снимок экрана и объясните проблему 
    с этой ошибкой
