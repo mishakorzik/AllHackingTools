@@ -209,7 +209,7 @@ figlet -f block  AND  toilet -f block
 <details id="missing-code-coverage">
    <summary>Потрібна Допомога</summary>
 
-#### Тобі потрібна допомога? Напиши мені на: misakorzik528@gmail.com
+#### Тобі потрібна допомога? Напиши мені на: miguardzecurity@gmail.com 
 #### І я розгляну ваш лист та проблему!
 
 ```
@@ -226,7 +226,7 @@ figlet -f block  AND  toilet -f block
    помилку детально 
 
    2. Зв’яжіться зі мною за допомогою наступного 
-   електронна адреса: misakorzik528@gmail.com 
+   електронна адреса: miguardzecurity@gmail.com 
 
    3. Надішліть знімок екрана та поясніть,
    ваша проблема з цією помилкою розглянеться
