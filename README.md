@@ -224,7 +224,6 @@ figlet -f block  AND  toilet -f block
 
 ```bash
 Emails:
- misakorzik528@gmail.com
  miguardzecurity@gmail.com
 
 Developers:
