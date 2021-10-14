@@ -359,7 +359,7 @@ Desing:
 ## Dependencies
 #### If all this is then you can download!
 
-**Root     : NO ROOT**  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/reception-4.svg"/> <br>
+**Root     : NO ROOT**  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/terminal-fill.svg"/> <br>
 **Storage  : 2200 MB**  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/> <br>
 **Internet : must be**  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/wifi.svg"/> <br>
 
