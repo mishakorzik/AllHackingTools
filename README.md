@@ -237,7 +237,7 @@ If the tool fails, follow these steps:
    in detail
 
 2. Contact me through the following 
-   email: misakorzik528@gmail.com
+   email: miguardzecurity@gmail.com 
 
 3. Submit the screenshot and explain 
    your problem with that error
