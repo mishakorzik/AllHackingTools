@@ -219,7 +219,7 @@ figlet -f block  AND  toilet -f block
 <details id="missing-code-coverage">
   <summary>Need Help</summary>
 
-#### Do you need help? Write me on: miguardzecurity@gmail.com 
+#### Do you need help? Write me on: miguardzecurity@gmail.com  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
 #### And I will consider your letter and problem!
 
 ```bash
@@ -237,7 +237,7 @@ If the tool fails, follow these steps:
    in detail
 
 2. Contact me through the following 
-   email: miguardzecurity@gmail.com 
+   email: miguardzecurity@gmail.com  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
 
 3. Submit the screenshot and explain 
    your problem with that error
