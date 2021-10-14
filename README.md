@@ -359,11 +359,11 @@ Desing:
 
 ## Dependencies
 #### If all this is then you can download!
-```bash
-Root     : NO ROOT  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/reception-4.svg"/>
-Storage  : 2200 MB  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/>
-Internet : must be  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/wifi.svg"/>
-```
+
+**Root     : NO ROOT**  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/reception-4.svg"/> <br>
+**Storage  : 2200 MB**  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/> <br>
+**Internet : must be**  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/wifi.svg"/> <br>
+
 #### Okay let's go installing! If it shows Are you rooted? Then ignore it!
 ---------
 ## What does it download?
@@ -406,10 +406,6 @@ Internet : must be  <img width="1.3%" src="https://raw.githubusercontent.com/mis
 * `bash Uninstall/Uninstall.sh`
 
 ------
-
-## Start AllHackingTool for hacking!
-#### msdconsole & msdc
-
 
 #### It downloads packages and utilities and configures the utilities.
 
