@@ -65,7 +65,7 @@
 
 ---
 <a id="installing"></a>
-## Installing
+## Installing <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/>
 
 ```
 #Add your termux permision
@@ -87,7 +87,8 @@ cd AllHackingTools
 bash Install.sh
 ```
 
-**And when he writes a big rainbow button: Done, everything is ready! Wait until you can write to the terminal.**
+**And when he writes a big rainbow button: 
+Done, everything is ready! Wait until you can write to the terminal.**
 
 <a id="viewmenu"></a>
 #### Run command to start AllHackingTools: msdconsole
@@ -359,9 +360,9 @@ Desing:
 ## Dependencies
 #### If all this is then you can download!
 ```bash
-Root     : NO ROOT
-Storage  : 2200 MB
-Internet : must be
+Root     : NO ROOT  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/reception-4.svg"/>
+Storage  : 2200 MB  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/>
+Internet : must be  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/wifi.svg"/>
 ```
 #### Okay let's go installing! If it shows Are you rooted? Then ignore it!
 ---------
