@@ -212,7 +212,7 @@ figlet -f block  AND  toilet -f block
 <details id="missing-code-coverage">
    <summary>Потрібна Допомога</summary>
 
-#### Тебе нужна допомога? Напиши мнё на: misakorzik528@gmail.com
+#### Тебе нужна допомога? Напиши мнё на: miguardzecurity@gmail.com 
 #### И я розгляну ваш лист та проблему!
 
 ```
