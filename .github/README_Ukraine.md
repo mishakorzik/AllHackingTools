@@ -214,7 +214,6 @@ figlet -f block  AND  toilet -f block
 
 ```
  Електронні листи:
-  misakorzik528@gmail.com
   miguardzecurity@gmail.com
 
  Розробник:
