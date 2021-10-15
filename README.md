@@ -64,7 +64,7 @@
 
 ---
 <a id="installing"></a>
-## Installing <img width="2.4%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/>
+## Installing <img width="2.5%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/>
 
 ```
 #Add your termux permision
@@ -219,7 +219,7 @@ figlet -f block  AND  toilet -f block
 <details id="missing-code-coverage">
   <summary>Need Help</summary>
 
-#### Do you need help? Write me on: miguardzecurity@gmail.com  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
+#### Do you need help? Write me on: miguardzecurity@gmail.com  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
 #### And I will consider your letter and problem!
 
 ```bash
