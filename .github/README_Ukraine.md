@@ -374,7 +374,6 @@ Build:
 * `bash Uninstall/Uninstall.sh`
 
 ------
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/mishakorzik/)](https://github.com/mishakorzik/)
 
 ## Запусти AllHackingTool для злому!
 #### msdconsole & msdc
