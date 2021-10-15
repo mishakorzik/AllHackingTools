@@ -64,7 +64,7 @@
 
 ---
 <a id="installing"></a>
-## Installing <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/>
+## Installing <img width="2.4%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/>
 
 ```
 #Add your termux permision
@@ -237,7 +237,7 @@ If the tool fails, follow these steps:
    in detail
 
 2. Contact me through the following 
-   email: miguardzecurity@gmail.com  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
+   email: miguardzecurity@gmail.com  <img width="1.7%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
 
 3. Submit the screenshot and explain 
    your problem with that error
@@ -359,9 +359,9 @@ Desing:
 ## Dependencies
 #### If all this is then you can download!
 
-**Root     : NO ROOT**  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/terminal-fill.svg"/> <br>
-**Storage  : 2200 MB**  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/> <br>
-**Internet : must be**  <img width="1.3%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/wifi.svg"/> <br>
+**Root     : NO ROOT**  <img width="1.7%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/terminal-fill.svg"/> <br>
+**Storage  : 2200 MB**  <img width="1.7%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/> <br>
+**Internet : must be**  <img width="1.7%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/wifi.svg"/> <br>
 
 #### Okay let's go installing! If it shows Are you rooted? Then ignore it!
 ---------
