@@ -39,7 +39,7 @@
 ------------------------------
 > If you do not understand anything then there is a [translate](#Translate).
 
-## New features:
+## New features:  <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/code-slash.svg"/>
 
 **1) New Tools And functions**
 - New tools for penetration testing. And many new opportunities.
@@ -91,7 +91,7 @@ Done, everything is ready! Wait until you can write to the terminal.**
 
 <a id="viewmenu"></a>
 #### Run command to start AllHackingTools: msdconsole
-## AllHackingTool Menu:  <img width="2.5%" src=""/>
+## AllHackingTool Menu:  <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/aspect-ratio-fill.svg"/>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Information Gathering</a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Exploitation Tools</a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Sniffing and Spoofing</a>
