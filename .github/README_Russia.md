@@ -404,21 +404,14 @@ Desing:
 
 ## Рекомендую посмотреть
 
-1.<a href="https://github.com/mishakorzik/qiq">qiq - Useful batch installer</a>
-
-2.<a href="https://github.com/mishakorzik/Gmail-Hack">Gmail-Hack - Easy email hacking</a>
-
-3.<a href="https://github.com/mishakorzik/AdminHack">AdminHack - Hacking bad sites</a>
-
-4.<a href="https://github.com/mishakorzik/Infect">Infect - Easy virus creation</a>
-
-5.<a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy - Lots of free proxy servers</a>
-
-6.<a href="https://github.com/mishakorzik/IpHack">IpHack - Easy Tracking smartphones</a>
-
-7.<a href="https://github.com/mishakorzik/UserFinder">UserFinder - Find users in social</a>
-
-8.<a href="https://github.com/mishakorzik/Ultra-DDos">Ultra-DDos - Hing ddos bad sites</a>
+1.<a href="https://github.com/mishakorzik/qiq">qiq - Useful batch installer</a> <br>
+2.<a href="https://github.com/mishakorzik/Gmail-Hack">Gmail-Hack - Easy email hacking</a> <br>
+3.<a href="https://github.com/mishakorzik/AdminHack">AdminHack - Hacking bad sites</a> <br>
+4.<a href="https://github.com/mishakorzik/Infect">Infect - Easy virus creation</a> <br>
+5.<a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy - Lots of free proxy servers</a> <br>
+6.<a href="https://github.com/mishakorzik/IpHack">IpHack - Easy Tracking smartphones</a> <br>
+7.<a href="https://github.com/mishakorzik/UserFinder">UserFinder - Find users in social</a> <br>
+8.<a href="https://github.com/mishakorzik/Ultra-DDos">Ultra-DDos - Hing ddos bad sites</a> <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mishakorzik&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
 
