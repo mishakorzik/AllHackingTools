@@ -91,7 +91,7 @@ Done, everything is ready! Wait until you can write to the terminal.**
 
 <a id="viewmenu"></a>
 #### Run command to start AllHackingTools: msdconsole
-## AllHackingTool Menu:
+## AllHackingTool Menu:  <img width="2.5%" src=""/>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Information Gathering</a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Exploitation Tools</a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Sniffing and Spoofing</a>
@@ -387,7 +387,7 @@ Desing:
 
 ---
 
-## Screanshot
+## Screanshot <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/card-image.svg"/>
 #### view a screanshot for AllHackingTools
 <br>
 <p align="center">
