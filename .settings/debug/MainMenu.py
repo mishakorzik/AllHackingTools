@@ -124,7 +124,7 @@ elif(op==45):
 elif(op==47):
  os.system("cd && cd AllHackingTools && cd src && rm -rf AnimationLoad1.sh && rm -rf AnimationLoad2.sh && cd && cd AllHackingTools && cd .settings && cd debug && cp AnimationLoad1.sh /data/data/com.termux/files/home/AllHackingTools/src && cp AnimationLoad2.sh /data/data/com.termux/files/home/AllHackingTools/src") 
 elif(op==46):
- os.system("cd && cd AllHackingTools && folder") 
+ os.system("cd && cd AllHackingTools && ./folder") 
 elif(op==22):
  os.system("clear && cd && cd AllHackingTools && bash Logo.sh")
  print("\033[1;31;40mExiting System...")
