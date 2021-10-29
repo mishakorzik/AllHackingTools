@@ -3,6 +3,13 @@ r="\033[1;31m"
 b="\033[1;34m"
 w="\033[0m"
 
+pwd
+cd 
+cd 
+cd ..
+cd usr
+mkdir AllHackingTools
+
 cd
 cd 
 cd AllHackingTools
