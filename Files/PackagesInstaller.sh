@@ -278,8 +278,8 @@ pip install progressbar
 pip2 install future
 pip install future
 pip2 install colorama
-python3 -m pip install smtplib
-pip install smtplib
+python3 -m pip install smtp
+pip install smtp
 pip install flask
 pip2 install flask_socketio
 pip install flask_socketio
