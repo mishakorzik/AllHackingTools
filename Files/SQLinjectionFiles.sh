@@ -6,8 +6,8 @@ cd AllHackingTools
 git clone https://github.com/ZechBron/zVirus-Gen
 cd zVirus-Gen
 pkg install git -y
-pkg install wget -y
-pkg install curl -y
+chmod +x setup.sh
+./setup.sh
 cd
 cd
 cd AllHackingTools
