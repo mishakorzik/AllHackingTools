@@ -15,9 +15,8 @@ print("  \033[1;34m[ 05 ] >> \033[1;36;40mAres-Bomb - medium Ares-bomber")
 print("  \033[1;34m[ 06 ] >> \033[1;36;40mTBomb - Is SMS And Call Bomber")
 print("  \033[1;34m[ 07 ] >> \033[1;36;40mDuploBomber - Private SMS-Bomber")
 print("  \033[1;34m[ 08 ] >> \033[1;36;40mEmailPySpam - A python 3+ program to spam emails")
-print("  \033[1;34m[ 09 ] >> \033[1;36;40mAnonymousSMS - send free anonymous sms")
-print("  \033[1;34m[ 10 ] >> \033[1;36;40mExit System - log out AllHackingTools")
-print("  \033[1;34m[ 11 ] >> \033[1;36;40mBack To MainMenu")
+print("  \033[1;34m[ 09 ] >> \033[1;36;40mExit System - log out AllHackingTools")
+print("  \033[1;34m[ 10 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("SpymER: "))
 
@@ -46,13 +45,10 @@ elif(op==8):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd emailpyspam && cd main && python3 emailspam.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==9):
- os.system("clear")
- os.system("cd && cd AllHackingTools && cd anonymousSMS && bash Start.sh && cd && cd AllHackingTools && python2 MainMenu.py")
-elif(op==10):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
  sys.exit()
-elif(op==11):
+elif(op==10):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("python2 MainMenu.py")
