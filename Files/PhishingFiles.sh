@@ -51,12 +51,6 @@ chmod u+x ISeeYou.sh
 cd
 cd 
 cd AllHackingTools
-git clone https://github.com/DarkSecDevelopers/HiddenEye.git
-chmod 777 HiddenEye
-cd HiddenEye
-cd
-cd
-cd AllHackingTools
 git clone https://github.com/An0nUD4Y/blackeye
 cd
 cd
