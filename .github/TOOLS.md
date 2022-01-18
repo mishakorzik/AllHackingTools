@@ -86,7 +86,6 @@
 - <a href="https://github.com/htr-tech/zphisher.git">Zphisher</a>
 - <a href="https://github.com/AbirHasan2005/ShellPhish">ShellPhish</a>
 - <a href="https://github.com/hangetzzu/saycheese">Saycheese</a>
-- <a href="https://github.com/iinc0gnit0/BlackPhish">BlackPhish</a>
 - <a href="https://github.com/mishakorzik/Mask-Phish.Termux">Mask-Phish</a>
 - <a href="https://github.com/thewhiteh4t/seeker.git">Seeker</a>
 - <a href="https://github.com/DeepSociety/AIOPhish">AIOPhish</a>
@@ -111,7 +110,6 @@
 - <a href="https://github.com/s0md3v/XSStrike">XSStrike</a>
 
 ## Other Tools
-- <a href="https://github.com/tuhin1729/ProxyGen.git">ProxyGen</a>
 - <a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy</a>
 
 ## Supporters
