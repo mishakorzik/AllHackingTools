@@ -86,6 +86,23 @@ cd .logs
 pip freeze > requirements.txt
 cd
 cd
+cd /data/data/com.termux/files/usr/bin
+chmod +x msdc
+chmod +x msdconsole
+chmod +x msdconsoleUPD
+chmod +x standart
+chmod +x edit
+chmod +x Theme
+chmod +x theme
+chmod +x m
+chmod +x ms
+chmod +x msd
+chmod +x sys
+chmod +x system
+chmod +x msdServer
+chmod +x folder
+cd
+cd
 echo '
 ██████╗░░█████╗░███╗░░██╗███████╗
 ██╔══██╗██╔══██╗████╗░██║██╔════╝
