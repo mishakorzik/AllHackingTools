@@ -72,7 +72,14 @@
 
 #### Все готово! Зараз ми чекаємо, поки все завантажиться!
 
-* `Успіхів!`
+```bash
+#Безкоштовні ngrok токени:
+
+26bDGGPyD3XWVtyzK3dfK401oIq_74Wi1m84A7rv9bP5YnihG
+26bDzEjjfPls5kLHWGnG3K3voA7_69wkMBqUUExRHoA8v3gEL
+26bESCvhbagWfGrHSv4NpTnSCpI_92oE8UFimPxU4nBNMK5T
+26bEfSIlR1IcEEayMpRQlj0ttGw_3hrWetKnHZ4FMXc9hDt3Q
+```
 
 <a id="222"></a>
 
