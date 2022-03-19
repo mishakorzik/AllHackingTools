@@ -15,9 +15,7 @@ echo ""
 echo -e "$green[+]-[Internet Connection]............[ True ]"
 sleep 1.5
 echo -e "$default"
-apt install python 
 apt install python2 
-apt install pip
 apt install pip2
 pip install requests
 pip2 install requests
