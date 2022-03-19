@@ -32,7 +32,7 @@
 
 #### Тут на цих системах працює AllHackingTools
 
-## Інструмент протестовано на:
+## Протестовано на:
 
  * `Termux`
 
@@ -62,19 +62,13 @@
 ## Встановлення для termux
 
 * `termux-setup-storage`
-* `apt повне оновлення`
+* `apt full-upgrade`
 * `apt install git`
 * `git clone https://github.com/mishakorzik/AllHackingTools`
 * `cd AllHackingTools`
 * `bash Install.sh`
 
-## Встановлення для Linux
-
-* `apt upgrade`
-* `apt install git`
-* `git clone https://github.com/mishakorzik/AllHackingTools`
-* `cd AllHackingTools`
-* `bash Install.sh`
+**Якщо видає помилку при запуску команди, msdc: cd AllHackingTools && bash fix.sh**
 
 #### Все готово! Зараз ми чекаємо, поки все завантажиться!
 
