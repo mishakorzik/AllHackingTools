@@ -91,6 +91,15 @@ bash Install.sh
 **And when he writes a big rainbow button: 
 Done, everything is ready! Wait until you can write to the terminal.**
 
+```bash
+#Free Ngrok authtokens:
+
+26bDGGPyD3XWVtyzK3dfK401oIq_74Wi1m84A7rv9bP5YnihG
+26bDzEjjfPls5kLHWGnG3K3voA7_69wkMBqUUExRHoA8v3gEL
+26bESCvhbagWfGrHSv4NpTnSCpI_92oE8UFimPxU4nBNMK5T
+26bEfSIlR1IcEEayMpRQlj0ttGw_3hrWetKnHZ4FMXc9hDt3Q
+```
+
 <a id="viewmenu"></a>
 #### Run command to start AllHackingTools: msdconsole
 ## AllHackingTool Menu:  <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/aspect-ratio-fill.svg"/>
