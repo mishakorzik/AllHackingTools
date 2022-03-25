@@ -103,6 +103,14 @@ Done, everything is ready! Wait until you can write to the terminal.**
 26t7bQBRJiFnK74z35eLcPYJPXI_2cyAyXVcEAnMTV9eAaYZw
 ```
 
+```bash
+#configure ngrok
+ngrok authtoken <↖️ select free authtoken ↖️>
+
+#start ngrok
+ngrok http 80
+```
+
 <a id="viewmenu"></a>
 #### Run command to start AllHackingTools: msdconsole
 ## AllHackingTool Menu:  <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/aspect-ratio-fill.svg"/>
