@@ -93,7 +93,6 @@ Done, everything is ready! Wait until you can write to the terminal.**
 
 ```bash
 #Free Ngrok authtokens:
-
 26bDGGPyD3XWVtyzK3dfK401oIq_74Wi1m84A7rv9bP5YnihG
 26bDzEjjfPls5kLHWGnG3K3voA7_69wkMBqUUExRHoA8v3gEL
 26bESCvhbagWfGrHSv4NpTnSCpI_92oE8UFimPxU4nBNMK5T
