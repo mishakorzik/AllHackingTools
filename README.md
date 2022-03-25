@@ -105,7 +105,7 @@ Done, everything is ready! Wait until you can write to the terminal.**
 
 ```bash
 #configure ngrok
-ngrok authtoken <↖️ select free authtoken ↖️>
+ngrok authtoken <sеlеct free authtoken↖️>
 
 #start ngrok
 ngrok http 80
