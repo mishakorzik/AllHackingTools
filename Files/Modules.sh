@@ -126,7 +126,7 @@ Developer : mishakorzhik
 created on: 23 05 2021
 code      : python, bash, php
 '|lolcat -p 1.0
-echo -e $b"[^_^]"$w" AllHackingTools donate: "$g"https://www.donationalerts.com/r/misha_korzhik"$w
+echo -e $b"[^_^]"$w" AllHackingTools donate: "$g"https://www.buymeacoffee.com/misakorzik"$w
 echo -e $b"[^_^]"$w" SuccesFull Installed: "$g"AllHackingTools"$w
 echo -e $b"[^_^]"$w" Run Command to Start Tool: "$g"msdc & msdconsole"$w
 echo -e $b"[^_^]"$w" Command to Update Tool: "$g"msdconsoleUPD"$w
