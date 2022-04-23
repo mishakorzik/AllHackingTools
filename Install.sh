@@ -13,7 +13,6 @@ ping -c 1 google.com > /dev/null 2>&1
 if [[ "$?" == 0 ]]; then
 echo ""
 echo -e "$green[+]-[Internet Connection]............[ True ]"
-pkg install openssl-tool
 sleep 1.5
 echo -e "$default"
 apt install python
