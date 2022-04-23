@@ -67,11 +67,12 @@
 ## Installing <img width="2.5%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/>
 
 ```
+#Upgrade all & full packages
+apt update
+apt upgrade
+
 #Add your termux permision
 termux-setup-storage
-
-#Upgrade all & full packages
-apt full-upgrade
 
 #Install package git
 apt install git
