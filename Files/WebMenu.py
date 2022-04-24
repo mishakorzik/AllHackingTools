@@ -14,9 +14,9 @@ print("  \033[1;34m[ 04 ] >> \033[1;36;40mSqlMap - SQL injection and database ta
 print("  \033[1;34m[ 05 ] >> \033[1;36;40mWebSploit - An advanced MiTM Framework")
 print("  \033[1;34m[ 06 ] >> \033[1;36;40mSqlmate - A friend of SQLmap which will do what you always expected from SQLmap")
 print("  \033[1;34m[ 07 ] >> \033[1;36;40mSH33LL - A Easy Shell scanner")
-print("  \033[1;34m[ 08 ] >> \033[1;36;40mUltraDDos - Tool for ddos web sites")
-print("  \033[1;34m[ 09 ] >> \033[1;36;40mExit System - log out AllHackingTools")
-print("  \033[1;34m[ 10 ] >> \033[1;36;40mBack To MainMenu")
+print("  \033[1;34m[ 09 ] >> \033[1;36;40mUltraDDos - Tool for ddos web sites")
+print("  \033[1;34m[ 10 ] >> \033[1;36;40mExit System - log out AllHackingTools")
+print("  \033[1;34m[ 11 ] >> \033[1;36;40mBack To MainMenu")
 
 
 op=int(raw_input("Web-Hack1Ng: "))
@@ -44,12 +44,15 @@ elif(op==7):
  os.system("cd && cd AllHackingTools && cd SH33LL && python2 sh33l.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==8):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Ultra-DDos && python2 main.py && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && cd py-ddoser && python ddos.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==9):
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && cd Ultra-DDos && python2 main.py && cd && cd AllHackingTools && python2 MainMenu.py")
+elif(op==10):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
  sys.exit()
-elif(op==10):
+elif(op==11):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("python2 MainMenu.py")
