@@ -38,7 +38,7 @@
 - <a href="https://github.com/websploit/websploit.git">WebSploit</a>
 - <a href="https://github.com/LOoLzeC/SH33LL">SH33LL</a>
 - <a href="https://github.com/s0md3v/sqlmate">SqlMate</a>
-- <a href="https://github.com/ultrasecurity/webkiller.git">WebKiller</a>
+- <a href="https://github.com/mishakorzik/py-ddoser">PyDDoser</a>
 - <a href = "https://github.com/mishakorzik/Ultra-DDos">Ultra-DDos</a>
 
 ## Cam Hacking Tools
