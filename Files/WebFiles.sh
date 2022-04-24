@@ -46,9 +46,9 @@ cd
 cd
 cd AllHackingTools
 git clone https://github.com/mishakorzik/py-ddoser
-pip3 install fake_headers
+python3 -m pip install fake_headers
 pip3 install colorama
-pip3 install click
+python3 -m pip install click
 pip install fake_headers
 pip install colorama
 pip install click
