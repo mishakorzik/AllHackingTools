@@ -44,6 +44,7 @@ cd sqlmate
 pip install -r requirements.txt
 cd
 cd
+cd AllHackingTools
 git clone https://github.com/mishakorzik/py-ddoser
 pip3 install fake_headers
 pip3 install colorama
