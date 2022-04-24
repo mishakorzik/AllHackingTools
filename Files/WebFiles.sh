@@ -45,12 +45,6 @@ pip install -r requirements.txt
 cd
 cd
 cd AllHackingTools
-git clone https://github.com/ultrasecurity/webkiller.git
-cd webkiller
-pip3 install -r requirments.txt
-cd
-cd
-cd AllHackingTools
 git clone https://github.com/mishakorzik/Ultra-DDos
 cd
 cd 
