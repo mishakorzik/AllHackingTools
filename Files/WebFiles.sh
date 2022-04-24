@@ -44,6 +44,15 @@ cd sqlmate
 pip install -r requirements.txt
 cd
 cd
+git clone https://github.com/mishakorzik/py-ddoser
+pip3 install fake_headers
+pip3 install colorama
+pip3 install click
+pip install fake_headers
+pip install colorama
+pip install click
+cd
+cd
 cd AllHackingTools
 git clone https://github.com/mishakorzik/Ultra-DDos
 cd
