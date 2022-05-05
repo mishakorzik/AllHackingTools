@@ -21,9 +21,7 @@
 
 ---------------------
 
-#### Hi, if you want to set up a termux quickly, here you are! More Hacking tools with one tool!
-
-> Я не несу ответственности за ваши действия. Скачивая программное обеспечение из этого репозитория, вы соглашаетесь с [лицензией](https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE).
+#### Hi, if you want to set up a termux quickly(https://github.com/arv/AllHackingTools/blob/main/LICENSE).
 
 ---------
 ## Supported systems
@@ -34,12 +32,12 @@
 **Here on these systems works AllHackingTools** <br>
 ## Tool tested on:
 
-<a href="https://github.com/mishakorzik"><img title="Termux" src="https://img.shields.io/badge/Tested on-Termux-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/arv"><img title="Termux" src="https://img.shields.io/badge/Tested on-Termux-blue?style=for-the-badge&logo=github"></a>
 
 ------------------------------
 > If you do not understand anything then there is a [translate](#Translate).
 
-## New features:  <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/code-slash.svg"/>
+## New features:  <img width="2.1%" src="https://raw.githubusercontent.com/arv/arv.menu.io/master/img/other/code-slash.svg"/>
 
 **1) New Tools And functions**
 - New tools for penetration testing. And many new opportunities.
@@ -64,7 +62,7 @@
 
 ---
 <a id="installing"></a>
-## Installing <img width="2.5%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/>
+## Installing <img width="2.5%" src="https://raw.githubusercontent.com/arv/arv.menu.io/master/img/other/download.svg"/>
 
 ```
 #Upgrade all & full packages
@@ -78,7 +76,7 @@ termux-setup-storage
 apt install git
 
 #clone this repository
-git clone https://github.com/mishakorzik/AllHackingTools
+git clone https://github.com/arv/AllHackingTools
 
 #cd to directory allhackingtools
 cd AllHackingTools
@@ -242,7 +240,7 @@ figlet -f block  AND  toilet -f block
 <details id="missing-code-coverage">
   <summary>Need Help</summary>
 
-#### Do you need help? Write me on: developer.mishakorzhik@gmail.com  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
+#### Do you need help? Write me on: developer.arvnithin@gmail.com  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
 #### And I will consider your letter and problem!
 
 ```bash
@@ -260,7 +258,7 @@ If the tool fails, follow these steps:
    in detail
 
 2. Contact me through the following 
-   email: developer.mishakorzhik@gmail.com  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
+   email: developer.arvnithin.amma@gmail.com  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
 
 3. Submit the screenshot and explain 
    your problem with that error
@@ -406,7 +404,7 @@ Desing:
 ## Donate
 
 **If you want to donate, click on the button**
-<a href="https://www.buymeacoffee.com/misakorzik"><img title="Donate" src="https://img.shields.io/badge/Donate-AllHackingTools-yellow?style=for-the-badge&logo=github"></a>
+<a href="https://www.buymeacoffee.com/arv"><img title="Donate" src="https://img.shields.io/badge/Donate-AllHackingTools-yellow?style=for-the-badge&logo=github"></a>
 
 ---
 
@@ -414,10 +412,10 @@ Desing:
 #### view a screanshot for AllHackingTools
 <br>
 <p align="center">
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212422.jpg"/> 
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144718.jpg"/> 
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212448.jpg"/> 
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144658.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/arv/arv.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212422.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/arv/arv.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144718.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/arv/arv.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212448.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/arv/arv.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144658.jpg"/> 
 </p>
 
 -----
@@ -436,9 +434,9 @@ Desing:
 <a id="Translate"></a>
 ## Translate
 
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Ukraine.md"><img title="Unkraine" src="https://img.shields.io/badge/Translate%20to-Ukraine-inactive?style=for-the-badge&logo=google-translate"></a>
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Russia.md"><img title="Russian" src="https://img.shields.io/badge/Translate%20to-Russian-inactive?style=for-the-badge&logo=google-translate"></a>
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Spanish.md"><img title="Spanish" src="https://img.shields.io/badge/Translate%20to-Spanish-inactive?style=for-the-badge&logo=google-translate"></a>
+<a href="https://github.com/arv/AllHackingTools/blob/main/.github/README_English.md"><img title="English" src="https://img.shields.io/badge/Translate%20to-English-inactive?style=for-the-badge&logo=google-translate"></a>
+<a href="https://github.com/arv/AllHackingTools/blob/main/.github/README_Singapore.md"><img title="Singapore" src="https://img.shields.io/badge/Translate%20to-Singapore-inactive?style=for-the-badge&logo=google-translate"></a>
+<a href="https://github.com/arv/AllHackingTools/blob/main/.github/README_Nepal.md"><img title="Nepal" src="https://img.shields.io/badge/Translate%20to-Nepal-inactive?style=for-the-badge&logo=google-translate"></a>
 </p>
 
 ## Find Me 
@@ -450,14 +448,14 @@ Desing:
 
 ## I recommend watching
 
-1.<a href="https://github.com/mishakorzik/qiq">qiq - Useful batch installer</a> <br>
-2.<a href="https://github.com/mishakorzik/Gmail-Hack">Gmail-Hack - Easy email hacking</a> <br>
-3.<a href="https://github.com/mishakorzik/AdminHack">AdminHack - Hacking bad sites</a> <br>
-4.<a href="https://github.com/mishakorzik/Infect">Infect - Easy virus creation</a> <br>
-5.<a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy - Lots of free proxy servers</a> <br>
-6.<a href="https://github.com/mishakorzik/IpHack">IpHack - Easy Tracking smartphones</a> <br>
-7.<a href="https://github.com/mishakorzik/UserFinder">UserFinder - Find users in social</a> <br>
-8.<a href="https://github.com/mishakorzik/Ultra-DDos">Ultra-DDos - Hing ddos bad sites</a> <br>
+1.<a href="https://github.com/arv/qiq">qiq - Useful batch installer</a> <br>
+2.<a href="https://github.com/arv/Gmail-Hack">Gmail-Hack - Easy email hacking</a> <br>
+3.<a href="https://github.com/arv/AdminHack">AdminHack - Hacking bad sites</a> <br>
+4.<a href="https://github.com/arv/Infect">Infect - Easy virus creation</a> <br>
+5.<a href="https://github.com/arv/Free-Proxy">Free-Proxy - Lots of free proxy servers</a> <br>
+6.<a href="https://github.com/arv/IpHack">IpHack - Easy Tracking smartphones</a> <br>
+7.<a href="https://github.com/arv/UserFinder">UserFinder - Find users in social</a> <br>
+8.<a href="https://github.com/arv/Ultra-DDos">Ultra-DDos - Hing ddos bad sites</a> <br>
 
 #### Here are the repositories that I recommend you look at. below are people who liked and forked the repository
 
@@ -465,9 +463,9 @@ Desing:
 
 <img src="https://github-readme-stats.vercel.app/api?username=mishakorzik&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
 
-###### Статья носит исследовательский характер. Она адресована специалистам по безопасности и тем, кто собирается ими стать. При ее написании использовались общедоступные базы данных. Ни редакция, ни автор не несут ответственности за неэтичное использование любых упомянутых здесь сведений. Team: He1Zen
+
 
 ## Supporters
-[![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
-[![Forkers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/forks/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/members)
+[![Stargazers repo roster for @arv/AllHackingTools](https://reporoster.com/stars/arv/AllHackingTools)](https://github.com/arv/AllHackingTools/stargazers)
+[![Forkers repo roster for @arv/AllHackingTools](https://reporoster.com/forks/arv/AllHackingTools)](https://github.com/arv/AllHackingTools/members)
 
