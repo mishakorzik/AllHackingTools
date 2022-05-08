@@ -19,15 +19,19 @@ op=int(raw_input("D1sc0Rd: "))
 if(op==1):
  print("Go to the site and enter the ID of the user you want to track.")
  print("website: https://discordleaks.unicornriot.ninja/discord/users")
+ os.system("cd && cd AllHackingTools && python src/Timer1.py && python2 MainMenu.py")
 elif(op==2):
  print("Go to the site and enter the ID of the user you want to track.")
  print("website: https://discordhub.com/user/search")
+ os.system("cd && cd AllHackingTools && python src/Timer1.py && python2 MainMenu.py")
 elif(op==3):
  print("Go to the site and enter the ID of the user you want to track.")
  print("website: https://discord.id/")
+ os.system("cd && cd AllHackingTools && python src/Timer1.py && python2 MainMenu.py")
 elif(op==4):
  print("Go to the site and enter the ID of the user you want to track.")
  print("website: https://dht.chylex.com/")
+ os.system("cd && cd AllHackingTools && python src/Timer1.py && python2 MainMenu.py")
 elif(op==5):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
