@@ -87,25 +87,33 @@ elif(op==15):
 elif(op==16):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python3 .check/OtherToolConfig.py")
+ os.system("cd && cd AllHackingTools && python2 Files/discordMenu.py")
 elif(op==17):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python3 .check/TermuxPanelConfig1.py")
+ os.system("cd && cd AllHackingTools && python2 Files/telegramMenu.py")
 elif(op==18):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python2 .settings/settingsMenu1.py")
+ os.system("cd && cd AllHackingTools && python3 .check/OtherToolConfig.py")
 elif(op==19):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("clear && cd && cd AllHackingTools && bash .settings/LICENSE.sh && cd && cd AllHackingTools && python3 src/Timer2.py && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && python3 .check/TermuxPanelConfig.py")
 elif(op==20):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.3)
+ os.system("cd && cd AllHackingTools && python2 .settings/settingsMenu.py")
+elif(op==21):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.3)
+ os.system("clear && cd && cd AllHackingTools && bash .settings/LICENSE.sh && cd && cd AllHackingTools && python3 src/Timer2.py && python2 MainMenu.py")
+elif(op==22):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  time.sleep(1)
  os.system("cd && cd AllHackingTools && python3 .check/UpdaterConfig.py")
-elif(op==21):
+elif(op==23):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  os.system("bash src/About.sh")
@@ -114,8 +122,9 @@ elif(op==13324715):
  time.sleep(0.8)
  os.system("cd && cd AllHackingTools && cd .settings && mv DesingLogo.py /data/data/com.termux/files/home/AllHackingTools/.temp/ && mv DesingMenu.py /data/data/com.termux/files/home/AllHackingTools/.temp/")
  print("[DEBUG] Please restart AllHackingTools!")
- os.system("cd && cd AllHackingTools && rm -rf MainMenu.py && cd .settings && cd debug && cp MainMenu.py /data/data/com.termux/files/home/AllHackingTools/")
-elif(op==22):
+ os.system("cd && cd AllHackingTools && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/.temp/temp && cd .settings && cd debug && cp MainMenu.py /data/data/com.termux/files/home/AllHackingTools/")
+ print("[DEBUG] Warning! Customization has been disabled.")
+elif(op==24):
  os.system("clear && cd && cd AllHackingTools && bash Logo.sh")
  print("\033[1;31;40mExiting System...")
  time.sleep(0.7)
