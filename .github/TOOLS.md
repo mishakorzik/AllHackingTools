@@ -69,7 +69,6 @@
 
 ## SMS spaming tools
 - <a href="https://github.com/3UMOBKA/SMS-Bomber-300-Free">SMS-Bomber-300-Free</a>
-- <a href="https://github.com/anubhavanonymous/XLR8_BOMBER">XLR8_BOMBER</a>
 - <a href="https://github.com/MaksPV/AresBomb">AresBomb</a>
 - <a href="https://github.com/HACK3RY2J/Anon-SMS.git">Anon-SMS</a>
 - <a href="https://github.com/FSystem88/spymer">Spymer</a>
@@ -86,7 +85,6 @@
 - <a href="https://github.com/josh0xA/darkdump">DarkDump</a>
 
 ## Phishing And IpHack
-- <a href="https://github.com/Bhaviktutorials/shark">Shark</a>
 - <a href="https://github.com/htr-tech/zphisher.git">Zphisher</a>
 - <a href="https://github.com/AbirHasan2005/ShellPhish">ShellPhish</a>
 - <a href="https://github.com/hangetzzu/saycheese">Saycheese</a>
