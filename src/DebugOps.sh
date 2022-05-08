@@ -15,14 +15,16 @@ echo '
   [13] >> Passworld Attack:  -  Utilities for cracking passwords        ~ /AllHackingTools/Files
   [14] >> Wordlist Generator:  -  Tools for Genering Worldlist         ~ /AllHackingTools/Files
   [15] >> XSS Attack Tools:  -  Utilities for Attacking XSS           ~ /AllHackingTools/Files
+  [16] >> DiscordMenu:
+  [17] >> TelegramMenu:
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣ 
-  [16] >> Other tools:  -  Separate and other tools for hacking      ~ /AllHackingTools/.check
-  [17] >> Terminal Panel:  -  Termux control and special features    ~ /AllHackingTools/.check
-  [18] >> System Settings:  -  AllHackingTools control and features   ~ /AllHackingTools/.settings
-  [19] >> System License:  -  View the license in AllHackingTools     ~ /AllHackingTools/.settings 
-  [20] >> Update System:  -  Update system and all tools & menu       ~ /AllHackingTools/.check  
-  [21] >> About System:  -  View system information and developer    ~ /AllHackingTools/src 
-  [22] >> Exit System:  -  Log out of the AllHackingTools system    ~ /AllHackingTools/  
+  [18] >> Other tools:  -  Separate and other tools for hacking      ~ /AllHackingTools/.check
+  [19] >> Terminal Panel:  -  Termux control and special features    ~ /AllHackingTools/.check
+  [20] >> System Settings:  -  AllHackingTools control and features   ~ /AllHackingTools/.settings
+  [21] >> System License:  -  View the license in AllHackingTools     ~ /AllHackingTools/.settings 
+  [22] >> Update System:  -  Update system and all tools & menu       ~ /AllHackingTools/.check  
+  [23] >> About System:  -  View system information and developer    ~ /AllHackingTools/src 
+  [24] >> Exit System:  -  Log out of the AllHackingTools system    ~ /AllHackingTools/  
 
   [000]————{ DEBUG | DEVELOPER } Misha Korzhik
   [041] >> Edit MainMenu; - edit MainMenu             (WARNING)    ~ /AllHackingTools/     
