@@ -1,5 +1,6 @@
 apt-get install git
 apt-get install python
+python3 -m pip install wfuzz
 cd
 cd 
 cd AllHackingTools
