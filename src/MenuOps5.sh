@@ -30,16 +30,19 @@ echo '
   [13] >> Passworld Attack:    -  Utilities for cracking passwords
   [14] >> Wordlist Generator:  -  Tools for Genering Worldlist
   [15] >> XSS Attack Tools:  -  Utilities for Attacking XSS
+  [16] >> Discord leaks:   - Discord mass users information
+  [17] >> Telegram Info: - Mass Telegram users information
+
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣
-  [16] >> Other tools: 
+  [18] >> Other tools: 
    ├ Separate and other tools for hacking
-  [17] >> Terminal Panel: 
+  [19] >> Terminal Panel: 
    ├ Termux control and special features
   [SKIP]┐
-      ┌[18] >> System Settings:  -  AllHackingTools control and special features
-      │[19] >> System License:  -  View the license in AllHackingTools
-  [-]─┘[20] >> Update System:  -  Update system and all tools & menu 
-       [21] >> About System:  -  View system information and developer
-       [22] >> Exit System:  -  Log out of the AllHackingTools system 
-       [23] >> Log Out Terminal  -  Log out in AllHackingTools And Terminal'|lolcat -p 4.6
+      ┌[20] >> System Settings:  -  AllHackingTools control and special features
+      │[21] >> System License:  -  View the license in AllHackingTools
+  [-]─┘[22] >> Update System:  -  Update system and all tools & menu 
+       [23] >> About System:  -  View system information and developer
+       [24] >> Exit System:  -  Log out of the AllHackingTools system 
+       [25] >> Log Out Terminal  -  Log out in AllHackingTools And Terminal'|lolcat -p 4.6
 
