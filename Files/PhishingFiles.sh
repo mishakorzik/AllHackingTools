@@ -4,11 +4,6 @@ apt-get install npm
 pip install pyngrok
 pip install pgrep
 cd
-cd AllHackingTools
-git clone https://github.com/Bhaviktutorials/shark
-cd shark
-chmod +x *
-./setup
 cd
 cd AllHackingTools
 git clone https://github.com/htr-tech/zphisher.git
