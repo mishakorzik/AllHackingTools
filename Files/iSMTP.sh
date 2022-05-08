@@ -9,7 +9,7 @@ cd AllHackingTools
 clear
 python2 ismtp.py
 echo "Please enter all your required settings to run the program."
-echo -e $b">>>"$w"Console/> "$g"iSMTP"$w
+echo -e $b">>>"$w" Consoler "$g"iSMTP"$w
 read opt
 sleep 0.1
 python2 ismtp.py $opt
