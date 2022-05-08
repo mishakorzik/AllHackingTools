@@ -16,6 +16,8 @@ rm -rf Help
 rm -rf Themes
 rm -rf Uninstall
 rm -rf Termux-os
+cd
+cd
 git clone https://github.com/mishakorzik/Termux-Setting
 cd Termux-Setting
 mv .check /data/data/com.termux/files/home/AllHackingTools
