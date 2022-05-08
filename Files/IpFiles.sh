@@ -73,7 +73,10 @@ git clone https://github.com/mishakorzik/IpHack
 cd 
 cd
 cd AllHackingTools
-
+git clone https://github.com/sullo/nikto
+cd 
+cd
+cd AllHackingTools
 
 
 
