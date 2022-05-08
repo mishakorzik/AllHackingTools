@@ -41,7 +41,8 @@
 - <a href="https://github.com/LOoLzeC/SH33LL">SH33LL</a>
 - <a href="https://github.com/s0md3v/sqlmate">SqlMate</a>
 - <a href="https://github.com/mishakorzik/py-ddoser">PyDDoser</a>
-- <a href = "https://github.com/mishakorzik/Ultra-DDos">Ultra-DDos</a>
+- <a href="https://github.com/mishakorzik/Ultra-DDos">Ultra-DDos</a>
+- <a href="https://github.com/urbanadventurer/WhatWeb">WhatWeb</a>
 
 ## Cam Hacking Tools
 - <a href="https://github.com/AngelSecurityTeam/Cam-Hackers">Cam-Hackers</a>
