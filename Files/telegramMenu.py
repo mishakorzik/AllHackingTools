@@ -17,9 +17,11 @@ op=int(raw_input("D1sc0Rd: "))
 if(op==1):
  print("Go to the site and enter everything that is listed on the site")
  print("website: https://lyzem.com/")
+ os.system("cd && cd AllHackingTools && python src/Timer1.py && python2 MainMenu.py")
 elif(op==2):
  print("Go to the site and enter everything that is listed on the site")
  print("website: https://search.buzz.im")
+ os.system("cd && cd AllHackingTools && python src/Timer1.py && python2 MainMenu.py")
 elif(op==3):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
