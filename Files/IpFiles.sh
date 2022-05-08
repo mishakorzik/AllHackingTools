@@ -77,6 +77,9 @@ git clone https://github.com/sullo/nikto
 cd 
 cd
 cd AllHackingTools
+wget https://raw.githubusercontent.com/crunchsec/ismtp/master/ismtp.py
+cd
+cd
 
 
 
