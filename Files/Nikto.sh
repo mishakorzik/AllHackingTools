@@ -10,7 +10,7 @@ cd nikto/program
 clear
 ./nikto.pl
 echo "Please enter all your required settings to run the program, for example: -h https://www.example.com"
-echo -e $b">>>"$w"Console/> "$g"Nikto"$w
+echo -e $b">>>"$w" Consoler "$g"Nikto"$w
 read opt
 sleep 0.1
 ./nikto.pl $opt
