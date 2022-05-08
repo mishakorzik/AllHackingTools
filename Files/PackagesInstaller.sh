@@ -66,17 +66,6 @@ echo -e "$yellow[!][Installing Module Wget...]"
 apt install wget
 fi
 
-which jq > /dev/null 2>&1
-if [ "$?" -eq "0" ]; then
-echo -e "$green[+]-[Jq]..............................[ SUCCESFUL ]"
-sleep 1.5
-else
-echo -e "$red[-]-[Jq]...........................[ FAILED ]"
-sleep 1.5
-echo -e "$yellow[!][Installing Module Jq...]"
-apt install python
-fi
-
 which ruby > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
 echo -e "$green[+]-[Ruby]............................[ SUCCESFUL ]"
@@ -231,16 +220,6 @@ yellow='\e[0;33m'
 orange='\e[38;5;166m'
 green='\033[92m'
 
-cd
-cd
-if [ -f "ngrok" ]; then
-echo -e "$green[+]-[Ngrok].............................[ FOUND ]"
-sleep 1.5
-else
-echo -e "$red[-]-[Ngrok]........................[ NOT FOUND ]"
-sleep 0.2
-echo -e "$yellow[!]-[Downloading:Ngrok.............[ INSTALLING ]"
-sleep 1.2
 cd 
 cd
 cd AllHackingTools
