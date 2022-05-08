@@ -33,4 +33,4 @@ else:
  time.sleep(1.6)
  os.system("cd")
  os.system("cd AllHackingTools")
- os.system("python2 Files/telegramMenu.py"
+ os.system("python2 Files/telegramMenu.py")
