@@ -87,25 +87,33 @@ elif(op==15):
 elif(op==16):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python3 .check/OtherToolConfig.py")
+ os.system("cd && cd AllHackingTools && python2 Files/discordMenu.py")
 elif(op==17):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python3 .check/TermuxPanelConfig.py")
+ os.system("cd && cd AllHackingTools && python2 Files/telegramMenu.py")
 elif(op==18):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python2 .settings/settingsMenu2.py")
+ os.system("cd && cd AllHackingTools && python3 .check/OtherToolConfig.py")
 elif(op==19):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("clear && cd && cd AllHackingTools && bash .settings/LICENSE.sh && cd && cd AllHackingTools && python3 src/Timer2.py && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && python3 .check/TermuxPanelConfig.py")
 elif(op==20):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.3)
+ os.system("cd && cd AllHackingTools && python2 .settings/settingsMenu2.py")
+elif(op==21):
+ os.system("bash src/Inf.sh")
+ time.sleep(0.3)
+ os.system("clear && cd && cd AllHackingTools && bash .settings/LICENSE.sh && cd && cd AllHackingTools && python3 src/Timer2.py && python2 MainMenu.py")
+elif(op==22):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  time.sleep(1)
  os.system("cd && cd AllHackingTools && python3 .check/UpdaterConfig.py")
-elif(op==21):
+elif(op==23):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  os.system("bash src/About.sh")
@@ -125,15 +133,7 @@ elif(op==47):
  os.system("cd && cd AllHackingTools && cd src && rm -rf AnimationLoad1.sh && rm -rf AnimationLoad2.sh && cd && cd AllHackingTools && cd .settings && cd debug && cp AnimationLoad1.sh /data/data/com.termux/files/home/AllHackingTools/src && cp AnimationLoad2.sh /data/data/com.termux/files/home/AllHackingTools/src") 
 elif(op==46):
  os.system("cd && cd AllHackingTools && ./folder") 
-elif(op==60):
- os.system("bash src/Inf.sh")
- time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python2 Files/discordMenu.py")
-elif(op==61):
- os.system("bash src/Inf.sh")
- time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python2 Files/telegramMenu.py")
-elif(op==22):
+elif(op==24):
  os.system("clear && cd && cd AllHackingTools && bash Logo.sh")
  print("\033[1;31;40mExiting System...")
  time.sleep(0.7)
