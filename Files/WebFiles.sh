@@ -59,3 +59,9 @@ git clone https://github.com/mishakorzik/Ultra-DDos
 cd
 cd 
 cd AllHackingTools
+git clone https://github.com/urbanadventurer/WhatWeb
+cd WhatWeb
+bundle install
+cd 
+cd
+cd AllHackingTools
