@@ -7,8 +7,7 @@ cd AllHackingTools
 pip install -r requirements.txt
 pip install requests colorama
 git clone https://github.com/3UMOBKA/SMS-Bomber-300-Free
-cd AllHackingTools
-git clone https://github.com/anubhavanonymous/XLR8_BOMBER
+cd
 cd
 cd AllHackingTools
 git clone https://github.com/MaksPV/AresBomb
