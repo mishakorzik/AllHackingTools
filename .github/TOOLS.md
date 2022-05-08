@@ -13,6 +13,8 @@
 - <a href="https://github.com/s0md3v/ReconDog">ReconDog</a>
 - <a href="https://github.com/bibortone/D-Tech">D-Tech</a>
 - <a href="https://github.com/mishakorzik/IpHack">IpHack</a>
+- <a href="https://github.com/sullo/nikto">Nikto</a>
+- <a href="https://raw.githubusercontent.com/crunchsec/ismtp/master/ismtp.py">iSMTP</a>
 
 ## Exploitation Tools
 - <a href="https://www.github.com/threat9/routersploit">RouterSploit</a>
