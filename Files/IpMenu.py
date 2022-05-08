@@ -76,7 +76,7 @@ elif(op==14):
  os.system("cd && cd AllHackingTools && cd Files && bash IpHack.sh && python2 MainMenu.py")
 elif(op==15):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Files && bash Nikto.py && echo done! && sleep 3 && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && cd Files && bash Nikto.sh && echo done! && sleep 3 && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==16):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
