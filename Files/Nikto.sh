@@ -13,7 +13,7 @@ echo "Please enter all your required settings to run the program, for example: -
 echo -e $b">>>"$w"Console/> "$g"Nikto"$w
 read opt
 sleep 0.1
-./nikto.pl opt
+./nikto.pl $opt
 cd
 cd
 cd AllHackingTools
