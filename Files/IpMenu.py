@@ -23,8 +23,8 @@ print("  \033[1;34m[ 13 ] >> \033[1;36;40mWebKiller - Tool Information Gathering
 print("  \033[1;34m[ 14 ] >> \033[1;36;40mIpHack - Track Location With Live Address And City in Termux")
 print("  \033[1;34m[ 15 ] >> \033[1;36;40mNikto - Nikto web server scanner")
 print("  \033[1;34m[ 16 ] >> \033[1;36;40miSMTP - SMTP Server Tester")
-print("  \033[1;34m[ 17 ] >> \033[1;36;40mExit System - log out AllHackingTools")
-print("  \033[1;34m[ 18 ] >> \033[1;36;40mBack To MainMenu")
+print("  \033[1;34m[ 18 ] >> \033[1;36;40mExit System - log out AllHackingTools")
+print("  \033[1;34m[ 19 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("1nf0RmatI0n: "))
 
@@ -81,11 +81,14 @@ elif(op==15):
 elif(op==16):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd Files && bash iSMTP.sh && echo done! && sleep 3 && cd && cd AllHackingTools && python2 MainMenu.py")
-elif(op==17):
+ elif(op==17):
+ os.system("clear")
+ os.system("cd && cd AllHackingTools && cd MailFinder && python MailFinder.py && echo done! && sleep 3 && cd && cd AllHackingTools && python2 MainMenu.py")
+elif(op==18):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
  sys.exit()
-elif(op==18):
+elif(op==19):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("python2 MainMenu.py")
