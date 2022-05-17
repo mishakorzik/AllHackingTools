@@ -23,6 +23,7 @@ print("  \033[1;34m[ 13 ] >> \033[1;36;40mWebKiller - Tool Information Gathering
 print("  \033[1;34m[ 14 ] >> \033[1;36;40mIpHack - Track Location With Live Address And City in Termux")
 print("  \033[1;34m[ 15 ] >> \033[1;36;40mNikto - Nikto web server scanner")
 print("  \033[1;34m[ 16 ] >> \033[1;36;40miSMTP - SMTP Server Tester")
+print("  \033[1;34m[ 17 ] >> \033[1;36;40mMailFinder - OSINT tool for finding email by first and last name")
 print("  \033[1;34m[ 18 ] >> \033[1;36;40mExit System - log out AllHackingTools")
 print("  \033[1;34m[ 19 ] >> \033[1;36;40mBack To MainMenu")
 
