@@ -80,6 +80,11 @@ cd AllHackingTools
 wget https://raw.githubusercontent.com/crunchsec/ismtp/master/ismtp.py
 cd
 cd
+cd AllHackingTools
+git clone https://github.com/mishakorzik/MailFinder
+cd
+cd
+cd AllHackingTools
 
 
 
