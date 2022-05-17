@@ -73,7 +73,7 @@
 #### Все готово! Зараз ми чекаємо, поки все завантажиться!
 
 ```bash
-#Безкоштовні ngrok токени:
+#Free Ngrok authtokens:
 26bDGGPyD3XWVtyzK3dfK401oIq_74Wi1m84A7rv9bP5YnihG
 26bDzEjjfPls5kLHWGnG3K3voA7_69wkMBqUUExRHoA8v3gEL
 26bESCvhbagWfGrHSv4NpTnSCpI_92oE8UFimPxU4nBNMK5T
@@ -82,6 +82,14 @@
 26p4VZpnXIjsiDq9YizXvkk6UAK_4ZyVi8D2Q63yWCap4LBbF
 26p5O1vfFGLsdf9f8D3dzHAcmUv_454E7DaBz26mgs9yVkzQi
 26t7bQBRJiFnK74z35eLcPYJPXI_2cyAyXVcEAnMTV9eAaYZw
+```
+
+```bash
+#configure ngrok
+ngrok authtoken <↖️sеlеct free authtoken>
+
+#start ngrok
+ngrok http 80
 ```
 
 <a id="222"></a>
