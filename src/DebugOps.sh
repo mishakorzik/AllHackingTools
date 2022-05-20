@@ -15,8 +15,8 @@ echo '
   [13] >> Passworld Attack:  -  Utilities for cracking passwords        ~ /AllHackingTools/Files
   [14] >> Wordlist Generator:  -  Tools for Genering Worldlist         ~ /AllHackingTools/Files
   [15] >> XSS Attack Tools:  -  Utilities for Attacking XSS           ~ /AllHackingTools/Files
-  [16] >> DiscordMenu:
-  [17] >> TelegramMenu:
+  [16] >> DiscordMenu:      -  No description
+  [17] >> TelegramMenu:   - No description
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣ 
   [18] >> Other tools:  -  Separate and other tools for hacking      ~ /AllHackingTools/.check
   [19] >> Terminal Panel:  -  Termux control and special features    ~ /AllHackingTools/.check
