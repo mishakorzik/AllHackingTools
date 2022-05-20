@@ -1,5 +1,6 @@
-wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
-unzip ngrok-stable-linux-amd64.zip
-rm ngrok-stable-linux-amd64.zip
-chmod 755 ngrok
-mv ngrok /usr/bin/
+wget https://bin.equinox.io/a/e93TBaoFgZw/ngrok-2.2.8-linux-arm.zip > /dev/null 2>&1
+if [[ -e ngrok-2.2.8-linux-arm.zip ]]; then
+unzip ngrok-2.2.8-linux-arm.zip > /dev/null 2>&1
+rm -rf $HOME/.ngrok2 > /dev/null 2>&1
+chmod +x ngrok
+rm -rf ngrok-2.2.8-linux-arm.zip
