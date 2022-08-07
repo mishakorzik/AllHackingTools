@@ -4,6 +4,7 @@ G = '\033[32m'
 C = '\033[36m'
 W = '\033[0m' 
 
+from heconsole import console
 from shutil import which
 import time
 import os
@@ -24,6 +25,9 @@ if inst == False:
 else:
 	pass
 
+console.arrowLog(0, "depencues succesful checked")
+console.arrowInfo(2, "starting up")
+console.arrowInfo(1, "starting update checker")
 import csv
 import json
 import argparse
