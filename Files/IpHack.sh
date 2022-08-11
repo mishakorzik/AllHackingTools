@@ -7,14 +7,14 @@ clear
 cd
 cd AllHackingTools
 bash Logo.sh
-cd IpHack
+cd Files
 echo ""
 echo -e $b">>>"$w" Write the Ip Address: "$g"IpHack"$w
 read victimIP
 sleep 0.1
 echo -e $b">>>"$w" Please wait a moment: "$g"IpHack"$w
 sleep 0.6
-python IpHack.py -v $victimIP
+python IpHack.py -t $victimIP
 cd
 cd
 cd AllHackingTools
