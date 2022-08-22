@@ -13,7 +13,6 @@ os.system("clear")
 os.system("cd && cd AllHackingTools")
 os.system("bash Logo.sh")
 os.system("bash src/MenuOps.sh")
-os.system("python3 Files/get.py")
 
 Green="\033[1;33m"
 Blue="\033[1;34m"
