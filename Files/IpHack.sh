@@ -8,13 +8,7 @@ cd
 cd AllHackingTools
 bash Logo.sh
 cd Files
-echo ""
-echo -e $b">>>"$w" Write the Ip Address: "$g"IpHack"$w
-read victimIP
-sleep 0.1
-echo -e $b">>>"$w" Please wait a moment: "$g"IpHack"$w
-sleep 0.6
-python IpHack.py -t $victimIP
+python IpHack.py
 cd
 cd
 cd AllHackingTools
