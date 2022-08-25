@@ -69,7 +69,8 @@ git clone https://github.com/bibortone/D-Tech
 cd
 cd
 cd AllHackingTools
-git clone https://github.com/mishakorzik/IpHack
+pip install iphack
+pip3 install iphack
 cd 
 cd
 cd AllHackingTools
