@@ -21,11 +21,11 @@
 
 ---------------------
 
-#### Hi, if you want to set up a termux quickly, here you are! More Hacking tools with one tool! And when you install All Hacking Tools, your IP is automatically sent and it will never be shared with other people, it is created for logging and system status.
+#### Hi, if you want to set up a termux quickly, here you are! More Hacking tools with one tool!
+
+#### Free online chat for everyone <a href="https://9307-62-122-202-244.eu.ngrok.io/">JOIN</a>
 
 > Я не несу ответственности за ваши действия. Скачивая программное обеспечение из этого репозитория, вы соглашаетесь с [лицензией](https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE).
-
-Free online chat for everyone <a href=""><img title="Chat for" src="https://img.shields.io/badge/Chat-online-red?style=for-the-badge&logo=chat"></a>
 
 ---------
 ## Supported systems
