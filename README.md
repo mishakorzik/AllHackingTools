@@ -25,6 +25,8 @@
 
 > Я не несу ответственности за ваши действия. Скачивая программное обеспечение из этого репозитория, вы соглашаетесь с [лицензией](https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE).
 
+Free online chat for everyone <a href=""><img title="Chat for" src="https://img.shields.io/badge/Chat-online-red?style=for-the-badge&logo=chat"></a>
+
 ---------
 ## Supported systems
 #### will download 5-20 minutes
