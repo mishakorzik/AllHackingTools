@@ -23,8 +23,6 @@
 
 #### Hi, if you want to set up a termux quickly, here you are! More Hacking tools with one tool!
 
-#### Free online chat for everyone <a href="https://9307-62-122-202-244.eu.ngrok.io/">JOIN</a>
-
 > Я не несу ответственности за ваши действия. Скачивая программное обеспечение из этого репозитория, вы соглашаетесь с [лицензией](https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE).
 
 ---------
