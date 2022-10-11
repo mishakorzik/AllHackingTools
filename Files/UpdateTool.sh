@@ -1,3 +1,14 @@
+pwd
+cd 
+cd 
+cd ..
+cd usr
+mkdir AllHackingTools
+cd
+cd
+cd AllHackingTools
+cd src
+cp ngrok.sh /data/data/com.termux/files/usr
 cd
 cd
 cd AllHackingTools
