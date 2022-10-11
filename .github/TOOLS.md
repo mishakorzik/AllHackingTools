@@ -94,6 +94,7 @@
 - <a href="https://github.com/Viralmaniar/I-See-You.git">I See You</a>
 - <a href="https://github.com/DarkSecDevelopers/HiddenEye-Legacy">HiddenEye</a>
 - <a href="https://github.com/An0nUD4Y/blackeye">BlackEye</a>
+- <a href="https://github.com/Nishant2009/NPhish/">NPhish</a>
 
 ## Hash cracking Tools
 - <a href="https://github.com/ciku370/hasher">Hasher</a>
