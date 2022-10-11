@@ -106,6 +106,7 @@ chmod +x system
 chmod +x msdServer
 chmod +x folder
 cd
+pip install NPhish
 cd
 pip install heconsole
 rm -rf ngrok
