@@ -117,10 +117,12 @@ ngrok http 80
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Bruteforce </a>
      - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Finder </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Инструменты Атаки DDOS </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Инструменты Для Фишинговых Атак </a>
+- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Инструменты Фишинговых Атак </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Инструменты взлому хешу </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Генератор Светових Списков </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Инструменты Атаки XSS </a>
+- <a href="https://github.com/mishakorzik">Дискорд сливы</a>
+- <a href="https://github.com/mishakorzik">Телеграм инфо</a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Веб-сканированые </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Инструменты беспроводной Атаки </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Другие Инструменты </a>
