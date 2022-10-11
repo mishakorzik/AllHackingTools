@@ -129,6 +129,8 @@ ngrok http 80
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Hash Cracking Tools</a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Worldlist Generator</a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">XSS Attack Tools</a>
+- <a href="https://github.com/mishakorzik">Discord Leaks</a>
+- <a href="https://github.com/mishakorzik">Telegram Info</a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Web Crawling</a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Wireless attack Tools</a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Other Tools</a>
