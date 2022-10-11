@@ -31,7 +31,7 @@ def sys_check():
 			if systemR == github_sys:
 				print(C + '[' + G + ' Succesful ' + C +']' + '\n')
 				print(G + '[+] ' + C + 'System configuration checked! There are no failures')
-				os.system("cd && cd AllHackingTools && python2 src/UpdateMenu.py")
+				os.system("cd && cd AllHackingTools && python2 src/UpdateTool.py")
 			else:
 				print("")
 				print(R + '[-] ' + C + 'The system failed to start due to an unknown error!')
