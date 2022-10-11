@@ -30,6 +30,7 @@ cd
 cd
 cd AllHackingTools
 cd Files
+bash TypeTermuxAndLinux.sh
 cd
 cd
 pkg upgrade
