@@ -113,6 +113,7 @@
 - <a href="https://github.com/s0md3v/XSStrike">XSStrike</a>
 
 ## Other Tools
+- <a href="https://github.com/deadbits/Intersect-2.5">Intersect 2.5</a>
 - <a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy</a>
 
 ## Supporters
