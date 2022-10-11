@@ -110,6 +110,8 @@ ngrok http 80
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти взлому хешу </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Генератор Світових Списків </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Атаки XSS </a>
+- <a href="https://github.com/mishakorzik">Діскорд зливи</a>
+- <a href="https://github.com/mishakorzik">Телеграм інфо</a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Веб-сканування </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Бездротової Атаки </a>
 - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інші Інструменти </a>
