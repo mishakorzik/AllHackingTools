@@ -82,7 +82,7 @@ elif(op==15):
 elif(op==16):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd Files && bash iSMTP.sh && echo done! && sleep 3 && cd && cd AllHackingTools && python2 MainMenu.py")
- elif(op==17):
+elif(op==17):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd MailFinder && python MailFinder.py && echo done! && sleep 3 && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==18):
