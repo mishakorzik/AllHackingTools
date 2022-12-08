@@ -23,7 +23,7 @@ print("  \033[1;34m[ 13 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("Phish1ng: "))
 
-elif(op==1):
+if(op==1):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd zphisher && bash zphisher.sh && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==2):
