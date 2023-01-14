@@ -22,7 +22,8 @@ elif(op==2):
  os.system("clear")
  os.system("cd && cd AllHackingTools && bash src/LiteLogo.sh")
  os.system("cd && rm -rf AutoUpdateMyTools && git clone https://github.com/mishakorzik/AutoUpdateMyTools")
- os.system("bash AutoUpdateMyTools/Files/RestoreAllHackingToolBackup.sh")
+ os.system("cd AutoUpdateMyTools && cd Files")
+ os.system("bash RestoreAllHackingToolBackup.sh")
 elif(op==3):
  os.system("clear")
  os.system("cd && cd AllHackingTools && bash Files/CodedModules.sh")
