@@ -223,7 +223,7 @@ figlet -f block  AND  toilet -f block
 ----------
 
 <details id="missing-code-coverage">
-   <summary>Потрібна Допомога</summary>
+   <summary>Нужна помощ</summary>
 
 #### Тебе нужна помощь? Напиши мнё на: developer.mishakorzhik@gmail.com
 #### И я розгляну ваш лист та проблему!
@@ -250,7 +250,7 @@ figlet -f block  AND  toilet -f block
 </details>
 
 <details id="missing-code-coverage">
-  <summary>Версії</summary>
+  <summary>Версии</summary>
 
 ### Версии 2.5.1
 ##### ниже - список, добавлений у версии 2.5
@@ -281,9 +281,9 @@ Build:
   Додано новые утилиты
 
  Desing:
-  Виправлено 3 бага
-  Додано Було нову кастомизацыю
-  Додано кастомызацию загрузки
+  Исправлено 3 бага
+  Добавлена новая кастомизация
+  Додано кастомизацию загрузки
 
 #Thanks for reviewing the update list.
 #Bye bye Have a nice day!
@@ -293,7 +293,7 @@ Build:
 ##### ниже - список, добавлений у версии 2.3
 
 ```
-Інструменти:
+Інструменты:
  Додано новиё утилити
 
 Desing:
@@ -327,7 +327,7 @@ Desing:
 ```
 
  Інструменти:
-  Добавлено две новые опции меню
+  Добавлены две новые опции меню
   Добавлено много новых утилит
 
  Design: 
