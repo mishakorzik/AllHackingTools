@@ -121,7 +121,7 @@ ngrok http 80
      - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Инструменты Змішування </a>
 
 <details id="missing-code-coverage">
-  <summary>Нові Команди</summary>
+  <summary>Новые Команды</summary>
 
 ##### AllHackingTools добавляет новые команды в терминал! Все командв ниже
 
