@@ -25,19 +25,19 @@
 > Я не відповідаю за ваші дії. Скачуюче програмне забезпечення з цього репозиторію, ви згоджуєтесь з [ліцензією](https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE).
 
 ---------
-## Потдержанные системи
-#### Завантажить 5-15 хвилин
+## Системы которые потдерживает
+#### Загрузит через 5-15 минут
 
  * `Termux`
 
-#### Тут на цих системах працює AllHackingTools
+#### Здесь на этих системах работает AllHackingTools
 
-## Інструмент протестовано на:
+## Инструмент протестирован на:
 
  * `Termux`
 
 ------------------------------
-## Нові можливості:
+## Новые возможности:
 
 **1) Нові інструменти та функції**
  - Нові інструменти для тестування на проникнення.  І багато нових можливостей.
@@ -62,26 +62,18 @@
 
 ---
 <a id="333"></a>
-## Встановлення для termux
+## Установка на termux
 
 * `termux-setup-storage`
-* `apt повне оновлення`
+* `apt full-update`
 * `apt install git`
 * `git clone https://github.com/mishakorzik/AllHackingTools`
 * `cd AllHackingTools`
 * `bash Install.sh`
 
-## Встановлення для Linux
+#### Все настроено! Сейчас мы ждём пока все установит!
 
-* `apt upgrade`
-* `apt install git`
-* `git clone https://github.com/mishakorzik/AllHackingTools`
-* `cd AllHackingTools`
-* `bash Install.sh`
-
-#### Все готово!  Зараз ми чекаємо, поки все завантажиться!
-
-* `Успіхів!`
+* `Удачи!`
 
 ```bash
 #Free Ngrok authtokens:
@@ -132,20 +124,20 @@ ngrok http 80
 <details id="missing-code-coverage">
   <summary>Нові Команди</summary>
 
-##### AllHackingTools додає нові команди для терміналу!  Усі команди нижче
+##### AllHackingTools добавляет новые команды в терминал! Все командв ниже
 
 ``` 
-msdconsole: запустити AllHackingTools
-msdServer : Перевірте сервер AllHackingTools
+msdconsole: запустить AllHackingTools
+msdServer : Проверить сервера AllHackingTools
 msdc      : запустити AllHackingTools
 Theme     : Виберіть тему для Termux
 
 Інші команди:
 
-system : Переглянути мою систему
-sys    : Переглянути мою систему
+system : Посмотреть мою систему
+sys    : Посмотреть мою систему
 
-Команди шрифтов:
+Команды шрифтов:
 
 figlet -f puffy  AND  toilet -f puffy
 figlet -f poison  AND  toilet -f poison
@@ -234,11 +226,11 @@ figlet -f block  AND  toilet -f block
 <details id="missing-code-coverage">
    <summary>Потрібна Допомога</summary>
 
-#### Тебе нужна допомога? Напиши мнё на: developer.mishakorzhik@gmail.com
+#### Тебе нужна помощь? Напиши мнё на: developer.mishakorzhik@gmail.com
 #### И я розгляну ваш лист та проблему!
 
 ```
- Електрониые листи:
+ Електроные листи:
   developer.mishakorzhik@gmail.com
 
  Разработчики:
@@ -262,7 +254,7 @@ figlet -f block  AND  toilet -f block
   <summary>Версії</summary>
 
 ### Версии 2.5.1
-##### ниже - список, доданий у версії 2.5
+##### ниже - список, добавлений у версии 2.5
 
 ```
 
@@ -283,11 +275,11 @@ Build:
 
 
 ### Версии 2.4
-##### ниже - список, доданий у версії 2.4
+##### ниже - список, добавлений у версии 2.4
 
 ```
  Инструменты:
-  Додано новиё утилити
+  Додано новые утилиты
 
  Desing:
   Виправлено 3 бага
@@ -299,14 +291,14 @@ Build:
 ```
 
 ### Версии 2.3
-##### ниже - список, доданий у версії 2.3
+##### ниже - список, добавлений у версии 2.3
 
 ```
 Інструменти:
  Додано новиё утилити
 
 Desing:
- Добавлено 2 новиё команди
+ Добавлено 2 новые команди
  Исправлено 2 бага
  Добавлено було нову кастомизацию
 
@@ -315,34 +307,33 @@ Desing:
 ```
 
 ### Версия 2.2
-##### ниже - список, доданий у версии 2.2
+##### ниже - список, добавлений у версии 2.2
 
 ```
 
- Інструменти:
-  Додано багато нових утилит
+ Інструменты:
+  Добавлено много новых утилит
 
- Дизайн:
-  Виправлено багато помилок
-  Додано новиё дизайни логотипов
-  Додано новиё варіанти меню
-  Новий дизайн завантаження AllHackingTools
+ Desing:
+   Добавлены новые дизайны логотипов.
+   Добавлены новые варианты меню
+   Новый дизайн загрузки AllHackingTools
 
  # Спасибо за перегляд списку оновлень.
 ```
 
 ### Версия 2.1
-##### ниже - список, доданий у версии 2.1
+##### ниже - список, добавлений у версии 2.1
 
 ```
 
  Інструменти:
-  Додано двё новиё опции меню
-  Додано багато нових утилит
+  Добавлено две новые опции меню
+  Добавлено много новых утилит
 
- Дизайн:
-  Виправлено багато помилок
-  Додано два нових дизайни логотипов
+ Design: 
+  Исправлено много ошибок 
+  Добавлены два новых дизайна логотипов
 
  # Спасибо за перегляд списку оновлень.
 ```
@@ -358,7 +349,7 @@ Desing:
  Память 2200 Мб
  Интернет: должен быть
 ```
-#### Хорошо, начнем устанавливать!  Если отображается Are you Rooted?  Тогда игнорируйте это!
+#### Хорошо, начнем устанавливать!  Если отображается Are you Rooted? Тогда игнорируйте это!
 ---------
 ## Что загружает?
 
@@ -373,7 +364,7 @@ Desing:
 * `pv` `neofetch`
 * `zsh` `ngrok`
 
-#### І ещё много других пакетов!
+#### И ещё много других пакетов!
 ------
 ## Donate
 
@@ -393,9 +384,9 @@ Desing:
 
 
 -----
-## Завантажте додаткову програму для злому!
+## Установите дополнительную програму для злома!
 
-#### Як видалити AllHackingTools?
+#### Как удалить AllHackingTools?
 
 * `bash Uninstall/Uninstall.sh`
 
@@ -403,11 +394,11 @@ Desing:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/mishakorzik/)](https://github.com/mishakorzik/)
 [![Github](https://img.shields.io/badge/Twitter-MishaKorzhik-blue?style=for-the-badge&logo=twitter)](https://twitter.com/MishaKorzhik)
 
-## Запусти AllHackingTool для злому!
+## Запуск AllHackingTool для злому!
 #### msdconsole & msdc
 
 
-#### AllHackingTool завантажує пакети та утилити та налаштовує утилити.
+#### AllHackingTool скачивает пакеты и настраивает утилиты.
 
 • [Зависимости](#111) • [Встановлення](#333) • [Меню Инструментов](#222)
 
@@ -438,7 +429,7 @@ Desing:
 
 <img src="https://github-readme-stats.vercel.app/api?username=mishakorzik&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
 
-#### Вот сховища, какие я рекомендую вам посмотреть. ниже - люди, каким понравилось AllHackingTools
+#### Ниже - люди, каким понравилось AllHackingTools
 
 ## Сторонники
 [![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
