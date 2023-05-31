@@ -5,6 +5,7 @@ orange='\e[38;5;166m'
 green='\033[92m'
 
 ping -c 1 google.com > /dev/null 2>&1
+sleep 2
 if [[ "$?" == 0 ]]; then
 echo -e "$green[+]-[Internet Connection]............[ True ]"
 sleep 1.5
