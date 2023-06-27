@@ -1,4 +1,4 @@
 
-print("[.REDSYSTEM.WHITE] .YELLOWWelcome user! .GREENWe are glad to see you. .YELLOWTo run AllHackingTools, type the command: .REDmsdc", showTime=False)
-print("[.REDSYSTEM.WHITE] .YELLOWIf AllHackingTools does .REDnot work,.YELLOW go to: .GREENgithub.com/mishakorzik/AllHackingTools", showTime=False)
-print("[.REDSYSTEM.WHITE] .YELLOWAllHackingTools donate: .GREENhttps://www.buymeacoffee.com/misakorzik", showTime=False)
+print(f"[\x1b[38;5;9mSYSTEM\x1b[38;5;255m] \x1b[38;5;227mWelcome user! .\x1b[38;5;119mWe are glad to see you. \x1b[38;5;227mTo run AllHackingTools, type the command: \x1b[38;5;9mmsdc")
+print(f"[\x1b[38;5;9mSYSTEM\x1b[38;5;255m] \x1b[38;5;227mIf AllHackingTools does \x1b[38;5;9mnot work,\x1b[38;5;227m go to: .\x1b[38;5;119mgithub.com/mishakorzik/AllHackingTools")
+print(f"[\x1b[38;5;9mSYSTEM\x1b[38;5;255m] \x1b[38;5;227mAllHackingTools donate: \x1b[38;5;119mhttps://www.buymeacoffee.com/misakorzik")
