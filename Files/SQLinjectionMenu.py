@@ -9,10 +9,9 @@ os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 
 print("  \033[1;34m[ 01 ] >> \033[1;36;40mVirusInjection - create a virus in /sdcard/")
 print("  \033[1;34m[ 02 ] >> \033[1;36;40mDebinject - Inject malicious code into *.debs")
-print("  \033[1;34m[ 03 ] >> \033[1;36;40mZvirus - Create a virus for windows, android, linux")
-print("  \033[1;34m[ 04 ] >> \033[1;36;40mInfect - Create virus for windows, android")
-print("  \033[1;34m[ 05 ] >> \033[1;36;40mExit System")
-print("  \033[1;34m[ 06 ] >> \033[1;36;40mBack To MainMenu")
+print("  \033[1;34m[ 03 ] >> \033[1;36;40mInfect - Create virus for windows, android")
+print("  \033[1;34m[ 04 ] >> \033[1;36;40mExit System")
+print("  \033[1;34m[ 05 ] >> \033[1;36;40mBack To MainMenu")
 
 op=int(raw_input("Iject1onTo0l: "))
 
@@ -29,15 +28,12 @@ elif(op==2):
  os.system("cd && cd AllHackingTools && cd Debinject && python2 debinject.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==3):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd zVirus-Gen && bash zVirus && cd && cd AllHackingTools && python2 MainMenu.py")
-elif(op==4):
- os.system("clear")
  os.system("cd && cd AllHackingTools && cd Infect && Infect && cd && cd AllHackingTools && python2 MainMenu.py")
-elif(op==5):
+elif(op==4):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
  sys.exit()
-elif(op==6):
+elif(op==5):
  os.system("cd")
  os.system("cd AllHackingTools")
  os.system("python2 MainMenu.py")
