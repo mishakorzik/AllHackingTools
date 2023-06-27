@@ -54,7 +54,6 @@
 - <a href="https://github.com/kinghacker0/WishFish">WishFish</a>
 
 ## SQL Injection Tools
-- <a href="https://github.com/ZechBron/zVirus-Gen">zVirus Gen</a>
 - <a href="https://github.com/UndeadSec/Debinject.git">Debinject</a>
 - <a href="https://github.com/Terror696/Vitus2.0">Vitus2.0</a>
 - <a href="https://github.com/mishakorzik/Infect">Infect</a>
