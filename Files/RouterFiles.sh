@@ -37,7 +37,3 @@ pip install -r requirements.txt
 cd
 cd
 cd AllHackingTools
-git clone https://github.com/Gameye98/FBBrute
-cd
-cd
-cd AllHackingTools
