@@ -22,7 +22,6 @@
 - <a href="https://github.com/kuburan/txtool.git">TxTool</a>
 - <a href="https://github.com/Moham3dRiahi/XAttacker.git">XAttacker</a>
 - <a href="https://github.com/karjok/fim">Fim</a>
-- <a href="https://github.com/Gameye98/FBBrute">FBBrute</a>
 
 ## Sniffing and Spoofing
 - <a href="https://github.com/d4az/hack-gmail.git">Hack-Gmail</a>
