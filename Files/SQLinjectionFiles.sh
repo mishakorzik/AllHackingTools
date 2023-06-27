@@ -3,14 +3,6 @@ apt-get install python
 cd
 cd
 cd AllHackingTools
-git clone https://github.com/ZechBron/zVirus-Gen
-cd zVirus-Gen
-pkg install git -y
-chmod +x setup.sh
-./setup.sh
-cd
-cd
-cd AllHackingTools
 git clone https://github.com/UndeadSec/Debinject.git
 cd Debinject
 cd
