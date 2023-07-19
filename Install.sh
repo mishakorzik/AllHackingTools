@@ -9,10 +9,6 @@ orange='\e[38;5;166m'
 green='\033[92m'
 
 clear
-ping -c 1 google.com > /dev/null 2>&1
-if [[ "$?" == 0 ]]; then
-echo ""
-echo -e "$green[+]-[Internet Connection]............[ True ]"
 sleep 1.5
 echo -e "$default"
 apt install python
@@ -25,10 +21,3 @@ cd
 cd
 cd AllHackingTools
 python2 src/InstallMenu.py
-else
-echo ""
-echo -e "$red[-]-[Internet Connection].........[ False ]"
-echo -e "$default"
-exit
-exit
-fi
