@@ -13,19 +13,6 @@ printf "\e[1;92m"
 python3 ProgressBar.py
 python3 Packages.py
 
-ping -c 1 google.com > /dev/null 2>&1
-if [[ "$?" == 0 ]]; then
-echo -e "$g[+]-[wifi]———[ True ]"
-else
-echo -e "$r[-]-[wifi]——[ False ]"
-echo -e "$rType: CTRL + C to exit"
-exit
-sleep 9999999
-sleep 9999999
-sleep 9999999
-exit
-fi
-
 sleep 2
 clear
 cd
