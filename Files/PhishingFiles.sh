@@ -50,6 +50,7 @@ git clone https://github.com/An0nUD4Y/blackeye
 cd
 cd
 cd AllHackingTools
+pip3 install pyphisher
 
 
 
