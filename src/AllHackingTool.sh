@@ -17,5 +17,5 @@ mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools
 cd
 cd AllHackingTools
 clear
-echo -e $b"[ ✔ ]"$g"succesfull verifined"$w
+echo -e $b"[ ✔ ]"$g"Succesfully Verified"$w
 python2 MainMenu.py
