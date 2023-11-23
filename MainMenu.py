@@ -1,7 +1,7 @@
 #!/usr/bin
-#Copyright 2021 AllHackingTools
-#Written by : Misha Korzhik
-#Github     : http://github.com/mishakorzik
+#Copyright 2024 TarkDOXX
+#Written by : SEERON
+#Discord     : seeron.
 
 import requests
 import os
@@ -126,7 +126,7 @@ elif(op==13324715):
  print("[DEBUG] Developer mode successfully enabled!")
  time.sleep(0.8)
  os.system("cd && cd AllHackingTools && cd .settings && mv DesingLogo.py /data/data/com.termux/files/home/AllHackingTools/.temp/ && mv DesingMenu.py /data/data/com.termux/files/home/AllHackingTools/.temp/")
- print("[DEBUG] Please restart AllHackingTools!")
+ print("[DEBUG] Please restart TarkDOXX!")
  os.system("cd && cd AllHackingTools && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/.temp/temp && cd .settings && cd debug && cp MainMenu.py /data/data/com.termux/files/home/AllHackingTools/")
  print("[DEBUG] Warning! Customization has been disabled.")
 elif(op==24):
