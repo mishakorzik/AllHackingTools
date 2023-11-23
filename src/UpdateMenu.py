@@ -22,8 +22,8 @@ elif(op==2):
  os.system("cd && cd AllHackingTools && cd src && bash SpeedUpdate.sh")
 elif(op==3):
  time.sleep(0.2)
- print("\033[1;31;40mQuiting AllHackingTool Updater...")
+ print("\033[1;31;40mQuitting TarkDOXX Updater...")
  sys.exit()
 else:
- print("\033[1;31;40mInvalid input. Quiting AllHackingTools Updater") 
+ print("\033[1;31;40mInvalid input. Quitting TarkDOXX Updater") 
  time.sleep(0.8)
