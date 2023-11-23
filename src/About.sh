@@ -5,13 +5,13 @@ echo '
     │  		       ╹ ╹┗━┛┗━┛┗━┛ ╹ 		      │
     │──────────────────────────────────────────────────────────────│
     │                                                              │
-    │ >>   Hi, here you can see my telegram and github there       |
-    |       will be questions you will write in telegram.          │
+    │ >>   Purely made by #EERON                                   |
+    |                                                              │
     │                                                              │
-    │ >>  Author   :  Misha Korzhik                                │
-    │     Github   :  https://github.com/mishakorzik               │
-    │     Telegram :  pseudonym @MishaKorzhikTelegram              │
-    |     Info     :  Trank for installing AllHackingTools         |
+    │ >>  Author   :  seeron                                       │
+    │     Discord   :  seeron. & tark#0001.                        │
+    │         Info     : thanks for installing                     │
+    |                                                              |
     │                                                              │
     └──────────────────────────────────────────────────────────────┘ 
 '|lolcat -a -d 10 -p 1.5 -s 40.0
