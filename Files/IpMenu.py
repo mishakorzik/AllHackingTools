@@ -63,7 +63,7 @@ elif(op==10):
  time.sleep(1.4)
  print("Warning AllHackingTools has already downloaded ngrok")
  time.sleep(2.3)
- os.system("cd seeker && python3 seeker.py -t manual && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd seeker && python seeker.py -t manual && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==11):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd ReconDog && ./dog && cd && cd AllHackingTools && python2 MainMenu.py")
