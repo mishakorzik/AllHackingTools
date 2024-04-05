@@ -438,7 +438,7 @@ Desing:
 <a id="Translate"></a>
 ## Translate
 
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Ukraine.md"><img title="Unkraine" src="https://img.shields.io/badge/Translate%20to-Ukraine-inactive?style=for-the-badge&logo=google-translate"></a>
+<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Ukraine.md"><img title="Ukraine" src="https://img.shields.io/badge/Translate%20to-Ukraine-inactive?style=for-the-badge&logo=google-translate"></a>
 <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Russia.md"><img title="Russian" src="https://img.shields.io/badge/Translate%20to-Russian-inactive?style=for-the-badge&logo=google-translate"></a>
 
 ## Find Me 
