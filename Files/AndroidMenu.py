@@ -21,7 +21,7 @@ if(op==1):
  os.system("cd && cd AllHackingTools && cd pyshell && ./Pyshell && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==2):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd wishfish && ./wishfish.sh && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && cd WishFish && ./wishfish.sh && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==3):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd lockphish && bash lockphish.sh && cd && cd AllHackingTools && python2 MainMenu.py")
