@@ -19,16 +19,16 @@ op=int(raw_input("Ma1lHacK: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd hack-gmail && python3 hack-gmail.py && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && cd hack-gmail && python3 hack-gmail.py && sleep 7 && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==2):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd pwnedOrNot && python3 pwnedornot.py && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && cd pwnedOrNot && python3 pwnedornot.py && sleep 7 && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==3):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd emailpyspam && cd main && python3 emailspam.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==4):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Gmail-Hack && python3 Mail-Hack.py && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && cd Gmail-Hack && python3 Mail-Hack.py && sleep 7 && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==5):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd Email-Spammer && python3 main.py && cd && cd AllHackingTools && python2 MainMenu.py")
