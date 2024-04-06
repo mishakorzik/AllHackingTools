@@ -25,13 +25,13 @@ op=int(raw_input("Web-Hack1Ng: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd AdminHack && bash AdminHack.sh && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && cd AdminHack && bash AdminHack.sh && sleep 5 && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==2):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Files && bash SubDom.sh && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && cd Files && bash SubDom.sh && sleep 7 && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==3):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Blazy && python2 blazy.py && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && cd Blazy && python2 main.py && sleep 7 && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==4):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd sqlmap-dev && python sqlmap.py -wizard && cd && cd AllHackingTools && python2 MainMenu.py")
