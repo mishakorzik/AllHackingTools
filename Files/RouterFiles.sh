@@ -37,3 +37,4 @@ pip install -r requirements.txt
 cd
 cd
 cd AllHackingTools
+pip3 install future
