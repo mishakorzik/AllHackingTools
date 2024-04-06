@@ -15,8 +15,8 @@ sleep 0.1
 echo -e $b">>>"$w" Please wait a moment: "$g"Sherlock"$w
 sleep 0.8
 clear
-python3 sherlock.py $NameOrUser
+python3 sherlock $NameOrUser
 cd
 cd
 cd AllHackingTools
-python3 src/Timer3.py
+python3 src/Timer2.py
