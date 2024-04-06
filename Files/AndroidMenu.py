@@ -10,7 +10,7 @@ os.system("cd && cd AllHackingTools && clear && bash Logo.sh")
 print("  \033[1;34m[ 01 ] >> \033[1;36;40mPyshell - Remote Access Trojan - RAT")
 print("  \033[1;34m[ 02 ] >> \033[1;36;40mWishfish - Powerful Tool For Grab Front Camera Snap Using A Link")
 print("  \033[1;34m[ 03 ] >> \033[1;36;40mLockPhish - Tool for phishing attacks on the lock screen")
-print("  \033[1;34m[ 04 ] >> \033[1;36;40mLockPhish - Tool for phishing attacks on the lock screen")
+print("  \033[1;34m[ 04 ] >> \033[1;36;40mHatCloud - Tool for find website real IP behind cloudflare")
 print("  \033[1;34m[ 05 ] >> \033[1;36;40mExit System - Log out AllHackingTools")
 print("  \033[1;34m[ 06 ] >> \033[1;36;40mBack To MainMenu")
 
@@ -27,7 +27,7 @@ elif(op==3):
  os.system("cd && cd AllHackingTools && cd lockphish && bash lockphish.sh && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==4):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Files && bash HatCloud.sh && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && cd Files && bash HatCloud.sh && sleep 10 && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==5):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
