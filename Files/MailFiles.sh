@@ -14,6 +14,7 @@ cd AllHackingTools
 cd Files
 cd 
 cd AllHackingTools
+pip3 install html2text
 git clone https://github.com/thewhiteh4t/pwnedOrNot.git
 cd pwnedOrNot
 mkdir -p $HOME/.config/pwnedornot
