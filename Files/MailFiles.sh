@@ -16,6 +16,8 @@ cd
 cd AllHackingTools
 git clone https://github.com/thewhiteh4t/pwnedOrNot.git
 cd pwnedOrNot
+mkdir -p $HOME/.config/pwnedornot
+cp config.json $HOME/.config/pwnedornot/config.json
 cd
 cd
 cd AllHackingTools
