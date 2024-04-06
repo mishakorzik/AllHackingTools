@@ -30,7 +30,7 @@ op=int(raw_input("1nf0RmatI0n: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd AstraNmap && bash astranmap.sh && sleep 10 && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && cd AstraNmap && bash astranmap.sh && cd && cd AllHackingTools && python3 src/Timer2.py && python2 MainMenu.py")
 elif(op==2):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd EvilURL && python3 evilurl.py && cd && cd AllHackingTools && python2 MainMenu.py")
@@ -45,10 +45,10 @@ elif(op==4):
  os.system("cd && cd AllHackingTools && cd weeman && python2 weeman.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==5):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd MaxSubdoFinder && python2 maxteroit.py && sleep 10 &&cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && cd MaxSubdoFinder && python2 maxteroit.py && cd && cd AllHackingTools && python3 src/Timer2.py && python2 MainMenu.py")
 elif(op==7):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd trape && python trape.py && sleep 5 && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && cd trape && python trape.py && cd && cd AllHackingTools && python3 src/Timer2.py && python2 MainMenu.py")
 elif(op==8):
  os.system("clear")
  os.system("cd && cd AllHackingTools && cd RED_HAWK && php rhawk.php && cd && cd AllHackingTools && python2 MainMenu.py")
