@@ -5,7 +5,6 @@ cd Pyshell
 cd
 cd AllHackingTools
 git clone https://github.com/kinghacker0/WishFish
-cd wishfish
 cd 
 cd AllHackingTools
 git clone https://github.com/JasonJerry/lockphish
