@@ -59,6 +59,7 @@ elif(op==10):
  os.system("clear")
  os.system("cd && cd AllHackingTools")
  print("Open a second window in Termux and run ngrok on port 8080: ./ngrok http 8080")
+ print("Or use serveo.net free tunnel.")
  time.sleep(1.4)
  print("Warning AllHackingTools has already downloaded ngrok")
  time.sleep(2.3)
