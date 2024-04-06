@@ -88,6 +88,9 @@ git clone https://github.com/mishakorzik/MailFinder
 cd
 cd
 cd AllHackingTools
+pip3 install whois
+pip3 install flask_socketio
+pip3 install flask_cors
 
 
 
