@@ -31,7 +31,7 @@ elif(op==4):
  os.system("cd && cd AllHackingTools && cd Gmail-Hack && python3 Mail-Hack.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==5):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Email-Spammer && python custom_spam.py && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && cd Email-Spammer && python3 main.py && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==6):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
