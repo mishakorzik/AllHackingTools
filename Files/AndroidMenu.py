@@ -27,7 +27,7 @@ elif(op==3):
  os.system("cd && cd AllHackingTools && cd lockphish && bash lockphish.sh && cd && cd AllHackingTools && python2 MainMenu.py")
 elif(op==4):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Files && bash HatCloud.sh && sleep 10 && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd AllHackingTools && cd Files && bash HatCloud.sh && cd && cd AllHackingTools && python3 src/Timer2.py && python2 MainMenu.py")
 elif(op==5):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
