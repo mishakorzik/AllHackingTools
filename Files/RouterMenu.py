@@ -11,7 +11,7 @@ print("  \033[1;34m[ 01 ] >> \033[1;36;40mRouterSploit - universality instrument
 print("  \033[1;34m[ 02 ] >> \033[1;36;40mWebSploit - An advanced MiTM Framework")
 print("  \033[1;34m[ 03 ] >> \033[1;36;40mCommix - OS Command Injection Exploitation Tool")
 print("  \033[1;34m[ 04 ] >> \033[1;36;40mTxtool - An easy pentesting tool")
-print("  \033[1;34m[ 05 ] >> \033[1;36;40mFim - Facebook Brute Force")
+print("  \033[1;34m[ 05 ] >> \033[1;36;40mFim - Facebook image downloader")
 print("  \033[1;34m[ 06 ] >> \033[1;36;40mExit System")
 print("  \033[1;34m[ 07 ] >> \033[1;36;40mBack To MainMenu")
 
