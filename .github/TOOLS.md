@@ -70,7 +70,6 @@
 - <a href="https://github.com/HACK3RY2J/Anon-SMS.git">Anon-SMS</a>
 - <a href="https://github.com/FSystem88/spymer">Spymer</a>
 - <a href="https://github.com/TheSpeedX/TBomb.git">TBomb</a>
-- <a href="https://github.com/batiscuff/duplo-bomber">Duplo-Bomber</a>
 - <a href="https://github.com/mishakorzik/anonymousSMS">anonymousSMS</a>
 
 ## Vulnerability Analysis
