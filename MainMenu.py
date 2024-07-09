@@ -117,7 +117,8 @@ elif(op==22):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  time.sleep(1)
- os.system("cd && cd AllHackingTools && bash src/UpdateTool.sh")
+ os.system("cd $HOME && git clone https://github.com/mishakorzik/AutoUpdateMyTools && cd AutoUpdateMyTools && bash AllHackingToolupdate.sh")
+ #os.system("cd && cd AllHackingTools && bash src/UpdateTool.sh")
 elif(op==23):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
