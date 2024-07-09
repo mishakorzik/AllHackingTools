@@ -32,7 +32,7 @@ op=int(raw_input("Options: "))
 if(op==1):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python3 .check/IpMenuConfig.py")
+ os.system("python2 Files/IpMenu.py")
 elif(op==2):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
