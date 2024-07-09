@@ -39,5 +39,4 @@ def sys_check():
 	except Exception as e:
 		print('\n' + R + '[-]' + C + ' Exception : ' + W + str(e))
 
-try:
-	sys_check()
+sys_check()
