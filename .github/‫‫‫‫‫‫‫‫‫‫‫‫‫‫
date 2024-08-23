@@ -1,0 +1,246 @@
+<div class="square"></div>
+ body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
+      height: 100vh;
+      background-color: #f1f1f1;
+    }
+.square {
+      background-color: #2ecc71;
+      width: 200px;
+      height: 200px;
+    }<div class="circle"></div>
+  body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
+      height: 100vh;
+      background-color: #f1f1f1;
+    }
+
+    .circle {
+      background-color: #2ecc71;
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+    }<div class="naija-flag">
+<div class="first-green">
+</div>
+<div class="white">
+</div>
+<div class="second-green">
+</div>
+</div>
+.naija-flag {
+  display: flex;
+}
+.first-green {
+  height: 100px;
+  width: 60px;
+  background-color: green;
+}
+.white {
+  height: 100px;
+  width: 60px;
+  background-color: white;
+}
+.second-green {
+  height: 100px;
+  width: 60px;
+  background-color: green;
+}<div class="font-properties">
+<p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quo
+        ullam modi alias assumenda, itaque libero? Quas quidem sint illo.
+      </p>
+<p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus
+        ipsam eaque rem dicta, quos quas ipsum.
+      </p>
+</div>
+body {
+      max-width: 900px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
+      height: 100vh;
+      background-color: #f1f1f1;
+    }
+
+.font-properties {
+      font-family: cursive, sans-serif;
+      font-size: 1.3rem;
+      font-weight: bolder;
+      font-style: italic;
+    }<div class="color-properties">
+<p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quo
+    ullam modi alias assumenda, itaque libero? Quas quidem sint illo.
+  </p>
+<p>
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus
+    ipsam eaque rem dicta, quos quas ipsum.
+  </p>
+</div>
+.color-properties {
+  color: white;
+  background-color: #2ecc71;
+}<div class="text-properties">
+<p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quo
+    ullam modi alias assumenda, itaque libero? Quas quidem sint illo.
+  </p>
+<p>
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus
+    ipsam eaque rem dicta, quos quas ipsum.
+   </p>
+</div>
+.text-properties {
+    text-transform: uppercase;
+    text-decoration: underline;
+  }<div class="box-shadow">
+<p>
+        Before paying to learn to program, checkout freeCodeCamp.org
+        <br />
+        The HTML, CSS, and JavaScript curricula would take you from zero to hero
+        in web development.
+      </p>
+<p>
+        There is a Python curriculum that will get you a considerable knowledge
+        in Python <br />
+        And an upcoming Data Science curriculum.
+      </p>
+</div>
+.box-shadow {
+      font-family: cursive, sans-serif;
+      background-color: #2ecc71;
+      color: white;
+      padding: 10px;
+      border-radius: 4px;
+      box-shadow: 2px 2px 20px 23px #7fecad;
+    }<div class="header">
+<h2 class="logo">gomycode</h2>
+<ul class="nav">
+<li>
+<a href="">Home</a>
+</li>
+<li>
+<a href="">About</a>
+</li>
+<li>
+<a href="">Serices</a>
+</li>
+<li>
+<a href="">Contact</a>
+</li>
+</ul>
+</div>* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+ }
+
+.hero,
+.about,
+.services,
+.contact {
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}.header {
+      padding: 0 70px;
+      display: flex;
+      align-content: center;
+      justify-content: space-between;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+
+.nav {
+      display: flex;
+      align-content: center;
+      justify-content: center;
+      gap: 60px;
+      list-style-type: none;
+    }
+
+.nav li a {
+      text-decoration: none;
+      color: black;
+      font-size: 1.2rem;
+    }<div class="hero">
+<h1>Hero Section</h1>
+</div>
+<div class="about">
+<h1>About Us</h1>
+</div>
+<div class="services">
+<h1>Our Services</h1>
+</div>
+<div class="contact">
+<h1>Contact Us</h1>
+</div>
+<div class="footer">
+<p>&copy; 2023 All Rights Reserved</p>
+</div>
+.hero {
+      background-color: #eee;
+      height: 200px;
+    }
+
+.hero h1 {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      line-height: 6;
+    }
+
+.about {
+      background-color: #eee;
+      height: 200px;
+    }
+
+.about h1 {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      line-height: 6;
+    }
+
+.services {
+      background-color: #eee;
+      height: 200px;
+    }
+
+.services h1 {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      line-height: 6;
+    }
+
+.contact {
+      background-color: #eee;
+      height: 200px;
+    }
+
+.contact h1 {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      line-height: 6;
+    }
+
+.footer {
+      background-color: #777;
+      height: 40px;
+    }
+
+.footer p {
+      margin: 0 auto;
+      line-height: 1.7;
+    }
