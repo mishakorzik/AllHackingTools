@@ -61,7 +61,6 @@
 ## SocialMedia Hacking
 - <a href="https://github.com/IAmBlackHacker/Facebook-BruteForce">Facebook-BruteForce</a>
     - <a href="https://github.com/sherlock-project/sherlock.git">Sherlock</a>
-    - <a href="https://github.com/xHak9x/finduser">FindUser</a>
     - <a href="https://github.com/mishakorzik/UserFinder">UserFinder</a>
 
 ## SMS spaming tools
