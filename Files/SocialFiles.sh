@@ -14,10 +14,6 @@ python3 -m pip install -r requirements.txt
 cd
 cd
 cd AllHackingTools
-git clone https://github.com/xHak9x/finduser
-cd
-cd
-cd AllHackingTools
 git clone https://github.com/mishakorzik/UserFinder
 cd
 cd
