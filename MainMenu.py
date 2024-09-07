@@ -11,18 +11,6 @@ os.system("cd && cd AllHackingTools")
 os.system("bash Logo.sh")
 os.system("bash src/MenuOps.sh")
 
-Green="\033[1;33m"
-Blue="\033[1;34m"                                                                                                     Grey="\033[1;30m"
-Reset="\033[0m"
-Red="\033[1;31m"
-Purple="\033[0;35m"
-
-g="\033[1;32m"
-r="\033[1;31m"                                                                                                        w="\033[0m"
-b="\033[1;34m"
-o="\033[1;33m"
-bl="\033[1;36;40m"
-
 op = str(input("Options: "))                                                                                          if op == "1":
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
