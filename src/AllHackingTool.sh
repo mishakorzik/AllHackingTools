@@ -17,4 +17,4 @@ cd
 cd AllHackingTools
 clear
 echo -e $b"[ ✔ ]"$g"succesfull verifined"$w
-python2 MainMenu.py
+python3 MainMenu.py
