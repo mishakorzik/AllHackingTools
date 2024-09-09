@@ -11,7 +11,8 @@ os.system("cd && cd AllHackingTools")
 os.system("bash Logo.sh")
 os.system("bash src/MenuOps.sh")
 
-op = str(input("Options: "))                                                                                          if op == "1":
+op = str(input("Options: "))
+if op == "1":
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  os.system("cd && cd AllHackingTools && python2 Files/IpMenu.py")
