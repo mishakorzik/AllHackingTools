@@ -106,11 +106,11 @@ chmod +x system
 chmod +x msdServer
 chmod +x folder
 cd
-pip install NPhish
+python3 -m pip install NPhish
 cd
-pip install heconsole
-pip install future
-pip install rich
+python3 -m pip install paramiko
+python3 -m pip install future
+python3 -m pip install rich
 rm -rf ngrok
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
 unzip ngrok-stable-linux-amd64.zip
