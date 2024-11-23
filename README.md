@@ -450,7 +450,7 @@ Desing:
 
 ## I recommend watching
 
-1.<a href="https://github.com/mishakorzik/qiq">qiq - Useful batch installer</a> <br>
+1.<a href="https://github.com/mishakorzik/mtunn">mtunn - open http, tcp ports to internet. </a> <br>
 2.<a href="https://github.com/mishakorzik/Gmail-Hack">Gmail-Hack - Easy email hacking</a> <br>
 3.<a href="https://github.com/mishakorzik/AdminHack">AdminHack - Hacking bad sites</a> <br>
 4.<a href="https://github.com/mishakorzik/Infect">Infect - Easy virus creation</a> <br>
