@@ -3,7 +3,7 @@ import sys
 import time
 
 def default_install():
-    os.system("cd && rm -rf AutoUpdateMyTools && cd && git clone https://github.com/mishakorzik/AutoUpdateMyTools && cd AutoUpdateMyTools && bash AllHackingToolupdate.sh")
+    os.system("cd && rm -rf AutoUpdateMyTools && cd && git clone https://github.com/DEDSEC-OP/AutoUpdateMyTools && cd AutoUpdateMyTools && bash AllHackingToolupdate.sh")
 
 def speed_install():
     os.system("cd && cd AllHackingTools && cd src && bash SpeedUpdate.sh")
