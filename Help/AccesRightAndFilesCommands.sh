@@ -1,6 +1,0 @@
-echo "Access rights and files"
-echo ""
-echo "chmod octal file – сменить права file на octal, раздельно для пользователя, группы и для всех добавлением:"
-echo "4 – чтение (r)"
-echo "2 – запись (w)"
-echo "1 – исполнение (x)"

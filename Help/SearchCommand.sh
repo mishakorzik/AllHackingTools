@@ -1,6 +1,0 @@
-echo "Search:"
-echo ""
-echo "grep pattern files – искать pattern в files"
-echo "grep -r pattern dir – искать рекурсивно pattern в dir"
-echo "command | grep pattern – искать pattern в выводе command"
-echo "locate file – найти все файлы с именем file"

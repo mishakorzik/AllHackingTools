@@ -1,8 +1,0 @@
-echo "Network:"
-echo ""
-echo "ping host – пропинговать host и вывести результат"
-echo "whois domain – получить информацию whois для domain"
-echo "dig domain – получить DNS информацию domain"
-echo "dig -x host – реверсивно искать host"
-echo "wget file – скачать file"
-echo "wget -c file – продолжить остановленную закачку"

@@ -1,6 +1,0 @@
-echo "Installing packages and working with them"
-echo ""
-echo "pkg install package - устанавливает package"
-echo "pkg remove package - удаляет package"
-echo "pkg search package - ищет в репозитории package"
-echo "pkg list-installed - выведет список установленных пакетов"
