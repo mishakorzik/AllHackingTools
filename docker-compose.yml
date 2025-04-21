@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  allhackingtools:
+    build: .
+    container_name: allhackingtools_container
+    ports:
+      - "80:80"
+      - "443:443"
+      - "8080:8080"
+    networks:
+      - allhackingtools_network
+
+networks:
+  allhackingtools_network:
+    driver: bridge

@@ -210,7 +210,7 @@ figlet -f block  AND  toilet -f block
 >>> qiq-bin       :cd to derictory
 ┬─┐o┌─┐┬  ┬─┐┌┐┐  ┌┐┐┬─┐┐ ┬  ┌─┐┌─┐┌┌┐┌┌┐┬─┐┌┐┐┬─┐┐─┐
 ├─ ││ ┬│  ├─  │    │││├─ │││  │  │ ││││││││─┤││││ │└─┐
-┆  ┆┆─┘┆─┘┴─┘ ┆   ┆└┘┴─┘└┴┆  └─┘┘─┘┘ ┆┘ ┆┘ ┆┆└┘┆─┘──┘
+┆  ┆┆─┘┆─┘┴─┘┆└┘  ┆└┘┴─┘└┴┆  └─┘┘─┘┘ ┆┘ ┆┘ ┆┆└┘┆─┘──┘
 >>> figlet -f Puffy   :no description
 >>> figlet -f Bloody  :no description
 >>> figlet -f Poison  :no description
@@ -471,4 +471,35 @@ Desing:
 ## Supporters
 [![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
 [![Forkers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/forks/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/members)
+
+## Docker Installation
+
+### Prerequisites
+
+- Docker
+- Docker Compose
+
+### Steps
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/mishakorzik/AllHackingTools.git
+cd AllHackingTools
+```
+
+2. Build and run the Docker container:
+
+```bash
+docker-compose up --build
+```
+
+3. Access the AllHackingTools application:
+
+Open your web browser and navigate to `http://localhost:80`.
+
+### Included Repositories
+
+- [Ciphey](https://github.com/bee-san/Ciphey)
+- [hackingtool](https://github.com/Z4nzu/hackingtool)
 
