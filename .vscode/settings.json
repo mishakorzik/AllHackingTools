@@ -21,7 +21,19 @@
         "jsProfileVisualizer.heapprofile.table": true,
         "jsProfileVisualizer.heapsnapshot.table": true,
         "default": true,
-        "jupyter-notebook": true
+        "jupyter-notebook": true,
+        "memory-inspector.inspect": true,
+        "hexEditor.hexedit": true,
+        "workbench.editorinputs.sidebysideEditorInput": true,
+        "cfgtools.editor": true,
+        "elf.fileEditor": true,
+        "phpprofiler.cachegrind": true,
+        "memory-view.memoryView": true,
+        "bun.lockb": true,
+        "java.formatterSettingsEditor": true,
+        "isql": true,
+        "gitlens.rebase": true,
+        "polyglot-notebook": true
     },
     "workbench.editor.alwaysShowEditorActions": true,
     "workbench.editor.pinnedTabsOnSeparateRow": true,
@@ -29,5 +41,47 @@
     "workbench.editor.revealIfOpen": true,
     "workbench.editor.scrollToSwitchTabs": true,
     "workbench.editor.sharedViewState": true,
-    "workbench.editor.wrapTabs": true
+    "workbench.editor.wrapTabs": true,
+    "editor.tokenColorCustomizations": {
+        "[*Light*]": {
+            "textMateRules": [
+                {
+                    "scope": "ref.matchtext",
+                    "settings": {
+                        "foreground": "#000"
+                    }
+                }
+            ]
+        },
+        "[*Dark*]": {
+            "textMateRules": [
+                {
+                    "scope": "ref.matchtext",
+                    "settings": {
+                        "foreground": "#fff"
+                    }
+                }
+            ]
+        },
+        "textMateRules": [
+            {
+                "scope": "googletest.failed",
+                "settings": {
+                    "foreground": "#f00"
+                }
+            },
+            {
+                "scope": "googletest.passed",
+                "settings": {
+                    "foreground": "#0f0"
+                }
+            },
+            {
+                "scope": "googletest.run",
+                "settings": {
+                    "foreground": "#0f0"
+                }
+            }
+        ]
+    }
 }
