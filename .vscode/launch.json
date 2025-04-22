@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "name": "Python Debugger: Current File",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "debugpy",
+      "request": "launch",
+      "name": "Launch MainMenu.py",
+      "program": "${workspaceFolder}/${input:pythonFile}"
+    }
+  ],
+  "inputs": [
+    {
+      "type": "pickString",
+      "id": "pythonFile",
+      "description": "Select the Python file to debug",
+      "options": [
+        "MainMenu.py",
+        ".check/CheckServerYesAndNo.py",
+        ".check/Configuration.py",
+        ".check/FileConfiguration.py",
+        ".check/ServerStatusCheck.py"
+      ]
+    }
+  ]
+}

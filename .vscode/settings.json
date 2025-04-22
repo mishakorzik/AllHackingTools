@@ -1,0 +1,33 @@
+{
+    "workbench.editor.limit.excludeDirty": true,
+    "workbench.editor.limit.perEditorGroup": true,
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.defaultBinaryEditor": "default",
+    "workbench.editor.closeOnFileDelete": true,
+    "workbench.editor.centeredLayoutFixedWidth": true,
+    "workbench.editor.autoLockGroups": {
+        "mainThreadWebview-markdown.preview": true,
+        "workbench.input.interactive": true,
+        "vscode.audioPreview": true,
+        "jsProfileVisualizer.cpuprofile.table": true,
+        "vscode.videoPreview": true,
+        "repl": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "imagePreview.previewEditor": true,
+        "workbench.editors.gettingStartedInput": true,
+        "jsProfileVisualizer.heapprofile.table": true,
+        "jsProfileVisualizer.heapsnapshot.table": true,
+        "default": true,
+        "jupyter-notebook": true
+    },
+    "workbench.editor.alwaysShowEditorActions": true,
+    "workbench.editor.pinnedTabsOnSeparateRow": true,
+    "workbench.editor.preferHistoryBasedLanguageDetection": true,
+    "workbench.editor.revealIfOpen": true,
+    "workbench.editor.scrollToSwitchTabs": true,
+    "workbench.editor.sharedViewState": true,
+    "workbench.editor.wrapTabs": true
+}
