@@ -93,18 +93,6 @@ bash Install.sh
 Done, everything is ready! Wait until you can write to the terminal.**
 
 ```bash
-#Free Ngrok authtokens:
-26bDGGPyD3XWVtyzK3dfK401oIq_74Wi1m84A7rv9bP5YnihG
-26bDzEjjfPls5kLHWGnG3K3voA7_69wkMBqUUExRHoA8v3gEL
-26bESCvhbagWfGrHSv4NpTnSCpI_92oE8UFimPxU4nBNMK5T
-26bEfSIlR1IcEEayMpRQlj0ttGw_3hrWetKnHZ4FMXc9hDt3Q
-26p3rvZocfT7VzraejQNoCjPNN6_6UqEGG1izGcbE8ewtBchT
-26p4VZpnXIjsiDq9YizXvkk6UAK_4ZyVi8D2Q63yWCap4LBbF
-26p5O1vfFGLsdf9f8D3dzHAcmUv_454E7DaBz26mgs9yVkzQi
-26t7bQBRJiFnK74z35eLcPYJPXI_2cyAyXVcEAnMTV9eAaYZw
-```
-
-```bash
 #configure ngrok
 ngrok authtoken <↖️sеlеct free authtoken>
 
