@@ -454,8 +454,3 @@ Desing:
 
 ---------------------------
 <img src="https://github-readme-stats.vercel.app/api?username=mishakorzik&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
-
-## Supporters
-[![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
-[![Forkers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/forks/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/members)
-
